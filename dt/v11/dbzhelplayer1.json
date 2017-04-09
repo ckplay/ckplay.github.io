@@ -1,0 +1,675 @@
+{
+    "ID": "78e6d508-345b-487a-b67a-d02a214df5f9",
+    "Version": "2.3.4",
+    "Name": "dbzhelplayer1",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 330,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 622,
+                        "ActionTag": -1681940067,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback01.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 200,
+                        "Scale9OriginY": 188,
+                        "Scale9Width": 11,
+                        "Scale9Height": 194,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 38.0006,
+                            "Y": 61.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0297,
+                            "Y": 0.0861
+                        },
+                        "PreSize": {
+                            "X": 0.9367,
+                            "Y": 0.7917
+                        },
+                        "LeftMargin": 38.0006,
+                        "RightMargin": 42.9994,
+                        "TopMargin": 88.0005,
+                        "BottomMargin": 61.9995,
+                        "Tag": 624,
+                        "ActionTag": -1604485110,
+                        "Size": {
+                            "X": 1199,
+                            "Y": 570
+                        },
+                        "Name": "Image_1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback02.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 133.0005,
+                            "Y": 600.0005
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1039,
+                            "Y": 0.8333
+                        },
+                        "PreSize": {
+                            "X": 0.2016,
+                            "Y": 0.0972
+                        },
+                        "LeftMargin": 133.0005,
+                        "RightMargin": 888.9995,
+                        "TopMargin": 49.9995,
+                        "BottomMargin": 600.0005,
+                        "Tag": 625,
+                        "ActionTag": 1261943789,
+                        "Size": {
+                            "X": 258,
+                            "Y": 70
+                        },
+                        "Name": "dbzhelpback02_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback05.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 160.0006,
+                            "Y": 480.0011
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.125,
+                            "Y": 0.6667
+                        },
+                        "PreSize": {
+                            "X": 0.2055,
+                            "Y": 0.1639
+                        },
+                        "LeftMargin": 160.0006,
+                        "RightMargin": 856.9994,
+                        "TopMargin": 121.9989,
+                        "BottomMargin": 480.0011,
+                        "Tag": 626,
+                        "ActionTag": -1845584468,
+                        "Size": {
+                            "X": 263,
+                            "Y": 118
+                        },
+                        "Name": "dbzhelpback05_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback06.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 509,
+                            "Y": 480.0007
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3977,
+                            "Y": 0.6667
+                        },
+                        "PreSize": {
+                            "X": 0.2055,
+                            "Y": 0.1639
+                        },
+                        "LeftMargin": 509,
+                        "RightMargin": 508,
+                        "TopMargin": 121.9993,
+                        "BottomMargin": 480.0007,
+                        "Tag": 627,
+                        "ActionTag": -2114650314,
+                        "Size": {
+                            "X": 263,
+                            "Y": 118
+                        },
+                        "Name": "dbzhelpback06_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback07.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 857.0009,
+                            "Y": 480
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6695,
+                            "Y": 0.6667
+                        },
+                        "PreSize": {
+                            "X": 0.2055,
+                            "Y": 0.1639
+                        },
+                        "LeftMargin": 857.0009,
+                        "RightMargin": 159.999,
+                        "TopMargin": 122,
+                        "BottomMargin": 480,
+                        "Tag": 628,
+                        "ActionTag": 1395225009,
+                        "Size": {
+                            "X": 263,
+                            "Y": 118
+                        },
+                        "Name": "dbzhelpback07_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback08.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 160.0002,
+                            "Y": 351.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.125,
+                            "Y": 0.4875
+                        },
+                        "PreSize": {
+                            "X": 0.2055,
+                            "Y": 0.1639
+                        },
+                        "LeftMargin": 160.0002,
+                        "RightMargin": 856.9998,
+                        "TopMargin": 250.9996,
+                        "BottomMargin": 351.0004,
+                        "Tag": 629,
+                        "ActionTag": -1700893859,
+                        "Size": {
+                            "X": 263,
+                            "Y": 118
+                        },
+                        "Name": "dbzhelpback08_7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback09.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 509.0001,
+                            "Y": 351
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3977,
+                            "Y": 0.4875
+                        },
+                        "PreSize": {
+                            "X": 0.2055,
+                            "Y": 0.1639
+                        },
+                        "LeftMargin": 509.0001,
+                        "RightMargin": 507.9999,
+                        "TopMargin": 251,
+                        "BottomMargin": 351,
+                        "Tag": 630,
+                        "ActionTag": 97065843,
+                        "Size": {
+                            "X": 263,
+                            "Y": 118
+                        },
+                        "Name": "dbzhelpback09_8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback10.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 856.9994,
+                            "Y": 350.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6695,
+                            "Y": 0.4875
+                        },
+                        "PreSize": {
+                            "X": 0.2055,
+                            "Y": 0.1639
+                        },
+                        "LeftMargin": 856.9994,
+                        "RightMargin": 160.0006,
+                        "TopMargin": 251.0001,
+                        "BottomMargin": 350.9999,
+                        "Tag": 631,
+                        "ActionTag": -1607131018,
+                        "Size": {
+                            "X": 263,
+                            "Y": 118
+                        },
+                        "Name": "dbzhelpback10_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback15.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 104.0009,
+                            "Y": 89
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0813,
+                            "Y": 0.1236
+                        },
+                        "PreSize": {
+                            "X": 0.8547,
+                            "Y": 0.35
+                        },
+                        "LeftMargin": 104.0009,
+                        "RightMargin": 81.9991,
+                        "TopMargin": 379,
+                        "BottomMargin": 89,
+                        "Tag": 632,
+                        "ActionTag": 1927508387,
+                        "Size": {
+                            "X": 1094,
+                            "Y": 252
+                        },
+                        "Name": "dbzhelpback15_10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn15_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn15_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn15_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 55,
+                        "Scale9Height": 84,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1185.9998,
+                            "Y": 480.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9266,
+                            "Y": 0.6667
+                        },
+                        "PreSize": {
+                            "X": 0.0664,
+                            "Y": 0.1472
+                        },
+                        "LeftMargin": 1185.9998,
+                        "RightMargin": 9.0002,
+                        "TopMargin": 133.9998,
+                        "BottomMargin": 480.0002,
+                        "Tag": 849,
+                        "ActionTag": 100005763,
+                        "Size": {
+                            "X": 85,
+                            "Y": 106
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn16_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn16_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn16_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 55,
+                        "Scale9Height": 66,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 583,
+                            "Y": 17.001
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4555,
+                            "Y": 0.0236
+                        },
+                        "PreSize": {
+                            "X": 0.0664,
+                            "Y": 0.1222
+                        },
+                        "LeftMargin": 583,
+                        "RightMargin": 612,
+                        "TopMargin": 614.999,
+                        "BottomMargin": 17.001,
+                        "Tag": 914,
+                        "ActionTag": 384250948,
+                        "Size": {
+                            "X": 85,
+                            "Y": 88
+                        },
+                        "Name": "btnLeft",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn16_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn16_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn16_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 55,
+                        "Scale9Height": 66,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 695.002,
+                            "Y": 17.0015
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.543,
+                            "Y": 0.0236
+                        },
+                        "PreSize": {
+                            "X": 0.0664,
+                            "Y": 0.1222
+                        },
+                        "LeftMargin": 695.002,
+                        "RightMargin": 499.998,
+                        "TopMargin": 614.9985,
+                        "BottomMargin": 17.0015,
+                        "Tag": 915,
+                        "ActionTag": -1578505944,
+                        "Size": {
+                            "X": 85,
+                            "Y": 88
+                        },
+                        "Name": "btnRight",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "dbzpngres.plist",
+                "dbzpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

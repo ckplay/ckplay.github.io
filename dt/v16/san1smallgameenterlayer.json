@@ -1,0 +1,250 @@
+{
+    "ID": "e77ac51a-7a72-4e27-9cc6-6b7c475800e0",
+    "Version": "2.3.4",
+    "Name": "san1smallgameenterlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.4,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 15,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 153,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 77,
+                        "ActionTag": 465284224,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_sginfoback.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.5742,
+                            "Y": 0.4875
+                        },
+                        "LeftMargin": 272.5,
+                        "RightMargin": 272.5,
+                        "TopMargin": 184.5,
+                        "BottomMargin": 184.5,
+                        "Tag": 138,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_img_sg_txt1.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 367.0003,
+                                    "Y": 215
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4993,
+                                    "Y": 0.6125
+                                },
+                                "PreSize": {
+                                    "X": 0.4218,
+                                    "Y": 0.1311
+                                },
+                                "LeftMargin": 212.0003,
+                                "RightMargin": 212.9997,
+                                "TopMargin": 113,
+                                "BottomMargin": 192,
+                                "Tag": 854,
+                                "ActionTag": 1086642143,
+                                "Size": {
+                                    "X": 310,
+                                    "Y": 46
+                                },
+                                "Name": "san1_img_sg_txt2_2",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FontSize": 14,
+                                "ButtonText": "",
+                                "TextColor": {
+                                    "R": 65,
+                                    "G": 65,
+                                    "B": 70
+                                },
+                                "DisabledFileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_btn_sgok2.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "PressedFileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_btn_sgok2.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "NormalFileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_btn_sgok1.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "Scale9Enable": true,
+                                "Scale9OriginX": 15,
+                                "Scale9OriginY": 11,
+                                "Scale9Width": 88,
+                                "Scale9Height": 44,
+                                "OutlineColor": {
+                                    "G": 0,
+                                    "B": 0
+                                },
+                                "ShadowColor": {
+                                    "R": 110,
+                                    "G": 110,
+                                    "B": 110
+                                },
+                                "ShadowOffsetX": 2,
+                                "ShadowOffsetY": -2,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 367,
+                                    "Y": 93.9997
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4993,
+                                    "Y": 0.2678
+                                },
+                                "PreSize": {
+                                    "X": 0.1605,
+                                    "Y": 0.188
+                                },
+                                "LeftMargin": 308,
+                                "RightMargin": 309,
+                                "TopMargin": 224.0003,
+                                "BottomMargin": 60.9997,
+                                "Tag": 139,
+                                "ActionTag": -650949079,
+                                "Size": {
+                                    "X": 118,
+                                    "Y": 66
+                                },
+                                "Name": "sg_btn_ok",
+                                "ctype": "ButtonObjectData"
+                            }
+                        ],
+                        "ActionTag": -1809196284,
+                        "Size": {
+                            "X": 735,
+                            "Y": 351
+                        },
+                        "Name": "san1_img_sginfoback_1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "san1png.plist",
+                "san1png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,2770 @@
+{
+    "ID": "29470cd7-f31a-4ce7-acc8-7585deeb5fb6",
+    "Version": "2.3.4",
+    "Name": "dbzhelplayer2",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 330,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 622,
+                        "ActionTag": -1681940067,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback01.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 200,
+                        "Scale9OriginY": 188,
+                        "Scale9Width": 11,
+                        "Scale9Height": 194,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 38.0006,
+                            "Y": 61.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0297,
+                            "Y": 0.0861
+                        },
+                        "PreSize": {
+                            "X": 0.9367,
+                            "Y": 0.7917
+                        },
+                        "LeftMargin": 38.0006,
+                        "RightMargin": 42.9994,
+                        "TopMargin": 88.0005,
+                        "BottomMargin": 61.9995,
+                        "Tag": 624,
+                        "ActionTag": -1604485110,
+                        "Size": {
+                            "X": 1199,
+                            "Y": 570
+                        },
+                        "Name": "Image_1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback03.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 133.0005,
+                            "Y": 600.0005
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1039,
+                            "Y": 0.8333
+                        },
+                        "PreSize": {
+                            "X": 0.2016,
+                            "Y": 0.0972
+                        },
+                        "LeftMargin": 133.0005,
+                        "RightMargin": 888.9995,
+                        "TopMargin": 49.9995,
+                        "BottomMargin": 600.0005,
+                        "Tag": 625,
+                        "ActionTag": 1261943789,
+                        "Size": {
+                            "X": 258,
+                            "Y": 70
+                        },
+                        "Name": "dbzhelpback02_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn15_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn15_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn15_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 55,
+                        "Scale9Height": 84,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1185.9998,
+                            "Y": 480.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9266,
+                            "Y": 0.6667
+                        },
+                        "PreSize": {
+                            "X": 0.0664,
+                            "Y": 0.1472
+                        },
+                        "LeftMargin": 1185.9998,
+                        "RightMargin": 9.0002,
+                        "TopMargin": 133.9998,
+                        "BottomMargin": 480.0002,
+                        "Tag": 849,
+                        "ActionTag": 100005763,
+                        "Size": {
+                            "X": 85,
+                            "Y": 106
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn16_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn16_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn16_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 55,
+                        "Scale9Height": 66,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 583,
+                            "Y": 17.001
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4555,
+                            "Y": 0.0236
+                        },
+                        "PreSize": {
+                            "X": 0.0664,
+                            "Y": 0.1222
+                        },
+                        "LeftMargin": 583,
+                        "RightMargin": 612,
+                        "TopMargin": 614.999,
+                        "BottomMargin": 17.001,
+                        "Tag": 914,
+                        "ActionTag": 384250948,
+                        "Size": {
+                            "X": 85,
+                            "Y": 88
+                        },
+                        "Name": "btnLeft",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn16_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn16_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn16_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 55,
+                        "Scale9Height": 66,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 695.002,
+                            "Y": 17.0015
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.543,
+                            "Y": 0.0236
+                        },
+                        "PreSize": {
+                            "X": 0.0664,
+                            "Y": 0.1222
+                        },
+                        "LeftMargin": 695.002,
+                        "RightMargin": 499.998,
+                        "TopMargin": 614.9985,
+                        "BottomMargin": 17.0015,
+                        "Tag": 915,
+                        "ActionTag": -1578505944,
+                        "Size": {
+                            "X": 85,
+                            "Y": 88
+                        },
+                        "Name": "btnRight",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback11.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 365.9995,
+                            "Y": 456
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2859,
+                            "Y": 0.6333
+                        },
+                        "PreSize": {
+                            "X": 0.2125,
+                            "Y": 0.1792
+                        },
+                        "LeftMargin": 365.9995,
+                        "RightMargin": 642.0005,
+                        "TopMargin": 135,
+                        "BottomMargin": 456,
+                        "Tag": 931,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzicon3.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": -104.995,
+                                    "Y": -25.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": -0.386,
+                                    "Y": -0.1938
+                                },
+                                "PreSize": {
+                                    "X": 0.7353,
+                                    "Y": 1.4109
+                                },
+                                "LeftMargin": -104.995,
+                                "RightMargin": 176.995,
+                                "TopMargin": -27.9999,
+                                "BottomMargin": -25.0001,
+                                "Tag": 936,
+                                "ActionTag": -544249039,
+                                "Size": {
+                                    "X": 200,
+                                    "Y": 182
+                                },
+                                "Name": "dbzicon3_7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 78,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 78,
+                                "RightMargin": 142,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 937,
+                                "ActionTag": -1501997977,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 938,
+                                "ActionTag": -965389877,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 939,
+                                "ActionTag": 1715600318,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "600",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.3051,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 63,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 940,
+                                "ActionTag": 1956521846,
+                                "Size": {
+                                    "X": 83,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "200",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.3051,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 63,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 941,
+                                "ActionTag": 112412348,
+                                "Size": {
+                                    "X": 83,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "50",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.2059,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 90,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 942,
+                                "ActionTag": -456839066,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -2114681569,
+                        "Size": {
+                            "X": 272,
+                            "Y": 129
+                        },
+                        "Name": "dbzhelpback11_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback12.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 753.9925,
+                            "Y": 455.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5891,
+                            "Y": 0.6333
+                        },
+                        "PreSize": {
+                            "X": 0.2125,
+                            "Y": 0.1792
+                        },
+                        "LeftMargin": 753.9925,
+                        "RightMargin": 254.0076,
+                        "TopMargin": 135.0001,
+                        "BottomMargin": 455.9999,
+                        "Tag": 943,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzicon6.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": -104.995,
+                                    "Y": -25.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": -0.386,
+                                    "Y": -0.1938
+                                },
+                                "PreSize": {
+                                    "X": 0.7353,
+                                    "Y": 1.4109
+                                },
+                                "LeftMargin": -104.995,
+                                "RightMargin": 176.995,
+                                "TopMargin": -27.9999,
+                                "BottomMargin": -25.0001,
+                                "Tag": 944,
+                                "ActionTag": 1052533347,
+                                "Size": {
+                                    "X": 200,
+                                    "Y": 182
+                                },
+                                "Name": "dbzicon3_7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 78,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 78,
+                                "RightMargin": 142,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 945,
+                                "ActionTag": -612546625,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 946,
+                                "ActionTag": -2002697962,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 947,
+                                "ActionTag": 750002973,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "100",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.2647,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 74,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 948,
+                                "ActionTag": -145178700,
+                                "Size": {
+                                    "X": 72,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "35",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.2059,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 90,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 949,
+                                "ActionTag": 1876885007,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "10",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.1654,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 101,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 950,
+                                "ActionTag": -623798101,
+                                "Size": {
+                                    "X": 45,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1000606212,
+                        "Size": {
+                            "X": 272,
+                            "Y": 129
+                        },
+                        "Name": "dbzhelpback11_2_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback14.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 146.999,
+                            "Y": 293.998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1148,
+                            "Y": 0.4083
+                        },
+                        "PreSize": {
+                            "X": 0.2125,
+                            "Y": 0.1792
+                        },
+                        "LeftMargin": 146.999,
+                        "RightMargin": 861.001,
+                        "TopMargin": 297.002,
+                        "BottomMargin": 293.998,
+                        "Tag": 951,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzicon2.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": -104.995,
+                                    "Y": -25.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": -0.386,
+                                    "Y": -0.1938
+                                },
+                                "PreSize": {
+                                    "X": 0.7353,
+                                    "Y": 1.4109
+                                },
+                                "LeftMargin": -104.995,
+                                "RightMargin": 176.995,
+                                "TopMargin": -27.9999,
+                                "BottomMargin": -25.0001,
+                                "Tag": 952,
+                                "ActionTag": -794173038,
+                                "Size": {
+                                    "X": 200,
+                                    "Y": 182
+                                },
+                                "Name": "dbzicon3_7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 78,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 78,
+                                "RightMargin": 142,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 953,
+                                "ActionTag": 1954160654,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 954,
+                                "ActionTag": 1393649019,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 955,
+                                "ActionTag": -1373572325,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "1000",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.364,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 47,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 956,
+                                "ActionTag": 189602316,
+                                "Size": {
+                                    "X": 99,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "500",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.3051,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 63,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 957,
+                                "ActionTag": -981239021,
+                                "Size": {
+                                    "X": 83,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "100",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.2647,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 74,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 958,
+                                "ActionTag": 1597685548,
+                                "Size": {
+                                    "X": 72,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 2026849160,
+                        "Size": {
+                            "X": 272,
+                            "Y": 129
+                        },
+                        "Name": "dbzhelpback11_2_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback11.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 536.0005,
+                            "Y": 293.9981
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4188,
+                            "Y": 0.4083
+                        },
+                        "PreSize": {
+                            "X": 0.2125,
+                            "Y": 0.1792
+                        },
+                        "LeftMargin": 536.0005,
+                        "RightMargin": 471.9995,
+                        "TopMargin": 297.0019,
+                        "BottomMargin": 293.9981,
+                        "Tag": 959,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzicon4.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": -104.995,
+                                    "Y": -25.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": -0.386,
+                                    "Y": -0.1938
+                                },
+                                "PreSize": {
+                                    "X": 0.7353,
+                                    "Y": 1.4109
+                                },
+                                "LeftMargin": -104.995,
+                                "RightMargin": 176.995,
+                                "TopMargin": -27.9999,
+                                "BottomMargin": -25.0001,
+                                "Tag": 960,
+                                "ActionTag": -679075392,
+                                "Size": {
+                                    "X": 200,
+                                    "Y": 182
+                                },
+                                "Name": "dbzicon3_7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 78,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 78,
+                                "RightMargin": 142,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 961,
+                                "ActionTag": -537421312,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 962,
+                                "ActionTag": -2104745510,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 963,
+                                "ActionTag": 499425695,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "500",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.3051,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 63,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 964,
+                                "ActionTag": -124733685,
+                                "Size": {
+                                    "X": 83,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "80",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.2059,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 90,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 965,
+                                "ActionTag": 1921121401,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "30",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.2059,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 90,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 966,
+                                "ActionTag": -1441455544,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 864890167,
+                        "Size": {
+                            "X": 272,
+                            "Y": 129
+                        },
+                        "Name": "dbzhelpback11_2_1_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback11.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 365.9822,
+                            "Y": 133.0202
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2859,
+                            "Y": 0.1848
+                        },
+                        "PreSize": {
+                            "X": 0.2125,
+                            "Y": 0.1792
+                        },
+                        "LeftMargin": 365.9822,
+                        "RightMargin": 642.0178,
+                        "TopMargin": 457.9798,
+                        "BottomMargin": 133.0202,
+                        "Tag": 967,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzicon5.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": -104.995,
+                                    "Y": -25.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": -0.386,
+                                    "Y": -0.1938
+                                },
+                                "PreSize": {
+                                    "X": 0.7353,
+                                    "Y": 1.4109
+                                },
+                                "LeftMargin": -104.995,
+                                "RightMargin": 176.995,
+                                "TopMargin": -27.9999,
+                                "BottomMargin": -25.0001,
+                                "Tag": 968,
+                                "ActionTag": -1633038923,
+                                "Size": {
+                                    "X": 200,
+                                    "Y": 182
+                                },
+                                "Name": "dbzicon3_7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 78,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 78,
+                                "RightMargin": 142,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 969,
+                                "ActionTag": -778558163,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 970,
+                                "ActionTag": -828182481,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 971,
+                                "ActionTag": -138240225,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "300",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.3051,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 63,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 972,
+                                "ActionTag": 913501880,
+                                "Size": {
+                                    "X": 83,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "60",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.2059,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 90,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 973,
+                                "ActionTag": 1944988055,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "20",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.2059,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 90,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 974,
+                                "ActionTag": -983422231,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 989766248,
+                        "Size": {
+                            "X": 272,
+                            "Y": 129
+                        },
+                        "Name": "dbzhelpback11_2_1_0_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback12.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 923.9893,
+                            "Y": 293.9977
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7219,
+                            "Y": 0.4083
+                        },
+                        "PreSize": {
+                            "X": 0.2125,
+                            "Y": 0.1792
+                        },
+                        "LeftMargin": 923.9893,
+                        "RightMargin": 84.0107,
+                        "TopMargin": 297.0023,
+                        "BottomMargin": 293.9977,
+                        "Tag": 996,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzicon7.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": -104.995,
+                                    "Y": -25.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": -0.386,
+                                    "Y": -0.1938
+                                },
+                                "PreSize": {
+                                    "X": 0.7353,
+                                    "Y": 1.4109
+                                },
+                                "LeftMargin": -104.995,
+                                "RightMargin": 176.995,
+                                "TopMargin": -27.9999,
+                                "BottomMargin": -25.0001,
+                                "Tag": 997,
+                                "ActionTag": 1939117060,
+                                "Size": {
+                                    "X": 200,
+                                    "Y": 182
+                                },
+                                "Name": "dbzicon3_7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 78,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 78,
+                                "RightMargin": 142,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 998,
+                                "ActionTag": 1570029746,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 999,
+                                "ActionTag": -438968190,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 1000,
+                                "ActionTag": 1114041144,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "100",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.2647,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 74,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 1001,
+                                "ActionTag": 1313222281,
+                                "Size": {
+                                    "X": 72,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "35",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.2059,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 90,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 1002,
+                                "ActionTag": -766383875,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "10",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.1654,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 101,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 1003,
+                                "ActionTag": -1184938237,
+                                "Size": {
+                                    "X": 45,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1491038141,
+                        "Size": {
+                            "X": 272,
+                            "Y": 129
+                        },
+                        "Name": "dbzhelpback11_2_0_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhelpback12.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 753.9927,
+                            "Y": 132.998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5891,
+                            "Y": 0.1847
+                        },
+                        "PreSize": {
+                            "X": 0.2125,
+                            "Y": 0.1792
+                        },
+                        "LeftMargin": 753.9927,
+                        "RightMargin": 254.0073,
+                        "TopMargin": 458.002,
+                        "BottomMargin": 132.998,
+                        "Tag": 1004,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzicon8.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": -104.995,
+                                    "Y": -25.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": -0.386,
+                                    "Y": -0.1938
+                                },
+                                "PreSize": {
+                                    "X": 0.7353,
+                                    "Y": 1.4109
+                                },
+                                "LeftMargin": -104.995,
+                                "RightMargin": 176.995,
+                                "TopMargin": -27.9999,
+                                "BottomMargin": -25.0001,
+                                "Tag": 1005,
+                                "ActionTag": 205859439,
+                                "Size": {
+                                    "X": 200,
+                                    "Y": 182
+                                },
+                                "Name": "dbzicon3_7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 78,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 78,
+                                "RightMargin": 142,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 1006,
+                                "ActionTag": -1813029960,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 1007,
+                                "ActionTag": -680247966,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 77.9991,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {
+                                    "R": 90,
+                                    "B": 68
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2868,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.1912,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 77.9991,
+                                "RightMargin": 142.0009,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 1008,
+                                "ActionTag": 731176348,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "100",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 101.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.7907
+                                },
+                                "PreSize": {
+                                    "X": 0.2647,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 74,
+                                "TopMargin": 7.5001,
+                                "BottomMargin": 82.4999,
+                                "Tag": 1009,
+                                "ActionTag": -1215244210,
+                                "Size": {
+                                    "X": 72,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "35",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 71.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.5581
+                                },
+                                "PreSize": {
+                                    "X": 0.2059,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 90,
+                                "TopMargin": 37.5001,
+                                "BottomMargin": 52.4999,
+                                "Tag": 1010,
+                                "ActionTag": -728198575,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "10",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 126,
+                                    "Y": 42
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4632,
+                                    "Y": 0.3256
+                                },
+                                "PreSize": {
+                                    "X": 0.1654,
+                                    "Y": 0.3023
+                                },
+                                "LeftMargin": 126,
+                                "RightMargin": 101,
+                                "TopMargin": 67.5,
+                                "BottomMargin": 22.5,
+                                "Tag": 1011,
+                                "ActionTag": -1846772456,
+                                "Size": {
+                                    "X": 45,
+                                    "Y": 39
+                                },
+                                "Name": "BitmapFontLabel_1_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 1073336679,
+                        "Size": {
+                            "X": 272,
+                            "Y": 129
+                        },
+                        "Name": "dbzhelpback11_2_0_0_0",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "dbzfont1.fnt",
+                "dbzfont1.png",
+                "dbzpngres.plist",
+                "dbzpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

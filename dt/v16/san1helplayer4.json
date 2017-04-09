@@ -1,0 +1,488 @@
+{
+    "ID": "7dec9820-e72f-49c0-a0a2-c2d519dcd05d",
+    "Version": "2.3.4",
+    "Name": "san1helplayer4",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -319522165,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -319522165,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -319522165,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 161,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_back7.jpg",
+                            "Plist": "san1jpg.plist"
+                        },
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9OriginX": 422,
+                        "Scale9OriginY": 237,
+                        "Scale9Width": 436,
+                        "Scale9Height": 246,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": 0.0001,
+                        "RightMargin": -0.0001,
+                        "Tag": 209,
+                        "ActionTag": -319522165,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_zbgback2.jpg",
+                            "Plist": "san1jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 956.9982,
+                            "Y": 328.9991
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7477,
+                            "Y": 0.4569
+                        },
+                        "PreSize": {
+                            "X": 0.6156,
+                            "Y": 0.1347
+                        },
+                        "LeftMargin": 770.4982,
+                        "RightMargin": 136.5017,
+                        "TopMargin": 230.0009,
+                        "BottomMargin": 167.9991,
+                        "Tag": 210,
+                        "ActionTag": 107963297,
+                        "Size": {
+                            "X": 373,
+                            "Y": 322
+                        },
+                        "Name": "helpback27_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_title_smjljj.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 520
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.7222
+                        },
+                        "PreSize": {
+                            "X": 0.1578,
+                            "Y": 0.1083
+                        },
+                        "LeftMargin": 539,
+                        "RightMargin": 539,
+                        "TopMargin": 122,
+                        "BottomMargin": 520,
+                        "Tag": 213,
+                        "ActionTag": -1990004529,
+                        "Size": {
+                            "X": 331,
+                            "Y": 69
+                        },
+                        "Name": "helpback26_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_zbgback1.jpg",
+                            "Plist": "san1jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 453.9993,
+                            "Y": 153.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3547,
+                            "Y": 0.2139
+                        },
+                        "PreSize": {
+                            "X": 0.2328,
+                            "Y": 0.2806
+                        },
+                        "LeftMargin": 144.9993,
+                        "RightMargin": 517.0007,
+                        "TopMargin": 214.0002,
+                        "BottomMargin": 153.9998,
+                        "Tag": 214,
+                        "ActionTag": 2025320299,
+                        "Size": {
+                            "X": 618,
+                            "Y": 352
+                        },
+                        "Name": "helpback29_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 23,
+                        "Scale9Height": 66,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1081,
+                            "Y": 123
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8445,
+                            "Y": 0.1708
+                        },
+                        "PreSize": {
+                            "X": 0.0414,
+                            "Y": 0.1222
+                        },
+                        "LeftMargin": 1081,
+                        "RightMargin": 146,
+                        "TopMargin": 509,
+                        "BottomMargin": 123,
+                        "Tag": 650,
+                        "ActionTag": -2066609455,
+                        "Size": {
+                            "X": 53,
+                            "Y": 88
+                        },
+                        "Name": "btnNext",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 23,
+                        "Scale9Height": 66,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 194.9999,
+                            "Y": 123
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1523,
+                            "Y": 0.1708
+                        },
+                        "PreSize": {
+                            "X": 0.0414,
+                            "Y": 0.1222
+                        },
+                        "LeftMargin": 194.9999,
+                        "RightMargin": 1032.0001,
+                        "TopMargin": 509,
+                        "BottomMargin": 123,
+                        "Tag": 651,
+                        "ActionTag": -551222698,
+                        "Size": {
+                            "X": 53,
+                            "Y": 88
+                        },
+                        "Name": "btnFront",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_close2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_close2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_close1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 26,
+                        "Scale9Height": 29,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1069.9998,
+                            "Y": 580
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8359,
+                            "Y": 0.8056
+                        },
+                        "PreSize": {
+                            "X": 0.0437,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 1069.9998,
+                        "RightMargin": 154.0002,
+                        "TopMargin": 89,
+                        "BottomMargin": 580,
+                        "Tag": 652,
+                        "ActionTag": 878209937,
+                        "Size": {
+                            "X": 56,
+                            "Y": 51
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "san1jpg.jpg",
+                "san1jpg.plist",
+                "san1png.plist",
+                "san1png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,489 @@
+{
+    "ID": "d5fd0533-7a10-4bd6-a433-7bb7bfeaa1a3",
+    "Version": "2.3.4",
+    "Name": "dbzdisconnectlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 1084,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 1097,
+                        "ActionTag": 1036786769,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzdisconnectback.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 639.0002,
+                            "Y": 390.0003
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4992,
+                            "Y": 0.5417
+                        },
+                        "PreSize": {
+                            "X": 0.4406,
+                            "Y": 0.4319
+                        },
+                        "LeftMargin": 357.0002,
+                        "RightMargin": 358.9998,
+                        "TopMargin": 174.4996,
+                        "BottomMargin": 234.5003,
+                        "Tag": 1098,
+                        "ActionTag": -90290909,
+                        "Size": {
+                            "X": 564,
+                            "Y": 311
+                        },
+                        "Name": "disconnectback_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn13_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn13_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn13_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 203,
+                        "Scale9Height": 32,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 520,
+                            "Y": 222
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4063,
+                            "Y": 0.3083
+                        },
+                        "PreSize": {
+                            "X": 0.182,
+                            "Y": 0.075
+                        },
+                        "LeftMargin": 520,
+                        "RightMargin": 527,
+                        "TopMargin": 444,
+                        "BottomMargin": 222,
+                        "CallBackType": "Click",
+                        "Tag": 1099,
+                        "ActionTag": 1220766063,
+                        "Size": {
+                            "X": 233,
+                            "Y": 54
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzimg_disconnect.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 386
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5361
+                        },
+                        "PreSize": {
+                            "X": 0.1656,
+                            "Y": 0.1125
+                        },
+                        "LeftMargin": 490,
+                        "RightMargin": 490,
+                        "TopMargin": 308,
+                        "BottomMargin": 360,
+                        "Tag": 1100,
+                        "ActionTag": 11070450,
+                        "Size": {
+                            "X": 300,
+                            "Y": 52
+                        },
+                        "Name": "sprDisconnect",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzimg_notenough.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 385.9989
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5361
+                        },
+                        "PreSize": {
+                            "X": 0.1422,
+                            "Y": 0.0514
+                        },
+                        "LeftMargin": 490,
+                        "RightMargin": 490,
+                        "TopMargin": 321.5011,
+                        "BottomMargin": 373.4989,
+                        "Tag": 1101,
+                        "ActionTag": -405107632,
+                        "Size": {
+                            "X": 300,
+                            "Y": 25
+                        },
+                        "Name": "sprNotEnough",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzimg_disconnect1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 386
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5361
+                        },
+                        "PreSize": {
+                            "X": 0.1898,
+                            "Y": 0.1139
+                        },
+                        "LeftMargin": 490,
+                        "RightMargin": 490,
+                        "TopMargin": 308,
+                        "BottomMargin": 360,
+                        "Tag": 1102,
+                        "ActionTag": 2017097687,
+                        "Size": {
+                            "X": 300,
+                            "Y": 52
+                        },
+                        "Name": "sprError1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzimg_disconnect2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 386
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5361
+                        },
+                        "PreSize": {
+                            "X": 0.2375,
+                            "Y": 0.1139
+                        },
+                        "LeftMargin": 465,
+                        "RightMargin": 465,
+                        "TopMargin": 308,
+                        "BottomMargin": 360,
+                        "Tag": 1103,
+                        "ActionTag": -2002042641,
+                        "Size": {
+                            "X": 350,
+                            "Y": 52
+                        },
+                        "Name": "sprError2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 386
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5361
+                        },
+                        "PreSize": {
+                            "X": 0.3281,
+                            "Y": 0.2083
+                        },
+                        "LeftMargin": 430,
+                        "RightMargin": 430,
+                        "TopMargin": 259,
+                        "BottomMargin": 311,
+                        "Tag": 1104,
+                        "ActionTag": 1399381792,
+                        "Size": {
+                            "X": 420,
+                            "Y": 150
+                        },
+                        "Name": "layErrorBack",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "出错了",
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 639.9998,
+                            "Y": 386
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {
+                            "R": 230,
+                            "G": 230,
+                            "B": 250
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5361
+                        },
+                        "PreSize": {
+                            "X": 0.3125,
+                            "Y": 0.1806
+                        },
+                        "LeftMargin": 439.9998,
+                        "RightMargin": 440.0002,
+                        "TopMargin": 269,
+                        "BottomMargin": 321,
+                        "Tag": 1105,
+                        "ActionTag": -1294686130,
+                        "Size": {
+                            "X": 400,
+                            "Y": 130
+                        },
+                        "Name": "textError",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "dbzpngres.plist",
+                "dbzpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

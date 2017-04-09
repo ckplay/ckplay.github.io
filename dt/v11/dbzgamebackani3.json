@@ -1,0 +1,270 @@
+{
+    "ID": "49f14802-4fd5-4aba-9ec7-93d20ac6b3c1",
+    "Version": "2.3.4",
+    "Name": "dbzgamebackani3",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 71,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": -1766623887,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 385,
+                                "Y": 7,
+                                "FrameIndex": 12,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 385,
+                                "Y": 7,
+                                "FrameIndex": 71,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1766623887,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 2,
+                                "Y": 2,
+                                "FrameIndex": 12,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 2,
+                                "Y": 2,
+                                "FrameIndex": 71,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1766623887,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 12,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 71,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1766623887,
+                        "Property": "FileData",
+                        "Frames": [
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzimg_light05_1.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "FrameIndex": 0,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzimg_light05_2.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "FrameIndex": 2,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzimg_light05_3.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "FrameIndex": 4,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzimg_light05_4.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "FrameIndex": 6,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzimg_light05_5.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "FrameIndex": 8,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzimg_light05_6.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "FrameIndex": 10,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzimg_light05_6.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "FrameIndex": 12,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzimg_light05_6.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "FrameIndex": 71,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1766623887,
+                        "Property": "Alpha",
+                        "Frames": [
+                            {
+                                "Value": 178,
+                                "FrameIndex": 10,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 0,
+                                "FrameIndex": 12,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 0,
+                                "FrameIndex": 71,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 41,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzimg_light05_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 1
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 385,
+                            "Y": 7
+                        },
+                        "Scale": {
+                            "ScaleX": 2,
+                            "ScaleY": 2
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 385,
+                        "RightMargin": -640,
+                        "TopMargin": -43,
+                        "BottomMargin": 7,
+                        "Tag": 60,
+                        "ActionTag": -1766623887,
+                        "Size": {
+                            "X": 255,
+                            "Y": 36
+                        },
+                        "Alpha": 178,
+                        "Name": "Sprite_18",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "dbzpngres.plist",
+                "dbzpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,3900 @@
+{
+    "ID": "ced89d04-5b24-4a7a-b402-622361332cd2",
+    "Version": "2.3.4",
+    "Name": "san1helplayer3",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -319522165,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -319522165,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -319522165,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 161,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_back7.jpg",
+                            "Plist": "san1jpg.plist"
+                        },
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9OriginX": 422,
+                        "Scale9OriginY": 237,
+                        "Scale9Width": 436,
+                        "Scale9Height": 246,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": 0.0001,
+                        "RightMargin": -0.0001,
+                        "Tag": 209,
+                        "ActionTag": -319522165,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_pfxinfo.jpg",
+                            "Plist": "san1jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 187
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.2597
+                        },
+                        "PreSize": {
+                            "X": 0.6156,
+                            "Y": 0.1347
+                        },
+                        "LeftMargin": 246,
+                        "RightMargin": 246,
+                        "TopMargin": 484.5,
+                        "BottomMargin": 138.5,
+                        "Tag": 210,
+                        "ActionTag": 107963297,
+                        "Size": {
+                            "X": 788,
+                            "Y": 97
+                        },
+                        "Name": "helpback27_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_title_pfx.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 520
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.7222
+                        },
+                        "PreSize": {
+                            "X": 0.1578,
+                            "Y": 0.1083
+                        },
+                        "LeftMargin": 539,
+                        "RightMargin": 539,
+                        "TopMargin": 122,
+                        "BottomMargin": 520,
+                        "Tag": 213,
+                        "ActionTag": -1990004529,
+                        "Size": {
+                            "X": 202,
+                            "Y": 78
+                        },
+                        "Name": "helpback26_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_lineback.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 310,
+                            "Y": 350
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2422,
+                            "Y": 0.4861
+                        },
+                        "PreSize": {
+                            "X": 0.2328,
+                            "Y": 0.2806
+                        },
+                        "LeftMargin": 161,
+                        "RightMargin": 821,
+                        "TopMargin": 168,
+                        "BottomMargin": 350,
+                        "Tag": 214,
+                        "ActionTag": 2025320299,
+                        "Size": {
+                            "X": 298,
+                            "Y": 202
+                        },
+                        "Name": "helpback29_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_lineback.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 970,
+                            "Y": 350
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7578,
+                            "Y": 0.4861
+                        },
+                        "PreSize": {
+                            "X": 0.2328,
+                            "Y": 0.2806
+                        },
+                        "LeftMargin": 821,
+                        "RightMargin": 161,
+                        "TopMargin": 168,
+                        "BottomMargin": 350,
+                        "Tag": 215,
+                        "ActionTag": 284823693,
+                        "Size": {
+                            "X": 298,
+                            "Y": 202
+                        },
+                        "Name": "helpback29_6_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_lineback.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 360.001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.2328,
+                            "Y": 0.2806
+                        },
+                        "LeftMargin": 491,
+                        "RightMargin": 491,
+                        "TopMargin": 258.999,
+                        "BottomMargin": 259.001,
+                        "Tag": 216,
+                        "ActionTag": 1490527211,
+                        "Size": {
+                            "X": 298,
+                            "Y": 202
+                        },
+                        "Name": "helpback29_6_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 164,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_1.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 167.9996,
+                                    "Y": 445.999
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 167.9996,
+                                "RightMargin": -306.9996,
+                                "TopMargin": -454.999,
+                                "BottomMargin": 445.999,
+                                "Tag": 218,
+                                "ActionTag": 1782855514,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 9
+                                },
+                                "Name": "sprLine1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_1.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 445.9998,
+                                    "Y": 445.999
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 445.9998,
+                                "RightMargin": -584.9998,
+                                "TopMargin": -454.999,
+                                "BottomMargin": 445.999,
+                                "Tag": 173,
+                                "ActionTag": -15841838,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 9
+                                },
+                                "Name": "sprLine1_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -665660179,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine1",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 165,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_2.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 167.9997,
+                                    "Y": 499.9981
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 167.9997,
+                                "RightMargin": -306.9997,
+                                "TopMargin": -508.9981,
+                                "BottomMargin": 499.9981,
+                                "Tag": 219,
+                                "ActionTag": -42606550,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 9
+                                },
+                                "Name": "sprLine2",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_2.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 445.9998,
+                                    "Y": 499.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 445.9998,
+                                "RightMargin": -584.9998,
+                                "TopMargin": -508.9999,
+                                "BottomMargin": 499.9999,
+                                "Tag": 174,
+                                "ActionTag": -869234851,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 9
+                                },
+                                "Name": "sprLine2_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -319449690,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine2",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 166,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_3.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 167.9996,
+                                    "Y": 396.9995
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 167.9996,
+                                "RightMargin": -306.9996,
+                                "TopMargin": -405.9995,
+                                "BottomMargin": 396.9995,
+                                "Tag": 220,
+                                "ActionTag": 215265366,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 9
+                                },
+                                "Name": "sprLine3",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_3.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 445.9998,
+                                    "Y": 397
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 445.9998,
+                                "RightMargin": -584.9998,
+                                "TopMargin": -406,
+                                "BottomMargin": 397,
+                                "Tag": 175,
+                                "ActionTag": 1744740108,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 9
+                                },
+                                "Name": "sprLine3_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -993638275,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine3",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 168,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_5.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 499.0022,
+                                    "Y": 286.0006
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 499.0022,
+                                "RightMargin": -638.0022,
+                                "TopMargin": -439.0006,
+                                "BottomMargin": 286.0006,
+                                "Tag": 222,
+                                "ActionTag": -1507643108,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 153
+                                },
+                                "Name": "sprLine5",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_5.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 777.0026,
+                                    "Y": 286.0006
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 777.0026,
+                                "RightMargin": -916.0026,
+                                "TopMargin": -439.0006,
+                                "BottomMargin": 286.0006,
+                                "Tag": 176,
+                                "ActionTag": -1767737197,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 153
+                                },
+                                "Name": "sprLine5_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": 476668840,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine5",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 167,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_4.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 499.0022,
+                                    "Y": 285.0004
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 499.0022,
+                                "RightMargin": -638.0022,
+                                "TopMargin": -423.0004,
+                                "BottomMargin": 285.0004,
+                                "Tag": 221,
+                                "ActionTag": -1862414031,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 138
+                                },
+                                "Name": "sprLine4",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_4.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 777.0026,
+                                    "Y": 285.0006
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 777.0026,
+                                "RightMargin": -916.0026,
+                                "TopMargin": -423.0006,
+                                "BottomMargin": 285.0006,
+                                "Tag": 177,
+                                "ActionTag": 596976548,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 138
+                                },
+                                "Name": "sprLine4_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -895372183,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine4",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 170,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_7.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 828.0024,
+                                    "Y": 386.0006
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 828.0024,
+                                "RightMargin": -967.0024,
+                                "TopMargin": -455.0006,
+                                "BottomMargin": 386.0006,
+                                "Tag": 223,
+                                "ActionTag": 2123734408,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 69
+                                },
+                                "Name": "sprLine7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_7.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 1106.0042,
+                                    "Y": 386.0004
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1106.0042,
+                                "RightMargin": -1245.0042,
+                                "TopMargin": -455.0004,
+                                "BottomMargin": 386.0004,
+                                "Tag": 178,
+                                "ActionTag": 1938331321,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 69
+                                },
+                                "Name": "sprLine7_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -135646090,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine7",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 169,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_6.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 829.0024,
+                                    "Y": 451.0006
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 829.0024,
+                                "RightMargin": -968.0024,
+                                "TopMargin": -520.0006,
+                                "BottomMargin": 451.0006,
+                                "Tag": 224,
+                                "ActionTag": -355285189,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 69
+                                },
+                                "Name": "sprLine6",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_6.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 1107.0042,
+                                    "Y": 452.0005
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1107.0042,
+                                "RightMargin": -1246.0042,
+                                "TopMargin": -521.0005,
+                                "BottomMargin": 452.0005,
+                                "Tag": 179,
+                                "ActionTag": 1622489664,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 69
+                                },
+                                "Name": "sprLine6_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -1991178744,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine6",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 171,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_8.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 499.001,
+                                    "Y": 372.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 499.001,
+                                "RightMargin": -638.001,
+                                "TopMargin": -410.0001,
+                                "BottomMargin": 372.0001,
+                                "Tag": 225,
+                                "ActionTag": 1939230210,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 38
+                                },
+                                "Name": "sprLine8",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_8.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 777.0024,
+                                    "Y": 372.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 777.0024,
+                                "RightMargin": -916.0024,
+                                "TopMargin": -410.0001,
+                                "BottomMargin": 372.0001,
+                                "Tag": 180,
+                                "ActionTag": -920180893,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 38
+                                },
+                                "Name": "sprLine8_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -1185321391,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine8",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 172,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_9.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 827.0018,
+                                    "Y": 406.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 827.0018,
+                                "RightMargin": -966.0018,
+                                "TopMargin": -452.0001,
+                                "BottomMargin": 406.0001,
+                                "Tag": 226,
+                                "ActionTag": -2014210575,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 46
+                                },
+                                "Name": "sprLine9",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_line_info_9.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 1105.0022,
+                                    "Y": 406.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1105.0022,
+                                "RightMargin": -1244.0022,
+                                "TopMargin": -452.0001,
+                                "BottomMargin": 406.0001,
+                                "Tag": 181,
+                                "ActionTag": -1139959009,
+                                "Size": {
+                                    "X": 139,
+                                    "Y": 46
+                                },
+                                "Name": "sprLine9_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -699180956,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine9",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9998,
+                            "Y": 486.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.675
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 144.9998,
+                        "RightMargin": 1097.0002,
+                        "TopMargin": 195.9999,
+                        "BottomMargin": 486.0001,
+                        "Tag": 367,
+                        "ActionTag": -1872697477,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprBlue2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9991,
+                            "Y": 431.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.6
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 144.9991,
+                        "RightMargin": 1097.0009,
+                        "TopMargin": 250.0006,
+                        "BottomMargin": 431.9994,
+                        "Tag": 368,
+                        "ActionTag": 356585061,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprBlue1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9989,
+                            "Y": 382.9985
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.5319
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 144.9989,
+                        "RightMargin": 1097.0011,
+                        "TopMargin": 299.0015,
+                        "BottomMargin": 382.9985,
+                        "Tag": 369,
+                        "ActionTag": -966816489,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprBlue3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 807.9985,
+                            "Y": 496.9979
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6312,
+                            "Y": 0.6903
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 807.9985,
+                        "RightMargin": 434.0015,
+                        "TopMargin": 185.0021,
+                        "BottomMargin": 496.9979,
+                        "Tag": 370,
+                        "ActionTag": -911114611,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprBlue6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 807.988,
+                            "Y": 371
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6312,
+                            "Y": 0.5153
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 807.988,
+                        "RightMargin": 434.012,
+                        "TopMargin": 311,
+                        "BottomMargin": 371,
+                        "Tag": 371,
+                        "ActionTag": -1818779146,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprBlue7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 477.9964,
+                            "Y": 399.9969
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3734,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 477.9964,
+                        "RightMargin": 764.0036,
+                        "TopMargin": 282.0031,
+                        "BottomMargin": 399.9969,
+                        "Tag": 372,
+                        "ActionTag": 1853846038,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprBlue4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 477.9952,
+                            "Y": 271.9965
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3734,
+                            "Y": 0.3778
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 477.9952,
+                        "RightMargin": 764.0048,
+                        "TopMargin": 410.0035,
+                        "BottomMargin": 271.9965,
+                        "Tag": 373,
+                        "ActionTag": -276833802,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprBlue5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 477.9944,
+                            "Y": 353.9984
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3734,
+                            "Y": 0.4917
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 477.9944,
+                        "RightMargin": 764.0056,
+                        "TopMargin": 328.0016,
+                        "BottomMargin": 353.9984,
+                        "Tag": 374,
+                        "ActionTag": -2100473274,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprBlue8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 807.9982,
+                            "Y": 432
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6312,
+                            "Y": 0.6
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 807.9982,
+                        "RightMargin": 434.0018,
+                        "TopMargin": 250,
+                        "BottomMargin": 432,
+                        "Tag": 375,
+                        "ActionTag": 497105622,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprBlue9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 428.9995,
+                            "Y": 486.0011
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3352,
+                            "Y": 0.675
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 428.9995,
+                        "RightMargin": 813.0005,
+                        "TopMargin": 195.9989,
+                        "BottomMargin": 486.0011,
+                        "Tag": 376,
+                        "ActionTag": 8860473,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprRed2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 428.9996,
+                            "Y": 431.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3352,
+                            "Y": 0.6
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 428.9996,
+                        "RightMargin": 813.0004,
+                        "TopMargin": 250.0002,
+                        "BottomMargin": 431.9998,
+                        "Tag": 377,
+                        "ActionTag": -812540094,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprRed1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 428.9996,
+                            "Y": 382.999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3352,
+                            "Y": 0.5319
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 428.9996,
+                        "RightMargin": 813.0004,
+                        "TopMargin": 299.001,
+                        "BottomMargin": 382.999,
+                        "Tag": 378,
+                        "ActionTag": 276750901,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprRed3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1086.9996,
+                            "Y": 496.9979
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8492,
+                            "Y": 0.6903
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1086.9996,
+                        "RightMargin": 155.0004,
+                        "TopMargin": 185.0021,
+                        "BottomMargin": 496.9979,
+                        "Tag": 379,
+                        "ActionTag": -705716191,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprRed6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1087,
+                            "Y": 371
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8492,
+                            "Y": 0.5153
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1087,
+                        "RightMargin": 155,
+                        "TopMargin": 311,
+                        "BottomMargin": 371,
+                        "Tag": 380,
+                        "ActionTag": -1937531871,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprRed7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 756.9916,
+                            "Y": 398.9954
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5914,
+                            "Y": 0.5542
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 756.9916,
+                        "RightMargin": 485.0084,
+                        "TopMargin": 283.0046,
+                        "BottomMargin": 398.9954,
+                        "Tag": 381,
+                        "ActionTag": -1279968321,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprRed4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 756.9917,
+                            "Y": 273
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5914,
+                            "Y": 0.3792
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 756.9917,
+                        "RightMargin": 485.0083,
+                        "TopMargin": 409,
+                        "BottomMargin": 273,
+                        "Tag": 382,
+                        "ActionTag": 468319628,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprRed5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 757.9943,
+                            "Y": 353.9982
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5922,
+                            "Y": 0.4917
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 757.9943,
+                        "RightMargin": 484.0057,
+                        "TopMargin": 328.0018,
+                        "BottomMargin": 353.9982,
+                        "Tag": 383,
+                        "ActionTag": -844936272,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprRed8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1087,
+                            "Y": 432
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8492,
+                            "Y": 0.6
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1087,
+                        "RightMargin": 155,
+                        "TopMargin": 250,
+                        "BottomMargin": 432,
+                        "Tag": 384,
+                        "ActionTag": 550085407,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprRed9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9996,
+                            "Y": 485.9987
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.675
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 144.9996,
+                        "RightMargin": 1097.0004,
+                        "TopMargin": 196.0013,
+                        "BottomMargin": 485.9987,
+                        "Tag": 385,
+                        "ActionTag": 1902034943,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLBlue2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9991,
+                            "Y": 431.9988
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.6
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 144.9991,
+                        "RightMargin": 1097.0009,
+                        "TopMargin": 250.0012,
+                        "BottomMargin": 431.9988,
+                        "Tag": 386,
+                        "ActionTag": -1980683150,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLBlue1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9988,
+                            "Y": 382.9983
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.5319
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 144.9988,
+                        "RightMargin": 1097.0012,
+                        "TopMargin": 299.0017,
+                        "BottomMargin": 382.9983,
+                        "Tag": 387,
+                        "ActionTag": 2059967327,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLBlue3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 807.9998,
+                            "Y": 497
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6312,
+                            "Y": 0.6903
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 807.9998,
+                        "RightMargin": 434.0002,
+                        "TopMargin": 185,
+                        "BottomMargin": 497,
+                        "Tag": 388,
+                        "ActionTag": -1743600432,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLBlue6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 807.9915,
+                            "Y": 371
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6312,
+                            "Y": 0.5153
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 807.9915,
+                        "RightMargin": 434.0085,
+                        "TopMargin": 311,
+                        "BottomMargin": 371,
+                        "Tag": 389,
+                        "ActionTag": -188769105,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLBlue7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 477.9946,
+                            "Y": 399.9973
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3734,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 477.9946,
+                        "RightMargin": 764.0054,
+                        "TopMargin": 282.0027,
+                        "BottomMargin": 399.9973,
+                        "Tag": 390,
+                        "ActionTag": -1410054650,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLBlue4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 477.9935,
+                            "Y": 271.9965
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3734,
+                            "Y": 0.3778
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 477.9935,
+                        "RightMargin": 764.0065,
+                        "TopMargin": 410.0035,
+                        "BottomMargin": 271.9965,
+                        "Tag": 391,
+                        "ActionTag": 15431496,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLBlue5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 477.9927,
+                            "Y": 353.9963
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3734,
+                            "Y": 0.4917
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 477.9927,
+                        "RightMargin": 764.0073,
+                        "TopMargin": 328.0037,
+                        "BottomMargin": 353.9963,
+                        "Tag": 392,
+                        "ActionTag": -624686501,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLBlue8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 807.997,
+                            "Y": 432.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6312,
+                            "Y": 0.6
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 807.997,
+                        "RightMargin": 434.003,
+                        "TopMargin": 249.9999,
+                        "BottomMargin": 432.0001,
+                        "Tag": 393,
+                        "ActionTag": -2090519781,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLBlue9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 428.9982,
+                            "Y": 486.0013
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3352,
+                            "Y": 0.675
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 428.9982,
+                        "RightMargin": 813.0018,
+                        "TopMargin": 195.9987,
+                        "BottomMargin": 486.0013,
+                        "Tag": 394,
+                        "ActionTag": 502400186,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLRed2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 428.9982,
+                            "Y": 431.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3352,
+                            "Y": 0.6
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 428.9982,
+                        "RightMargin": 813.0018,
+                        "TopMargin": 250.0002,
+                        "BottomMargin": 431.9998,
+                        "Tag": 395,
+                        "ActionTag": -1338087775,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLRed1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 428.9982,
+                            "Y": 382.9991
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3352,
+                            "Y": 0.5319
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 428.9982,
+                        "RightMargin": 813.0018,
+                        "TopMargin": 299.0009,
+                        "BottomMargin": 382.9991,
+                        "Tag": 396,
+                        "ActionTag": 1703658517,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLRed3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1086.9995,
+                            "Y": 496.9955
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8492,
+                            "Y": 0.6903
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1086.9995,
+                        "RightMargin": 155.0005,
+                        "TopMargin": 185.0045,
+                        "BottomMargin": 496.9955,
+                        "Tag": 397,
+                        "ActionTag": -1077244657,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLRed6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1086.9998,
+                            "Y": 370.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8492,
+                            "Y": 0.5153
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1086.9998,
+                        "RightMargin": 155.0002,
+                        "TopMargin": 311.0002,
+                        "BottomMargin": 370.9998,
+                        "Tag": 398,
+                        "ActionTag": -699315472,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLRed7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 756.9933,
+                            "Y": 398.9948
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5914,
+                            "Y": 0.5542
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 756.9933,
+                        "RightMargin": 485.0067,
+                        "TopMargin": 283.0052,
+                        "BottomMargin": 398.9948,
+                        "Tag": 399,
+                        "ActionTag": -450513211,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLRed4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 756.9933,
+                            "Y": 272.996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5914,
+                            "Y": 0.3792
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 756.9933,
+                        "RightMargin": 485.0067,
+                        "TopMargin": 409.004,
+                        "BottomMargin": 272.996,
+                        "Tag": 400,
+                        "ActionTag": -674613680,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLRed5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 757.9937,
+                            "Y": 353.9962
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5922,
+                            "Y": 0.4917
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 757.9937,
+                        "RightMargin": 484.0063,
+                        "TopMargin": 328.0038,
+                        "BottomMargin": 353.9962,
+                        "Tag": 401,
+                        "ActionTag": -1336680143,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLRed8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_info_line2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1086.9995,
+                            "Y": 432
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8492,
+                            "Y": 0.6
+                        },
+                        "PreSize": {
+                            "X": 0.0297,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1086.9995,
+                        "RightMargin": 155.0005,
+                        "TopMargin": 250,
+                        "BottomMargin": 432,
+                        "Tag": 402,
+                        "ActionTag": 910703500,
+                        "Size": {
+                            "X": 38,
+                            "Y": 38
+                        },
+                        "Name": "sprLRed9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "1",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 161.0001,
+                            "Y": 449.9984
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1258,
+                            "Y": 0.625
+                        },
+                        "PreSize": {
+                            "X": 0.0109,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 154.0001,
+                        "RightMargin": 1111.9999,
+                        "TopMargin": 255.0016,
+                        "BottomMargin": 434.9984,
+                        "Tag": 403,
+                        "ActionTag": -147408548,
+                        "Size": {
+                            "X": 14,
+                            "Y": 30
+                        },
+                        "Name": "textBlue1",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "2",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 163.0001,
+                            "Y": 505.0003
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1273,
+                            "Y": 0.7014
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 154.5001,
+                        "RightMargin": 1108.4999,
+                        "TopMargin": 199.9997,
+                        "BottomMargin": 490.0003,
+                        "Tag": 404,
+                        "ActionTag": 500992612,
+                        "Size": {
+                            "X": 17,
+                            "Y": 30
+                        },
+                        "Name": "textBlue2",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "3",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 163.0001,
+                            "Y": 401
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1273,
+                            "Y": 0.5569
+                        },
+                        "PreSize": {
+                            "X": 0.0125,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 155.0001,
+                        "RightMargin": 1108.9999,
+                        "TopMargin": 304,
+                        "BottomMargin": 386,
+                        "Tag": 405,
+                        "ActionTag": 164037176,
+                        "Size": {
+                            "X": 16,
+                            "Y": 30
+                        },
+                        "Name": "textBlue3",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "6",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 825.9998,
+                            "Y": 516.0018
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6453,
+                            "Y": 0.7167
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 817.4998,
+                        "RightMargin": 445.5002,
+                        "TopMargin": 188.9982,
+                        "BottomMargin": 501.0018,
+                        "Tag": 406,
+                        "ActionTag": -1077496724,
+                        "Size": {
+                            "X": 17,
+                            "Y": 30
+                        },
+                        "Name": "textBlue6",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "7",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 826,
+                            "Y": 388
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6453,
+                            "Y": 0.5389
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 817.5,
+                        "RightMargin": 445.5,
+                        "TopMargin": 317,
+                        "BottomMargin": 373,
+                        "Tag": 407,
+                        "ActionTag": -671004662,
+                        "Size": {
+                            "X": 17,
+                            "Y": 30
+                        },
+                        "Name": "textBlue7",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "4",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 496.9995,
+                            "Y": 418.0026
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3883,
+                            "Y": 0.5806
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 488.4995,
+                        "RightMargin": 774.5005,
+                        "TopMargin": 286.9974,
+                        "BottomMargin": 403.0026,
+                        "Tag": 408,
+                        "ActionTag": 36225256,
+                        "Size": {
+                            "X": 17,
+                            "Y": 30
+                        },
+                        "Name": "textBlue4",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "5",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 497,
+                            "Y": 289.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3883,
+                            "Y": 0.4028
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 488.5,
+                        "RightMargin": 774.5,
+                        "TopMargin": 415.0001,
+                        "BottomMargin": 274.9999,
+                        "Tag": 409,
+                        "ActionTag": -821216929,
+                        "Size": {
+                            "X": 17,
+                            "Y": 30
+                        },
+                        "Name": "textBlue5",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "8",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 496.0003,
+                            "Y": 373.0037
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3875,
+                            "Y": 0.5181
+                        },
+                        "PreSize": {
+                            "X": 0.0125,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 488.0003,
+                        "RightMargin": 775.9997,
+                        "TopMargin": 331.9963,
+                        "BottomMargin": 358.0037,
+                        "Tag": 410,
+                        "ActionTag": -108217778,
+                        "Size": {
+                            "X": 16,
+                            "Y": 30
+                        },
+                        "Name": "textBlue8",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "9",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 825.9962,
+                            "Y": 450.0037
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6453,
+                            "Y": 0.625
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 817.4962,
+                        "RightMargin": 445.5038,
+                        "TopMargin": 254.9963,
+                        "BottomMargin": 435.0037,
+                        "Tag": 411,
+                        "ActionTag": 4540219,
+                        "Size": {
+                            "X": 17,
+                            "Y": 30
+                        },
+                        "Name": "textBlue9",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "1",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 444.9994,
+                            "Y": 450.0008
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3477,
+                            "Y": 0.625
+                        },
+                        "PreSize": {
+                            "X": 0.0109,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 437.9994,
+                        "RightMargin": 828.0006,
+                        "TopMargin": 254.9992,
+                        "BottomMargin": 435.0008,
+                        "Tag": 412,
+                        "ActionTag": 2008577357,
+                        "Size": {
+                            "X": 14,
+                            "Y": 30
+                        },
+                        "Name": "textRed1",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "2",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 446.9991,
+                            "Y": 504.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3492,
+                            "Y": 0.7014
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 438.4991,
+                        "RightMargin": 824.5009,
+                        "TopMargin": 200.0002,
+                        "BottomMargin": 489.9998,
+                        "Tag": 413,
+                        "ActionTag": 1706744349,
+                        "Size": {
+                            "X": 17,
+                            "Y": 30
+                        },
+                        "Name": "textRed2",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "3",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5633,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 447.9995,
+                            "Y": 401
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.35,
+                            "Y": 0.5569
+                        },
+                        "PreSize": {
+                            "X": 0.0125,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 438.9867,
+                        "RightMargin": 825.0133,
+                        "TopMargin": 304,
+                        "BottomMargin": 386,
+                        "Tag": 414,
+                        "ActionTag": -392206934,
+                        "Size": {
+                            "X": 16,
+                            "Y": 30
+                        },
+                        "Name": "textRed3",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "6",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1106,
+                            "Y": 516
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8641,
+                            "Y": 0.7167
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 1097.5,
+                        "RightMargin": 165.5,
+                        "TopMargin": 189,
+                        "BottomMargin": 501,
+                        "Tag": 415,
+                        "ActionTag": 106208615,
+                        "Size": {
+                            "X": 17,
+                            "Y": 30
+                        },
+                        "Name": "textRed6",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "7",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1105.9919,
+                            "Y": 387.9967
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8641,
+                            "Y": 0.5389
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 1097.4919,
+                        "RightMargin": 165.5081,
+                        "TopMargin": 317.0033,
+                        "BottomMargin": 372.9967,
+                        "Tag": 416,
+                        "ActionTag": 1919944584,
+                        "Size": {
+                            "X": 17,
+                            "Y": 30
+                        },
+                        "Name": "textRed7",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "4",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 775.9991,
+                            "Y": 418.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6062,
+                            "Y": 0.5806
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 767.4991,
+                        "RightMargin": 495.5009,
+                        "TopMargin": 286.9996,
+                        "BottomMargin": 403.0004,
+                        "Tag": 417,
+                        "ActionTag": -1527308421,
+                        "Size": {
+                            "X": 17,
+                            "Y": 30
+                        },
+                        "Name": "textRed4",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "5",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 774.9999,
+                            "Y": 290.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6055,
+                            "Y": 0.4028
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 766.4999,
+                        "RightMargin": 496.5001,
+                        "TopMargin": 414.9998,
+                        "BottomMargin": 275.0002,
+                        "Tag": 418,
+                        "ActionTag": 431307097,
+                        "Size": {
+                            "X": 17,
+                            "Y": 30
+                        },
+                        "Name": "textRed5",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "8",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 776.0003,
+                            "Y": 372.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6063,
+                            "Y": 0.5181
+                        },
+                        "PreSize": {
+                            "X": 0.0125,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 768.0003,
+                        "RightMargin": 495.9997,
+                        "TopMargin": 332.0001,
+                        "BottomMargin": 357.9999,
+                        "Tag": 419,
+                        "ActionTag": -1877454357,
+                        "Size": {
+                            "X": 16,
+                            "Y": 30
+                        },
+                        "Name": "textRed8",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "9",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "san30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1104.9956,
+                            "Y": 449.9987
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8633,
+                            "Y": 0.625
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 1096.4956,
+                        "RightMargin": 166.5044,
+                        "TopMargin": 255.0013,
+                        "BottomMargin": 434.9987,
+                        "Tag": 420,
+                        "ActionTag": -118967418,
+                        "Size": {
+                            "X": 17,
+                            "Y": 30
+                        },
+                        "Name": "textRed9",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 23,
+                        "Scale9Height": 66,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1081,
+                            "Y": 123
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8445,
+                            "Y": 0.1708
+                        },
+                        "PreSize": {
+                            "X": 0.0414,
+                            "Y": 0.1222
+                        },
+                        "LeftMargin": 1081,
+                        "RightMargin": 146,
+                        "TopMargin": 509,
+                        "BottomMargin": 123,
+                        "Tag": 650,
+                        "ActionTag": -2066609455,
+                        "Size": {
+                            "X": 53,
+                            "Y": 88
+                        },
+                        "Name": "btnNext",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 23,
+                        "Scale9Height": 66,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 194.9999,
+                            "Y": 123
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1523,
+                            "Y": 0.1708
+                        },
+                        "PreSize": {
+                            "X": 0.0414,
+                            "Y": 0.1222
+                        },
+                        "LeftMargin": 194.9999,
+                        "RightMargin": 1032.0001,
+                        "TopMargin": 509,
+                        "BottomMargin": 123,
+                        "Tag": 651,
+                        "ActionTag": -551222698,
+                        "Size": {
+                            "X": 53,
+                            "Y": 88
+                        },
+                        "Name": "btnFront",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_close2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_close2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_close1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 26,
+                        "Scale9Height": 29,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1069.9998,
+                            "Y": 580
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8359,
+                            "Y": 0.8056
+                        },
+                        "PreSize": {
+                            "X": 0.0437,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 1069.9998,
+                        "RightMargin": 154.0002,
+                        "TopMargin": 89,
+                        "BottomMargin": 580,
+                        "Tag": 652,
+                        "ActionTag": 878209937,
+                        "Size": {
+                            "X": 56,
+                            "Y": 51
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "san1jpg.jpg",
+                "san1jpg.plist",
+                "san1png.plist",
+                "san1png.png",
+                "san30.fnt",
+                "san30.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

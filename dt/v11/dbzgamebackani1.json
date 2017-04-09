@@ -1,0 +1,870 @@
+{
+    "ID": "112917aa-dfb4-449c-9a87-a2f1a62fffee",
+    "Version": "2.3.4",
+    "Name": "dbzgamebackani1",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 56,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": 1045766285,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 28,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 56,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1045766285,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 28,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 56,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1045766285,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 28,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 56,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1045766285,
+                        "Property": "Alpha",
+                        "Frames": [
+                            {
+                                "Value": 38,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 28,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 38,
+                                "FrameIndex": 56,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1004298124,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 28,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 56,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1004298124,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 28,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 56,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1004298124,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 28,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 56,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1004298124,
+                        "Property": "Alpha",
+                        "Frames": [
+                            {
+                                "Value": 38,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 28,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 38,
+                                "FrameIndex": 56,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 39,
+                "Children": [
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Tag": 44,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzgameback12.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 78.0005
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "RightMargin": -640,
+                                "TopMargin": -134.0005,
+                                "BottomMargin": 78.0005,
+                                "Tag": 45,
+                                "ActionTag": 2141535666,
+                                "Size": {
+                                    "X": 640,
+                                    "Y": 56
+                                },
+                                "Name": "dbzgameback12_3",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzgameback12.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 1280,
+                                    "Y": 78
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1280,
+                                "RightMargin": -1920,
+                                "TopMargin": -134,
+                                "BottomMargin": 78,
+                                "Tag": 46,
+                                "ActionTag": -547128478,
+                                "Size": {
+                                    "X": 640,
+                                    "Y": 56
+                                },
+                                "Name": "dbzgameback12_3_0",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzgameback12.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 588.004
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": -1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "RightMargin": -640,
+                                "TopMargin": -644.004,
+                                "BottomMargin": 588.004,
+                                "Tag": 47,
+                                "ActionTag": 416617868,
+                                "Size": {
+                                    "X": 640,
+                                    "Y": 56
+                                },
+                                "Name": "dbzgameback12_3_1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzgameback12.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 1280,
+                                    "Y": 588
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": -1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1280,
+                                "RightMargin": -1920,
+                                "TopMargin": -644,
+                                "BottomMargin": 588,
+                                "Tag": 48,
+                                "ActionTag": 245733674,
+                                "Size": {
+                                    "X": 640,
+                                    "Y": 56
+                                },
+                                "Name": "dbzgameback12_3_0_0",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzgameback11.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 1
+                                },
+                                "Position": {
+                                    "X": 1280,
+                                    "Y": 79.9982
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1104,
+                                "RightMargin": -1280,
+                                "TopMargin": -581.9982,
+                                "BottomMargin": 79.9982,
+                                "Tag": 49,
+                                "ActionTag": 1358745199,
+                                "Size": {
+                                    "X": 176,
+                                    "Y": 502
+                                },
+                                "Name": "dbzgameback11_7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzgameback11.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 1
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 80
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -176,
+                                "TopMargin": -582,
+                                "BottomMargin": 80,
+                                "Tag": 50,
+                                "ActionTag": -414081060,
+                                "Size": {
+                                    "X": 176,
+                                    "Y": 502
+                                },
+                                "Name": "dbzgameback11_7_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": 1045766285,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Alpha": 231,
+                        "Name": "Node_1",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Tag": 51,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzgameback12.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 78.0005
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "RightMargin": -640,
+                                "TopMargin": -134.0005,
+                                "BottomMargin": 78.0005,
+                                "Tag": 52,
+                                "ActionTag": -2105691143,
+                                "Size": {
+                                    "X": 640,
+                                    "Y": 56
+                                },
+                                "Name": "dbzgameback12_3",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzgameback12.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 1280,
+                                    "Y": 78
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1280,
+                                "RightMargin": -1920,
+                                "TopMargin": -134,
+                                "BottomMargin": 78,
+                                "Tag": 53,
+                                "ActionTag": -1698426236,
+                                "Size": {
+                                    "X": 640,
+                                    "Y": 56
+                                },
+                                "Name": "dbzgameback12_3_0",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzgameback12.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 588.004
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": -1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "RightMargin": -640,
+                                "TopMargin": -644.004,
+                                "BottomMargin": 588.004,
+                                "Tag": 54,
+                                "ActionTag": 1694840176,
+                                "Size": {
+                                    "X": 640,
+                                    "Y": 56
+                                },
+                                "Name": "dbzgameback12_3_1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzgameback12.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 1280,
+                                    "Y": 588
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": -1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1280,
+                                "RightMargin": -1920,
+                                "TopMargin": -644,
+                                "BottomMargin": 588,
+                                "Tag": 55,
+                                "ActionTag": -1025976649,
+                                "Size": {
+                                    "X": 640,
+                                    "Y": 56
+                                },
+                                "Name": "dbzgameback12_3_0_0",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzgameback11.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 1
+                                },
+                                "Position": {
+                                    "X": 1280,
+                                    "Y": 79.9982
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1104,
+                                "RightMargin": -1280,
+                                "TopMargin": -581.9982,
+                                "BottomMargin": 79.9982,
+                                "Tag": 56,
+                                "ActionTag": -168719006,
+                                "Size": {
+                                    "X": 176,
+                                    "Y": 502
+                                },
+                                "Name": "dbzgameback11_7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzgameback11.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 1
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 80
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -176,
+                                "TopMargin": -582,
+                                "BottomMargin": 80,
+                                "Tag": 57,
+                                "ActionTag": 1563162457,
+                                "Size": {
+                                    "X": 176,
+                                    "Y": 502
+                                },
+                                "Name": "dbzgameback11_7_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -1004298124,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Alpha": 231,
+                        "Name": "Node_1_0",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "dbzpngres.plist",
+                "dbzpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

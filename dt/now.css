@@ -1,0 +1,78 @@
+#semll,#zhong,#big,#ying,#game,#comeput{
+    float:left;
+    width:12%;
+    height:40px;
+    margin-top:25px;
+    border:1px solid #000;
+    margin-left:10%;
+    line-height: 40px;
+    text-align: center;
+    outline: none;
+    cursor:pointer;
+}
+ #stauts{
+     float:left;
+     width:12%;
+     height:40px;
+     margin-left:10%;
+     margin-top:25px;
+     border:1px solid #000;
+     line-height: 40px;
+     text-align: center;
+     outline: none;
+     cursor:pointer;
+ }
+ #comeput{
+     margin-bottom:25px;
+     cursor:pointer;
+ }
+#luck{
+    position:fixed;
+    z-index: 1000;
+    border:none;
+    background:#fff;
+    overflow: hidden;
+    display:none;
+    opacity: 0.8;
+    outline: none;
+}
+/*#red{
+    position:fixed;
+    z-index: 1000;
+    border:none;
+    overflow: hidden;
+    background:red;
+    width:40px;
+    height:40px;
+}*/
+
+
+
+
+@media all and (orientation : landscape) {
+    #red{
+        position:fixed;
+        z-index: 1000;
+        border:none;
+        overflow: hidden;
+      /* background:red;*/
+        opacity: -1;
+    }
+}
+@media all and (orientation : portrait){
+#red {
+    position:fixed;
+    z-index: 1000;
+    border:none;
+    overflow: hidden;
+   /* background:red;/*
+    transform:rotate(90deg);
+    -ms-transform:rotate(90deg);
+    -moz-transform:rotate(90deg);
+    -webkit-transform:rotate(90deg);
+    -o-transform:rotate(90deg);
+    transform-origin:19px 19px;
+    opacity: -1;
+}
+}
+

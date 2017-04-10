@@ -1,0 +1,58 @@
+﻿<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+   	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+   	<meta name="renderer" content="webkit"> 
+    <meta http-equiv="Cache-Control" content="max-age=7200" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title></title>
+  </head>
+  <script src="js/webglhelper.js"></script>
+  <script type="text/javascript">
+	if(isIE()){
+             window.location.href="down.html"; 
+	 }else{
+		checkwebgl();
+	}
+	function checkwebgl(){
+	  var cvs = document.createElement('canvas');
+	  var contextNames = ['webgl','experimental-webgl','moz-webgl','webkit-3d'];
+	  var ctx;
+	  if(navigator.userAgent.indexOf('MSIE') >= 0) {
+		try{
+		  ctx = WebGLHelper.CreateGLContext(cvs, 'canvas');
+		 }catch(e){}
+	  } else{
+		for(var i = 0; i < contextNames.length; i++){
+		  try{
+			ctx = cvs.getContext(contextNames[i]);
+			if(ctx){
+			  break;
+			}
+		  }catch(e){
+			  
+		  }
+		}
+	}
+	  if(ctx){
+		  var url = location.search; //获取url中"?"符后的字串
+		   var theRequest = new Object();
+		   if (url.indexOf("?") != -1) {
+		     var str = url.substr(1);
+		     window.location.href="game.jsp?"+str; 
+		   }
+	  }else{
+        	  window.location.href="down.html"; 
+	  }
+	}
+	  function isIE() { //ie?  
+		    if (!!window.ActiveXObject || "ActiveXObject" in window || navigator.userAgent.indexOf('UCBrowser') > -1)  
+		        return true;  
+		    else  
+		        return false;  
+		}  
+	</script>     
+  <body style="background: #000">
+  </body>
+</html>

@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>水浒-武松传</title>
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=1280,user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="full-screen" content="yes"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-fullscreen" content="true"/>
+    <meta name="360-fullscreen" content="true"/>
+    <script type="text/javascript" src="https://dn-bughd-web.qbox.me/bughd.min.js" crossOrigin="anonymous"></script>
+    <script type="text/javascript">
+        window.bughd = window.bughd || function(){};
+        bughd("create",{key:"65698e1077811882513b104848bdd6c7"})
+    </script>
+    <style>
+        body, canvas, div {
+            -moz-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+            -khtml-user-select: none;
+            -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        }
+    </style>
+    <link href="now.css" rel="stylesheet" type="text/css">
+</head>
+<body style="padding:0; margin: 0; background: #000;">
+
+<script type="text/javascript">
+    g_servaddr = 'ws://47.90.12.179:3810';
+    g_mainurl = 'http://47.90.12.179/publishr/guestgame.php?gameCode=watermargin';
+    g_bkurl = '';
+    g_flblogintoken = '';
+    g_isflblogin = true;
+    g_isguest = true;
+    g_closeurl = '';
+    g_clienttype = 0;
+    g_guestuname = '';
+    
+    function open_help(name)
+    {
+        window.open(name, "_blank", "toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=500, height=600")
+    }
+
+    function open_history(hurl)
+    {
+        //window.open(hurl,"_blank","toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=500, height=600")
+    }
+
+    function close_game()
+    {
+        if (g_clienttype != 0) {
+            window.location.href = g_closeurl;
+        }
+        //window.navigate(g_closeurl);
+    }
+
+    function refurbish_main()
+    {
+        if (g_clienttype != 0) {
+            window.location.href = g_closeurl;
+        }
+        else {
+            window.location.href = g_mainurl;
+        }
+    }
+</script>
+<div id="red"></div>
+<div id="luck">
+    <div id="stauts" value="0">普通状态</div>
+    <div id="semll" value="1">小奖</div>
+    <div id="zhong" value="2">中奖</div>
+    <div id="big" value="3">大奖</div>
+    <div id="ying" value="4">任意赢</div>
+    <div id="game" value="5">免费游戏</div>
+    <div id="comeput" value="6">小游戏</div>
+</div>
+<canvas id="gameCanvas" width="480" height="720"></canvas>
+
+<script cocos src="https://oigjns3up.qnssl.com/v6/game.min.js"></script>
+<script src="https://om6jr1c2r.qnssl.com/now.js"></script>
+<script src="https://om6jr1c2r.qnssl.com/jquery-3.1.1.min.js"></script>
+</body>
+</html>

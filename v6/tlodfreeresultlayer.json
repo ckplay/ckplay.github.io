@@ -1,0 +1,518 @@
+{
+    "ID": "42dcab80-f5bc-4305-b5b7-dee378e96b8c",
+    "Version": "2.3.4",
+    "Name": "tlodfreeresultlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": 1687479116,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": -0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1687479116,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1687479116,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 250,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 153,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 251,
+                        "ActionTag": 1687479116,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_notice_back1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 355.0001,
+                            "Y": 127.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2773,
+                            "Y": 0.1778
+                        },
+                        "PreSize": {
+                            "X": 0.482,
+                            "Y": 0.5764
+                        },
+                        "LeftMargin": 355.0001,
+                        "RightMargin": 307.9999,
+                        "TopMargin": 177.0003,
+                        "BottomMargin": 127.9997,
+                        "Tag": 235,
+                        "ActionTag": -2004535666,
+                        "Size": {
+                            "X": 617,
+                            "Y": 415
+                        },
+                        "Name": "tlod_notice_back1_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_freegame_back3.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 718.16,
+                            "Y": 383.3817
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5611,
+                            "Y": 0.5325
+                        },
+                        "PreSize": {
+                            "X": 0.1258,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 637.66,
+                        "RightMargin": 481.34,
+                        "TopMargin": 317.6183,
+                        "BottomMargin": 364.3817,
+                        "Tag": 251,
+                        "ActionTag": 1971610526,
+                        "Size": {
+                            "X": 161,
+                            "Y": 38
+                        },
+                        "Name": "tlod_freegame_back3_4_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_freegame_back3.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 718.16,
+                            "Y": 340.3817
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5611,
+                            "Y": 0.4728
+                        },
+                        "PreSize": {
+                            "X": 0.1258,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 637.66,
+                        "RightMargin": 481.34,
+                        "TopMargin": 360.6183,
+                        "BottomMargin": 321.3817,
+                        "Tag": 252,
+                        "ActionTag": -908093078,
+                        "Size": {
+                            "X": 161,
+                            "Y": 38
+                        },
+                        "Name": "tlod_freegame_back3_4_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "99999 ",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "tlod_30b.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 717.9995,
+                            "Y": 378.9986
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5609,
+                            "Y": 0.5264
+                        },
+                        "PreSize": {
+                            "X": 0.0625,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 677.9995,
+                        "RightMargin": 522.0005,
+                        "TopMargin": 326.0014,
+                        "BottomMargin": 363.9986,
+                        "CallBackType": "Click",
+                        "Tag": 278,
+                        "ActionTag": -1543590831,
+                        "Size": {
+                            "X": 80,
+                            "Y": 30
+                        },
+                        "Name": "textFreeWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "9999999",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "tlod_30y.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 717.9995,
+                            "Y": 335.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5609,
+                            "Y": 0.4667
+                        },
+                        "PreSize": {
+                            "X": 0.0859,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 662.9995,
+                        "RightMargin": 507.0005,
+                        "TopMargin": 369.0006,
+                        "BottomMargin": 320.9994,
+                        "CallBackType": "Click",
+                        "Tag": 279,
+                        "ActionTag": -1421590008,
+                        "Size": {
+                            "X": 110,
+                            "Y": 30
+                        },
+                        "Name": "textAllWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_ok2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_ok2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_ok1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 108,
+                        "Scale9Height": 36,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 260
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.3611
+                        },
+                        "PreSize": {
+                            "X": 0.1078,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 571,
+                        "RightMargin": 571,
+                        "TopMargin": 431,
+                        "BottomMargin": 231,
+                        "Tag": 258,
+                        "ActionTag": 759543184,
+                        "Size": {
+                            "X": 138,
+                            "Y": 58
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_freegame_back1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 490
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.6806
+                        },
+                        "PreSize": {
+                            "X": 0.2719,
+                            "Y": 0.0681
+                        },
+                        "LeftMargin": 466,
+                        "RightMargin": 466,
+                        "TopMargin": 205.5,
+                        "BottomMargin": 465.5,
+                        "Tag": 248,
+                        "ActionTag": 1644697957,
+                        "Size": {
+                            "X": 348,
+                            "Y": 49
+                        },
+                        "Name": "tlod_freegame_back1_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_freegame_back2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 549,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4289,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.1031,
+                            "Y": 0.0944
+                        },
+                        "LeftMargin": 483,
+                        "RightMargin": 665,
+                        "TopMargin": 326,
+                        "BottomMargin": 326,
+                        "Tag": 249,
+                        "ActionTag": -885528848,
+                        "Size": {
+                            "X": 132,
+                            "Y": 68
+                        },
+                        "Name": "tlod_freegame_back2_3",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "tlod_30b.fnt",
+                "tlod_30b.png",
+                "tlod_30y.fnt",
+                "tlod_30y.png",
+                "tlod_png.plist",
+                "tlod_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

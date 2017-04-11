@@ -1,0 +1,658 @@
+{
+    "ID": "59c04f6c-558d-4ec3-b845-760643ac9a6d",
+    "Version": "2.3.4",
+    "Name": "tlodhelplayer2",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 226,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9OriginX": -422,
+                        "Scale9OriginY": -237,
+                        "Scale9Width": 844,
+                        "Scale9Height": 474,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": 0.0001,
+                        "RightMargin": -0.0001,
+                        "Tag": 598,
+                        "ActionTag": 1693762177,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_help_back1.jpg",
+                            "Plist": "tlod_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.0359,
+                            "Y": 0.0639
+                        },
+                        "RightMargin": 1234,
+                        "TopMargin": 674,
+                        "Tag": 599,
+                        "ActionTag": 1077452504,
+                        "Size": {
+                            "X": 640,
+                            "Y": 720
+                        },
+                        "Name": "heros108_rule_back1_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_help_back1.jpg",
+                            "Plist": "tlod_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 1
+                        },
+                        "Position": {
+                            "X": 1280,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 1,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.0359,
+                            "Y": 0.0639
+                        },
+                        "LeftMargin": 1234,
+                        "TopMargin": 674,
+                        "Tag": 600,
+                        "ActionTag": 1945922082,
+                        "Size": {
+                            "X": 640,
+                            "Y": 720
+                        },
+                        "Name": "heros108_rule_back1_9_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_help_back6.jpg",
+                            "Plist": "tlod_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 671
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.9319
+                        },
+                        "PreSize": {
+                            "X": 0.0359,
+                            "Y": 0.0639
+                        },
+                        "LeftMargin": 480,
+                        "RightMargin": 480,
+                        "TopMargin": 20,
+                        "BottomMargin": 642,
+                        "Tag": 601,
+                        "ActionTag": 97273922,
+                        "Size": {
+                            "X": 320,
+                            "Y": 58
+                        },
+                        "Name": "heros108_title_paytable_11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_title_pfx.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 674
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.9361
+                        },
+                        "PreSize": {
+                            "X": 0.1258,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 559.5,
+                        "RightMargin": 559.5,
+                        "TopMargin": 17,
+                        "BottomMargin": 645,
+                        "Tag": 275,
+                        "ActionTag": 1463653004,
+                        "Size": {
+                            "X": 161,
+                            "Y": 58
+                        },
+                        "Name": "tlod_title_pfx_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_back_img13.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1222,
+                            "Y": 678
+                        },
+                        "Scale": {
+                            "ScaleX": 0.6,
+                            "ScaleY": 0.6
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9547,
+                            "Y": 0.9417
+                        },
+                        "PreSize": {
+                            "X": 0.0945,
+                            "Y": 0.0569
+                        },
+                        "LeftMargin": 1161.5,
+                        "RightMargin": -2.5,
+                        "TopMargin": 21.5,
+                        "BottomMargin": 657.5,
+                        "Tag": 277,
+                        "ActionTag": -1538427454,
+                        "Size": {
+                            "X": 121,
+                            "Y": 41
+                        },
+                        "Name": "tlod_back_img13_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_close2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_close2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_close1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 26,
+                        "Scale9Height": 34,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1201.9998,
+                            "Y": 657.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9391,
+                            "Y": 0.9125
+                        },
+                        "PreSize": {
+                            "X": 0.0437,
+                            "Y": 0.0778
+                        },
+                        "LeftMargin": 1201.9998,
+                        "RightMargin": 22.0002,
+                        "TopMargin": 6.9998,
+                        "BottomMargin": 657.0002,
+                        "Tag": 276,
+                        "ActionTag": -2069739195,
+                        "Size": {
+                            "X": 56,
+                            "Y": 56
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_arrow2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_arrow2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_arrow1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 70,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1227.0028,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9586,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.0781,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 1177.0028,
+                        "RightMargin": 2.9972,
+                        "TopMargin": 338,
+                        "BottomMargin": 338,
+                        "Tag": 278,
+                        "ActionTag": -1996238737,
+                        "Size": {
+                            "X": 100,
+                            "Y": 44
+                        },
+                        "Name": "btnNext",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_arrow2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_arrow2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_arrow1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 70,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 53,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0414,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.0781,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 3,
+                        "RightMargin": 1177,
+                        "TopMargin": 338,
+                        "BottomMargin": 338,
+                        "Tag": 279,
+                        "ActionTag": -1711707711,
+                        "Size": {
+                            "X": 100,
+                            "Y": 44
+                        },
+                        "Name": "btnFront",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_help_back5.jpg",
+                            "Plist": "tlod_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 635.9997,
+                            "Y": 359
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4969,
+                            "Y": 0.4986
+                        },
+                        "PreSize": {
+                            "X": 0.7977,
+                            "Y": 0.6125
+                        },
+                        "LeftMargin": 125.4997,
+                        "RightMargin": 133.5002,
+                        "TopMargin": 140.5,
+                        "BottomMargin": 138.5,
+                        "Tag": 280,
+                        "ActionTag": 1565510434,
+                        "Size": {
+                            "X": 1021,
+                            "Y": 441
+                        },
+                        "Name": "tlod_help_back5_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_help_back7.jpg",
+                            "Plist": "tlod_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 40
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.0556
+                        },
+                        "PreSize": {
+                            "X": 0.6117,
+                            "Y": 0.0736
+                        },
+                        "LeftMargin": 248.5,
+                        "RightMargin": 248.5,
+                        "TopMargin": 653.5,
+                        "BottomMargin": 13.5,
+                        "Tag": 281,
+                        "ActionTag": 1372198387,
+                        "Size": {
+                            "X": 783,
+                            "Y": 53
+                        },
+                        "Name": "tlod_help_back7_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_help_back2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 1
+                        },
+                        "Position": {
+                            "X": 0,
+                            "Y": 720.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 1
+                        },
+                        "PreSize": {
+                            "X": 0.2508,
+                            "Y": 0.1361
+                        },
+                        "RightMargin": 959,
+                        "TopMargin": -0.0004,
+                        "BottomMargin": 622.0004,
+                        "Tag": 282,
+                        "ActionTag": 1981893072,
+                        "Size": {
+                            "X": 321,
+                            "Y": 98
+                        },
+                        "Name": "tlod_help_back2_7",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "tlod_jpg.jpg",
+                "tlod_jpg.plist",
+                "tlod_png.plist",
+                "tlod_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

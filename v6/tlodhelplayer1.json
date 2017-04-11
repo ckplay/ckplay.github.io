@@ -1,0 +1,3334 @@
+{
+    "ID": "29b636a5-e414-4956-ad3b-f74c72e18962",
+    "Version": "2.3.4",
+    "Name": "tlodhelplayer1",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -1918160960,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1918160960,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1918160960,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 226,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9OriginX": -422,
+                        "Scale9OriginY": -237,
+                        "Scale9Width": 844,
+                        "Scale9Height": 474,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": 0.0001,
+                        "RightMargin": -0.0001,
+                        "Tag": 208,
+                        "ActionTag": -1918160960,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_help_back1.jpg",
+                            "Plist": "tlod_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 320,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.25,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.5,
+                            "Y": 1
+                        },
+                        "RightMargin": 640,
+                        "Tag": 112,
+                        "ActionTag": -1628545970,
+                        "Size": {
+                            "X": 640,
+                            "Y": 720
+                        },
+                        "Name": "tlod_help_back1_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_help_back1.jpg",
+                            "Plist": "tlod_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 960,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.75,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.5,
+                            "Y": 1
+                        },
+                        "LeftMargin": 640,
+                        "Tag": 113,
+                        "ActionTag": 1870468575,
+                        "Size": {
+                            "X": 640,
+                            "Y": 720
+                        },
+                        "Name": "tlod_help_back1_1_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_help_back6.jpg",
+                            "Plist": "tlod_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 671
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.9319
+                        },
+                        "PreSize": {
+                            "X": 0.25,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 480,
+                        "RightMargin": 480,
+                        "TopMargin": 20,
+                        "BottomMargin": 642,
+                        "Tag": 114,
+                        "ActionTag": 1426569056,
+                        "Size": {
+                            "X": 320,
+                            "Y": 58
+                        },
+                        "Name": "tlod_help_back6_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_title_pfgz.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 674
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.9361
+                        },
+                        "PreSize": {
+                            "X": 0.1664,
+                            "Y": 0.0764
+                        },
+                        "LeftMargin": 533.5,
+                        "RightMargin": 533.5,
+                        "TopMargin": 18.5,
+                        "BottomMargin": 646.5,
+                        "Tag": 115,
+                        "ActionTag": 1700737239,
+                        "Size": {
+                            "X": 213,
+                            "Y": 55
+                        },
+                        "Name": "tlod_title_pfgz_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_help_back2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 1
+                        },
+                        "Position": {
+                            "X": 0,
+                            "Y": 720.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 1
+                        },
+                        "PreSize": {
+                            "X": 0.2508,
+                            "Y": 0.1361
+                        },
+                        "RightMargin": 959,
+                        "TopMargin": -0.0004,
+                        "BottomMargin": 622.0004,
+                        "Tag": 118,
+                        "ActionTag": -673053334,
+                        "Size": {
+                            "X": 321,
+                            "Y": 98
+                        },
+                        "Name": "tlod_help_back2_7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -141.0005,
+                            "Y": 158.9932
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": -0.1102,
+                            "Y": 0.2208
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -141.0005,
+                        "RightMargin": 1421.0005,
+                        "TopMargin": 561.0068,
+                        "BottomMargin": 158.9932,
+                        "Tag": 853,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlod_help_back4.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 385,
+                                    "Y": 265
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 385,
+                                "RightMargin": -635,
+                                "TopMargin": -406,
+                                "BottomMargin": 265,
+                                "Tag": 117,
+                                "ActionTag": -399836991,
+                                "Size": {
+                                    "X": 250,
+                                    "Y": 141
+                                },
+                                "Name": "tlod_help_back3_6",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlodicon1.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 450,
+                                    "Y": 334.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.65,
+                                    "ScaleY": 0.65
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 370,
+                                "RightMargin": -530,
+                                "TopMargin": -414.9991,
+                                "BottomMargin": 254.9991,
+                                "Tag": 230,
+                                "ActionTag": -265243954,
+                                "Size": {
+                                    "X": 160,
+                                    "Y": 160
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X5",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30y.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 500,
+                                    "Y": 362
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 500,
+                                "RightMargin": -538,
+                                "TopMargin": -377,
+                                "BottomMargin": 347,
+                                "Tag": 88,
+                                "Children": [
+                                    {
+                                        "LabelText": "·8000",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30y.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 2.5,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -90,
+                                        "Tag": 344,
+                                        "ActionTag": -698659955,
+                                        "Size": {
+                                            "X": 95,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1525089657,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30y.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 500,
+                                    "Y": 333
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 500,
+                                "RightMargin": -538,
+                                "TopMargin": -348,
+                                "BottomMargin": 318,
+                                "Tag": 89,
+                                "Children": [
+                                    {
+                                        "LabelText": "·500",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30y.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 2.1053,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -75,
+                                        "Tag": 169,
+                                        "ActionTag": -338415890,
+                                        "Size": {
+                                            "X": 80,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1037417042,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X3",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30y.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 500,
+                                    "Y": 304
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 500,
+                                "RightMargin": -537,
+                                "TopMargin": -319,
+                                "BottomMargin": 289,
+                                "Tag": 90,
+                                "Children": [
+                                    {
+                                        "LabelText": "·30",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30y.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8919,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 1.7568,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -61,
+                                        "Tag": 170,
+                                        "ActionTag": -188119394,
+                                        "Size": {
+                                            "X": 65,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 2043525165,
+                                "Size": {
+                                    "X": 37,
+                                    "Y": 30
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -13820951,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node1",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 382.9968,
+                            "Y": -0.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.2992,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 382.9968,
+                        "RightMargin": 897.0032,
+                        "TopMargin": 720.0002,
+                        "BottomMargin": -0.0002,
+                        "Tag": 854,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlod_help_back3.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 124.9999,
+                                    "Y": 425
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 124.9999,
+                                "RightMargin": -374.9999,
+                                "TopMargin": -566,
+                                "BottomMargin": 425,
+                                "Tag": 119,
+                                "ActionTag": 961238953,
+                                "Size": {
+                                    "X": 250,
+                                    "Y": 141
+                                },
+                                "Name": "tlod_help_back3_8",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlodicon2.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 189.9998,
+                                    "Y": 494.9998
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.65,
+                                    "ScaleY": 0.65
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 109.9998,
+                                "RightMargin": -269.9998,
+                                "TopMargin": -574.9998,
+                                "BottomMargin": 414.9998,
+                                "Tag": 855,
+                                "ActionTag": 295721757,
+                                "Size": {
+                                    "X": 160,
+                                    "Y": 160
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X3",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 250.9999,
+                                    "Y": 461.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 250.9999,
+                                "RightMargin": -287.9999,
+                                "TopMargin": -476.9991,
+                                "BottomMargin": 446.9991,
+                                "Tag": 193,
+                                "Children": [
+                                    {
+                                        "LabelText": "·30",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8919,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 1.7568,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -61,
+                                        "Tag": 194,
+                                        "ActionTag": 1995804975,
+                                        "Size": {
+                                            "X": 65,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 361667565,
+                                "Size": {
+                                    "X": 37,
+                                    "Y": 30
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 250.9999,
+                                    "Y": 490.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 250.9999,
+                                "RightMargin": -288.9999,
+                                "TopMargin": -505.9991,
+                                "BottomMargin": 475.9991,
+                                "Tag": 191,
+                                "Children": [
+                                    {
+                                        "LabelText": "·100",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 2.1053,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -75,
+                                        "Tag": 192,
+                                        "ActionTag": 363454561,
+                                        "Size": {
+                                            "X": 80,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 301413611,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X5",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 250.9999,
+                                    "Y": 519.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 250.9999,
+                                "RightMargin": -288.9999,
+                                "TopMargin": -534.9991,
+                                "BottomMargin": 504.9991,
+                                "Tag": 189,
+                                "Children": [
+                                    {
+                                        "LabelText": "·500",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 2.1053,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -75,
+                                        "Tag": 190,
+                                        "ActionTag": 1234145958,
+                                        "Size": {
+                                            "X": 80,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -133004990,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 649639248,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node2",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 385.9946,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.3016,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 385.9946,
+                        "RightMargin": 894.0054,
+                        "TopMargin": 720,
+                        "Tag": 121,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlod_help_back3.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 385.0001,
+                                    "Y": 425
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 385.0001,
+                                "RightMargin": -635.0001,
+                                "TopMargin": -566,
+                                "BottomMargin": 425,
+                                "Tag": 122,
+                                "ActionTag": 1339005420,
+                                "Size": {
+                                    "X": 250,
+                                    "Y": 141
+                                },
+                                "Name": "tlod_help_back3_8",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlodicon3.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 450,
+                                    "Y": 494.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.65,
+                                    "ScaleY": 0.65
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 370,
+                                "RightMargin": -530,
+                                "TopMargin": -574.9999,
+                                "BottomMargin": 414.9999,
+                                "Tag": 123,
+                                "ActionTag": -218511931,
+                                "Size": {
+                                    "X": 160,
+                                    "Y": 160
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X3",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 507.9999,
+                                    "Y": 461.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 507.9999,
+                                "RightMargin": -544.9999,
+                                "TopMargin": -476.9991,
+                                "BottomMargin": 446.9991,
+                                "Tag": 195,
+                                "Children": [
+                                    {
+                                        "LabelText": "·20",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8919,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 1.7568,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -61,
+                                        "Tag": 196,
+                                        "ActionTag": 892919735,
+                                        "Size": {
+                                            "X": 65,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -457449430,
+                                "Size": {
+                                    "X": 37,
+                                    "Y": 30
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 507.9999,
+                                    "Y": 490.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 507.9999,
+                                "RightMargin": -545.9999,
+                                "TopMargin": -505.9991,
+                                "BottomMargin": 475.9991,
+                                "Tag": 197,
+                                "Children": [
+                                    {
+                                        "LabelText": "·60",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 1.7105,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -60,
+                                        "Tag": 198,
+                                        "ActionTag": -642458783,
+                                        "Size": {
+                                            "X": 65,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1059519531,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X5",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 507.9999,
+                                    "Y": 519.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 507.9999,
+                                "RightMargin": -545.9999,
+                                "TopMargin": -534.9991,
+                                "BottomMargin": 504.9991,
+                                "Tag": 199,
+                                "Children": [
+                                    {
+                                        "LabelText": "·300",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 2.1053,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -75,
+                                        "Tag": 200,
+                                        "ActionTag": 906627458,
+                                        "Size": {
+                                            "X": 80,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1820894744,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 776440278,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node3",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -519.9947,
+                            "Y": -159.9976
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": -0.4062,
+                            "Y": -0.2222
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -519.9947,
+                        "RightMargin": 1799.9946,
+                        "TopMargin": 879.9976,
+                        "BottomMargin": -159.9976,
+                        "Tag": 130,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlod_help_back3.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 645.0001,
+                                    "Y": 425
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 645.0001,
+                                "RightMargin": -895.0001,
+                                "TopMargin": -566,
+                                "BottomMargin": 425,
+                                "Tag": 131,
+                                "ActionTag": -115212577,
+                                "Size": {
+                                    "X": 250,
+                                    "Y": 141
+                                },
+                                "Name": "tlod_help_back3_8",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlodicon4.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 709.9971,
+                                    "Y": 494.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.65,
+                                    "ScaleY": 0.65
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 629.9971,
+                                "RightMargin": -789.9971,
+                                "TopMargin": -574.9999,
+                                "BottomMargin": 414.9999,
+                                "Tag": 132,
+                                "ActionTag": -16828917,
+                                "Size": {
+                                    "X": 160,
+                                    "Y": 160
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X5",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 767.9999,
+                                    "Y": 519.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 767.9999,
+                                "RightMargin": -805.9999,
+                                "TopMargin": -534.9991,
+                                "BottomMargin": 504.9991,
+                                "Tag": 205,
+                                "Children": [
+                                    {
+                                        "LabelText": "·200",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 2.1053,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -75,
+                                        "Tag": 206,
+                                        "ActionTag": -445578271,
+                                        "Size": {
+                                            "X": 80,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -20992567,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 767.9999,
+                                    "Y": 490.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 767.9999,
+                                "RightMargin": -805.9999,
+                                "TopMargin": -505.9991,
+                                "BottomMargin": 475.9991,
+                                "Tag": 203,
+                                "Children": [
+                                    {
+                                        "LabelText": "·50",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 1.7105,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -60,
+                                        "Tag": 204,
+                                        "ActionTag": -1379952621,
+                                        "Size": {
+                                            "X": 65,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -811277760,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X3",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 767.9999,
+                                    "Y": 461.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 767.9999,
+                                "RightMargin": -804.9999,
+                                "TopMargin": -476.9991,
+                                "BottomMargin": 446.9991,
+                                "Tag": 201,
+                                "Children": [
+                                    {
+                                        "LabelText": "·10",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8919,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 1.7568,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -61,
+                                        "Tag": 202,
+                                        "ActionTag": -2107455244,
+                                        "Size": {
+                                            "X": 65,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -845565068,
+                                "Size": {
+                                    "X": 37,
+                                    "Y": 30
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 120252583,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node4",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -519.9857,
+                            "Y": -159.9992
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": -0.4062,
+                            "Y": -0.2222
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -519.9857,
+                        "RightMargin": 1799.9857,
+                        "TopMargin": 879.9992,
+                        "BottomMargin": -159.9992,
+                        "Tag": 139,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlod_help_back3.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 905.0001,
+                                    "Y": 425
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 905.0001,
+                                "RightMargin": -1155.0001,
+                                "TopMargin": -566,
+                                "BottomMargin": 425,
+                                "Tag": 140,
+                                "ActionTag": 136519865,
+                                "Size": {
+                                    "X": 250,
+                                    "Y": 141
+                                },
+                                "Name": "tlod_help_back3_8",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlodicon5.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 969.9999,
+                                    "Y": 495
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.65,
+                                    "ScaleY": 0.65
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 889.9999,
+                                "RightMargin": -1049.9999,
+                                "TopMargin": -575,
+                                "BottomMargin": 415,
+                                "Tag": 141,
+                                "ActionTag": 1376317841,
+                                "Size": {
+                                    "X": 160,
+                                    "Y": 160
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X3",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 1027.9999,
+                                    "Y": 461.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1027.9999,
+                                "RightMargin": -1064.9999,
+                                "TopMargin": -476.9991,
+                                "BottomMargin": 446.9991,
+                                "Tag": 211,
+                                "Children": [
+                                    {
+                                        "LabelText": "·5",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8919,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 1.3514,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -46,
+                                        "Tag": 212,
+                                        "ActionTag": 950373562,
+                                        "Size": {
+                                            "X": 50,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1585707626,
+                                "Size": {
+                                    "X": 37,
+                                    "Y": 30
+                                },
+                                "Name": "txt3_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 1027.9999,
+                                    "Y": 490.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1027.9999,
+                                "RightMargin": -1065.9999,
+                                "TopMargin": -505.9991,
+                                "BottomMargin": 475.9991,
+                                "Tag": 209,
+                                "Children": [
+                                    {
+                                        "LabelText": "·30",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 1.7105,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -60,
+                                        "Tag": 210,
+                                        "ActionTag": -1148251871,
+                                        "Size": {
+                                            "X": 65,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1628723807,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt4_0",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X5",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 1027.9999,
+                                    "Y": 519.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1027.9999,
+                                "RightMargin": -1065.9999,
+                                "TopMargin": -534.9991,
+                                "BottomMargin": 504.9991,
+                                "Tag": 207,
+                                "Children": [
+                                    {
+                                        "LabelText": "·100",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 2.1053,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -75,
+                                        "Tag": 208,
+                                        "ActionTag": 1765409978,
+                                        "Size": {
+                                            "X": 80,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 594365111,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt5_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -642862348,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node5",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 519.9999,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.4062,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 519.9999,
+                        "RightMargin": 760.0001,
+                        "TopMargin": 720,
+                        "Tag": 148,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlod_help_back3.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 125,
+                                    "Y": 265
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 125,
+                                "RightMargin": -375,
+                                "TopMargin": -406,
+                                "BottomMargin": 265,
+                                "Tag": 149,
+                                "ActionTag": 486170965,
+                                "Size": {
+                                    "X": 250,
+                                    "Y": 141
+                                },
+                                "Name": "tlod_help_back3_8",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlodicon6.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 190,
+                                    "Y": 334.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.65,
+                                    "ScaleY": 0.65
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 110,
+                                "RightMargin": -270,
+                                "TopMargin": -414.9991,
+                                "BottomMargin": 254.9991,
+                                "Tag": 150,
+                                "ActionTag": -1472195116,
+                                "Size": {
+                                    "X": 160,
+                                    "Y": 160
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X5",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 250.9999,
+                                    "Y": 363.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 250.9999,
+                                "RightMargin": -288.9999,
+                                "TopMargin": -378.9991,
+                                "BottomMargin": 348.9991,
+                                "Tag": 187,
+                                "Children": [
+                                    {
+                                        "LabelText": "·100",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 2.1053,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -75,
+                                        "Tag": 188,
+                                        "ActionTag": 514482316,
+                                        "Size": {
+                                            "X": 80,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1638859660,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 250.9999,
+                                    "Y": 334.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 250.9999,
+                                "RightMargin": -288.9999,
+                                "TopMargin": -349.9991,
+                                "BottomMargin": 319.9991,
+                                "Tag": 185,
+                                "Children": [
+                                    {
+                                        "LabelText": "·30",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 1.7105,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -60,
+                                        "Tag": 186,
+                                        "ActionTag": -1411922042,
+                                        "Size": {
+                                            "X": 65,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1941374330,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X3",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 250.9999,
+                                    "Y": 305.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 250.9999,
+                                "RightMargin": -287.9999,
+                                "TopMargin": -320.9991,
+                                "BottomMargin": 290.9991,
+                                "Tag": 183,
+                                "Children": [
+                                    {
+                                        "LabelText": "·5",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8919,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 1.3514,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -46,
+                                        "Tag": 184,
+                                        "ActionTag": -230450014,
+                                        "Size": {
+                                            "X": 50,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1977478882,
+                                "Size": {
+                                    "X": 37,
+                                    "Y": 30
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 573576396,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node6",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 1280.0001,
+                        "TopMargin": 720,
+                        "Tag": 157,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlod_help_back3.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 905.0001,
+                                    "Y": 265
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 905.0001,
+                                "RightMargin": -1155.0001,
+                                "TopMargin": -406,
+                                "BottomMargin": 265,
+                                "Tag": 158,
+                                "ActionTag": -296595088,
+                                "Size": {
+                                    "X": 250,
+                                    "Y": 141
+                                },
+                                "Name": "tlod_help_back3_8",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "tlodicon7.png",
+                                    "Plist": "tlod_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 970,
+                                    "Y": 334.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.65,
+                                    "ScaleY": 0.65
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 890,
+                                "RightMargin": -1050,
+                                "TopMargin": -414.9991,
+                                "BottomMargin": 254.9991,
+                                "Tag": 159,
+                                "ActionTag": -2089428533,
+                                "Size": {
+                                    "X": 160,
+                                    "Y": 160
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X3",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 1031,
+                                    "Y": 305.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1031,
+                                "RightMargin": -1068,
+                                "TopMargin": -320.9991,
+                                "BottomMargin": 290.9991,
+                                "Tag": 181,
+                                "Children": [
+                                    {
+                                        "LabelText": "·5",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8919,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 1.3514,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -46,
+                                        "Tag": 182,
+                                        "ActionTag": -695827177,
+                                        "Size": {
+                                            "X": 50,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1845621155,
+                                "Size": {
+                                    "X": 37,
+                                    "Y": 30
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 1031,
+                                    "Y": 334.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1031,
+                                "RightMargin": -1069,
+                                "TopMargin": -349.9991,
+                                "BottomMargin": 319.9991,
+                                "Tag": 179,
+                                "Children": [
+                                    {
+                                        "LabelText": "·25",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 1.7105,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -60,
+                                        "Tag": 180,
+                                        "ActionTag": -966605786,
+                                        "Size": {
+                                            "X": 65,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -624367552,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X5",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 1031,
+                                    "Y": 363.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1031,
+                                "RightMargin": -1069,
+                                "TopMargin": -378.9991,
+                                "BottomMargin": 348.9991,
+                                "Tag": 177,
+                                "Children": [
+                                    {
+                                        "LabelText": "·100",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "tlod_30b.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {},
+                                        "Position": {
+                                            "X": 33,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0.8684,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 2.1053,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 33,
+                                        "RightMargin": -75,
+                                        "Tag": 178,
+                                        "ActionTag": -1558313263,
+                                        "Size": {
+                                            "X": 80,
+                                            "Y": 30
+                                        },
+                                        "Name": "BitmapFontLabel_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1420017322,
+                                "Size": {
+                                    "X": 38,
+                                    "Y": 30
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 1971571474,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node7",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_arrow2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_arrow2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_arrow1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 70,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 53,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0414,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.0781,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 3,
+                        "RightMargin": 1177,
+                        "TopMargin": 338,
+                        "BottomMargin": 338,
+                        "Tag": 164,
+                        "ActionTag": -240239747,
+                        "Size": {
+                            "X": 100,
+                            "Y": 44
+                        },
+                        "Name": "btnFront",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_arrow2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_arrow2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_arrow1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 70,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1227.0028,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9586,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.0781,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 1177.0028,
+                        "RightMargin": 2.9972,
+                        "TopMargin": 338,
+                        "BottomMargin": 338,
+                        "Tag": 135,
+                        "ActionTag": 1116857809,
+                        "Size": {
+                            "X": 100,
+                            "Y": 44
+                        },
+                        "Name": "btnNext",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_back_img13.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1222,
+                            "Y": 678
+                        },
+                        "Scale": {
+                            "ScaleX": 0.6,
+                            "ScaleY": 0.6
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9547,
+                            "Y": 0.9417
+                        },
+                        "PreSize": {
+                            "X": 0.0945,
+                            "Y": 0.0569
+                        },
+                        "LeftMargin": 1161.5,
+                        "RightMargin": -2.5,
+                        "TopMargin": 21.5,
+                        "BottomMargin": 657.5,
+                        "Tag": 116,
+                        "ActionTag": 483843201,
+                        "Size": {
+                            "X": 121,
+                            "Y": 41
+                        },
+                        "Name": "tlod_back_img13_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_close2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_close2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_close1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 26,
+                        "Scale9Height": 34,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1201.9998,
+                            "Y": 657.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9391,
+                            "Y": 0.9125
+                        },
+                        "PreSize": {
+                            "X": 0.0437,
+                            "Y": 0.0778
+                        },
+                        "LeftMargin": 1201.9998,
+                        "RightMargin": 22.0002,
+                        "TopMargin": 6.9998,
+                        "BottomMargin": 657.0002,
+                        "Tag": 134,
+                        "ActionTag": -645851823,
+                        "Size": {
+                            "X": 56,
+                            "Y": 56
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_help_back8.jpg",
+                            "Plist": "tlod_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 190
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.2639
+                        },
+                        "PreSize": {
+                            "X": 0.6633,
+                            "Y": 0.1278
+                        },
+                        "LeftMargin": 215.5,
+                        "RightMargin": 215.5,
+                        "TopMargin": 484,
+                        "BottomMargin": 144,
+                        "Tag": 120,
+                        "ActionTag": -1413329365,
+                        "Size": {
+                            "X": 849,
+                            "Y": 92
+                        },
+                        "Name": "tlod_help_back8_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlodicon0.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 355.9999,
+                            "Y": 223.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 0.45,
+                            "ScaleY": 0.45
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2781,
+                            "Y": 0.3097
+                        },
+                        "PreSize": {
+                            "X": 0.125,
+                            "Y": 0.2222
+                        },
+                        "LeftMargin": 275.9999,
+                        "RightMargin": 844.0001,
+                        "TopMargin": 416.9999,
+                        "BottomMargin": 143.0001,
+                        "Tag": 166,
+                        "ActionTag": 1504560809,
+                        "Size": {
+                            "X": 160,
+                            "Y": 160
+                        },
+                        "Name": "tlodicon0_20",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlodicon12.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 554.0201,
+                            "Y": 223.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 0.45,
+                            "ScaleY": 0.45
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4328,
+                            "Y": 0.3097
+                        },
+                        "PreSize": {
+                            "X": 0.125,
+                            "Y": 0.2222
+                        },
+                        "LeftMargin": 474.0201,
+                        "RightMargin": 645.9799,
+                        "TopMargin": 416.9999,
+                        "BottomMargin": 143.0001,
+                        "Tag": 167,
+                        "ActionTag": -2007505629,
+                        "Size": {
+                            "X": 160,
+                            "Y": 160
+                        },
+                        "Name": "tlodicon12_21",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlodicon12.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 724.0199,
+                            "Y": 166.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 0.45,
+                            "ScaleY": 0.45
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5656,
+                            "Y": 0.2306
+                        },
+                        "PreSize": {
+                            "X": 0.125,
+                            "Y": 0.2222
+                        },
+                        "LeftMargin": 644.0199,
+                        "RightMargin": 475.9801,
+                        "TopMargin": 473.9999,
+                        "BottomMargin": 86.0001,
+                        "Tag": 168,
+                        "ActionTag": -576627963,
+                        "Size": {
+                            "X": 160,
+                            "Y": 160
+                        },
+                        "Name": "tlodicon12_21_0",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "tlod_30b.fnt",
+                "tlod_30b.png",
+                "tlod_30y.fnt",
+                "tlod_30y.png",
+                "tlod_jpg.jpg",
+                "tlod_jpg.plist",
+                "tlod_png.plist",
+                "tlod_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

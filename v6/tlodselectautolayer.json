@@ -1,0 +1,765 @@
+{
+    "ID": "73d6eb61-1fd6-462c-b16e-f11edf36c9e1",
+    "Version": "2.3.4",
+    "Name": "tlodselectautolayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 326,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "empty.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 2,
+                        "Scale9OriginY": 2,
+                        "Scale9Width": 5,
+                        "Scale9Height": 5,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 150,
+                        "ActionTag": 173043809,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_img_autoback.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1175.2014,
+                            "Y": 225.0283
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9181,
+                            "Y": 0.3125
+                        },
+                        "PreSize": {
+                            "X": 0.1203,
+                            "Y": 0.4903
+                        },
+                        "LeftMargin": 1098.2014,
+                        "RightMargin": 27.7986,
+                        "TopMargin": 318.4717,
+                        "BottomMargin": 48.5283,
+                        "Tag": 528,
+                        "ActionTag": -577166083,
+                        "Size": {
+                            "X": 154,
+                            "Y": 353
+                        },
+                        "Name": "heros108_back_autonums2_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 108,
+                        "Scale9Height": 38,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1108.0005,
+                            "Y": 287.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8656,
+                            "Y": 0.3986
+                        },
+                        "PreSize": {
+                            "X": 0.1078,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1108.0005,
+                        "RightMargin": 33.9995,
+                        "TopMargin": 374.9998,
+                        "BottomMargin": 287.0002,
+                        "Tag": 152,
+                        "Children": [
+                            {
+                                "LabelText": "5 0 0 ",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_36.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 70.0001,
+                                    "Y": 25.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5072,
+                                    "Y": 0.4483
+                                },
+                                "PreSize": {
+                                    "X": 0.5652,
+                                    "Y": 0.7069
+                                },
+                                "LeftMargin": 31.0001,
+                                "RightMargin": 28.9999,
+                                "TopMargin": 11.5001,
+                                "BottomMargin": 5.4999,
+                                "Tag": 408,
+                                "ActionTag": 668731291,
+                                "Size": {
+                                    "X": 78,
+                                    "Y": 41
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 374906188,
+                        "Size": {
+                            "X": 138,
+                            "Y": 58
+                        },
+                        "Name": "btnAuto500",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 108,
+                        "Scale9Height": 38,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1108.0005,
+                            "Y": 229.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8656,
+                            "Y": 0.3194
+                        },
+                        "PreSize": {
+                            "X": 0.1078,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1108.0005,
+                        "RightMargin": 33.9995,
+                        "TopMargin": 432.0001,
+                        "BottomMargin": 229.9999,
+                        "Tag": 153,
+                        "Children": [
+                            {
+                                "LabelText": "2 0 0 ",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_36.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 70.0001,
+                                    "Y": 25.9998
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5072,
+                                    "Y": 0.4483
+                                },
+                                "PreSize": {
+                                    "X": 0.5652,
+                                    "Y": 0.7069
+                                },
+                                "LeftMargin": 31.0001,
+                                "RightMargin": 28.9999,
+                                "TopMargin": 11.5002,
+                                "BottomMargin": 5.4998,
+                                "Tag": 409,
+                                "ActionTag": 108231471,
+                                "Size": {
+                                    "X": 78,
+                                    "Y": 41
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 49349917,
+                        "Size": {
+                            "X": 138,
+                            "Y": 58
+                        },
+                        "Name": "btnAuto200",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 108,
+                        "Scale9Height": 38,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1108.0005,
+                            "Y": 173.0012
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8656,
+                            "Y": 0.2403
+                        },
+                        "PreSize": {
+                            "X": 0.1078,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1108.0005,
+                        "RightMargin": 33.9995,
+                        "TopMargin": 488.9988,
+                        "BottomMargin": 173.0012,
+                        "Tag": 154,
+                        "Children": [
+                            {
+                                "LabelText": "1 0 0 ",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_36.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 70.0001,
+                                    "Y": 25.9998
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5072,
+                                    "Y": 0.4483
+                                },
+                                "PreSize": {
+                                    "X": 0.5652,
+                                    "Y": 0.7069
+                                },
+                                "LeftMargin": 31.0001,
+                                "RightMargin": 28.9999,
+                                "TopMargin": 11.5002,
+                                "BottomMargin": 5.4998,
+                                "Tag": 410,
+                                "ActionTag": 1432854864,
+                                "Size": {
+                                    "X": 78,
+                                    "Y": 41
+                                },
+                                "Name": "BitmapFontLabel_1_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 316103498,
+                        "Size": {
+                            "X": 138,
+                            "Y": 58
+                        },
+                        "Name": "btnAuto100",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 108,
+                        "Scale9Height": 38,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1108.0005,
+                            "Y": 116
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8656,
+                            "Y": 0.1611
+                        },
+                        "PreSize": {
+                            "X": 0.1078,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1108.0005,
+                        "RightMargin": 33.9995,
+                        "TopMargin": 546,
+                        "BottomMargin": 116,
+                        "Tag": 155,
+                        "Children": [
+                            {
+                                "LabelText": "5 0",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_36.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 70.0001,
+                                    "Y": 25.9997
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5072,
+                                    "Y": 0.4483
+                                },
+                                "PreSize": {
+                                    "X": 0.3696,
+                                    "Y": 0.7069
+                                },
+                                "LeftMargin": 44.5001,
+                                "RightMargin": 42.4999,
+                                "TopMargin": 11.5003,
+                                "BottomMargin": 5.4997,
+                                "Tag": 411,
+                                "ActionTag": -92091290,
+                                "Size": {
+                                    "X": 51,
+                                    "Y": 41
+                                },
+                                "Name": "BitmapFontLabel_1_0_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1863787116,
+                        "Size": {
+                            "X": 138,
+                            "Y": 58
+                        },
+                        "Name": "btnAuto50",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_autotime1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 108,
+                        "Scale9Height": 38,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1108.0005,
+                            "Y": 59
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8656,
+                            "Y": 0.0819
+                        },
+                        "PreSize": {
+                            "X": 0.1078,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1108.0005,
+                        "RightMargin": 33.9995,
+                        "TopMargin": 603,
+                        "BottomMargin": 59,
+                        "Tag": 156,
+                        "Children": [
+                            {
+                                "LabelText": "2 5",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tlod_36.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 70.0002,
+                                    "Y": 25.9997
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5072,
+                                    "Y": 0.4483
+                                },
+                                "PreSize": {
+                                    "X": 0.3623,
+                                    "Y": 0.7069
+                                },
+                                "LeftMargin": 45.0002,
+                                "RightMargin": 42.9998,
+                                "TopMargin": 11.5003,
+                                "BottomMargin": 5.4997,
+                                "Tag": 412,
+                                "ActionTag": -1397850955,
+                                "Size": {
+                                    "X": 50,
+                                    "Y": 41
+                                },
+                                "Name": "BitmapFontLabel_1_0_0_0_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1768605754,
+                        "Size": {
+                            "X": 138,
+                            "Y": 58
+                        },
+                        "Name": "btnAuto25",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_auto3.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_auto2.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tlod_btn_auto1.png",
+                            "Plist": "tlod_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 160,
+                        "Scale9Height": 28,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1080.9941,
+                            "Y": 7.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8445,
+                            "Y": 0.0097
+                        },
+                        "PreSize": {
+                            "X": 0.1484,
+                            "Y": 0.0694
+                        },
+                        "LeftMargin": 1080.9941,
+                        "RightMargin": 9.0059,
+                        "TopMargin": 662.9998,
+                        "BottomMargin": 7.0002,
+                        "Tag": 407,
+                        "ActionTag": 1215862949,
+                        "Size": {
+                            "X": 190,
+                            "Y": 50
+                        },
+                        "Name": "btnAuto",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "tlod_36.fnt",
+                "tlod_36.png",
+                "tlod_png.plist",
+                "tlod_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

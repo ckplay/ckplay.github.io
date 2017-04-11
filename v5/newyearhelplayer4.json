@@ -1,0 +1,784 @@
+{
+    "ID": "ced89d04-5b24-4a7a-b402-622361332cd2",
+    "Version": "2.3.4",
+    "Name": "newyearhelplayer4",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 161,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9OriginX": -422,
+                        "Scale9OriginY": -237,
+                        "Scale9Width": 844,
+                        "Scale9Height": 474,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": 0.0001,
+                        "RightMargin": -0.0001,
+                        "Tag": 923,
+                        "ActionTag": -363020511,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_help.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.5,
+                            "Y": 0.9431
+                        },
+                        "RightMargin": 640,
+                        "TopMargin": 41,
+                        "Tag": 924,
+                        "ActionTag": -599033688,
+                        "Size": {
+                            "X": 640,
+                            "Y": 679
+                        },
+                        "Name": "heros108_rule_back1_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_help.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 1
+                        },
+                        "Position": {
+                            "X": 1280,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 1,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.5,
+                            "Y": 0.9431
+                        },
+                        "LeftMargin": 640,
+                        "TopMargin": 41,
+                        "Tag": 925,
+                        "ActionTag": 848949141,
+                        "Size": {
+                            "X": 640,
+                            "Y": 679
+                        },
+                        "Name": "heros108_rule_back1_9_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_title_game.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 391,
+                            "Y": 601
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3055,
+                            "Y": 0.8347
+                        },
+                        "PreSize": {
+                            "X": 0.3883,
+                            "Y": 0.1347
+                        },
+                        "LeftMargin": 391,
+                        "RightMargin": 392,
+                        "TopMargin": 22,
+                        "BottomMargin": 601,
+                        "Tag": 926,
+                        "ActionTag": -1663403996,
+                        "Size": {
+                            "X": 497,
+                            "Y": 97
+                        },
+                        "Name": "heros108_title_paytable_11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_close2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_close2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_close1.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 46,
+                        "Scale9Height": 58,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1181.9998,
+                            "Y": 617.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9234,
+                            "Y": 0.8569
+                        },
+                        "PreSize": {
+                            "X": 0.0594,
+                            "Y": 0.1111
+                        },
+                        "LeftMargin": 1181.9998,
+                        "RightMargin": 22.0002,
+                        "TopMargin": 22.9998,
+                        "BottomMargin": 617.0002,
+                        "Tag": 929,
+                        "ActionTag": -1718222722,
+                        "Size": {
+                            "X": 76,
+                            "Y": 80
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_arrow2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_arrow2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_arrow1.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 87,
+                        "Scale9Height": 42,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 145.0001,
+                            "Y": 8.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.0125
+                        },
+                        "PreSize": {
+                            "X": 0.0914,
+                            "Y": 0.0889
+                        },
+                        "LeftMargin": 145.0001,
+                        "RightMargin": 1017.9999,
+                        "TopMargin": 647.0003,
+                        "BottomMargin": 8.9997,
+                        "Tag": 930,
+                        "ActionTag": -1024219192,
+                        "Size": {
+                            "X": 117,
+                            "Y": 64
+                        },
+                        "Name": "btnFront",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_arrow2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_arrow2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_arrow1.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 87,
+                        "Scale9Height": 42,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1137.0017,
+                            "Y": 8.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8883,
+                            "Y": 0.0125
+                        },
+                        "PreSize": {
+                            "X": 0.0914,
+                            "Y": 0.0889
+                        },
+                        "LeftMargin": 1137.0017,
+                        "RightMargin": 25.9983,
+                        "TopMargin": 647.0003,
+                        "BottomMargin": 8.9997,
+                        "Tag": 931,
+                        "ActionTag": -172872315,
+                        "Size": {
+                            "X": 117,
+                            "Y": 64
+                        },
+                        "Name": "btnNext",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_help4_img1.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 24.9998,
+                            "Y": 83
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0195,
+                            "Y": 0.1153
+                        },
+                        "PreSize": {
+                            "X": 0.0234,
+                            "Y": 0.7236
+                        },
+                        "LeftMargin": 9.9998,
+                        "RightMargin": 1240.0002,
+                        "TopMargin": 116,
+                        "BottomMargin": 83,
+                        "Tag": 172,
+                        "ActionTag": 1780950398,
+                        "Size": {
+                            "X": 30,
+                            "Y": 521
+                        },
+                        "Name": "newyear_help4_img1_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_help4_img1.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 1253.9998,
+                            "Y": 83
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9797,
+                            "Y": 0.1153
+                        },
+                        "PreSize": {
+                            "X": 0.0234,
+                            "Y": 0.7236
+                        },
+                        "LeftMargin": 1238.9998,
+                        "RightMargin": 11.0002,
+                        "TopMargin": 116,
+                        "BottomMargin": 83,
+                        "Tag": 16,
+                        "ActionTag": -2020342772,
+                        "Size": {
+                            "X": 30,
+                            "Y": 521
+                        },
+                        "Name": "newyear_help4_img1_1_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_help4_1.png",
+                            "Plist": "newyear_anijpg2.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 339.9998,
+                            "Y": 116
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2656,
+                            "Y": 0.1611
+                        },
+                        "PreSize": {
+                            "X": 0.4688,
+                            "Y": 0.6278
+                        },
+                        "LeftMargin": 39.9998,
+                        "RightMargin": 640.0002,
+                        "TopMargin": 152,
+                        "BottomMargin": 116,
+                        "Tag": 13,
+                        "ActionTag": 273500056,
+                        "Size": {
+                            "X": 600,
+                            "Y": 452
+                        },
+                        "Name": "newyear_back_help4_1_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_help4_1.png",
+                            "Plist": "newyear_anijpg2.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 938.9968,
+                            "Y": 115.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7336,
+                            "Y": 0.1611
+                        },
+                        "PreSize": {
+                            "X": 0.4688,
+                            "Y": 0.6278
+                        },
+                        "LeftMargin": 638.9968,
+                        "RightMargin": 41.0032,
+                        "TopMargin": 152.0001,
+                        "BottomMargin": 115.9999,
+                        "Tag": 15,
+                        "ActionTag": -2037632629,
+                        "Size": {
+                            "X": 600,
+                            "Y": 452
+                        },
+                        "Name": "newyear_back_help4_1_2_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_help4_img4.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 342
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.475
+                        },
+                        "PreSize": {
+                            "X": 0.0313,
+                            "Y": 0.6278
+                        },
+                        "LeftMargin": 620,
+                        "RightMargin": 620,
+                        "TopMargin": 152,
+                        "BottomMargin": 116,
+                        "Tag": 79,
+                        "ActionTag": 1956209171,
+                        "Size": {
+                            "X": 40,
+                            "Y": 452
+                        },
+                        "Name": "newyear_help4_img4_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_help4_img3.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 907.084,
+                            "Y": 316.0916
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7087,
+                            "Y": 0.439
+                        },
+                        "PreSize": {
+                            "X": 0.3969,
+                            "Y": 0.2861
+                        },
+                        "LeftMargin": 653.084,
+                        "RightMargin": 118.916,
+                        "TopMargin": 300.9084,
+                        "BottomMargin": 213.0916,
+                        "Tag": 174,
+                        "ActionTag": 246297583,
+                        "Size": {
+                            "X": 508,
+                            "Y": 206
+                        },
+                        "Name": "newyear_help4_img3_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_help4_img2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 496
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.6889
+                        },
+                        "PreSize": {
+                            "X": 0.6578,
+                            "Y": 0.0389
+                        },
+                        "LeftMargin": 219,
+                        "RightMargin": 219,
+                        "TopMargin": 210,
+                        "BottomMargin": 482,
+                        "Tag": 173,
+                        "ActionTag": 829441435,
+                        "Size": {
+                            "X": 842,
+                            "Y": 28
+                        },
+                        "Name": "newyear_help4_img2_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_help4_2.png",
+                            "Plist": "newyear_anijpg2.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 342.8068,
+                            "Y": 306.04
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2678,
+                            "Y": 0.4251
+                        },
+                        "PreSize": {
+                            "X": 0.375,
+                            "Y": 0.3778
+                        },
+                        "LeftMargin": 102.8068,
+                        "RightMargin": 697.1932,
+                        "TopMargin": 277.96,
+                        "BottomMargin": 170.04,
+                        "Tag": 14,
+                        "ActionTag": -857699662,
+                        "Size": {
+                            "X": 480,
+                            "Y": 272
+                        },
+                        "Name": "newyear_back_help4_2_3",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "newyear_anijpg2.jpg",
+                "newyear_anijpg2.plist",
+                "newyear_png3.plist",
+                "newyear_png3.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,174 @@
+{
+    "ID": "ab4033f6-c1ec-486a-8e88-d27f0202071b",
+    "Version": "2.3.4",
+    "Name": "newyearwinani0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 24,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": -1453180422,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 640,
+                                "Y": 675.9997,
+                                "FrameIndex": 24,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1453180422,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 24,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1453180422,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 24,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 397,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": -1280,
+                        "TopMargin": -720,
+                        "Tag": 1814,
+                        "ActionTag": -61654088,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Alpha": 0,
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "Normal",
+                            "Path": "blyd.ExportJson",
+                            "Plist": ""
+                        },
+                        "IsLoop": false,
+                        "IsAutoPlay": true,
+                        "CurrentAnimationName": "blyd",
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 640,
+                            "Y": 675.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 640,
+                        "RightMargin": -640,
+                        "TopMargin": -675.9997,
+                        "BottomMargin": 675.9997,
+                        "Tag": 248,
+                        "ActionTag": -1453180422,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "ArmatureNode_1",
+                        "ctype": "ArmatureNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "blyd.ExportJson",
+                "blyd0.plist",
+                "blyd0.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

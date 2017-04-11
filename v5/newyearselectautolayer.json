@@ -1,0 +1,543 @@
+{
+    "ID": "73d6eb61-1fd6-462c-b16e-f11edf36c9e1",
+    "Version": "2.3.4",
+    "Name": "newyearselectautolayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 326,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "empty.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "Scale9OriginX": 2,
+                        "Scale9OriginY": 2,
+                        "Scale9Width": 5,
+                        "Scale9Height": 5,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 150,
+                        "ActionTag": 173043809,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back18.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1085.2007,
+                            "Y": 217.028
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8478,
+                            "Y": 0.3014
+                        },
+                        "PreSize": {
+                            "X": 0.0883,
+                            "Y": 0.5042
+                        },
+                        "LeftMargin": 1028.7007,
+                        "RightMargin": 138.2993,
+                        "TopMargin": 321.472,
+                        "BottomMargin": 35.528,
+                        "Tag": 528,
+                        "ActionTag": -577166083,
+                        "Size": {
+                            "X": 113,
+                            "Y": 363
+                        },
+                        "Name": "heros108_back_autonums2_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin500_3.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin500_2.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin500_1.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 99,
+                        "Scale9Height": 41,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1019,
+                            "Y": 305
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7961,
+                            "Y": 0.4236
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0847
+                        },
+                        "LeftMargin": 1019,
+                        "RightMargin": 132,
+                        "TopMargin": 354,
+                        "BottomMargin": 305,
+                        "Tag": 152,
+                        "ActionTag": 374906188,
+                        "Size": {
+                            "X": 129,
+                            "Y": 61
+                        },
+                        "Name": "btnAuto500",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin200_3.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin200_2.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin200_1.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 99,
+                        "Scale9Height": 41,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1019,
+                            "Y": 244
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7961,
+                            "Y": 0.3389
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0847
+                        },
+                        "LeftMargin": 1019,
+                        "RightMargin": 132,
+                        "TopMargin": 415,
+                        "BottomMargin": 244,
+                        "Tag": 153,
+                        "ActionTag": 49349917,
+                        "Size": {
+                            "X": 129,
+                            "Y": 61
+                        },
+                        "Name": "btnAuto200",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin100_3.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin100_2.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin100_1.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 99,
+                        "Scale9Height": 41,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1019,
+                            "Y": 183.001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7961,
+                            "Y": 0.2542
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0847
+                        },
+                        "LeftMargin": 1019,
+                        "RightMargin": 132,
+                        "TopMargin": 475.999,
+                        "BottomMargin": 183.001,
+                        "Tag": 154,
+                        "ActionTag": 316103498,
+                        "Size": {
+                            "X": 129,
+                            "Y": 61
+                        },
+                        "Name": "btnAuto100",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin50_3.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin50_2.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin50_1.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 99,
+                        "Scale9Height": 41,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1019,
+                            "Y": 122
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7961,
+                            "Y": 0.1694
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0847
+                        },
+                        "LeftMargin": 1019,
+                        "RightMargin": 132,
+                        "TopMargin": 537,
+                        "BottomMargin": 122,
+                        "Tag": 155,
+                        "ActionTag": -1863787116,
+                        "Size": {
+                            "X": 129,
+                            "Y": 61
+                        },
+                        "Name": "btnAuto50",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin25_3.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin25_2.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_spin25_1.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 99,
+                        "Scale9Height": 41,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1019,
+                            "Y": 61
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7961,
+                            "Y": 0.0847
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0847
+                        },
+                        "LeftMargin": 1019,
+                        "RightMargin": 132,
+                        "TopMargin": 598,
+                        "BottomMargin": 61,
+                        "Tag": 156,
+                        "ActionTag": -1768605754,
+                        "Size": {
+                            "X": 129,
+                            "Y": 61
+                        },
+                        "Name": "btnAuto25",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_autospin3.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_autospin2.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_autospin1.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 114,
+                        "Scale9Height": 38,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1020.9963,
+                            "Y": 0.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7977,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.1125,
+                            "Y": 0.0833
+                        },
+                        "LeftMargin": 1020.9963,
+                        "RightMargin": 115.0037,
+                        "TopMargin": 659.9998,
+                        "BottomMargin": 0.0002,
+                        "Tag": 231,
+                        "ActionTag": 694210941,
+                        "Size": {
+                            "X": 144,
+                            "Y": 60
+                        },
+                        "Name": "btnAuto",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "newyear_png.plist",
+                "newyear_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,268 @@
+{
+    "ID": "c80abd58-a3a0-4219-b77d-badbe1254422",
+    "Version": "2.3.4",
+    "Name": "newyearsetuplayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 249,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 127,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 750,
+                        "ActionTag": -1407934019,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back20.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 105.0001,
+                            "Y": 364
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.082,
+                            "Y": 0.5056
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.3194
+                        },
+                        "LeftMargin": 56.0001,
+                        "RightMargin": 1126,
+                        "TopMargin": 241,
+                        "BottomMargin": 249,
+                        "Tag": 468,
+                        "ActionTag": -916284059,
+                        "Size": {
+                            "X": 98,
+                            "Y": 230
+                        },
+                        "Name": "newyear_back20_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_help1.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_help2.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_help1.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 57,
+                        "Scale9Height": 39,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 76,
+                            "Y": 372
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0594,
+                            "Y": 0.5167
+                        },
+                        "PreSize": {
+                            "X": 0.068,
+                            "Y": 0.0847
+                        },
+                        "LeftMargin": 76,
+                        "RightMargin": 1117,
+                        "TopMargin": 287,
+                        "BottomMargin": 372,
+                        "Tag": 250,
+                        "ActionTag": -1734526316,
+                        "Size": {
+                            "X": 87,
+                            "Y": 61
+                        },
+                        "Name": "btnHelp",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_history1.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_history2.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_history1.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 57,
+                        "Scale9Height": 39,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 76.0001,
+                            "Y": 293.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0594,
+                            "Y": 0.4083
+                        },
+                        "PreSize": {
+                            "X": 0.068,
+                            "Y": 0.0847
+                        },
+                        "LeftMargin": 76.0001,
+                        "RightMargin": 1117,
+                        "TopMargin": 365.0001,
+                        "BottomMargin": 293.9999,
+                        "Tag": 251,
+                        "ActionTag": 2108954151,
+                        "Size": {
+                            "X": 87,
+                            "Y": 61
+                        },
+                        "Name": "btnHistory",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "newyear_png.plist",
+                "newyear_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

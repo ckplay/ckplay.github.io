@@ -1,0 +1,386 @@
+{
+    "ID": "42dcab80-f5bc-4305-b5b7-dee378e96b8c",
+    "Version": "2.3.4",
+    "Name": "newyearfreeresultlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": 1687479116,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": -0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1687479116,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1687479116,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 250,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 251,
+                        "ActionTag": 1687479116,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_freegame.png",
+                            "Plist": "newyear_png2.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.5266,
+                            "Y": 0.5861
+                        },
+                        "LeftMargin": 303,
+                        "RightMargin": 303,
+                        "TopMargin": 149,
+                        "BottomMargin": 149,
+                        "Tag": 252,
+                        "ActionTag": 54323373,
+                        "Size": {
+                            "X": 674,
+                            "Y": 422
+                        },
+                        "Name": "narutodlgback1_29",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "99999 ",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "newyear_48d.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 712.9995,
+                            "Y": 418.9985
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.557,
+                            "Y": 0.5819
+                        },
+                        "PreSize": {
+                            "X": 0.1211,
+                            "Y": 0.0889
+                        },
+                        "LeftMargin": 635.4995,
+                        "RightMargin": 489.5005,
+                        "TopMargin": 269.0015,
+                        "BottomMargin": 386.9985,
+                        "CallBackType": "Click",
+                        "Tag": 277,
+                        "ActionTag": 1755446985,
+                        "Size": {
+                            "X": 155,
+                            "Y": 64
+                        },
+                        "Name": "textGameWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "99999 ",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "newyear_48d.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 712.9995,
+                            "Y": 355.9989
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.557,
+                            "Y": 0.4944
+                        },
+                        "PreSize": {
+                            "X": 0.1211,
+                            "Y": 0.0889
+                        },
+                        "LeftMargin": 635.4995,
+                        "RightMargin": 489.5005,
+                        "TopMargin": 332.0011,
+                        "BottomMargin": 323.9989,
+                        "CallBackType": "Click",
+                        "Tag": 278,
+                        "ActionTag": -1543590831,
+                        "Size": {
+                            "X": 155,
+                            "Y": 64
+                        },
+                        "Name": "textFreeWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "9999999",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "newyear_48.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 712.9995,
+                            "Y": 293.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.557,
+                            "Y": 0.4083
+                        },
+                        "PreSize": {
+                            "X": 0.168,
+                            "Y": 0.0889
+                        },
+                        "LeftMargin": 605.4995,
+                        "RightMargin": 459.5005,
+                        "TopMargin": 394.0005,
+                        "BottomMargin": 261.9995,
+                        "CallBackType": "Click",
+                        "Tag": 279,
+                        "ActionTag": -1421590008,
+                        "Size": {
+                            "X": 215,
+                            "Y": 64
+                        },
+                        "Name": "textAllWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_return2.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_return2.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_return1.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 152,
+                        "Scale9Height": 54,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 176
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.2444
+                        },
+                        "PreSize": {
+                            "X": 0.1422,
+                            "Y": 0.1056
+                        },
+                        "LeftMargin": 549,
+                        "RightMargin": 549,
+                        "TopMargin": 506,
+                        "BottomMargin": 138,
+                        "Tag": 258,
+                        "ActionTag": 759543184,
+                        "Size": {
+                            "X": 182,
+                            "Y": 76
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "newyear_48.fnt",
+                "newyear_48.png",
+                "newyear_48d.fnt",
+                "newyear_48d.png",
+                "newyear_png.plist",
+                "newyear_png.png",
+                "newyear_png2.plist",
+                "newyear_png2.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

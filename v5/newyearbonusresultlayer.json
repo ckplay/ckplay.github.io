@@ -1,0 +1,199 @@
+{
+    "ID": "8c45862f-1656-4a3f-a98d-4cf03bb7cc18",
+    "Version": "2.3.4",
+    "Name": "newyearbonusresultlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 149,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_smallgame.png",
+                            "Plist": "newyear_png2.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.5266,
+                            "Y": 0.5861
+                        },
+                        "LeftMargin": 303,
+                        "RightMargin": 303,
+                        "TopMargin": 149,
+                        "BottomMargin": 149,
+                        "Tag": 150,
+                        "ActionTag": 17150631,
+                        "Size": {
+                            "X": 674,
+                            "Y": 422
+                        },
+                        "Name": "newyear_back_smallgame_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "100 ",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "newyear_48.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 345
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4792
+                        },
+                        "PreSize": {
+                            "X": 0.075,
+                            "Y": 0.0889
+                        },
+                        "LeftMargin": 592,
+                        "RightMargin": 592,
+                        "TopMargin": 343,
+                        "BottomMargin": 313,
+                        "Tag": 151,
+                        "ActionTag": 1638768459,
+                        "Size": {
+                            "X": 96,
+                            "Y": 64
+                        },
+                        "Name": "BitmapFontLabel_1",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_return2.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_return2.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_return1.png",
+                            "Plist": "newyear_png.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 152,
+                        "Scale9Height": 54,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 178
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.2472
+                        },
+                        "PreSize": {
+                            "X": 0.1422,
+                            "Y": 0.1056
+                        },
+                        "LeftMargin": 549,
+                        "RightMargin": 549,
+                        "TopMargin": 504,
+                        "BottomMargin": 140,
+                        "Tag": 152,
+                        "ActionTag": 1649551237,
+                        "Size": {
+                            "X": 182,
+                            "Y": 76
+                        },
+                        "Name": "Button_1",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "newyear_48.fnt",
+                "newyear_48.png",
+                "newyear_png.plist",
+                "newyear_png.png",
+                "newyear_png2.plist",
+                "newyear_png2.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,2393 @@
+{
+    "ID": "29b636a5-e414-4956-ad3b-f74c72e18962",
+    "Version": "2.3.4",
+    "Name": "newyearhelplayer1",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -1918160960,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1918160960,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1918160960,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 226,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9OriginX": -422,
+                        "Scale9OriginY": -237,
+                        "Scale9Width": 844,
+                        "Scale9Height": 474,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": 0.0001,
+                        "RightMargin": -0.0001,
+                        "Tag": 208,
+                        "ActionTag": -1918160960,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_help.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.5,
+                            "Y": 0.9431
+                        },
+                        "RightMargin": 640,
+                        "TopMargin": 41,
+                        "Tag": 605,
+                        "ActionTag": 1420832917,
+                        "Size": {
+                            "X": 640,
+                            "Y": 679
+                        },
+                        "Name": "heros108_rule_back1_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_help.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 1
+                        },
+                        "Position": {
+                            "X": 1280,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 1,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.5,
+                            "Y": 0.9431
+                        },
+                        "LeftMargin": 640,
+                        "TopMargin": 41,
+                        "Tag": 606,
+                        "ActionTag": 1068481969,
+                        "Size": {
+                            "X": 640,
+                            "Y": 679
+                        },
+                        "Name": "heros108_rule_back1_9_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_title_paytable.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 650
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.9028
+                        },
+                        "PreSize": {
+                            "X": 0.3906,
+                            "Y": 0.1028
+                        },
+                        "LeftMargin": 390,
+                        "RightMargin": 390,
+                        "TopMargin": 33,
+                        "BottomMargin": 613,
+                        "Tag": 607,
+                        "ActionTag": -132103896,
+                        "Size": {
+                            "X": 500,
+                            "Y": 74
+                        },
+                        "Name": "heros108_title_paytable_11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_help1.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 340.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4722
+                        },
+                        "PreSize": {
+                            "X": 0.2336,
+                            "Y": 0.7694
+                        },
+                        "LeftMargin": 490.5,
+                        "RightMargin": 490.5,
+                        "TopMargin": 102.9999,
+                        "BottomMargin": 63.0001,
+                        "Tag": 846,
+                        "ActionTag": 424677354,
+                        "Size": {
+                            "X": 299,
+                            "Y": 554
+                        },
+                        "Name": "heros108_img_line1_89",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_help1.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 910,
+                            "Y": 312
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7109,
+                            "Y": 0.4333
+                        },
+                        "PreSize": {
+                            "X": 0.2336,
+                            "Y": 0.7694
+                        },
+                        "LeftMargin": 760.5,
+                        "RightMargin": 220.5,
+                        "TopMargin": 131,
+                        "BottomMargin": 35,
+                        "Tag": 847,
+                        "ActionTag": 1882326131,
+                        "Size": {
+                            "X": 299,
+                            "Y": 554
+                        },
+                        "Name": "heros108_img_line1_89_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_help1.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 370,
+                            "Y": 312.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2891,
+                            "Y": 0.4333
+                        },
+                        "PreSize": {
+                            "X": 0.2336,
+                            "Y": 0.7694
+                        },
+                        "LeftMargin": 220.5,
+                        "RightMargin": 760.5,
+                        "TopMargin": 130.9999,
+                        "BottomMargin": 35.0001,
+                        "Tag": 852,
+                        "ActionTag": -176722772,
+                        "Size": {
+                            "X": 299,
+                            "Y": 554
+                        },
+                        "Name": "heros108_img_line1_89_0_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_help2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 127.0003,
+                            "Y": 320.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0992,
+                            "Y": 0.4444
+                        },
+                        "PreSize": {
+                            "X": 0.1891,
+                            "Y": 0.6569
+                        },
+                        "LeftMargin": 6.0003,
+                        "RightMargin": 1031.9996,
+                        "TopMargin": 163.4998,
+                        "BottomMargin": 83.5002,
+                        "Tag": 851,
+                        "ActionTag": -510615246,
+                        "Size": {
+                            "X": 242,
+                            "Y": 473
+                        },
+                        "Name": "heros108_img_line1_89_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_back_help2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1153,
+                            "Y": 320.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9008,
+                            "Y": 0.4444
+                        },
+                        "PreSize": {
+                            "X": 0.1891,
+                            "Y": 0.6569
+                        },
+                        "LeftMargin": 1032,
+                        "RightMargin": 6,
+                        "TopMargin": 163.4998,
+                        "BottomMargin": 83.5002,
+                        "Tag": 343,
+                        "ActionTag": -705069133,
+                        "Size": {
+                            "X": 242,
+                            "Y": 473
+                        },
+                        "Name": "heros108_img_line1_89_1_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_close2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_close2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_close1.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 46,
+                        "Scale9Height": 58,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1181.9998,
+                            "Y": 617.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9234,
+                            "Y": 0.8569
+                        },
+                        "PreSize": {
+                            "X": 0.0594,
+                            "Y": 0.1111
+                        },
+                        "LeftMargin": 1181.9998,
+                        "RightMargin": 22.0002,
+                        "TopMargin": 22.9998,
+                        "BottomMargin": 617.0002,
+                        "Tag": 134,
+                        "ActionTag": -645851823,
+                        "Size": {
+                            "X": 76,
+                            "Y": 80
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_arrow2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_arrow2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_arrow1.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 87,
+                        "Scale9Height": 42,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 145.0001,
+                            "Y": 8.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.0125
+                        },
+                        "PreSize": {
+                            "X": 0.0914,
+                            "Y": 0.0889
+                        },
+                        "LeftMargin": 145.0001,
+                        "RightMargin": 1017.9999,
+                        "TopMargin": 647.0003,
+                        "BottomMargin": 8.9997,
+                        "Tag": 164,
+                        "ActionTag": -240239747,
+                        "Size": {
+                            "X": 117,
+                            "Y": 64
+                        },
+                        "Name": "btnFront",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_arrow2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_arrow2.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "newyear_btn_arrow1.png",
+                            "Plist": "newyear_png3.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 87,
+                        "Scale9Height": 42,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1137.0017,
+                            "Y": 8.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8883,
+                            "Y": 0.0125
+                        },
+                        "PreSize": {
+                            "X": 0.0914,
+                            "Y": 0.0889
+                        },
+                        "LeftMargin": 1137.0017,
+                        "RightMargin": 25.9983,
+                        "TopMargin": 647.0003,
+                        "BottomMargin": 8.9997,
+                        "Tag": 135,
+                        "ActionTag": 1116857809,
+                        "Size": {
+                            "X": 117,
+                            "Y": 64
+                        },
+                        "Name": "btnNext",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 406,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "newyear_back_help5.png",
+                                    "Plist": "newyear_png3.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 811.0002,
+                                    "Y": 258.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 811.0002,
+                                "RightMargin": -1008.0002,
+                                "TopMargin": -359.0002,
+                                "BottomMargin": 258.0002,
+                                "Tag": 416,
+                                "ActionTag": -2010647690,
+                                "Size": {
+                                    "X": 197,
+                                    "Y": 101
+                                },
+                                "Name": "newyear_back_help5_23",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "newyear_icon_wl.png",
+                                    "Plist": "newyear_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 910.9978,
+                                    "Y": 449.9986
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 825.9978,
+                                "RightMargin": -995.9978,
+                                "TopMargin": -534.9985,
+                                "BottomMargin": 364.9986,
+                                "Tag": 407,
+                                "ActionTag": 784360444,
+                                "Size": {
+                                    "X": 170,
+                                    "Y": 170
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 823.9979,
+                                    "Y": 229.9996
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 823.9979,
+                                "RightMargin": -888.9979,
+                                "TopMargin": -261.9996,
+                                "BottomMargin": 197.9996,
+                                "Tag": 408,
+                                "Children": [
+                                    {
+                                        "LabelText": "10000",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 137.9999,
+                                            "Y": 32
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 2.1231,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 2.4,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 59.9999,
+                                        "RightMargin": -150.9999,
+                                        "Tag": 409,
+                                        "ActionTag": 597782462,
+                                        "Size": {
+                                            "X": 156,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1828053733,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 823.9979,
+                                    "Y": 193.9996
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 823.9979,
+                                "RightMargin": -888.9979,
+                                "TopMargin": -225.9996,
+                                "BottomMargin": 161.9996,
+                                "Tag": 410,
+                                "Children": [
+                                    {
+                                        "LabelText": "2000",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 137.9998,
+                                            "Y": 32
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 2.1231,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 1.9385,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 74.9998,
+                                        "RightMargin": -135.9998,
+                                        "Tag": 411,
+                                        "ActionTag": -2025719056,
+                                        "Size": {
+                                            "X": 126,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -837045602,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 823.9979,
+                                    "Y": 157.9995
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 823.9979,
+                                "RightMargin": -888.9979,
+                                "TopMargin": -189.9995,
+                                "BottomMargin": 125.9995,
+                                "Tag": 412,
+                                "Children": [
+                                    {
+                                        "LabelText": "200",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 137.9998,
+                                            "Y": 31.9999
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 2.1231,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 1.4769,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 89.9998,
+                                        "RightMargin": -120.9998,
+                                        "TopMargin": 0.0001,
+                                        "BottomMargin": -0.0001,
+                                        "Tag": 413,
+                                        "ActionTag": -1651887600,
+                                        "Size": {
+                                            "X": 96,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1637388330,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "2x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 823.9979,
+                                    "Y": 121.9997
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 823.9979,
+                                "RightMargin": -888.9979,
+                                "TopMargin": -153.9997,
+                                "BottomMargin": 89.9997,
+                                "Tag": 414,
+                                "Children": [
+                                    {
+                                        "LabelText": "10",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 138.0001,
+                                            "Y": 31.9999
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 2.1231,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 1.0154,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 105.0001,
+                                        "RightMargin": -106.0001,
+                                        "TopMargin": 0.0001,
+                                        "BottomMargin": -0.0001,
+                                        "Tag": 415,
+                                        "ActionTag": -333633353,
+                                        "Size": {
+                                            "X": 66,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1465501413,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt2",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 322107663,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node0",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 853,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "newyear_icon_a.png",
+                                    "Plist": "newyear_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 128.9995,
+                                    "Y": 409.9986
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 43.9995,
+                                "RightMargin": -213.9995,
+                                "TopMargin": -494.9986,
+                                "BottomMargin": 324.9986,
+                                "Tag": 230,
+                                "ActionTag": -265243954,
+                                "Size": {
+                                    "X": 170,
+                                    "Y": 170
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 60,
+                                    "Y": 280
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 60,
+                                "RightMargin": -125,
+                                "TopMargin": -312,
+                                "BottomMargin": 248,
+                                "Tag": 88,
+                                "Children": [
+                                    {
+                                        "LabelText": "500 ",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 70,
+                                            "Y": 32
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 1.0769,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 1.4769,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 70,
+                                        "RightMargin": -101,
+                                        "Tag": 344,
+                                        "ActionTag": -698659955,
+                                        "Size": {
+                                            "X": 96,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1525089657,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 60,
+                                    "Y": 244
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 60,
+                                "RightMargin": -125,
+                                "TopMargin": -276,
+                                "BottomMargin": 212,
+                                "Tag": 89,
+                                "Children": [
+                                    {
+                                        "LabelText": "150",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 70,
+                                            "Y": 32
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 1.0769,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 1.4769,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 70,
+                                        "RightMargin": -101,
+                                        "Tag": 345,
+                                        "ActionTag": -172329124,
+                                        "Size": {
+                                            "X": 96,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1037417042,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 60,
+                                    "Y": 208
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 60,
+                                "RightMargin": -125,
+                                "TopMargin": -240,
+                                "BottomMargin": 176,
+                                "Tag": 90,
+                                "Children": [
+                                    {
+                                        "LabelText": "40",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 118,
+                                            "Y": 32
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 1.8154,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 1.0154,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 85,
+                                        "RightMargin": -86,
+                                        "Tag": 346,
+                                        "ActionTag": 765528783,
+                                        "Size": {
+                                            "X": 66,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 2043525165,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "2x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 60,
+                                    "Y": 172
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 60,
+                                "RightMargin": -125,
+                                "TopMargin": -204,
+                                "BottomMargin": 140,
+                                "Tag": 91,
+                                "Children": [
+                                    {
+                                        "LabelText": "2",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 118,
+                                            "Y": 32
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 1.8154,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 0.5385,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 100.5,
+                                        "RightMargin": -70.5,
+                                        "Tag": 347,
+                                        "ActionTag": -1304612802,
+                                        "Size": {
+                                            "X": 35,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 746670476,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt2",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -13820951,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node1",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 854,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "newyear_icon_b.png",
+                                    "Plist": "newyear_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 1154.9968,
+                                    "Y": 410
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1069.9968,
+                                "RightMargin": -1239.9968,
+                                "TopMargin": -495,
+                                "BottomMargin": 325,
+                                "Tag": 855,
+                                "ActionTag": 295721757,
+                                "Size": {
+                                    "X": 170,
+                                    "Y": 170
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 1087.9991,
+                                    "Y": 280
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1087.9991,
+                                "RightMargin": -1152.9991,
+                                "TopMargin": -312,
+                                "BottomMargin": 248,
+                                "Tag": 348,
+                                "Children": [
+                                    {
+                                        "LabelText": "400",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 70,
+                                            "Y": 32
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 1.0769,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 1.4769,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 70,
+                                        "RightMargin": -101,
+                                        "Tag": 349,
+                                        "ActionTag": -1350861539,
+                                        "Size": {
+                                            "X": 96,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -2009046150,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 1087.9991,
+                                    "Y": 243.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1087.9991,
+                                "RightMargin": -1152.9991,
+                                "TopMargin": -275.9999,
+                                "BottomMargin": 211.9999,
+                                "Tag": 350,
+                                "Children": [
+                                    {
+                                        "LabelText": "100",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 70,
+                                            "Y": 32
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 1.0769,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 1.4769,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 70,
+                                        "RightMargin": -101,
+                                        "Tag": 351,
+                                        "ActionTag": -894253922,
+                                        "Size": {
+                                            "X": 96,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1566757041,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 1087.9991,
+                                    "Y": 207.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1087.9991,
+                                "RightMargin": -1152.9991,
+                                "TopMargin": -239.9999,
+                                "BottomMargin": 175.9999,
+                                "Tag": 352,
+                                "Children": [
+                                    {
+                                        "LabelText": "25",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 118,
+                                            "Y": 32
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 1.8154,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 0.9846,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 86,
+                                        "RightMargin": -85,
+                                        "Tag": 353,
+                                        "ActionTag": -1461078267,
+                                        "Size": {
+                                            "X": 64,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 273525871,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 649639248,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node2",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 417,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "newyear_back_help4.png",
+                                    "Plist": "newyear_png3.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 278.0015,
+                                    "Y": 138.0004
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 278.0015,
+                                "RightMargin": -464.0015,
+                                "TopMargin": -320.0004,
+                                "BottomMargin": 138.0004,
+                                "Tag": 418,
+                                "ActionTag": 1657480362,
+                                "Size": {
+                                    "X": 186,
+                                    "Y": 182
+                                },
+                                "Name": "newyear_back_help5_23",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "newyear_icon_j.png",
+                                    "Plist": "newyear_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 377.9985,
+                                    "Y": 449.9988
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 292.9985,
+                                "RightMargin": -462.9985,
+                                "TopMargin": -534.9988,
+                                "BottomMargin": 364.9988,
+                                "Tag": 419,
+                                "ActionTag": -620787785,
+                                "Size": {
+                                    "X": 170,
+                                    "Y": 170
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": 504070217,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node9",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 428,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "newyear_back_help3.png",
+                                    "Plist": "newyear_png3.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5
+                                },
+                                "Position": {
+                                    "X": 640,
+                                    "Y": 252.0003
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 554,
+                                "RightMargin": -726,
+                                "TopMargin": -390.0003,
+                                "BottomMargin": 252.0003,
+                                "Tag": 429,
+                                "ActionTag": 1244519314,
+                                "Size": {
+                                    "X": 172,
+                                    "Y": 138
+                                },
+                                "Name": "newyear_back_help5_23",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "newyear_icon_fg.png",
+                                    "Plist": "newyear_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 639.9979,
+                                    "Y": 482.9987
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 554.9979,
+                                "RightMargin": -724.9979,
+                                "TopMargin": -567.9987,
+                                "BottomMargin": 397.9987,
+                                "Tag": 430,
+                                "ActionTag": -1420982359,
+                                "Size": {
+                                    "X": 170,
+                                    "Y": 170
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 565.9991,
+                                    "Y": 222.9995
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 565.9991,
+                                "RightMargin": -630.9991,
+                                "TopMargin": -254.9995,
+                                "BottomMargin": 190.9995,
+                                "Tag": 431,
+                                "Children": [
+                                    {
+                                        "LabelText": "500",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 137.9999,
+                                            "Y": 32.0003
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 2.1231,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 1.4769,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 89.9999,
+                                        "RightMargin": -120.9999,
+                                        "TopMargin": -0.0003,
+                                        "BottomMargin": 0.0003,
+                                        "Tag": 432,
+                                        "ActionTag": 1940872661,
+                                        "Size": {
+                                            "X": 96,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 231279333,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 565.9991,
+                                    "Y": 186.9995
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 565.9991,
+                                "RightMargin": -630.9991,
+                                "TopMargin": -218.9995,
+                                "BottomMargin": 154.9995,
+                                "Tag": 433,
+                                "Children": [
+                                    {
+                                        "LabelText": "50",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 137.9998,
+                                            "Y": 32
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 2.1231,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 1.0154,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 104.9998,
+                                        "RightMargin": -105.9998,
+                                        "Tag": 434,
+                                        "ActionTag": 785876089,
+                                        "Size": {
+                                            "X": 66,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1908820287,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "newyear_48d.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 565.9991,
+                                    "Y": 150.9995
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 565.9991,
+                                "RightMargin": -630.9991,
+                                "TopMargin": -182.9995,
+                                "BottomMargin": 118.9995,
+                                "Tag": 435,
+                                "Children": [
+                                    {
+                                        "LabelText": "5",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "newyear_48.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 137.9998,
+                                            "Y": 31.9999
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {},
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 2.1231,
+                                            "Y": 0.5
+                                        },
+                                        "PreSize": {
+                                            "X": 0.5231,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": 120.9998,
+                                        "RightMargin": -89.9998,
+                                        "TopMargin": 0.0001,
+                                        "BottomMargin": -0.0001,
+                                        "Tag": 436,
+                                        "ActionTag": 269642900,
+                                        "Size": {
+                                            "X": 34,
+                                            "Y": 64
+                                        },
+                                        "Name": "BitmapFontLabel_1_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -879257966,
+                                "Size": {
+                                    "X": 65,
+                                    "Y": 64
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 499394371,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node10",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "newyear_48.fnt",
+                "newyear_48.png",
+                "newyear_48d.fnt",
+                "newyear_48d.png",
+                "newyear_png.plist",
+                "newyear_png.png",
+                "newyear_png3.plist",
+                "newyear_png3.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

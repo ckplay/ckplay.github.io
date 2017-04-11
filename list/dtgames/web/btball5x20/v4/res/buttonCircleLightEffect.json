@@ -1,0 +1,381 @@
+{
+  "ID": "e539c610-dc6e-4a77-87dd-ffbeafe46bd1",
+  "Version": "3.10.0.0",
+  "Name": "buttonCircleLightEffect",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 40,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": 1649754169,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": -0.0468,
+                "Y": -0.4238,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": -0.0468,
+                "Y": -0.4238,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": -0.0468,
+                "Y": -0.4238,
+                "FrameIndex": 40,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1649754169,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.832,
+                "Y": 0.832,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0913,
+                "Y": 1.0913,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.832,
+                "Y": 0.832,
+                "FrameIndex": 40,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1649754169,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 40,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1649754169,
+            "Property": "AnchorPoint",
+            "Frames": [
+              {
+                "X": 0.5116,
+                "Y": 0.4816,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.5116,
+                "Y": 0.4816,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.5116,
+                "Y": 0.4816,
+                "FrameIndex": 40,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1649754169,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 51,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 40,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -790880343,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": -0.4703,
+                "Y": 0.7942,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -790880343,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.8865,
+                "Y": 0.8865,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.4176,
+                "Y": 1.4176,
+                "FrameIndex": 32,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -790880343,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -790880343,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 32,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 214,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "bg guangxiao/guangxiao_11.jpg",
+              "Plist": "guangxiao.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5116,
+              "ScaleY": 0.4816
+            },
+            "Position": {
+              "X": -0.0468,
+              "Y": -0.4238
+            },
+            "Scale": {
+              "ScaleX": 0.9357,
+              "ScaleY": 0.9357
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -34.8356,
+            "RightMargin": -33.1644,
+            "TopMargin": -35.3458,
+            "BottomMargin": -33.6542,
+            "Tag": 345,
+            "ActionTag": 1649754169,
+            "Size": {
+              "X": 68.0,
+              "Y": 69.0
+            },
+            "Alpha": 173,
+            "Name": "guangxiao_11_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "bg guangxiao/guangxiao_11.jpg",
+              "Plist": "guangxiao.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.4703,
+              "Y": 0.7942
+            },
+            "Scale": {
+              "ScaleX": 1.4176,
+              "ScaleY": 1.4176
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -34.4703,
+            "RightMargin": -33.5297,
+            "TopMargin": -35.2942,
+            "BottomMargin": -33.7058,
+            "Tag": 1423,
+            "ActionTag": -790880343,
+            "Size": {
+              "X": 68.0,
+              "Y": 69.0
+            },
+            "Alpha": 0,
+            "Name": "guangxiao_11_275",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "guangxiao.plist",
+        "guangxiao.jpg"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

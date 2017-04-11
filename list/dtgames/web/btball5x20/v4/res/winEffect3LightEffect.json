@@ -1,0 +1,206 @@
+{
+  "ID": "346570f1-f3ac-4cc0-9e36-fe44d56c7f71",
+  "Version": "3.10.0.0",
+  "Name": "winEffect3LightEffect",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 22,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": -1513307449,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00000.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00002.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 2,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00004.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 4,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00006.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 6,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00008.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 8,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00010.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00012.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 12,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00014.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 14,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00016.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 16,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00018.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00020.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00022.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 22,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1300,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "zhongjiangdonghua/chaojidajiangguangxiao_00012.jpg",
+              "Plist": "guangxiao3.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 4.5,
+              "ScaleY": 4.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -100.0,
+            "RightMargin": -100.0,
+            "TopMargin": -100.0,
+            "BottomMargin": -100.0,
+            "Tag": 476,
+            "ActionTag": -1513307449,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "Sprite_5",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "guangxiao3.plist",
+        "guangxiao3.jpg"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

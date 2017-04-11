@@ -1,0 +1,206 @@
+{
+  "ID": "26e2b7e7-7744-4523-a235-558c9c7a4ae1",
+  "Version": "3.10.0.0",
+  "Name": "icon7Ani",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 22,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": -1614011963,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/lai_ani1.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/lai_ani2.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 2,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/lai_ani3.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 4,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/lai_ani4.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 6,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/lai_ani5.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 8,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/lai_ani6.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/lai_ani7.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 12,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/lai_ani8.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 14,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/lai_ani9.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 16,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/lai_ani10.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/lai_ani11.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/lai_ani12.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 22,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 90,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "iconAni/lai_ani1.png",
+              "Plist": "iconAnis.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1.4,
+              "Y": -2.2
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -82.6,
+            "RightMargin": -85.4,
+            "TopMargin": -84.8,
+            "BottomMargin": -89.2,
+            "Tag": 103,
+            "ActionTag": -1614011963,
+            "Size": {
+              "X": 168.0,
+              "Y": 174.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "iconAnis.plist",
+        "iconAnis.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

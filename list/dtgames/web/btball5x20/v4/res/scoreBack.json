@@ -1,0 +1,206 @@
+{
+  "ID": "4a9fb2ef-61f1-4ed5-9f80-79026a0679e8",
+  "Version": "3.10.0.0",
+  "Name": "scoreBack",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 22,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": -307322828,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao_00000.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao_00002.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 2,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao_00004.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 4,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao_00006.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 6,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao_00008.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 8,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao_00010.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao_00012.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 12,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao_00014.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 14,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao_00016.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 16,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao_00018.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao_00020.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao_00022.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 22,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1529,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "effect/benlundefenguangxiao_00000.png",
+              "Plist": "effect.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.4754,
+              "Y": 14.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -23.4754,
+            "RightMargin": -22.5246,
+            "TopMargin": -37.0,
+            "BottomMargin": -9.0,
+            "Tag": 683,
+            "ActionTag": -307322828,
+            "Size": {
+              "X": 250.0,
+              "Y": 83.0
+            },
+            "Name": "Sprite_388",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "effect.plist",
+        "effect.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,223 @@
+{
+  "ID": "3aa4d18b-a665-4aab-85cc-673d7e346273",
+  "Version": "3.10.0.0",
+  "Name": "ball",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 18,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": 295995505,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": -2.0,
+                "Y": 2.0,
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 2,
+                "Tween": false,
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 16,
+                "Tween": false,
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": -2.0,
+                "Y": 2.0,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 295995505,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "main/ball.png",
+                  "Plist": "main.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "lanqiuxuanzhuan/lanqiuxuanzhuan0001.png",
+                  "Plist": "main.plist"
+                },
+                "FrameIndex": 2,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "lanqiuxuanzhuan/lanqiuxuanzhuan0002.png",
+                  "Plist": "main.plist"
+                },
+                "FrameIndex": 4,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "lanqiuxuanzhuan/lanqiuxuanzhuan0003.png",
+                  "Plist": "main.plist"
+                },
+                "FrameIndex": 6,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "lanqiuxuanzhuan/lanqiuxuanzhuan0004.png",
+                  "Plist": "main.plist"
+                },
+                "FrameIndex": 8,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "lanqiuxuanzhuan/lanqiuxuanzhuan0005.png",
+                  "Plist": "main.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "lanqiuxuanzhuan/lanqiuxuanzhuan0006.png",
+                  "Plist": "main.plist"
+                },
+                "FrameIndex": 12,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "lanqiuxuanzhuan/lanqiuxuanzhuan0007.png",
+                  "Plist": "main.plist"
+                },
+                "FrameIndex": 14,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "lanqiuxuanzhuan/lanqiuxuanzhuan0008.png",
+                  "Plist": "main.plist"
+                },
+                "FrameIndex": 16,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "main/ball.png",
+                  "Plist": "main.plist"
+                },
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 2664,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "main/ball.png",
+              "Plist": "main.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -2.0,
+              "Y": 2.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -70.0,
+            "RightMargin": -66.0,
+            "TopMargin": -70.0,
+            "BottomMargin": -66.0,
+            "Tag": 3330,
+            "ActionTag": 295995505,
+            "Size": {
+              "X": 129.0,
+              "Y": 129.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "main.plist",
+        "main.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

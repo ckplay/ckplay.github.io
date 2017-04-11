@@ -1,0 +1,525 @@
+{
+  "ID": "823c706d-ac0d-4968-b2ce-7c3c61c43c2b",
+  "Version": "3.10.0.0",
+  "Name": "ConfigMenu",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 5,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": 2138994525,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": -0.0007,
+                "Y": 0.0068,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": -0.0007,
+                "Y": 0.0068,
+                "FrameIndex": 3,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2138994525,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 215.2676,
+                "Y": 91.1467,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 215.2676,
+                "Y": 91.1467,
+                "FrameIndex": 3,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2138994525,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 3,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2138994525,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 76,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 178,
+                "FrameIndex": 3,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1480773747,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 274.5079,
+                "Y": 105.3048,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 274.5079,
+                "Y": 105.3048,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1480773747,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1480773747,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1480773747,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 127,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 159316115,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 274.5079,
+                "Y": 160.741,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 159316115,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 159316115,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 159316115,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 127,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 660,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/back.png",
+              "Plist": "bonus.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/back.png",
+              "Plist": "bonus.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/back.png",
+              "Plist": "bonus.plist"
+            },
+            "Scale9OriginX": 1,
+            "Scale9OriginY": 2,
+            "Scale9Width": 4,
+            "Scale9Height": 4,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -0.0007,
+              "Y": 0.0068
+            },
+            "Scale": {
+              "ScaleX": 215.2676,
+              "ScaleY": 91.1467
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0047,
+              "Y": 0.0111
+            },
+            "LeftMargin": -0.0007,
+            "RightMargin": 1274.0007,
+            "TopMargin": 711.9932,
+            "BottomMargin": 0.0068,
+            "Tag": 665,
+            "ActionTag": 2138994525,
+            "Size": {
+              "X": 6.0,
+              "Y": 8.0
+            },
+            "Alpha": 76,
+            "Name": "Btn_Back",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "button/buttonHelp_Press.png",
+              "Plist": "buttons.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "button/buttonHelp_Press.png",
+              "Plist": "buttons.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "button/buttonHelp.png",
+              "Plist": "buttons.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 126,
+            "Scale9Height": 33,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 274.5079,
+              "Y": 105.3048
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2145,
+              "Y": 0.1463
+            },
+            "PreSize": {
+              "X": 0.1219,
+              "Y": 0.0764
+            },
+            "LeftMargin": 196.5079,
+            "RightMargin": 927.4921,
+            "TopMargin": 587.1952,
+            "BottomMargin": 77.8048,
+            "Tag": 663,
+            "ActionTag": 1480773747,
+            "Size": {
+              "X": 156.0,
+              "Y": 55.0
+            },
+            "Alpha": 127,
+            "Name": "Btn_Help",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "button/buttonRecord_Press.png",
+              "Plist": "buttons.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "button/buttonRecord_Press.png",
+              "Plist": "buttons.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "button/buttonRecord.png",
+              "Plist": "buttons.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 126,
+            "Scale9Height": 32,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 274.5079,
+              "Y": 160.741
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2145,
+              "Y": 0.2233
+            },
+            "PreSize": {
+              "X": 0.1219,
+              "Y": 0.075
+            },
+            "LeftMargin": 196.5079,
+            "RightMargin": 927.4921,
+            "TopMargin": 532.259,
+            "BottomMargin": 133.741,
+            "Tag": 664,
+            "ActionTag": 159316115,
+            "Size": {
+              "X": 156.0,
+              "Y": 54.0
+            },
+            "Alpha": 127,
+            "Name": "Btn_Record",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "bonus.plist",
+        "bonus.png",
+        "buttons.plist",
+        "buttons.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

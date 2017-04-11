@@ -1,0 +1,375 @@
+{
+  "ID": "df9ad190-0886-4bad-8aa2-bb0e349b95ee",
+  "Version": "3.10.0.0",
+  "Name": "winMoneyLightEffect",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 10,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": 1532590778,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.5,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.9541,
+                "Y": 1.8256,
+                "FrameIndex": 2,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.6,
+                "Y": 0.6,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.9486,
+                "Y": 0.4778,
+                "FrameIndex": 6,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 3.3781,
+                "Y": 0.111,
+                "FrameIndex": 8,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.6781,
+                "Y": 0.0226,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1532590778,
+            "Property": "BlendFunc",
+            "Frames": [
+              {
+                "Src": 770,
+                "Dst": 1,
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "BlendFuncFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1532590778,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 8,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -2074348970,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 1.3592,
+                "Y": -1.8124,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1.3596,
+                "Y": 1.1872,
+                "FrameIndex": 2,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1.3596,
+                "Y": 1.1873,
+                "FrameIndex": 3,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1.3593,
+                "Y": 1.1837,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1.3597,
+                "Y": 1.1815,
+                "FrameIndex": 6,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -2074348970,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.4203,
+                "Y": 0.4203,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.6381,
+                "Y": 0.6381,
+                "FrameIndex": 1,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.8848,
+                "Y": 0.8848,
+                "FrameIndex": 2,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.6186,
+                "Y": 0.6186,
+                "FrameIndex": 3,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.6186,
+                "Y": -0.5762,
+                "FrameIndex": 6,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -2074348970,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao0001.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao0002.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 2,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao0003.png",
+                  "Plist": "effect.plist"
+                },
+                "FrameIndex": 4,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/benlundefenguangxiao0004.png",
+                  "Plist": "effect2.plist"
+                },
+                "FrameIndex": 8,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 446,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "effect/benlundefen.png",
+              "Plist": "effect.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.6098,
+              "Y": 0.0014
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -63.1098,
+            "RightMargin": -59.8902,
+            "TopMargin": -61.5014,
+            "BottomMargin": -61.4986,
+            "Tag": 448,
+            "ActionTag": 1532590778,
+            "Size": {
+              "X": 123.0,
+              "Y": 123.0
+            },
+            "Name": "benlundefen_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "effect/benlundefenguangxiao0001.png",
+              "Plist": "effect.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1.3592,
+              "Y": -1.8124
+            },
+            "Scale": {
+              "ScaleX": 0.4203,
+              "ScaleY": 0.4203
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -152.6408,
+            "RightMargin": -155.3592,
+            "TopMargin": -75.1876,
+            "BottomMargin": -78.8124,
+            "Tag": 447,
+            "ActionTag": -2074348970,
+            "Size": {
+              "X": 308.0,
+              "Y": 154.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "effect.plist",
+        "effect.png",
+        "effect2.plist",
+        "effect2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

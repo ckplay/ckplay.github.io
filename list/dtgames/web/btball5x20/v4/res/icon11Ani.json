@@ -1,0 +1,166 @@
+{
+  "ID": "8b11fced-3ce2-4db3-9cce-2d28558857ee",
+  "Version": "3.10.0.0",
+  "Name": "icon11Ani",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 14,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": -88680563,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/j_ani1.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/j_ani2.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 2,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/j_ani3.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 4,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/j_ani4.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 6,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/j_ani5.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 8,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/j_ani6.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/j_ani7.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 12,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "iconAni/j_ani8.png",
+                  "Plist": "iconAnis.plist"
+                },
+                "FrameIndex": 14,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 96,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "iconAni/j_ani8.png",
+              "Plist": "iconAnis.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -23.0,
+            "RightMargin": -23.0,
+            "TopMargin": -23.0,
+            "BottomMargin": -23.0,
+            "Tag": 100,
+            "ActionTag": -88680563,
+            "Size": {
+              "X": 124.0,
+              "Y": 186.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "iconAnis.plist",
+        "iconAnis.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

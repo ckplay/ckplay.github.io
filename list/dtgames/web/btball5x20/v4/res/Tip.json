@@ -1,0 +1,319 @@
+{
+  "ID": "c933f728-4131-443d-9c42-cde1a40b9cde",
+  "Version": "3.10.0.0",
+  "Name": "Tip",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 79,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/back.png",
+              "Plist": "bonus.plist"
+            },
+            "Scale9OriginX": 1,
+            "Scale9OriginY": 2,
+            "Scale9Width": 4,
+            "Scale9Height": 4,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 216.8998,
+              "ScaleY": 100.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0047,
+              "Y": 0.0111
+            },
+            "RightMargin": 1274.0,
+            "TopMargin": 712.0,
+            "Tag": 227,
+            "ActionTag": -371729134,
+            "Size": {
+              "X": 6.0,
+              "Y": 8.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "tip/tipBj.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.9496,
+              "Y": 357.2488
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4962
+            },
+            "PreSize": {
+              "X": 0.6109,
+              "Y": 0.725
+            },
+            "LeftMargin": 248.9496,
+            "RightMargin": 249.0504,
+            "TopMargin": 101.7512,
+            "BottomMargin": 96.2488,
+            "Tag": 86,
+            "ActionTag": 1139067574,
+            "Size": {
+              "X": 782.0,
+              "Y": 522.0
+            },
+            "Name": "tipBj_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1280.0,
+            "TopMargin": 720.0,
+            "Tag": 89,
+            "Children": [
+              {
+                "LabelText": "重复登陆！自动断开连接!",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/betNFnt.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 639.9998,
+                  "Y": 364.0973
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 464.4998,
+                "RightMargin": -815.4998,
+                "TopMargin": -380.0973,
+                "BottomMargin": 348.0973,
+                "Tag": 354,
+                "ActionTag": -88120215,
+                "Size": {
+                  "X": 351.0,
+                  "Y": 32.0
+                },
+                "Name": "TipText",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1976699371,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Infos",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/tipBack.png",
+              "Plist": "bonus.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/tipBack.png",
+              "Plist": "bonus.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/tipBack.png",
+              "Plist": "bonus.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 126,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 253.4176
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.352
+            },
+            "PreSize": {
+              "X": 0.1219,
+              "Y": 0.0736
+            },
+            "LeftMargin": 562.0,
+            "RightMargin": 562.0,
+            "TopMargin": 440.0824,
+            "BottomMargin": 226.9176,
+            "Tag": 92,
+            "ActionTag": 367069395,
+            "Size": {
+              "X": 156.0,
+              "Y": 53.0
+            },
+            "Name": "Btn_Close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "main/infoText.png",
+              "Plist": "main.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 638.52,
+              "Y": 479.7005
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4988,
+              "Y": 0.6663
+            },
+            "PreSize": {
+              "X": 0.0945,
+              "Y": 0.0778
+            },
+            "LeftMargin": 578.02,
+            "RightMargin": 580.98,
+            "TopMargin": 212.2995,
+            "BottomMargin": 451.7005,
+            "Tag": 511,
+            "ActionTag": -1561674534,
+            "Size": {
+              "X": 121.0,
+              "Y": 56.0
+            },
+            "Name": "infoText_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "bonus.plist",
+        "bonus.png",
+        "font/betNFnt.fnt",
+        "font/betNFnt_0.png",
+        "main.plist",
+        "main.png",
+        "tip/tipBj.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

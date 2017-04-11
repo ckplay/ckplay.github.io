@@ -1,0 +1,811 @@
+{
+  "ID": "b4c6953a-4b58-4966-ba2d-5bf4bbdda8cf",
+  "Version": "3.10.0.0",
+  "Name": "winEffect3",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 22,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": -1274128536,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.9,
+                "Y": 0.9,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1274128536,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1411625981,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 2.9612,
+                "Y": 2.9612,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 1
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.98,
+                "Y": 0.98,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 14,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1411625981,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 26,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 1
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1411625981,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiang2.png",
+                  "Plist": "bonus.plist"
+                },
+                "FrameIndex": 12,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1411625981,
+            "Property": "BlendFunc",
+            "Frames": [
+              {
+                "Src": 1,
+                "Dst": 771,
+                "FrameIndex": 12,
+                "Tween": false,
+                "ctype": "BlendFuncFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2067624939,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 2.9612,
+                "Y": 2.9612,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 1
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.98,
+                "Y": 0.98,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 14,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2067624939,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 26,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 1
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 76,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2067624939,
+            "Property": "BlendFunc",
+            "Frames": [
+              {
+                "Src": 770,
+                "Dst": 1,
+                "FrameIndex": 12,
+                "Tween": false,
+                "ctype": "BlendFuncFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2067624939,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/chaojidajiang2.png",
+                  "Plist": "bonus.plist"
+                },
+                "FrameIndex": 12,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1386196737,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 2.7334,
+                "Y": 1.0167,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 3.0723,
+                "Y": 1.1428,
+                "FrameIndex": 22,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1386196737,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 11,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 22,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1386196737,
+            "Property": "CColor",
+            "Frames": [
+              {
+                "Alpha": 255,
+                "Color": {
+                  "G": 246,
+                  "B": 157
+                },
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ColorFrameData"
+              },
+              {
+                "Alpha": 255,
+                "Color": {
+                  "G": 246,
+                  "B": 157
+                },
+                "FrameIndex": 22,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ColorFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2075025576,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2075025576,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 11,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1773,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/back.png",
+              "Plist": "bonus.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/back.png",
+              "Plist": "bonus.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/back.png",
+              "Plist": "bonus.plist"
+            },
+            "Scale9OriginX": 1,
+            "Scale9OriginY": 2,
+            "Scale9Width": 4,
+            "Scale9Height": 4,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 216.8998,
+              "ScaleY": 101.7611
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -3.0,
+            "RightMargin": -3.0,
+            "TopMargin": -4.0,
+            "BottomMargin": -4.0,
+            "Tag": 63,
+            "ActionTag": -1628082264,
+            "Size": {
+              "X": 6.0,
+              "Y": 8.0
+            },
+            "Name": "ButtonCull",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -0.0002,
+              "Y": 39.4994
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -0.0002,
+            "RightMargin": 0.0002,
+            "TopMargin": -39.4994,
+            "BottomMargin": 39.4994,
+            "Tag": 1831,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "winEffect3LightEffect.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 0.4,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 5.0,
+                  "Y": -2.5007
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 5.0,
+                "RightMargin": -5.0,
+                "TopMargin": 2.5007,
+                "BottomMargin": -2.5007,
+                "Tag": 1000,
+                "ActionTag": -1274128536,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Alpha": 0,
+                "Name": "winEffect3LightEffect",
+                "ctype": "ProjectNodeObjectData"
+              }
+            ],
+            "ActionTag": 301107782,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "zhongjiangdonghua/chaojidajiang2.png",
+              "Plist": "bonus.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0028,
+              "Y": 42.0018
+            },
+            "Scale": {
+              "ScaleX": 2.9612,
+              "ScaleY": 2.9612
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -339.4972,
+            "RightMargin": -339.5028,
+            "TopMargin": -126.0018,
+            "BottomMargin": -41.9982,
+            "Tag": 1774,
+            "ActionTag": -1411625981,
+            "Size": {
+              "X": 679.0,
+              "Y": 168.0
+            },
+            "Alpha": 26,
+            "Name": "jujiang_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "zhongjiangdonghua/chaojidajiang2.png",
+              "Plist": "bonus.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0028,
+              "Y": 42.0018
+            },
+            "Scale": {
+              "ScaleX": 2.9612,
+              "ScaleY": 2.9612
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -339.4972,
+            "RightMargin": -339.5028,
+            "TopMargin": -126.0018,
+            "BottomMargin": -41.9982,
+            "Tag": 1802,
+            "ActionTag": 2067624939,
+            "Size": {
+              "X": 679.0,
+              "Y": 168.0
+            },
+            "Alpha": 26,
+            "Name": "jujiang_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "bg guangxiao/guangxiao_02.jpg",
+              "Plist": "guangxiao.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.4771,
+              "Y": 43.224
+            },
+            "Scale": {
+              "ScaleX": 2.7334,
+              "ScaleY": 1.0167
+            },
+            "CColor": {
+              "G": 246,
+              "B": 157
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -129.0229,
+            "RightMargin": -133.9771,
+            "TopMargin": -174.724,
+            "BottomMargin": -88.276,
+            "Tag": 1804,
+            "ActionTag": 1386196737,
+            "Size": {
+              "X": 263.0,
+              "Y": 263.0
+            },
+            "Alpha": 0,
+            "Name": "guangxiao_02_9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "CharWidth": 100,
+            "CharHeight": 137,
+            "LabelText": "0",
+            "StartChar": ".",
+            "LabelAtlasFileImage_CNB": {
+              "Type": "Normal",
+              "Path": "font/winAmountnum.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.0724,
+              "Y": -133.7142
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -51.0724,
+            "RightMargin": -48.9276,
+            "TopMargin": 65.2142,
+            "BottomMargin": -202.2142,
+            "Tag": 69,
+            "ActionTag": 2075025576,
+            "Size": {
+              "X": 100.0,
+              "Y": 137.0
+            },
+            "Alpha": 0,
+            "Name": "WinText",
+            "ctype": "TextAtlasObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "parrticle/zhongjianglizi_1.plist",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0017,
+              "Y": 44.4749
+            },
+            "Scale": {
+              "ScaleX": 1.6101,
+              "ScaleY": 1.6101
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 0.0017,
+            "RightMargin": -0.0017,
+            "TopMargin": -44.4749,
+            "BottomMargin": 44.4749,
+            "Tag": 1307,
+            "ActionTag": 593654443,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Par",
+            "ctype": "ParticleObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "bonus.plist",
+        "bonus.png",
+        "font/winAmountnum.png",
+        "guangxiao.plist",
+        "guangxiao.jpg",
+        "parrticle/zhongjianglizi_1.plist",
+        "winEffect3LightEffect.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

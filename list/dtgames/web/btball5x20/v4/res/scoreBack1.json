@@ -1,0 +1,147 @@
+{
+  "ID": "e280e85a-c43b-42dc-9b4e-7abf8b3e6804",
+  "Version": "3.10.0.0",
+  "Name": "scoreBack1",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 16,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": -718926401,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": -395.0636,
+                "Y": 9.2966,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 386.9384,
+                "Y": 9.2962,
+                "FrameIndex": 16,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -718926401,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.85,
+                "Y": 0.0774,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.0,
+                "Y": 0.0471,
+                "FrameIndex": 4,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.0,
+                "Y": 0.0471,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.85,
+                "Y": 0.0471,
+                "FrameIndex": 16,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1218,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "bg guangxiao/guangxiao_02.jpg",
+              "Plist": "guangxiao.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 386.9384,
+              "Y": 9.2962
+            },
+            "Scale": {
+              "ScaleX": 0.85,
+              "ScaleY": 0.0471
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 255.4384,
+            "RightMargin": -518.4384,
+            "TopMargin": -140.7962,
+            "BottomMargin": -122.2038,
+            "Tag": 1607,
+            "ActionTag": -718926401,
+            "Size": {
+              "X": 263.0,
+              "Y": 263.0
+            },
+            "Name": "guangxiao_02_241",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "guangxiao.plist",
+        "guangxiao.jpg"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,867 @@
+{
+  "ID": "211f8663-0505-42ff-8f2e-e9beb0bce1a6",
+  "Version": "3.10.0.0",
+  "Name": "winEffect1",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 18,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": 601200196,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.6172,
+                "Y": 0.6172,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 6
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.05,
+                "Y": 1.05,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 2
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 601200196,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 6
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 2
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 601200196,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 76,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 6
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 2
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 601200196,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/dajiang.png",
+                  "Plist": "bonus.plist"
+                },
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 601200196,
+            "Property": "BlendFunc",
+            "Frames": [
+              {
+                "Src": 1,
+                "Dst": 771,
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "BlendFuncFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1280098255,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.6172,
+                "Y": 0.6172,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 6
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.05,
+                "Y": 1.05,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 2
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1280098255,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 6
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 2
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1280098255,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 6
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 2
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 127,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1280098255,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/dajiang.png",
+                  "Plist": "bonus.plist"
+                },
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1280098255,
+            "Property": "BlendFunc",
+            "Frames": [
+              {
+                "Src": 770,
+                "Dst": 1,
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "BlendFuncFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -687910858,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.6172,
+                "Y": 0.6172,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 6
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.05,
+                "Y": 1.05,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 2
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -687910858,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 6
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 2
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -687910858,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 6
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 2
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -687910858,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "zhongjiangdonghua/dajiang.png",
+                  "Plist": "bonus.plist"
+                },
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -687910858,
+            "Property": "BlendFunc",
+            "Frames": [
+              {
+                "Src": 770,
+                "Dst": 1,
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "BlendFuncFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1390823872,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": -86.4893,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": -86.49,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": -86.4893,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1390823872,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.5,
+                "Y": 0.5,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.5,
+                "Y": 0.5,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.5,
+                "Y": 0.5,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1390823872,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1390823872,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 11,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1196,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/back.png",
+              "Plist": "bonus.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/back.png",
+              "Plist": "bonus.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "tip/back.png",
+              "Plist": "bonus.plist"
+            },
+            "Scale9OriginX": 1,
+            "Scale9OriginY": 2,
+            "Scale9Width": 4,
+            "Scale9Height": 4,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 216.8998,
+              "ScaleY": 101.7611
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -3.0,
+            "RightMargin": -3.0,
+            "TopMargin": -4.0,
+            "BottomMargin": -4.0,
+            "Tag": 44,
+            "ActionTag": 582240379,
+            "Size": {
+              "X": 6.0,
+              "Y": 8.0
+            },
+            "Name": "ButtonCull",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "zhongjiangdonghua/dajiang.png",
+              "Plist": "bonus.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0003,
+              "Y": 8.0
+            },
+            "Scale": {
+              "ScaleX": 0.6172,
+              "ScaleY": 0.6172
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -89.4997,
+            "RightMargin": -89.5003,
+            "TopMargin": -51.0,
+            "BottomMargin": -35.0,
+            "Tag": 1302,
+            "ActionTag": 601200196,
+            "Size": {
+              "X": 179.0,
+              "Y": 86.0
+            },
+            "Alpha": 76,
+            "Name": "dajiang_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "zhongjiangdonghua/dajiang.png",
+              "Plist": "bonus.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0003,
+              "Y": 8.0
+            },
+            "Scale": {
+              "ScaleX": 0.6172,
+              "ScaleY": 0.6172
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -89.4997,
+            "RightMargin": -89.5003,
+            "TopMargin": -51.0,
+            "BottomMargin": -35.0,
+            "Tag": 1304,
+            "ActionTag": -1280098255,
+            "Size": {
+              "X": 179.0,
+              "Y": 86.0
+            },
+            "Alpha": 0,
+            "Name": "dajiang_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "zhongjiangdonghua/dajiang.png",
+              "Plist": "bonus.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 8.0
+            },
+            "Scale": {
+              "ScaleX": 0.6172,
+              "ScaleY": 0.6172
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -89.5,
+            "RightMargin": -89.5,
+            "TopMargin": -51.0,
+            "BottomMargin": -35.0,
+            "Tag": 1313,
+            "ActionTag": -687910858,
+            "Size": {
+              "X": 179.0,
+              "Y": 86.0
+            },
+            "Alpha": 0,
+            "Name": "dajiang_1_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "CharWidth": 100,
+            "CharHeight": 137,
+            "LabelText": "0",
+            "StartChar": ".",
+            "LabelAtlasFileImage_CNB": {
+              "Type": "Normal",
+              "Path": "font/winAmountnum.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -86.4893
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -50.0,
+            "RightMargin": -50.0,
+            "TopMargin": 17.9893,
+            "BottomMargin": -154.9893,
+            "Tag": 67,
+            "ActionTag": -1390823872,
+            "Size": {
+              "X": 100.0,
+              "Y": 137.0
+            },
+            "Alpha": 0,
+            "Name": "WinText",
+            "ctype": "TextAtlasObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "parrticle/zhongjianglizi_1.plist",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": -5.6256,
+              "Y": -0.3837
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -5.6256,
+            "RightMargin": 5.6256,
+            "TopMargin": 0.3837,
+            "BottomMargin": -0.3837,
+            "Tag": 464,
+            "ActionTag": 589564311,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Par",
+            "ctype": "ParticleObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "bonus.plist",
+        "bonus.png",
+        "font/winAmountnum.png",
+        "parrticle/zhongjianglizi_1.plist"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

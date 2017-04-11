@@ -1,0 +1,602 @@
+{
+  "ID": "b7320a4c-2858-4318-8a0d-5f4054dad7cf",
+  "Version": "3.10.0.0",
+  "Name": "Btn_Start",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 23,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": 340454720,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 23,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1836168177,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0001.jpg",
+                  "Plist": "guangxiao.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0002.jpg",
+                  "Plist": "guangxiao.plist"
+                },
+                "FrameIndex": 1,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0003.jpg",
+                  "Plist": "guangxiao.plist"
+                },
+                "FrameIndex": 2,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0004.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 3,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0005.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 4,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0006.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0007.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 6,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0008.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 7,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0009.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 8,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0010.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 9,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0011.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0012.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 11,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0013.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 12,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0014.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 13,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0015.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 14,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0016.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0017.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 16,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0018.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 17,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0019.jpg",
+                  "Plist": "guangxiao2.plist"
+                },
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0020.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 19,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0021.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0022.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 21,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0023.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 22,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "toulananniutexiao/toulanguangxiao0024.jpg",
+                  "Plist": "guangxiao3.plist"
+                },
+                "FrameIndex": 23,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1201,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "main/ball.png",
+              "Plist": "main.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "main/ball.png",
+              "Plist": "main.plist"
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -64.5,
+            "RightMargin": -64.5,
+            "TopMargin": -64.5,
+            "BottomMargin": -64.5,
+            "Tag": 496,
+            "ActionTag": -50731481,
+            "Size": {
+              "X": 129.0,
+              "Y": 129.0
+            },
+            "Alpha": 0,
+            "Name": "Btn_Start",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 2632,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ball.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 0.4,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Tag": 1826,
+                "ActionTag": -984137718,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Btn_Start_Ball",
+                "ctype": "ProjectNodeObjectData"
+              }
+            ],
+            "ActionTag": 32373523,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Btn_Start_BallSpawn",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "bg guangxiao/guangxiao_02.jpg",
+              "Plist": "guangxiao.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.6758,
+              "Y": -0.6502
+            },
+            "Scale": {
+              "ScaleX": 0.4865,
+              "ScaleY": 0.4865
+            },
+            "CColor": {
+              "G": 220,
+              "B": 95
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -130.8242,
+            "RightMargin": -132.1758,
+            "TopMargin": -130.8498,
+            "BottomMargin": -132.1502,
+            "Tag": 620,
+            "ActionTag": 340454720,
+            "Size": {
+              "X": 263.0,
+              "Y": 263.0
+            },
+            "Name": "Btn_Start_Light",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "main/ballText.png",
+              "Plist": "main.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.8873,
+              "Y": 4.4359
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -52.8873,
+            "RightMargin": -51.1127,
+            "TopMargin": -33.4359,
+            "BottomMargin": -24.5641,
+            "Tag": 497,
+            "ActionTag": -436307604,
+            "Size": {
+              "X": 104.0,
+              "Y": 58.0
+            },
+            "Name": "BallText",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "toulananniutexiao/toulanguangxiao0001.jpg",
+              "Plist": "guangxiao.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.0012,
+              "Y": 4.9998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -105.4988,
+            "RightMargin": -109.5012,
+            "TopMargin": -114.9998,
+            "BottomMargin": -105.0002,
+            "Tag": 1202,
+            "ActionTag": 1836168177,
+            "Size": {
+              "X": 215.0,
+              "Y": 220.0
+            },
+            "Alpha": 178,
+            "Name": "LightEffect",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "ball.json",
+        "Default/Button_Normal.png",
+        "guangxiao.plist",
+        "guangxiao.jpg",
+        "guangxiao2.plist",
+        "guangxiao2.jpg",
+        "guangxiao3.plist",
+        "guangxiao3.jpg",
+        "main.plist",
+        "main.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

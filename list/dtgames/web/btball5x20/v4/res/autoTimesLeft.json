@@ -1,0 +1,264 @@
+{
+  "ID": "097d400d-57d7-42ba-a69c-2dbf274e8462",
+  "Version": "3.10.0.0",
+  "Name": "autoTimesLeft",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 10,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": 1609113394,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 0.0351,
+                "Y": 1.27,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 3.0351,
+                "Y": 48.2701,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 0.0351,
+                "Y": 1.27,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1609113394,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1609113394,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1609113394,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 48,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "button/timeleft.png",
+              "Plist": "buttons.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0351,
+              "Y": 1.27
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -73.9649,
+            "RightMargin": -74.0351,
+            "TopMargin": -25.77,
+            "BottomMargin": -23.23,
+            "Tag": 50,
+            "Children": [
+              {
+                "LabelText": "333次",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/tipFnt.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 70.3304,
+                  "Y": 24.6292
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 9.9998,
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4752,
+                  "Y": 0.5026
+                },
+                "PreSize": {
+                  "X": 0.527,
+                  "Y": 0.6531
+                },
+                "LeftMargin": 31.3304,
+                "RightMargin": 38.6696,
+                "TopMargin": 8.3708,
+                "BottomMargin": 8.6292,
+                "Tag": 54,
+                "ActionTag": 1778075865,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 32.0
+                },
+                "Name": "AutoTimesLeftFnt",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 1609113394,
+            "Size": {
+              "X": 148.0,
+              "Y": 49.0
+            },
+            "Alpha": 0,
+            "Name": "AutoTimesLeftNode",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "buttons.plist",
+        "buttons.png",
+        "font/tipFnt.fnt",
+        "font/tipFnt_0.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

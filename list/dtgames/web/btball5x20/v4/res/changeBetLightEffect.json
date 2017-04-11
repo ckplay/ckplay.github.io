@@ -1,0 +1,307 @@
+{
+  "ID": "c24c7b6c-bfba-4d16-b144-78ff72d549f9",
+  "Version": "3.10.0.0",
+  "Name": "changeBetLightEffect",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 10,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": -810250750,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": -3.917,
+                "Y": 0.6094,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": -0.9174,
+                "Y": 0.6093,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -810250750,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.4591,
+                "Y": 1.2568,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.3373,
+                "Y": 0.9601,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -810250750,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 7,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -810250750,
+            "Property": "CColor",
+            "Frames": [
+              {
+                "Alpha": 255,
+                "Color": {
+                  "G": 254,
+                  "B": 196
+                },
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ColorFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1477312962,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 0.3266,
+                "Y": 1.5359,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 0.3266,
+                "Y": 1.5359,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 4
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1477312962,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.2811,
+                "Y": 0.2451,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.331,
+                "Y": 0.2886,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 4
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1477312962,
+            "Property": "BlendFunc",
+            "Frames": [
+              {
+                "Src": 770,
+                "Dst": 1,
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "BlendFuncFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1477312962,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 204,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 4
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 316,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "bg guangxiao/guangxiao_12.jpg",
+              "Plist": "guangxiao.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -3.917,
+              "Y": 0.6094
+            },
+            "Scale": {
+              "ScaleX": 0.4591,
+              "ScaleY": 1.2568
+            },
+            "CColor": {
+              "G": 254,
+              "B": 196
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -81.917,
+            "RightMargin": -74.083,
+            "TopMargin": -23.6094,
+            "BottomMargin": -22.3906,
+            "Tag": 1500,
+            "ActionTag": -810250750,
+            "Size": {
+              "X": 156.0,
+              "Y": 46.0
+            },
+            "Name": "guangxiao_12_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "bg guangxiao/guangxiao_02.jpg",
+              "Plist": "guangxiao.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.3266,
+              "Y": 1.5359
+            },
+            "Scale": {
+              "ScaleX": 0.2811,
+              "ScaleY": 0.2451
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -131.1734,
+            "RightMargin": -131.8266,
+            "TopMargin": -133.0359,
+            "BottomMargin": -129.9641,
+            "Tag": 1706,
+            "ActionTag": 1477312962,
+            "Size": {
+              "X": 263.0,
+              "Y": 263.0
+            },
+            "Alpha": 204,
+            "Name": "guangxiao_02_36",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "guangxiao.plist",
+        "guangxiao.jpg"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

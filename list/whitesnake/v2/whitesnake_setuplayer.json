@@ -1,0 +1,268 @@
+{
+    "ID": "627e9885-75fe-4f9a-b5b7-58786bf3f749",
+    "Version": "2.3.4",
+    "Name": "whitesnake_setuplayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 265,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 127,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 266,
+                        "ActionTag": -2124033896,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_back13.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 202.9998,
+                            "Y": 241.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1586,
+                            "Y": 0.3361
+                        },
+                        "PreSize": {
+                            "X": 0.0859,
+                            "Y": 0.1583
+                        },
+                        "LeftMargin": 147.9998,
+                        "RightMargin": 1022.0002,
+                        "TopMargin": 421.0001,
+                        "BottomMargin": 184.9999,
+                        "Tag": 267,
+                        "ActionTag": 490664503,
+                        "Size": {
+                            "X": 110,
+                            "Y": 114
+                        },
+                        "Name": "newyear_back20_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_help1.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_help2.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_help1.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 52,
+                        "Scale9Height": 26,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 171.9988,
+                            "Y": 188.997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1344,
+                            "Y": 0.2625
+                        },
+                        "PreSize": {
+                            "X": 0.0641,
+                            "Y": 0.0667
+                        },
+                        "LeftMargin": 171.9988,
+                        "RightMargin": 1026.0012,
+                        "TopMargin": 483.003,
+                        "BottomMargin": 188.997,
+                        "Tag": 268,
+                        "ActionTag": -798560392,
+                        "Size": {
+                            "X": 82,
+                            "Y": 48
+                        },
+                        "Name": "btnHelp",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_record1.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_record2.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_record1.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 52,
+                        "Scale9Height": 26,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 171.9988,
+                            "Y": 244.9991
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1344,
+                            "Y": 0.3403
+                        },
+                        "PreSize": {
+                            "X": 0.0641,
+                            "Y": 0.0667
+                        },
+                        "LeftMargin": 171.9988,
+                        "RightMargin": 1026.0012,
+                        "TopMargin": 427.0009,
+                        "BottomMargin": 244.9991,
+                        "Tag": 269,
+                        "ActionTag": 130870312,
+                        "Size": {
+                            "X": 82,
+                            "Y": 48
+                        },
+                        "Name": "btnHistory",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "whitesnake_png.plist",
+                "whitesnake_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

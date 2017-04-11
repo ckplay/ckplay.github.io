@@ -1,0 +1,245 @@
+{
+    "ID": "dfb08d35-e1c9-4c0b-966f-d3d082987444",
+    "Version": "2.3.4",
+    "Name": "whitesnake_soundtipslayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -1395137180,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1395137180,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1395137180,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 254,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 259,
+                        "ActionTag": -1395137180,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "layClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_soundoff2.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_soundoff2.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_soundoff1.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 23,
+                        "Scale9Height": 107,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 92.9995,
+                            "Y": 426.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0727,
+                            "Y": 0.5931
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.1792
+                        },
+                        "LeftMargin": 92.9995,
+                        "RightMargin": 1136.0005,
+                        "TopMargin": 164.0006,
+                        "BottomMargin": 426.9994,
+                        "Tag": 259,
+                        "ActionTag": 1941047900,
+                        "Size": {
+                            "X": 51,
+                            "Y": 129
+                        },
+                        "Name": "btnCloseSound",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_back_sound.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 156.0005,
+                            "Y": 533.9965
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1219,
+                            "Y": 0.7417
+                        },
+                        "PreSize": {
+                            "X": 0.0359,
+                            "Y": 0.0639
+                        },
+                        "LeftMargin": 156.0005,
+                        "RightMargin": 879.9995,
+                        "TopMargin": 64.0035,
+                        "BottomMargin": 411.9965,
+                        "Tag": 261,
+                        "ActionTag": -1105135665,
+                        "Size": {
+                            "X": 244,
+                            "Y": 244
+                        },
+                        "Name": "img_opensoudn_1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "whitesnake_png.plist",
+                "whitesnake_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

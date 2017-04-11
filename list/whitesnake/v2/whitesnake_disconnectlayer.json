@@ -1,0 +1,488 @@
+{
+    "ID": "2ebd5963-4438-4522-a382-b658410a35e8",
+    "Version": "2.3.4",
+    "Name": "whitesnake_disconnectlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 354,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 274,
+                        "ActionTag": 527616721,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_back_msg1.png",
+                            "Plist": "whitesnake_png2.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 328,
+                            "Y": 135
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2562,
+                            "Y": 0.1875
+                        },
+                        "PreSize": {
+                            "X": 0.4727,
+                            "Y": 0.6708
+                        },
+                        "LeftMargin": 328,
+                        "RightMargin": 347,
+                        "TopMargin": 102,
+                        "BottomMargin": 135,
+                        "Tag": 275,
+                        "ActionTag": -50512504,
+                        "Size": {
+                            "X": 605,
+                            "Y": 483
+                        },
+                        "Name": "disconnectback_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_img_word3.png",
+                            "Plist": "whitesnake_png2.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 633,
+                            "Y": 379
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4945,
+                            "Y": 0.5264
+                        },
+                        "PreSize": {
+                            "X": 0.2016,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 504,
+                        "RightMargin": 518,
+                        "TopMargin": 312,
+                        "BottomMargin": 350,
+                        "Tag": 276,
+                        "ActionTag": 147494167,
+                        "Size": {
+                            "X": 258,
+                            "Y": 58
+                        },
+                        "Name": "sprError1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_img_word1.png",
+                            "Plist": "whitesnake_png2.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 633,
+                            "Y": 379
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4945,
+                            "Y": 0.5264
+                        },
+                        "PreSize": {
+                            "X": 0.2016,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 504,
+                        "RightMargin": 518,
+                        "TopMargin": 312,
+                        "BottomMargin": 350,
+                        "Tag": 277,
+                        "ActionTag": -1147297190,
+                        "Size": {
+                            "X": 258,
+                            "Y": 58
+                        },
+                        "Name": "sprNotEnough",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_img_word4.png",
+                            "Plist": "whitesnake_png2.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 633.0006,
+                            "Y": 379.001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4945,
+                            "Y": 0.5264
+                        },
+                        "PreSize": {
+                            "X": 0.2016,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 504.0006,
+                        "RightMargin": 517.9994,
+                        "TopMargin": 311.999,
+                        "BottomMargin": 350.001,
+                        "Tag": 278,
+                        "ActionTag": 1554278721,
+                        "Size": {
+                            "X": 258,
+                            "Y": 58
+                        },
+                        "Name": "sprDisconnect",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_back1.png",
+                            "Plist": "whitesnake_png2.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_back2.png",
+                            "Plist": "whitesnake_png2.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_back1.png",
+                            "Plist": "whitesnake_png2.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 66,
+                        "Scale9Height": 30,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 633.0006,
+                            "Y": 256.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4945,
+                            "Y": 0.3556
+                        },
+                        "PreSize": {
+                            "X": 0.075,
+                            "Y": 0.0722
+                        },
+                        "LeftMargin": 585.0006,
+                        "RightMargin": 598.9994,
+                        "TopMargin": 437.9996,
+                        "BottomMargin": 230.0004,
+                        "Tag": 279,
+                        "ActionTag": 562561995,
+                        "Size": {
+                            "X": 96,
+                            "Y": 52
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_img_word2.png",
+                            "Plist": "whitesnake_png2.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 633,
+                            "Y": 379
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4945,
+                            "Y": 0.5264
+                        },
+                        "PreSize": {
+                            "X": 0.2016,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 504,
+                        "RightMargin": 518,
+                        "TopMargin": 312,
+                        "BottomMargin": 350,
+                        "Tag": 280,
+                        "ActionTag": 488033150,
+                        "Size": {
+                            "X": 258,
+                            "Y": 58
+                        },
+                        "Name": "sprError2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9OriginX": -83,
+                        "Scale9OriginY": -23,
+                        "Scale9Width": 166,
+                        "Scale9Height": 46,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 633,
+                            "Y": 379
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4945,
+                            "Y": 0.5264
+                        },
+                        "PreSize": {
+                            "X": 0.3281,
+                            "Y": 0.25
+                        },
+                        "LeftMargin": 423,
+                        "RightMargin": 437,
+                        "TopMargin": 251,
+                        "BottomMargin": 289,
+                        "Tag": 281,
+                        "ActionTag": 739861993,
+                        "Size": {
+                            "X": 420,
+                            "Y": 180
+                        },
+                        "Name": "layErrorBack",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "出错了",
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 633,
+                            "Y": 379
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {
+                            "G": 236,
+                            "B": 190
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4945,
+                            "Y": 0.5264
+                        },
+                        "PreSize": {
+                            "X": 0.3125,
+                            "Y": 0.2222
+                        },
+                        "LeftMargin": 433,
+                        "RightMargin": 447,
+                        "TopMargin": 261,
+                        "BottomMargin": 299,
+                        "Tag": 282,
+                        "ActionTag": 224414305,
+                        "Size": {
+                            "X": 400,
+                            "Y": 160
+                        },
+                        "Name": "textError",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "whitesnake_png2.plist",
+                "whitesnake_png2.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

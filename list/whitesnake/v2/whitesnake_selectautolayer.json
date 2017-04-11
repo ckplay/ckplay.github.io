@@ -1,0 +1,546 @@
+{
+    "ID": "73d6eb61-1fd6-462c-b16e-f11edf36c9e1",
+    "Version": "2.3.4",
+    "Name": "whitesnake_selectautolayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 326,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "empty.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "Scale9OriginX": 2,
+                        "Scale9OriginY": 2,
+                        "Scale9Width": 5,
+                        "Scale9Height": 5,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 150,
+                        "ActionTag": 173043809,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_back11.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 892.0001,
+                            "Y": 153.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6969,
+                            "Y": 0.2139
+                        },
+                        "PreSize": {
+                            "X": 0.0859,
+                            "Y": 0.3583
+                        },
+                        "LeftMargin": 837.0001,
+                        "RightMargin": 332.9999,
+                        "TopMargin": 437.0001,
+                        "BottomMargin": 24.9999,
+                        "Tag": 528,
+                        "ActionTag": -577166083,
+                        "Size": {
+                            "X": 110,
+                            "Y": 258
+                        },
+                        "Name": "heros108_back_autonums2_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin500_3.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin500_2.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin500_1.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 60,
+                        "Scale9Height": 24,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 846.9973,
+                            "Y": 231.998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6617,
+                            "Y": 0.3222
+                        },
+                        "PreSize": {
+                            "X": 0.0703,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 846.9973,
+                        "RightMargin": 343.0027,
+                        "TopMargin": 444.002,
+                        "BottomMargin": 231.998,
+                        "Tag": 152,
+                        "ActionTag": 374906188,
+                        "Size": {
+                            "X": 90,
+                            "Y": 44
+                        },
+                        "Name": "btnAuto500",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin200_3.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin200_2.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin200_1.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 60,
+                        "Scale9Height": 24,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 847.9969,
+                            "Y": 187.2484
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6625,
+                            "Y": 0.2601
+                        },
+                        "PreSize": {
+                            "X": 0.0703,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 847.9969,
+                        "RightMargin": 342.0031,
+                        "TopMargin": 488.7516,
+                        "BottomMargin": 187.2484,
+                        "Tag": 153,
+                        "ActionTag": 49349917,
+                        "Size": {
+                            "X": 90,
+                            "Y": 44
+                        },
+                        "Name": "btnAuto200",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin100_3.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin100_2.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin100_1.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 60,
+                        "Scale9Height": 24,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 847.9969,
+                            "Y": 142.4987
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6625,
+                            "Y": 0.1979
+                        },
+                        "PreSize": {
+                            "X": 0.0703,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 847.9969,
+                        "RightMargin": 342.0031,
+                        "TopMargin": 533.5012,
+                        "BottomMargin": 142.4987,
+                        "Tag": 154,
+                        "ActionTag": 316103498,
+                        "Size": {
+                            "X": 90,
+                            "Y": 44
+                        },
+                        "Name": "btnAuto100",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin50_3.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin50_2.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin50_1.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 60,
+                        "Scale9Height": 24,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 847.9973,
+                            "Y": 97.7491
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6625,
+                            "Y": 0.1358
+                        },
+                        "PreSize": {
+                            "X": 0.0703,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 847.9973,
+                        "RightMargin": 342.0027,
+                        "TopMargin": 578.2509,
+                        "BottomMargin": 97.7491,
+                        "Tag": 155,
+                        "ActionTag": -1863787116,
+                        "Size": {
+                            "X": 90,
+                            "Y": 44
+                        },
+                        "Name": "btnAuto50",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin25_3.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin25_2.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_spin25_1.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 60,
+                        "Scale9Height": 24,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 847.997,
+                            "Y": 52.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6625,
+                            "Y": 0.0736
+                        },
+                        "PreSize": {
+                            "X": 0.0703,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 847.997,
+                        "RightMargin": 342.003,
+                        "TopMargin": 623.0005,
+                        "BottomMargin": 52.9995,
+                        "Tag": 156,
+                        "ActionTag": -1768605754,
+                        "Size": {
+                            "X": 90,
+                            "Y": 44
+                        },
+                        "Name": "btnAuto25",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_autospin2.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_autospin2.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "whitesnake_btn_autospin1.png",
+                            "Plist": "whitesnake_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 68,
+                        "Scale9Height": 24,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 893,
+                            "Y": 23.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6977,
+                            "Y": 0.0319
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.0639
+                        },
+                        "LeftMargin": 844,
+                        "RightMargin": 338,
+                        "TopMargin": 673.9998,
+                        "BottomMargin": 0.0002,
+                        "Tag": 865,
+                        "ActionTag": 429011073,
+                        "Size": {
+                            "X": 98,
+                            "Y": 46
+                        },
+                        "Name": "btnAuto",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "whitesnake_png.plist",
+                "whitesnake_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

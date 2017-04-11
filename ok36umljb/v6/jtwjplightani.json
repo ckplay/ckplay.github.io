@@ -1,0 +1,181 @@
+{
+    "ID": "ba6829f6-74fd-4361-a1c1-e31ac7c95476",
+    "Version": "2.3.4",
+    "Name": "jtwjplightani",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 6,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": 1187662414,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1187662414,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 0.7,
+                                "Y": 0.7,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0.7,
+                                "Y": 0.7,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1187662414,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 14,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwimg_light08_1.jpg",
+                            "Plist": "jtwjpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 1
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -63,
+                        "RightMargin": -63,
+                        "TopMargin": -63,
+                        "BottomMargin": -63,
+                        "Tag": 15,
+                        "ActionTag": 1187662414,
+                        "Size": {
+                            "X": 126,
+                            "Y": 126
+                        },
+                        "Name": "jtwimg_light08_1_1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "jtwjpgres.jpg",
+                "jtwjpgres.plist"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

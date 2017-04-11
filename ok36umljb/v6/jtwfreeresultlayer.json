@@ -1,0 +1,381 @@
+{
+    "ID": "ee6e9e3a-7ed9-4229-b03a-16082b810ffe",
+    "Version": "2.3.4",
+    "Name": "jtwfreeresultlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 0.4,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 15,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 77,
+                        "ActionTag": 465284224,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwdisconnectback.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.4656,
+                            "Y": 0.5111
+                        },
+                        "LeftMargin": 342,
+                        "RightMargin": 342,
+                        "TopMargin": 176,
+                        "BottomMargin": 176,
+                        "Tag": 26,
+                        "ActionTag": -1510009889,
+                        "Size": {
+                            "X": 596,
+                            "Y": 368
+                        },
+                        "Name": "jtwfreeresult07_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwfreeresult04.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 506.9973,
+                            "Y": 329.9976
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3961,
+                            "Y": 0.4583
+                        },
+                        "PreSize": {
+                            "X": 0.0711,
+                            "Y": 0.1028
+                        },
+                        "LeftMargin": 506.9973,
+                        "RightMargin": 682.0027,
+                        "TopMargin": 316.0024,
+                        "BottomMargin": 329.9976,
+                        "Tag": 89,
+                        "ActionTag": 2138520140,
+                        "Size": {
+                            "X": 91,
+                            "Y": 74
+                        },
+                        "Name": "jtwfreeresult05_11_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn12_2.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn13_2.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn13_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 142,
+                        "Scale9Height": 36,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 639.998,
+                            "Y": 236.9992
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.3292
+                        },
+                        "PreSize": {
+                            "X": 0.1344,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 553.998,
+                        "RightMargin": 554.002,
+                        "TopMargin": 454.0008,
+                        "BottomMargin": 207.9992,
+                        "Tag": 90,
+                        "ActionTag": 1671997554,
+                        "Size": {
+                            "X": 172,
+                            "Y": 58
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "LabelText": "10085",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "jtwfont2.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 619.9988,
+                            "Y": 338.9983
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {
+                            "G": 216,
+                            "B": 64
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4844,
+                            "Y": 0.4708
+                        },
+                        "PreSize": {
+                            "X": 0.0672,
+                            "Y": 0.0389
+                        },
+                        "LeftMargin": 619.9988,
+                        "RightMargin": 574.0012,
+                        "TopMargin": 367.0017,
+                        "BottomMargin": 324.9983,
+                        "CallBackType": "Click",
+                        "Tag": 105,
+                        "ActionTag": 1447966276,
+                        "Size": {
+                            "X": 86,
+                            "Y": 28
+                        },
+                        "Name": "textFreeWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "10",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "jtwfont2.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 619.9988,
+                            "Y": 393.9992
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {
+                            "G": 165,
+                            "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4844,
+                            "Y": 0.5472
+                        },
+                        "PreSize": {
+                            "X": 0.0281,
+                            "Y": 0.0389
+                        },
+                        "LeftMargin": 619.9988,
+                        "RightMargin": 624.0012,
+                        "TopMargin": 312.0008,
+                        "BottomMargin": 379.9992,
+                        "CallBackType": "Click",
+                        "Tag": 107,
+                        "ActionTag": 1552306005,
+                        "Size": {
+                            "X": 36,
+                            "Y": 28
+                        },
+                        "Name": "textFreeNum",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwfreeresult03.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 510
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.7083
+                        },
+                        "PreSize": {
+                            "X": 0.1484,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 545,
+                        "RightMargin": 545,
+                        "TopMargin": 192,
+                        "BottomMargin": 492,
+                        "Tag": 295,
+                        "ActionTag": 1160897954,
+                        "Size": {
+                            "X": 190,
+                            "Y": 36
+                        },
+                        "Name": "jtwfreeresult03_1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "jtwfont2.fnt",
+                "jtwfont2.png",
+                "jtwpngres.plist",
+                "jtwpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

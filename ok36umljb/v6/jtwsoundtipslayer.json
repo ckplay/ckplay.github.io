@@ -1,0 +1,194 @@
+{
+    "ID": "f974a1bf-ccfe-48b3-a887-2d9fa534ec78",
+    "Version": "2.3.4",
+    "Name": "jtwsoundtipslayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 304,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 318,
+                        "ActionTag": 1596360839,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "layClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwimg_opensound.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 51.9997,
+                            "Y": 395.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0406,
+                            "Y": 0.55
+                        },
+                        "PreSize": {
+                            "X": 0.2344,
+                            "Y": 0.2444
+                        },
+                        "LeftMargin": 51.9997,
+                        "RightMargin": 928.0002,
+                        "TopMargin": 148.0002,
+                        "BottomMargin": 395.9998,
+                        "Tag": 319,
+                        "ActionTag": -1716124160,
+                        "Size": {
+                            "X": 300,
+                            "Y": 176
+                        },
+                        "Name": "jtwimg_opensound_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn20_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn20_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn20_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 49,
+                        "Scale9Height": 58,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -12.0001,
+                            "Y": 404.9988
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": -0.0094,
+                            "Y": 0.5625
+                        },
+                        "PreSize": {
+                            "X": 0.0602,
+                            "Y": 0.1111
+                        },
+                        "LeftMargin": -12.0001,
+                        "RightMargin": 1215.0001,
+                        "TopMargin": 235.0012,
+                        "BottomMargin": 404.9988,
+                        "Tag": 134,
+                        "ActionTag": 1557712128,
+                        "Size": {
+                            "X": 77,
+                            "Y": 80
+                        },
+                        "Name": "btnCloseSound",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "jtwpngres.plist",
+                "jtwpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,412 @@
+{
+    "ID": "e8541b52-e3fb-41b4-b9b8-fa62b5562a87",
+    "Version": "2.3.4",
+    "Name": "jtwgamelayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 87,
+                "Children": [
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 97,
+                        "ActionTag": -1903312376,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeGameBack1",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 98,
+                        "ActionTag": 2043741080,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeGameBack",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "Normal",
+                            "Path": "guang.ExportJson",
+                            "Plist": ""
+                        },
+                        "IsLoop": false,
+                        "IsAutoPlay": true,
+                        "CurrentAnimationName": "guang3",
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 640,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 640,
+                        "RightMargin": 640,
+                        "TopMargin": 360,
+                        "BottomMargin": 360,
+                        "Tag": 340,
+                        "ActionTag": -507933159,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "ani_guang",
+                        "ctype": "ArmatureNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "Normal",
+                            "Path": "fanwen.ExportJson",
+                            "Plist": ""
+                        },
+                        "IsLoop": true,
+                        "IsAutoPlay": true,
+                        "CurrentAnimationName": "fanwen",
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 640,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 640,
+                        "RightMargin": 640,
+                        "TopMargin": 360,
+                        "BottomMargin": 360,
+                        "Tag": 339,
+                        "ActionTag": 1025732999,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "ani_fanwen",
+                        "ctype": "ArmatureNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 91,
+                        "ActionTag": -1755897448,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeWheelBeginAni",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 213,
+                        "ActionTag": -72496989,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeGameWheel",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 55,
+                        "ActionTag": -1003853363,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeWheelEndAni",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 206,
+                        "ActionTag": -1674846347,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeGameBtn",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 147,
+                        "ActionTag": -286727153,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLightAni",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn24_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn24_2.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn24_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 49,
+                        "Scale9Height": 44,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "Position": {
+                            "X": 1280.0001,
+                            "Y": 720.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "PreSize": {
+                            "X": 0.0602,
+                            "Y": 0.0917
+                        },
+                        "LeftMargin": 1203.0001,
+                        "RightMargin": -0.0001,
+                        "TopMargin": -0.0004,
+                        "BottomMargin": 654.0004,
+                        "Tag": 303,
+                        "ActionTag": -1921860745,
+                        "Size": {
+                            "X": 77,
+                            "Y": 66
+                        },
+                        "Name": "btnClose",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "fanwen.ExportJson",
+                "fanwen0.plist",
+                "fanwen0.png",
+                "guang.ExportJson",
+                "guang0.plist",
+                "guang0.png",
+                "jtwpngres.plist",
+                "jtwpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

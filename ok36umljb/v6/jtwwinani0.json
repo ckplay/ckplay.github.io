@@ -1,0 +1,225 @@
+{
+    "ID": "4b18181b-3388-45d3-9f23-3469483d4bd7",
+    "Version": "2.3.4",
+    "Name": "jtwwinani0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 36,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": -583967627,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": -0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": -0.0001,
+                                "Y": 0,
+                                "FrameIndex": 36,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -583967627,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 36,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -583967627,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 36,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -583967627,
+                        "Property": "Alpha",
+                        "Frames": [
+                            {
+                                "Value": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 0,
+                                "FrameIndex": 36,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 69,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": -1279.9999,
+                        "TopMargin": -720,
+                        "Tag": 75,
+                        "ActionTag": -583967627,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Alpha": 0,
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "Normal",
+                            "Path": "zhongjiang.ExportJson",
+                            "Plist": ""
+                        },
+                        "IsLoop": false,
+                        "IsAutoPlay": true,
+                        "CurrentAnimationName": "zhongjiang",
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 630,
+                            "Y": -28
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 630,
+                        "RightMargin": -630,
+                        "TopMargin": 28,
+                        "BottomMargin": -28,
+                        "Tag": 49,
+                        "ActionTag": -2029755788,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "ani",
+                        "ctype": "ArmatureNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "zhongjiang.ExportJson",
+                "zhongjiang0.plist",
+                "zhongjiang0.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

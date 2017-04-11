@@ -1,0 +1,423 @@
+{
+    "ID": "29470cd7-f31a-4ce7-acc8-7585deeb5fb6",
+    "Version": "2.3.4",
+    "Name": "jtwhelplayer2",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 330,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 57,
+                        "ActionTag": 701313366,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtw_help_back2.png",
+                            "Plist": "jtwjpgres2.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 200,
+                        "Scale9OriginY": 188,
+                        "Scale9Width": 920,
+                        "Scale9Height": 193,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 89
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.1236
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 0.7903
+                        },
+                        "TopMargin": 62,
+                        "BottomMargin": 89,
+                        "Tag": 58,
+                        "ActionTag": 1099731892,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 569
+                        },
+                        "Name": "Image_1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtw_help_back7.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 0.1236
+                        },
+                        "TopMargin": 631,
+                        "Tag": 59,
+                        "ActionTag": -1091882765,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 89
+                        },
+                        "Name": "jtw_help_back7_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtw_help_back6.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 1
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 720
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 1
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 0.0861
+                        },
+                        "BottomMargin": 658,
+                        "Tag": 60,
+                        "ActionTag": -1799689507,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 62
+                        },
+                        "Name": "jtw_help_back6_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn15_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn15_2.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn15_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 99,
+                        "Scale9Height": 44,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 45
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0.0625
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0917
+                        },
+                        "RightMargin": 1151,
+                        "TopMargin": 609,
+                        "BottomMargin": 45,
+                        "Tag": 61,
+                        "ActionTag": 1387483948,
+                        "Size": {
+                            "X": 129,
+                            "Y": 66
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn16_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn16_2.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn16_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 94,
+                        "Scale9Height": 39,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 650,
+                            "Y": 124.0002
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5078,
+                            "Y": 0.1722
+                        },
+                        "PreSize": {
+                            "X": 0.0969,
+                            "Y": 0.0847
+                        },
+                        "LeftMargin": 650,
+                        "RightMargin": 506,
+                        "TopMargin": 534.9999,
+                        "BottomMargin": 124.0002,
+                        "Tag": 62,
+                        "ActionTag": -2018784181,
+                        "Size": {
+                            "X": 124,
+                            "Y": 61
+                        },
+                        "Name": "btnLeft",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn16_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn16_2.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn16_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 94,
+                        "Scale9Height": 39,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 713.0036,
+                            "Y": 124.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.557,
+                            "Y": 0.1722
+                        },
+                        "PreSize": {
+                            "X": 0.0969,
+                            "Y": 0.0847
+                        },
+                        "LeftMargin": 713.0036,
+                        "RightMargin": 442.9964,
+                        "TopMargin": 534.9998,
+                        "BottomMargin": 124.0002,
+                        "Tag": 63,
+                        "ActionTag": -1346327257,
+                        "Size": {
+                            "X": 124,
+                            "Y": 61
+                        },
+                        "Name": "btnRight",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "jtwjpgres2.jpg",
+                "jtwjpgres2.plist",
+                "jtwpngres.plist",
+                "jtwpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

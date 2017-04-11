@@ -1,0 +1,154 @@
+{
+    "ID": "fff36c4c-7dbf-4938-8a6a-c6b6f09231cb",
+    "Version": "2.3.4",
+    "Name": "jtwdownani1",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 5,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": -223591812,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0.0001,
+                                "Y": 195,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 29
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0.0004,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 29
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -223591812,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 29
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 29
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -223591812,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 29
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 29
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 109,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwicon3.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 0,
+                            "Y": 44.36
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -99,
+                        "RightMargin": -99,
+                        "TopMargin": -149.36,
+                        "BottomMargin": -60.64,
+                        "Tag": 110,
+                        "ActionTag": -223591812,
+                        "Size": {
+                            "X": 198,
+                            "Y": 210
+                        },
+                        "Name": "sprIcon",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "jtwpngres.plist",
+                "jtwpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

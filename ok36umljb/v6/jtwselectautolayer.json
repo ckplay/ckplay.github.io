@@ -1,0 +1,1441 @@
+{
+    "ID": "cac1c498-715a-484e-bfcf-7df91ffd94cb",
+    "Version": "2.3.4",
+    "Name": "jtwselectautolayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 14,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": 1615601923,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 758.0004,
+                                "Y": -11,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 768,
+                                "Y": 19,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1615601923,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1615601923,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1615601923,
+                        "Property": "FileData",
+                        "Frames": [
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "jtwimg_autoback1.png",
+                                    "Plist": "jtwpngres.plist"
+                                },
+                                "FrameIndex": 0,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "jtwimg_autoback1.png",
+                                    "Plist": "jtwpngres.plist"
+                                },
+                                "FrameIndex": 5,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1615601923,
+                        "Property": "AnchorPoint",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1615601923,
+                        "Property": "Alpha",
+                        "Frames": [
+                            {
+                                "Value": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1168351770,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 1007.0006,
+                                "Y": 74,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 927.0013,
+                                "Y": 74.0006,
+                                "FrameIndex": 8,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 932.0013,
+                                "Y": 74.0006,
+                                "FrameIndex": 10,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1168351770,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 10,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1168351770,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 10,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1168351770,
+                        "Property": "AnchorPoint",
+                        "Frames": [
+                            {
+                                "X": 0.5,
+                                "Y": 0.5,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0.5,
+                                "Y": 0.5,
+                                "FrameIndex": 10,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1168351770,
+                        "Property": "Alpha",
+                        "Frames": [
+                            {
+                                "Value": 0,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 8,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 10,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -802418809,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 1017,
+                                "Y": 127.0001,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 937.001,
+                                "Y": 127.0001,
+                                "FrameIndex": 9,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 943,
+                                "Y": 127,
+                                "FrameIndex": 11,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -802418809,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 9,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 11,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -802418809,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 9,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 11,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -802418809,
+                        "Property": "Alpha",
+                        "Frames": [
+                            {
+                                "Value": 0,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 9,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 11,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 200917297,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 1027,
+                                "Y": 180.0001,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 947.0001,
+                                "Y": 180,
+                                "FrameIndex": 10,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 954,
+                                "Y": 180,
+                                "FrameIndex": 12,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 200917297,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 10,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 12,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 200917297,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 10,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 12,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 200917297,
+                        "Property": "Alpha",
+                        "Frames": [
+                            {
+                                "Value": 0,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 10,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 12,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -639599687,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 1037,
+                                "Y": 233,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 958.0001,
+                                "Y": 233.0001,
+                                "FrameIndex": 11,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 965.0004,
+                                "Y": 233,
+                                "FrameIndex": 13,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -639599687,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -639599687,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -639599687,
+                        "Property": "Alpha",
+                        "Frames": [
+                            {
+                                "Value": 0,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 11,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 13,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1914873089,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 1047,
+                                "Y": 286,
+                                "FrameIndex": 7,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 969.0006,
+                                "Y": 286,
+                                "FrameIndex": 12,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 976.0005,
+                                "Y": 286,
+                                "FrameIndex": 14,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1914873089,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 7,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 12,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1914873089,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 7,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 12,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1914873089,
+                        "Property": "Alpha",
+                        "Frames": [
+                            {
+                                "Value": 0,
+                                "FrameIndex": 7,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 12,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 14,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1244084783,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 988.9998,
+                                "Y": -37.9999,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 968.9993,
+                                "Y": 3,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1244084783,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1244084783,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 363,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 365,
+                        "ActionTag": 1449431047,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwimg_autoback1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 768,
+                            "Y": 19
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6,
+                            "Y": 0.0264
+                        },
+                        "PreSize": {
+                            "X": 0.2203,
+                            "Y": 0.4306
+                        },
+                        "LeftMargin": 768,
+                        "RightMargin": 230,
+                        "TopMargin": 391,
+                        "BottomMargin": 19,
+                        "Tag": 367,
+                        "ActionTag": 1615601923,
+                        "Size": {
+                            "X": 282,
+                            "Y": 310
+                        },
+                        "Name": "Sprite_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn08_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn08_2.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn08_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 140,
+                        "Scale9Height": 42,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 975.0009,
+                            "Y": 74.0003
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7617,
+                            "Y": 0.1028
+                        },
+                        "PreSize": {
+                            "X": 0.1531,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 877.0009,
+                        "RightMargin": 206.999,
+                        "TopMargin": 614.9998,
+                        "BottomMargin": 43.0003,
+                        "Tag": 369,
+                        "ActionTag": 1168351770,
+                        "Size": {
+                            "X": 196,
+                            "Y": 62
+                        },
+                        "Alpha": 102,
+                        "Name": "btnAuto25",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn09_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn09_2.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn09_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 140,
+                        "Scale9Height": 42,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1001.0002,
+                            "Y": 127.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.782,
+                            "Y": 0.1764
+                        },
+                        "PreSize": {
+                            "X": 0.1531,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 903.0002,
+                        "RightMargin": 180.9998,
+                        "TopMargin": 561.9999,
+                        "BottomMargin": 96.0001,
+                        "Tag": 373,
+                        "ActionTag": -802418809,
+                        "Size": {
+                            "X": 196,
+                            "Y": 62
+                        },
+                        "Alpha": 51,
+                        "Name": "btnAuto50",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn10_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn10_2.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn10_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 140,
+                        "Scale9Height": 42,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1027,
+                            "Y": 180.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8023,
+                            "Y": 0.25
+                        },
+                        "PreSize": {
+                            "X": 0.1531,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 929,
+                        "RightMargin": 155,
+                        "TopMargin": 508.9999,
+                        "BottomMargin": 149.0001,
+                        "Tag": 372,
+                        "ActionTag": 200917297,
+                        "Size": {
+                            "X": 196,
+                            "Y": 62
+                        },
+                        "Alpha": 0,
+                        "Name": "btnAuto100",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn11_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn11_2.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn11_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 140,
+                        "Scale9Height": 42,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1037,
+                            "Y": 233
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8102,
+                            "Y": 0.3236
+                        },
+                        "PreSize": {
+                            "X": 0.1531,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 939,
+                        "RightMargin": 145,
+                        "TopMargin": 456,
+                        "BottomMargin": 202,
+                        "Tag": 371,
+                        "ActionTag": -639599687,
+                        "Size": {
+                            "X": 196,
+                            "Y": 62
+                        },
+                        "Alpha": 0,
+                        "Name": "btnAuto200",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn12_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn12_2.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn12_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 140,
+                        "Scale9Height": 42,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1047,
+                            "Y": 286
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.818,
+                            "Y": 0.3972
+                        },
+                        "PreSize": {
+                            "X": 0.1531,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 949,
+                        "RightMargin": 135,
+                        "TopMargin": 403,
+                        "BottomMargin": 255,
+                        "Tag": 370,
+                        "ActionTag": -1914873089,
+                        "Size": {
+                            "X": 196,
+                            "Y": 62
+                        },
+                        "Alpha": 0,
+                        "Name": "btnAuto500",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwimg_autonum.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 968.9993,
+                            "Y": 3
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.757,
+                            "Y": 0.0042
+                        },
+                        "PreSize": {
+                            "X": 0.0891,
+                            "Y": 0.0514
+                        },
+                        "LeftMargin": 968.9993,
+                        "RightMargin": 197.0007,
+                        "TopMargin": 680,
+                        "BottomMargin": 3,
+                        "Tag": 95,
+                        "ActionTag": 1244084783,
+                        "Size": {
+                            "X": 114,
+                            "Y": 37
+                        },
+                        "Name": "sprAutoNum",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn04_2.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn04_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "jtwbtn04_1.png",
+                            "Plist": "jtwpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 128,
+                        "Scale9Height": 40,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 917,
+                            "Y": -8
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7164,
+                            "Y": -0.0111
+                        },
+                        "PreSize": {
+                            "X": 0.1234,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 838,
+                        "RightMargin": 284,
+                        "TopMargin": 666,
+                        "BottomMargin": -8,
+                        "Tag": 232,
+                        "ActionTag": -727399272,
+                        "Size": {
+                            "X": 158,
+                            "Y": 62
+                        },
+                        "Name": "btnAuto",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "jtwpngres.plist",
+                "jtwpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

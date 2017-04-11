@@ -1,0 +1,795 @@
+{
+    "ID": "7f1a3485-2d8b-4154-846b-b01d93a23438",
+    "Version": "2.3.4",
+    "Name": "dbzfightani2",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 6,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": -624205974,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 784.9998,
+                                "Y": 646,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 792.9993,
+                                "Y": 645.9996,
+                                "FrameIndex": 2,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 745.9973,
+                                "Y": 655.9994,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 687.9954,
+                                "Y": 655.9994,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 687.9954,
+                                "Y": 655.9994,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -624205974,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 2,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -624205974,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 2,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -624205974,
+                        "Property": "FileData",
+                        "Frames": [
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzhero1_13.png",
+                                    "Plist": "dbzanipng.plist"
+                                },
+                                "FrameIndex": 2,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzhero1_14.png",
+                                    "Plist": "dbzanipng.plist"
+                                },
+                                "FrameIndex": 3,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzhero1_14.png",
+                                    "Plist": "dbzanipng.plist"
+                                },
+                                "FrameIndex": 4,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzhero1_14.png",
+                                    "Plist": "dbzanipng.plist"
+                                },
+                                "FrameIndex": 6,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -624205974,
+                        "Property": "BlendFunc",
+                        "Frames": [
+                            {
+                                "Src": 1,
+                                "Dst": 771,
+                                "FrameIndex": 2,
+                                "Tween": false,
+                                "ctype": "BlendFuncFrameData"
+                            },
+                            {
+                                "Src": 1,
+                                "Dst": 771,
+                                "FrameIndex": 3,
+                                "Tween": false,
+                                "ctype": "BlendFuncFrameData"
+                            },
+                            {
+                                "Src": 1,
+                                "Dst": 771,
+                                "FrameIndex": 4,
+                                "Tween": false,
+                                "ctype": "BlendFuncFrameData"
+                            },
+                            {
+                                "Src": 1,
+                                "Dst": 771,
+                                "FrameIndex": 6,
+                                "Tween": false,
+                                "ctype": "BlendFuncFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1801849405,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 493.0005,
+                                "Y": 647,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 481.0001,
+                                "Y": 650,
+                                "FrameIndex": 2,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 508.9988,
+                                "Y": 650,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 562.9969,
+                                "Y": 650,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 562.9969,
+                                "Y": 650,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1801849405,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 2,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1801849405,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 2,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1801849405,
+                        "Property": "FileData",
+                        "Frames": [
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzhero2_01.png",
+                                    "Plist": "dbzanipng.plist"
+                                },
+                                "FrameIndex": 2,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzhero2_07.png",
+                                    "Plist": "dbzanipng.plist"
+                                },
+                                "FrameIndex": 3,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzhero2_07.png",
+                                    "Plist": "dbzanipng.plist"
+                                },
+                                "FrameIndex": 4,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzhero2_07.png",
+                                    "Plist": "dbzanipng.plist"
+                                },
+                                "FrameIndex": 6,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1801849405,
+                        "Property": "BlendFunc",
+                        "Frames": [
+                            {
+                                "Src": 1,
+                                "Dst": 771,
+                                "FrameIndex": 2,
+                                "Tween": false,
+                                "ctype": "BlendFuncFrameData"
+                            },
+                            {
+                                "Src": 1,
+                                "Dst": 771,
+                                "FrameIndex": 3,
+                                "Tween": false,
+                                "ctype": "BlendFuncFrameData"
+                            },
+                            {
+                                "Src": 1,
+                                "Dst": 771,
+                                "FrameIndex": 4,
+                                "Tween": false,
+                                "ctype": "BlendFuncFrameData"
+                            },
+                            {
+                                "Src": 1,
+                                "Dst": 771,
+                                "FrameIndex": 6,
+                                "Tween": false,
+                                "ctype": "BlendFuncFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1267276385,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 626.9996,
+                                "Y": 666.9995,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 626.9996,
+                                "Y": 666.9995,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 626.9996,
+                                "Y": 666.9995,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1267276385,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1267276385,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1267276385,
+                        "Property": "AnchorPoint",
+                        "Frames": [
+                            {
+                                "X": 0.5,
+                                "Y": 0.5,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0.5,
+                                "Y": 0.5,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0.5,
+                                "Y": 0.5,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1267276385,
+                        "Property": "Alpha",
+                        "Frames": [
+                            {
+                                "Value": 0,
+                                "FrameIndex": 3,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 4,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 155,
+                                "FrameIndex": 6,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 47,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhero1_14.png",
+                            "Plist": "dbzanipng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 687.9954,
+                            "Y": 655.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 614.9954,
+                        "RightMargin": -760.9954,
+                        "TopMargin": -713.9994,
+                        "BottomMargin": 597.9994,
+                        "Tag": 48,
+                        "ActionTag": -624205974,
+                        "Size": {
+                            "X": 146,
+                            "Y": 116
+                        },
+                        "Name": "dbzhero1_13_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzhero2_07.png",
+                            "Plist": "dbzanipng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 562.9969,
+                            "Y": 650
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 476.9969,
+                        "RightMargin": -648.9969,
+                        "TopMargin": -714,
+                        "BottomMargin": 586,
+                        "Tag": 49,
+                        "ActionTag": 1801849405,
+                        "Size": {
+                            "X": 172,
+                            "Y": 128
+                        },
+                        "Name": "dbzhero2_01_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzanilight01.png",
+                            "Plist": "dbzanipng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 626.9996,
+                            "Y": 666.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 588.9996,
+                        "RightMargin": -664.9996,
+                        "TopMargin": -704.4995,
+                        "BottomMargin": 629.4995,
+                        "Tag": 51,
+                        "ActionTag": 1267276385,
+                        "Size": {
+                            "X": 76,
+                            "Y": 75
+                        },
+                        "Alpha": 155,
+                        "Name": "dbzanilight01_4",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "dbzanipng.plist",
+                "dbzanipng.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

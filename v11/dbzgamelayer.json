@@ -1,0 +1,2694 @@
+{
+    "ID": "e8541b52-e3fb-41b4-b9b8-fa62b5562a87",
+    "Version": "2.3.4",
+    "Name": "dbzgamelayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 87,
+                "Children": [
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 385,
+                        "ActionTag": -890358208,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScene",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback01.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 56
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0.0778
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 0.7667
+                        },
+                        "TopMargin": 112,
+                        "BottomMargin": 56,
+                        "Tag": 539,
+                        "ActionTag": 71768676,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 552
+                        },
+                        "Name": "dbzgameback01_119",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 99,
+                        "ActionTag": 1178907977,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodBackAni1",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 100,
+                        "ActionTag": 1785029095,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodBackAni2",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 66,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzfreeback01.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 1
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": -0.0002,
+                                    "Y": 89.997
+                                },
+                                "Scale": {
+                                    "ScaleX": 4.02,
+                                    "ScaleY": 4.02
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -0.0002,
+                                "RightMargin": -318.9998,
+                                "TopMargin": -212.997,
+                                "BottomMargin": 89.997,
+                                "Tag": 67,
+                                "ActionTag": -1007347880,
+                                "Size": {
+                                    "X": 319,
+                                    "Y": 123
+                                },
+                                "Alpha": 178,
+                                "Name": "dbzfreeback01_18",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "dbzfreeback06.png",
+                                    "Plist": "dbzpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 8,
+                                    "Y": 537.9996
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 8,
+                                "RightMargin": -311,
+                                "TopMargin": -659.9996,
+                                "BottomMargin": 537.9996,
+                                "Tag": 68,
+                                "ActionTag": 166487056,
+                                "Size": {
+                                    "X": 303,
+                                    "Y": 122
+                                },
+                                "Name": "dbzfreeback06_19",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "200/200",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 125.0002,
+                                    "Y": 622.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.65,
+                                    "ScaleY": 0.65
+                                },
+                                "RotationSkewX": 10,
+                                "CColor": {
+                                    "B": 0
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 125.0002,
+                                "RightMargin": -309.0002,
+                                "TopMargin": -641.5001,
+                                "BottomMargin": 602.5001,
+                                "CallBackType": "Click",
+                                "Tag": 312,
+                                "ActionTag": -124816344,
+                                "Size": {
+                                    "X": 184,
+                                    "Y": 39
+                                },
+                                "Name": "textFreeNum",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "2000000",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 124.9999,
+                                    "Y": 598
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.65,
+                                    "ScaleY": 0.65
+                                },
+                                "RotationSkewX": 10,
+                                "CColor": {
+                                    "R": 70,
+                                    "G": 222,
+                                    "B": 70
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 124.9999,
+                                "RightMargin": -315.9999,
+                                "TopMargin": -617.5,
+                                "BottomMargin": 578.5,
+                                "CallBackType": "Click",
+                                "Tag": 313,
+                                "ActionTag": -1602446557,
+                                "Size": {
+                                    "X": 191,
+                                    "Y": 39
+                                },
+                                "Name": "textFreeAll",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -775227697,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeFreeBack",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback06.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 384.9995,
+                            "Y": 6.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3008,
+                            "Y": 0.0097
+                        },
+                        "PreSize": {
+                            "X": 0.3984,
+                            "Y": 0.1
+                        },
+                        "LeftMargin": 384.9995,
+                        "RightMargin": 385.0005,
+                        "TopMargin": 641.0003,
+                        "BottomMargin": 6.9997,
+                        "Tag": 546,
+                        "ActionTag": 716158468,
+                        "Size": {
+                            "X": 510,
+                            "Y": 72
+                        },
+                        "Name": "dbzgameback06_126",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 101,
+                        "ActionTag": 916577229,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodBackAni3",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback02.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 674.0018
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0.9361
+                        },
+                        "PreSize": {
+                            "X": 0.2625,
+                            "Y": 0.0639
+                        },
+                        "RightMargin": 944,
+                        "TopMargin": -0.0018,
+                        "BottomMargin": 674.0018,
+                        "Tag": 540,
+                        "ActionTag": -191278098,
+                        "Size": {
+                            "X": 336,
+                            "Y": 46
+                        },
+                        "Name": "dbzgameback02_120",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback02.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1208.0044,
+                            "Y": 674.0005
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9438,
+                            "Y": 0.9361
+                        },
+                        "PreSize": {
+                            "X": 0.2625,
+                            "Y": 0.0639
+                        },
+                        "LeftMargin": 1208.0044,
+                        "RightMargin": -264.0044,
+                        "TopMargin": -0.0005,
+                        "BottomMargin": 674.0005,
+                        "Tag": 541,
+                        "ActionTag": 550900248,
+                        "Size": {
+                            "X": 336,
+                            "Y": 46
+                        },
+                        "Name": "dbzgameback02_120_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback13.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1280.0012,
+                            "Y": 674.0009
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 1,
+                            "Y": 0.9361
+                        },
+                        "PreSize": {
+                            "X": 0.0359,
+                            "Y": 0.0639
+                        },
+                        "LeftMargin": 1280.0012,
+                        "RightMargin": -46.0012,
+                        "TopMargin": -0.0009,
+                        "BottomMargin": 674.0009,
+                        "Tag": 54,
+                        "ActionTag": 705366172,
+                        "Size": {
+                            "X": 72,
+                            "Y": 46
+                        },
+                        "Name": "dbzgameback13_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback03.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.5,
+                            "Y": 0.1139
+                        },
+                        "RightMargin": 640,
+                        "TopMargin": 638,
+                        "Tag": 542,
+                        "ActionTag": -28707312,
+                        "Size": {
+                            "X": 640,
+                            "Y": 82
+                        },
+                        "Name": "dbzgameback03_122",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback03.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1280,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 1,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.5,
+                            "Y": 0.1139
+                        },
+                        "LeftMargin": 1280,
+                        "RightMargin": -640,
+                        "TopMargin": 638,
+                        "Tag": 543,
+                        "ActionTag": 215899016,
+                        "Size": {
+                            "X": 640,
+                            "Y": 82
+                        },
+                        "Name": "dbzgameback03_122_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback04.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 5,
+                            "Y": 458
+                        },
+                        "Scale": {
+                            "ScaleX": 0.87,
+                            "ScaleY": 0.87
+                        },
+                        "RotationSkewY": 6,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0039,
+                            "Y": 0.6361
+                        },
+                        "PreSize": {
+                            "X": 0.1734,
+                            "Y": 0.1139
+                        },
+                        "LeftMargin": 5,
+                        "RightMargin": 1053,
+                        "TopMargin": 221,
+                        "BottomMargin": 417,
+                        "Tag": 544,
+                        "Children": [
+                            {
+                                "LabelText": "20",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 117,
+                                    "Y": 30.0028
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.527,
+                                    "Y": 0.3659
+                                },
+                                "PreSize": {
+                                    "X": 0.2523,
+                                    "Y": 0.4756
+                                },
+                                "LeftMargin": 89,
+                                "RightMargin": 77,
+                                "TopMargin": 32.4972,
+                                "BottomMargin": 10.5028,
+                                "Tag": 1231,
+                                "ActionTag": -1749591837,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 39
+                                },
+                                "Name": "textLine",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1920432951,
+                        "Size": {
+                            "X": 222,
+                            "Y": 82
+                        },
+                        "Name": "dbzgameback04_124",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback05.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 5,
+                            "Y": 209
+                        },
+                        "Scale": {
+                            "ScaleX": 0.87,
+                            "ScaleY": 0.92
+                        },
+                        "RotationSkewY": -6.0002,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0039,
+                            "Y": 0.2903
+                        },
+                        "PreSize": {
+                            "X": 0.1734,
+                            "Y": 0.1139
+                        },
+                        "LeftMargin": 5,
+                        "RightMargin": 1053,
+                        "TopMargin": 470,
+                        "BottomMargin": 168,
+                        "Tag": 545,
+                        "Children": [
+                            {
+                                "LabelText": "99999",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 118.9981,
+                                    "Y": 20.995
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.8,
+                                    "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.536,
+                                    "Y": 0.256
+                                },
+                                "PreSize": {
+                                    "X": 0.6171,
+                                    "Y": 0.4756
+                                },
+                                "LeftMargin": 50.4981,
+                                "RightMargin": 34.5019,
+                                "TopMargin": 41.505,
+                                "BottomMargin": 1.495,
+                                "CallBackType": "Click",
+                                "Tag": 331,
+                                "ActionTag": -852436185,
+                                "Size": {
+                                    "X": 137,
+                                    "Y": 39
+                                },
+                                "Name": "textAllBet",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1062379369,
+                        "Size": {
+                            "X": 222,
+                            "Y": 82
+                        },
+                        "Name": "dbzgameback04_124_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback07.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 8.0001,
+                            "Y": 687.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0063,
+                            "Y": 0.9542
+                        },
+                        "PreSize": {
+                            "X": 0.0391,
+                            "Y": 0.0444
+                        },
+                        "LeftMargin": 8.0001,
+                        "RightMargin": 1221.9999,
+                        "TopMargin": 0.9999,
+                        "BottomMargin": 687.0001,
+                        "Tag": 547,
+                        "ActionTag": -1624415775,
+                        "Size": {
+                            "X": 50,
+                            "Y": 32
+                        },
+                        "Name": "dbzgameback07_127",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback08.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1141.0059,
+                            "Y": 687.0029
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8914,
+                            "Y": 0.9542
+                        },
+                        "PreSize": {
+                            "X": 0.0531,
+                            "Y": 0.0444
+                        },
+                        "LeftMargin": 1141.0059,
+                        "RightMargin": 70.9941,
+                        "TopMargin": 0.9971,
+                        "BottomMargin": 687.0029,
+                        "Tag": 548,
+                        "ActionTag": -2027855733,
+                        "Size": {
+                            "X": 68,
+                            "Y": 32
+                        },
+                        "Name": "dbzgameback08_128",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback09.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 96,
+                            "Y": 9
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.075,
+                            "Y": 0.0125
+                        },
+                        "PreSize": {
+                            "X": 0.0852,
+                            "Y": 0.0875
+                        },
+                        "LeftMargin": 96,
+                        "RightMargin": 1075,
+                        "TopMargin": 648,
+                        "BottomMargin": 9,
+                        "Tag": 549,
+                        "Children": [
+                            {
+                                "LabelText": "100",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "dbzfont1.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 54.5033,
+                                    "Y": 16.4586
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.65,
+                                    "ScaleY": 0.65
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.2612
+                                },
+                                "PreSize": {
+                                    "X": 0.6606,
+                                    "Y": 0.619
+                                },
+                                "LeftMargin": 18.5033,
+                                "RightMargin": 18.4967,
+                                "TopMargin": 27.0414,
+                                "BottomMargin": -3.0414,
+                                "Tag": 332,
+                                "ActionTag": -772655361,
+                                "Size": {
+                                    "X": 72,
+                                    "Y": 39
+                                },
+                                "Name": "textBet",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -434856999,
+                        "Size": {
+                            "X": 109,
+                            "Y": 63
+                        },
+                        "Name": "dbzgameback09_129",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback10.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0.0004,
+                            "Y": 262.0007
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0.3639
+                        },
+                        "PreSize": {
+                            "X": 0.0156,
+                            "Y": 0.2236
+                        },
+                        "LeftMargin": 0.0004,
+                        "RightMargin": 1259.9996,
+                        "TopMargin": 296.9993,
+                        "BottomMargin": 262.0007,
+                        "Tag": 34,
+                        "ActionTag": -917434528,
+                        "Size": {
+                            "X": 20,
+                            "Y": 161
+                        },
+                        "Name": "dbzgameback10_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzgameback10.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1280.0006,
+                            "Y": 262.0001
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 1,
+                            "Y": 0.3639
+                        },
+                        "PreSize": {
+                            "X": 0.0156,
+                            "Y": 0.2236
+                        },
+                        "LeftMargin": 1280.0006,
+                        "RightMargin": -20.0006,
+                        "TopMargin": 296.9999,
+                        "BottomMargin": 262.0001,
+                        "Tag": 35,
+                        "ActionTag": 1455490111,
+                        "Size": {
+                            "X": 20,
+                            "Y": 161
+                        },
+                        "Name": "dbzgameback10_1_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn01_3.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn01_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn01_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 79,
+                        "Scale9Height": 32,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 184,
+                            "Y": 8.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1437,
+                            "Y": 0.0111
+                        },
+                        "PreSize": {
+                            "X": 0.0836,
+                            "Y": 0.075
+                        },
+                        "LeftMargin": 184,
+                        "RightMargin": 989,
+                        "TopMargin": 657.9998,
+                        "BottomMargin": 8.0002,
+                        "Tag": 538,
+                        "ActionTag": -1566590814,
+                        "Size": {
+                            "X": 107,
+                            "Y": 54
+                        },
+                        "Name": "btnRight2",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn02_3.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn02_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn02_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 79,
+                        "Scale9Height": 32,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1,
+                            "Y": 7.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0008,
+                            "Y": 0.0097
+                        },
+                        "PreSize": {
+                            "X": 0.0836,
+                            "Y": 0.075
+                        },
+                        "LeftMargin": 1,
+                        "RightMargin": 1172,
+                        "TopMargin": 658.9998,
+                        "BottomMargin": 7.0002,
+                        "Tag": 537,
+                        "ActionTag": 224621351,
+                        "Size": {
+                            "X": 107,
+                            "Y": 54
+                        },
+                        "Name": "btnLeft2",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn03_3.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn03_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn03_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 104,
+                        "Scale9Height": 32,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 276.5862,
+                            "Y": 6.9763
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2161,
+                            "Y": 0.0097
+                        },
+                        "PreSize": {
+                            "X": 0.1047,
+                            "Y": 0.075
+                        },
+                        "LeftMargin": 276.5862,
+                        "RightMargin": 869.4138,
+                        "TopMargin": 659.0237,
+                        "BottomMargin": 6.9763,
+                        "Tag": 550,
+                        "ActionTag": 2129850450,
+                        "Size": {
+                            "X": 134,
+                            "Y": 54
+                        },
+                        "Name": "btnAll",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn05_3.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn05_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn05_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 101,
+                        "Scale9Height": 36,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 902,
+                            "Y": 7
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7047,
+                            "Y": 0.0097
+                        },
+                        "PreSize": {
+                            "X": 0.1023,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 902,
+                        "RightMargin": 247,
+                        "TopMargin": 655,
+                        "BottomMargin": 7,
+                        "Tag": 381,
+                        "ActionTag": -102491757,
+                        "Size": {
+                            "X": 131,
+                            "Y": 58
+                        },
+                        "Name": "btnAutoStop",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn04_3.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn04_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn04_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 101,
+                        "Scale9Height": 36,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 901.9985,
+                            "Y": 7.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7047,
+                            "Y": 0.0097
+                        },
+                        "PreSize": {
+                            "X": 0.1023,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 901.9985,
+                        "RightMargin": 247.0015,
+                        "TopMargin": 654.9996,
+                        "BottomMargin": 7.0004,
+                        "Tag": 382,
+                        "ActionTag": -1781808134,
+                        "Size": {
+                            "X": 131,
+                            "Y": 58
+                        },
+                        "Name": "btnAuto",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn07_3.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn07_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn07_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 203,
+                        "Scale9Height": 32,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1023,
+                            "Y": 6
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7992,
+                            "Y": 0.0083
+                        },
+                        "PreSize": {
+                            "X": 0.182,
+                            "Y": 0.075
+                        },
+                        "LeftMargin": 1023,
+                        "RightMargin": 24,
+                        "TopMargin": 660,
+                        "BottomMargin": 6,
+                        "Tag": 383,
+                        "ActionTag": -79186889,
+                        "Size": {
+                            "X": 233,
+                            "Y": 54
+                        },
+                        "Name": "btnStop",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn06_3.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn06_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn06_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 203,
+                        "Scale9Height": 32,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1022.9975,
+                            "Y": 6
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7992,
+                            "Y": 0.0083
+                        },
+                        "PreSize": {
+                            "X": 0.182,
+                            "Y": 0.075
+                        },
+                        "LeftMargin": 1022.9975,
+                        "RightMargin": 24.0024,
+                        "TopMargin": 660,
+                        "BottomMargin": 6,
+                        "Tag": 384,
+                        "ActionTag": 70623554,
+                        "Size": {
+                            "X": 233,
+                            "Y": 54
+                        },
+                        "Name": "btnRun",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn14_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn14_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn14_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 5,
+                        "Scale9Height": 82,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1125.0017,
+                            "Y": 283.9956
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8789,
+                            "Y": 0.3944
+                        },
+                        "PreSize": {
+                            "X": 0.0273,
+                            "Y": 0.1444
+                        },
+                        "LeftMargin": 1125.0017,
+                        "RightMargin": 119.9983,
+                        "TopMargin": 332.0044,
+                        "BottomMargin": 283.9956,
+                        "Tag": 328,
+                        "ActionTag": -232556307,
+                        "Size": {
+                            "X": 35,
+                            "Y": 104
+                        },
+                        "Name": "btnHelp",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": " ",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn18_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn18_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn18_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 70,
+                        "Scale9Height": 16,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1026.0001,
+                            "Y": 641.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8016,
+                            "Y": 0.8903
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1026.0001,
+                        "RightMargin": 155.9999,
+                        "TopMargin": 40.9998,
+                        "BottomMargin": 641.0002,
+                        "Tag": 606,
+                        "ActionTag": 481209236,
+                        "Size": {
+                            "X": 98,
+                            "Y": 38
+                        },
+                        "Name": "btnCloseEffect",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": " ",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn17_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn17_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn17_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 70,
+                        "Scale9Height": 16,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1026.0004,
+                            "Y": 641.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8016,
+                            "Y": 0.8903
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1026.0004,
+                        "RightMargin": 155.9996,
+                        "TopMargin": 40.9999,
+                        "BottomMargin": 641.0001,
+                        "Tag": 605,
+                        "ActionTag": 981416760,
+                        "Size": {
+                            "X": 98,
+                            "Y": 38
+                        },
+                        "Name": "btnOpenEffect",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn20_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn20_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn20_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 70,
+                        "Scale9Height": 16,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1104,
+                            "Y": 641.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8625,
+                            "Y": 0.8903
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1104,
+                        "RightMargin": 78,
+                        "TopMargin": 40.9998,
+                        "BottomMargin": 641.0002,
+                        "Tag": 604,
+                        "ActionTag": 63912302,
+                        "Size": {
+                            "X": 98,
+                            "Y": 38
+                        },
+                        "Name": "btnCloseSound",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn19_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn19_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn19_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 70,
+                        "Scale9Height": 16,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1104.0002,
+                            "Y": 641.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8625,
+                            "Y": 0.8903
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1104.0002,
+                        "RightMargin": 77.9998,
+                        "TopMargin": 40.9998,
+                        "BottomMargin": 641.0002,
+                        "Tag": 603,
+                        "ActionTag": 1493207716,
+                        "Size": {
+                            "X": 98,
+                            "Y": 38
+                        },
+                        "Name": "btnOpenSound",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn21_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn21_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn21_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 70,
+                        "Scale9Height": 16,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1181.9998,
+                            "Y": 641.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9234,
+                            "Y": 0.8903
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1181.9998,
+                        "RightMargin": 0.0002,
+                        "TopMargin": 40.9999,
+                        "BottomMargin": 641.0001,
+                        "Tag": 602,
+                        "ActionTag": 1643134680,
+                        "Size": {
+                            "X": 98,
+                            "Y": 38
+                        },
+                        "Name": "btnSetup",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 91,
+                        "ActionTag": -1755897448,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeWheelBeginAni",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 535,
+                            "Y": 96
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.418,
+                            "Y": 0.1333
+                        },
+                        "PreSize": {
+                            "X": 0.1563,
+                            "Y": 0.6528
+                        },
+                        "LeftMargin": 535,
+                        "RightMargin": 545,
+                        "TopMargin": 154,
+                        "BottomMargin": 96,
+                        "Tag": 372,
+                        "ActionTag": 149650136,
+                        "Size": {
+                            "X": 200,
+                            "Y": 470
+                        },
+                        "Name": "layWheel3",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 355.0001,
+                            "Y": 96
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2773,
+                            "Y": 0.1333
+                        },
+                        "PreSize": {
+                            "X": 0.1563,
+                            "Y": 0.6528
+                        },
+                        "LeftMargin": 355.0001,
+                        "RightMargin": 724.9999,
+                        "TopMargin": 154,
+                        "BottomMargin": 96,
+                        "Tag": 371,
+                        "ActionTag": 340906656,
+                        "Size": {
+                            "X": 200,
+                            "Y": 470
+                        },
+                        "Name": "layWheel2",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 714.9998,
+                            "Y": 96
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5586,
+                            "Y": 0.1333
+                        },
+                        "PreSize": {
+                            "X": 0.1563,
+                            "Y": 0.6528
+                        },
+                        "LeftMargin": 714.9998,
+                        "RightMargin": 365.0002,
+                        "TopMargin": 154,
+                        "BottomMargin": 96,
+                        "Tag": 373,
+                        "ActionTag": -357901105,
+                        "Size": {
+                            "X": 200,
+                            "Y": 470
+                        },
+                        "Name": "layWheel4",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 175,
+                            "Y": 96.0003
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1367,
+                            "Y": 0.1333
+                        },
+                        "PreSize": {
+                            "X": 0.1563,
+                            "Y": 0.6528
+                        },
+                        "LeftMargin": 175,
+                        "RightMargin": 905,
+                        "TopMargin": 153.9997,
+                        "BottomMargin": 96.0003,
+                        "Tag": 369,
+                        "ActionTag": 2109680920,
+                        "Size": {
+                            "X": 200,
+                            "Y": 470
+                        },
+                        "Name": "layWheel1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 894.9996,
+                            "Y": 96
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6992,
+                            "Y": 0.1333
+                        },
+                        "PreSize": {
+                            "X": 0.1563,
+                            "Y": 0.6528
+                        },
+                        "LeftMargin": 894.9996,
+                        "RightMargin": 185.0005,
+                        "TopMargin": 154,
+                        "BottomMargin": 96,
+                        "Tag": 374,
+                        "ActionTag": 123743238,
+                        "Size": {
+                            "X": 200,
+                            "Y": 470
+                        },
+                        "Name": "layWheel5",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "路飞不舒服斯基啊啊啊",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 201.4455,
+                            "Y": 701.8271
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1574,
+                            "Y": 0.9748
+                        },
+                        "PreSize": {
+                            "X": 0.1563,
+                            "Y": 0.0472
+                        },
+                        "LeftMargin": 101.4455,
+                        "RightMargin": 978.5545,
+                        "TopMargin": 1.1729,
+                        "BottomMargin": 684.8271,
+                        "Tag": 302,
+                        "ActionTag": -1151416411,
+                        "Size": {
+                            "X": 200,
+                            "Y": 34
+                        },
+                        "Name": "textName",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "LabelText": "99,999,999.00",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "dbzfont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 1,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1108.8441,
+                            "Y": 702.0028
+                        },
+                        "Scale": {
+                            "ScaleX": 0.66,
+                            "ScaleY": 0.66
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8663,
+                            "Y": 0.975
+                        },
+                        "PreSize": {
+                            "X": 0.2438,
+                            "Y": 0.0542
+                        },
+                        "LeftMargin": 796.8441,
+                        "RightMargin": 171.1559,
+                        "TopMargin": -1.5028,
+                        "BottomMargin": 682.5028,
+                        "CallBackType": "Click",
+                        "Tag": 303,
+                        "ActionTag": 1577187179,
+                        "Size": {
+                            "X": 312,
+                            "Y": 39
+                        },
+                        "Name": "textMoney",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "10000",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "dbzfont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 642.9954,
+                            "Y": 29.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5023,
+                            "Y": 0.0417
+                        },
+                        "PreSize": {
+                            "X": 0.0984,
+                            "Y": 0.0542
+                        },
+                        "LeftMargin": 579.9954,
+                        "RightMargin": 574.0046,
+                        "TopMargin": 670.5001,
+                        "BottomMargin": 10.4999,
+                        "CallBackType": "Click",
+                        "Tag": 333,
+                        "ActionTag": 933362162,
+                        "Size": {
+                            "X": 126,
+                            "Y": 39
+                        },
+                        "Name": "textWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzimg_autonum.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 872.9996,
+                            "Y": 8
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.682,
+                            "Y": 0.0111
+                        },
+                        "PreSize": {
+                            "X": 0.1695,
+                            "Y": 0.1639
+                        },
+                        "LeftMargin": 872.9996,
+                        "RightMargin": 190.0005,
+                        "TopMargin": 594,
+                        "BottomMargin": 8,
+                        "Tag": 348,
+                        "ActionTag": -1820112432,
+                        "Size": {
+                            "X": 217,
+                            "Y": 118
+                        },
+                        "Name": "sprAutoNum",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "500",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "dbzfont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 969,
+                            "Y": 82.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 0.9,
+                            "ScaleY": 0.9
+                        },
+                        "RotationSkewX": 9.9998,
+                        "CColor": {
+                            "G": 236,
+                            "B": 11
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.757,
+                            "Y": 0.1139
+                        },
+                        "PreSize": {
+                            "X": 0.0648,
+                            "Y": 0.0542
+                        },
+                        "LeftMargin": 969,
+                        "RightMargin": 228,
+                        "TopMargin": 618.4999,
+                        "BottomMargin": 62.5001,
+                        "Tag": 349,
+                        "ActionTag": -1371616217,
+                        "Size": {
+                            "X": 83,
+                            "Y": 39
+                        },
+                        "Name": "textAutoNum",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 55,
+                        "ActionTag": -1003853363,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeWheelEndAni",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 42,
+                        "ActionTag": -1404432715,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeFightAni",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzimg_autoback6.jpg",
+                            "Plist": "dbzjpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.1578,
+                            "Y": 0.1472
+                        },
+                        "RightMargin": 1078,
+                        "TopMargin": 614,
+                        "Tag": 43,
+                        "ActionTag": -1496098697,
+                        "Size": {
+                            "X": 202,
+                            "Y": 106
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "dbzimg_autoback6_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn24_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn24_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn24_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 29,
+                        "Scale9Height": 16,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "Position": {
+                            "X": 1280.0001,
+                            "Y": 720.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "PreSize": {
+                            "X": 0.0445,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1223.0001,
+                        "RightMargin": -0.0001,
+                        "TopMargin": -0.0004,
+                        "BottomMargin": 682.0004,
+                        "Tag": 303,
+                        "ActionTag": -1921860745,
+                        "Size": {
+                            "X": 57,
+                            "Y": 38
+                        },
+                        "Name": "btnClose",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "dbzfont1.fnt",
+                "dbzfont1.png",
+                "dbzjpgres.jpg",
+                "dbzjpgres.plist",
+                "dbzpngres.plist",
+                "dbzpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

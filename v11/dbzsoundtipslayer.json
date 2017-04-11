@@ -1,0 +1,194 @@
+{
+    "ID": "f974a1bf-ccfe-48b3-a887-2d9fa534ec78",
+    "Version": "2.3.4",
+    "Name": "dbzsoundtipslayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 304,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 318,
+                        "ActionTag": 1596360839,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "layClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn20_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn20_2.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzbtn20_1.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 70,
+                        "Scale9Height": 16,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1104,
+                            "Y": 641.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8625,
+                            "Y": 0.8903
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 1104,
+                        "RightMargin": 78,
+                        "TopMargin": 40.9998,
+                        "BottomMargin": 641.0002,
+                        "Tag": 317,
+                        "ActionTag": 1932546229,
+                        "Size": {
+                            "X": 98,
+                            "Y": 38
+                        },
+                        "Name": "btnCloseSound",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "dbzimg_opensound.png",
+                            "Plist": "dbzpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 849.5138,
+                            "Y": 470.3964
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6637,
+                            "Y": 0.6533
+                        },
+                        "PreSize": {
+                            "X": 0.2352,
+                            "Y": 0.2806
+                        },
+                        "LeftMargin": 849.5138,
+                        "RightMargin": 129.4862,
+                        "TopMargin": 47.6036,
+                        "BottomMargin": 470.3964,
+                        "Tag": 319,
+                        "ActionTag": -1716124160,
+                        "Size": {
+                            "X": 301,
+                            "Y": 202
+                        },
+                        "Name": "dbzimg_opensound_2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "dbzpngres.plist",
+                "dbzpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

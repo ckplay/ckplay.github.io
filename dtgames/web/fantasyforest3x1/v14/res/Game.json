@@ -1,0 +1,3799 @@
+{
+  "ID": "98b852e6-8bb1-4f4b-9106-8cb702fd5877",
+  "Version": "3.10.0.0",
+  "Name": "Game",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 708,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 709,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "MainBackground.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 960.0,
+                  "Y": 540.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": -1920.0,
+                "TopMargin": -1080.0,
+                "Tag": 710,
+                "ActionTag": 503557797,
+                "Size": {
+                  "X": 1920.0,
+                  "Y": 1080.0
+                },
+                "Name": "BKG",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "WinConditionBKG0.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1686.0,
+                  "Y": 602.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1647.0,
+                "RightMargin": -1725.0,
+                "TopMargin": -919.0,
+                "BottomMargin": 285.0,
+                "Tag": 73,
+                "ActionTag": -1978956234,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 634.0
+                },
+                "Name": "WinConditionBKG0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "WinConditionBKG1.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1765.0,
+                  "Y": 602.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1726.0,
+                "RightMargin": -1804.0,
+                "TopMargin": -919.0,
+                "BottomMargin": 285.0,
+                "Tag": 74,
+                "ActionTag": -840494029,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 634.0
+                },
+                "Name": "WinConditionBKG1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "WinConditionBKG2.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1847.0,
+                  "Y": 602.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1808.0,
+                "RightMargin": -1886.0,
+                "TopMargin": -919.0,
+                "BottomMargin": 285.0,
+                "Tag": 75,
+                "ActionTag": 501494457,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 634.0
+                },
+                "Name": "WinConditionBKG2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "WinConditionNumbers.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1770.0,
+                  "Y": 600.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1657.0,
+                "RightMargin": -1883.0,
+                "TopMargin": -905.5,
+                "BottomMargin": 294.5,
+                "Tag": 72,
+                "ActionTag": 958861365,
+                "Size": {
+                  "X": 226.0,
+                  "Y": 611.0
+                },
+                "Name": "WinConditionNumbers",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -2089058182,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Background",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 935.0,
+              "Y": 588.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 382.5,
+            "RightMargin": -1487.5,
+            "TopMargin": -868.0,
+            "BottomMargin": 308.0,
+            "Tag": 711,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 190.0,
+                  "Y": 280.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.1719,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 190.0,
+                "RightMargin": 915.0,
+                "TopMargin": 280.0,
+                "BottomMargin": 280.0,
+                "Tag": 712,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 420.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "TopMargin": -420.0,
+                    "BottomMargin": 420.0,
+                    "Tag": 713,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Card7.png",
+                          "Plist": "fantasyforest3x1.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -146.5,
+                        "RightMargin": -146.5,
+                        "TopMargin": -134.5,
+                        "BottomMargin": -134.5,
+                        "Tag": 714,
+                        "ActionTag": -1266325174,
+                        "Size": {
+                          "X": 293.0,
+                          "Y": 269.0
+                        },
+                        "Name": "Icon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 372225960,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "IconRoot0",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 140.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "TopMargin": -140.0,
+                    "BottomMargin": 140.0,
+                    "Tag": 715,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Card7.png",
+                          "Plist": "fantasyforest3x1.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -146.5,
+                        "RightMargin": -146.5,
+                        "TopMargin": -134.5,
+                        "BottomMargin": -134.5,
+                        "Tag": 716,
+                        "ActionTag": 416911934,
+                        "Size": {
+                          "X": 293.0,
+                          "Y": 269.0
+                        },
+                        "Name": "Icon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1378884938,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "IconRoot1",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -140.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "TopMargin": 140.0,
+                    "BottomMargin": -140.0,
+                    "Tag": 717,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Card7.png",
+                          "Plist": "fantasyforest3x1.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -146.5,
+                        "RightMargin": -146.5,
+                        "TopMargin": -134.5,
+                        "BottomMargin": -134.5,
+                        "Tag": 718,
+                        "ActionTag": 527402908,
+                        "Size": {
+                          "X": 293.0,
+                          "Y": 269.0
+                        },
+                        "Name": "Icon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1177948798,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "IconRoot2",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -420.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "TopMargin": 420.0,
+                    "BottomMargin": -420.0,
+                    "Tag": 719,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Card7.png",
+                          "Plist": "fantasyforest3x1.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -146.5,
+                        "RightMargin": -146.5,
+                        "TopMargin": -134.5,
+                        "BottomMargin": -134.5,
+                        "Tag": 720,
+                        "ActionTag": 670139515,
+                        "Size": {
+                          "X": 293.0,
+                          "Y": 269.0
+                        },
+                        "Name": "Icon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -724825494,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "IconRoot3",
+                    "ctype": "SingleNodeObjectData"
+                  }
+                ],
+                "ActionTag": 1216464080,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Line0",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 570.0,
+                  "Y": 280.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5158,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 570.0,
+                "RightMargin": 535.0,
+                "TopMargin": 280.0,
+                "BottomMargin": 280.0,
+                "Tag": 721,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 420.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "TopMargin": -420.0,
+                    "BottomMargin": 420.0,
+                    "Tag": 722,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Card7.png",
+                          "Plist": "fantasyforest3x1.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -146.5,
+                        "RightMargin": -146.5,
+                        "TopMargin": -134.5,
+                        "BottomMargin": -134.5,
+                        "Tag": 723,
+                        "ActionTag": 1209176118,
+                        "Size": {
+                          "X": 293.0,
+                          "Y": 269.0
+                        },
+                        "Name": "Icon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1996415042,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "IconRoot0",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 140.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "TopMargin": -140.0,
+                    "BottomMargin": 140.0,
+                    "Tag": 724,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Card7.png",
+                          "Plist": "fantasyforest3x1.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -146.5,
+                        "RightMargin": -146.5,
+                        "TopMargin": -134.5,
+                        "BottomMargin": -134.5,
+                        "Tag": 725,
+                        "ActionTag": -1252234287,
+                        "Size": {
+                          "X": 293.0,
+                          "Y": 269.0
+                        },
+                        "Name": "Icon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 875866515,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "IconRoot1",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -140.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "TopMargin": 140.0,
+                    "BottomMargin": -140.0,
+                    "Tag": 726,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Card7.png",
+                          "Plist": "fantasyforest3x1.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -146.5,
+                        "RightMargin": -146.5,
+                        "TopMargin": -134.5,
+                        "BottomMargin": -134.5,
+                        "Tag": 727,
+                        "ActionTag": -659541922,
+                        "Size": {
+                          "X": 293.0,
+                          "Y": 269.0
+                        },
+                        "Name": "Icon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 438428320,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "IconRoot2",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -420.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "TopMargin": 420.0,
+                    "BottomMargin": -420.0,
+                    "Tag": 728,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Card7.png",
+                          "Plist": "fantasyforest3x1.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -146.5,
+                        "RightMargin": -146.5,
+                        "TopMargin": -134.5,
+                        "BottomMargin": -134.5,
+                        "Tag": 729,
+                        "ActionTag": -1535073909,
+                        "Size": {
+                          "X": 293.0,
+                          "Y": 269.0
+                        },
+                        "Name": "Icon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 97096605,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "IconRoot3",
+                    "ctype": "SingleNodeObjectData"
+                  }
+                ],
+                "ActionTag": -651517634,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Line1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 950.0,
+                  "Y": 280.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.8597,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 950.0,
+                "RightMargin": 155.0,
+                "TopMargin": 280.0,
+                "BottomMargin": 280.0,
+                "Tag": 730,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 420.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "TopMargin": -420.0,
+                    "BottomMargin": 420.0,
+                    "Tag": 731,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Card7.png",
+                          "Plist": "fantasyforest3x1.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -146.5,
+                        "RightMargin": -146.5,
+                        "TopMargin": -134.5,
+                        "BottomMargin": -134.5,
+                        "Tag": 732,
+                        "ActionTag": 2007680825,
+                        "Size": {
+                          "X": 293.0,
+                          "Y": 269.0
+                        },
+                        "Name": "Icon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 2044195659,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "IconRoot0",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 140.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "TopMargin": -140.0,
+                    "BottomMargin": 140.0,
+                    "Tag": 733,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Card7.png",
+                          "Plist": "fantasyforest3x1.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -146.5,
+                        "RightMargin": -146.5,
+                        "TopMargin": -134.5,
+                        "BottomMargin": -134.5,
+                        "Tag": 734,
+                        "ActionTag": 1472396054,
+                        "Size": {
+                          "X": 293.0,
+                          "Y": 269.0
+                        },
+                        "Name": "Icon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -542526201,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "IconRoot1",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -140.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "TopMargin": 140.0,
+                    "BottomMargin": -140.0,
+                    "Tag": 735,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Card7.png",
+                          "Plist": "fantasyforest3x1.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -146.5,
+                        "RightMargin": -146.5,
+                        "TopMargin": -134.5,
+                        "BottomMargin": -134.5,
+                        "Tag": 736,
+                        "ActionTag": -2014930151,
+                        "Size": {
+                          "X": 293.0,
+                          "Y": 269.0
+                        },
+                        "Name": "Icon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 587947633,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "IconRoot2",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -420.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "TopMargin": 420.0,
+                    "BottomMargin": -420.0,
+                    "Tag": 737,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "Card7.png",
+                          "Plist": "fantasyforest3x1.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -146.5,
+                        "RightMargin": -146.5,
+                        "TopMargin": -134.5,
+                        "BottomMargin": -134.5,
+                        "Tag": 738,
+                        "ActionTag": -521440347,
+                        "Size": {
+                          "X": 293.0,
+                          "Y": 269.0
+                        },
+                        "Name": "Icon",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1240808463,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "IconRoot3",
+                    "ctype": "SingleNodeObjectData"
+                  }
+                ],
+                "ActionTag": -1975870042,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Line2",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": -250120061,
+            "Size": {
+              "X": 1105.0,
+              "Y": 560.0
+            },
+            "Name": "LineGroup",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 960.0,
+              "Y": 540.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 960.0,
+            "RightMargin": -960.0,
+            "TopMargin": -540.0,
+            "BottomMargin": 540.0,
+            "Tag": 739,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -8.0,
+                  "Y": 77.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -8.0,
+                "RightMargin": 8.0,
+                "TopMargin": -77.0,
+                "BottomMargin": 77.0,
+                "Tag": 740,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Decorate01.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 550.0,
+                      "Y": -424.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 491.5,
+                    "RightMargin": -608.5,
+                    "TopMargin": 291.0,
+                    "BottomMargin": -557.0,
+                    "Tag": 741,
+                    "ActionTag": -204120957,
+                    "Size": {
+                      "X": 117.0,
+                      "Y": 266.0
+                    },
+                    "Name": "Decorate0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Decorate02.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -426.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -529.5,
+                    "RightMargin": 322.5,
+                    "TopMargin": -391.0,
+                    "BottomMargin": 249.0,
+                    "Tag": 742,
+                    "ActionTag": -283236871,
+                    "Size": {
+                      "X": 207.0,
+                      "Y": 142.0
+                    },
+                    "Name": "Decorate1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Rect.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 2,
+                    "Scale9OriginY": 2,
+                    "Scale9Width": 16,
+                    "Scale9Height": 16,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -3.0,
+                      "Y": -29.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 131,
+                      "G": 70,
+                      "B": 3
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -563.0,
+                    "RightMargin": -557.0,
+                    "TopMargin": 26.0,
+                    "BottomMargin": -32.0,
+                    "Tag": 743,
+                    "ActionTag": -592400407,
+                    "Size": {
+                      "X": 1120.0,
+                      "Y": 6.0
+                    },
+                    "Name": "TopLine",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "TitleImage.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 7.0,
+                      "Y": 329.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -305.5,
+                    "RightMargin": -319.5,
+                    "TopMargin": -434.0,
+                    "BottomMargin": 224.0,
+                    "Tag": 744,
+                    "ActionTag": -2059879916,
+                    "Size": {
+                      "X": 625.0,
+                      "Y": 210.0
+                    },
+                    "Name": "TopTitle",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "TopFlower.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 494.0,
+                      "Y": 210.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 431.0,
+                    "RightMargin": -557.0,
+                    "TopMargin": -256.0,
+                    "BottomMargin": 164.0,
+                    "Tag": 79,
+                    "ActionTag": -936024295,
+                    "Size": {
+                      "X": 126.0,
+                      "Y": 92.0
+                    },
+                    "Name": "TopFlower",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1606587080,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Foreground",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonStartRoll.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonStartRoll.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonStartRoll.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 233,
+                "Scale9Height": 241,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -43.0,
+                  "Y": -396.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -175.0,
+                "RightMargin": -89.0,
+                "TopMargin": 264.0,
+                "BottomMargin": -528.0,
+                "Tag": 745,
+                "ActionTag": 166522852,
+                "Size": {
+                  "X": 264.0,
+                  "Y": 264.0
+                },
+                "Name": "ButtonStart",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonBetOne.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonBetOne_P.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonBetOne.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 213,
+                "Scale9Height": 99,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 274.0,
+                  "Y": -338.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 152.0,
+                "RightMargin": -396.0,
+                "TopMargin": 276.0,
+                "BottomMargin": -400.0,
+                "Tag": 746,
+                "ActionTag": -696552868,
+                "Size": {
+                  "X": 244.0,
+                  "Y": 124.0
+                },
+                "Name": "ButtonBetOne",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonBetMax.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonBetMax_P.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonBetMax.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 213,
+                "Scale9Height": 99,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 274.0,
+                  "Y": -454.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 152.0,
+                "RightMargin": -396.0,
+                "TopMargin": 392.0,
+                "BottomMargin": -516.0,
+                "Tag": 747,
+                "ActionTag": 611785479,
+                "Size": {
+                  "X": 244.0,
+                  "Y": 124.0
+                },
+                "Name": "ButtonBetAll",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonAdd.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonAdd_P.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonAdd.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 65,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -245.0,
+                  "Y": -340.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -295.0,
+                "RightMargin": 195.0,
+                "TopMargin": 292.0,
+                "BottomMargin": -388.0,
+                "Tag": 748,
+                "ActionTag": -1864942964,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 96.0
+                },
+                "Name": "ButtonBaseAdd",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonMinus.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonMinus_P.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonMinus.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 65,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -465.0,
+                  "Y": -340.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -515.0,
+                "RightMargin": 415.0,
+                "TopMargin": 292.0,
+                "BottomMargin": -388.0,
+                "Tag": 749,
+                "ActionTag": -1334436379,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 96.0
+                },
+                "Name": "ButtonBaseMinus",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "MusicOn.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "MusicOn.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "MusicOn.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 54,
+                "Scale9Height": 68,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 645.0,
+                  "Y": -465.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 603.0,
+                "RightMargin": -687.0,
+                "TopMargin": 419.0,
+                "BottomMargin": -511.0,
+                "Tag": 750,
+                "ActionTag": 1080116842,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 92.0
+                },
+                "Name": "ButtonSetMusic",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SoundOn.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SoundOn.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SoundOn.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 53,
+                "Scale9Height": 69,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 765.0,
+                  "Y": -465.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 723.0,
+                "RightMargin": -807.0,
+                "TopMargin": 419.0,
+                "BottomMargin": -511.0,
+                "Tag": 751,
+                "ActionTag": -1837526202,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 92.0
+                },
+                "Name": "ButtonSetSound",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 38,
+                "LabelText": "000000",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 89,
+                  "G": 31,
+                  "B": 2
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -1.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -705.0,
+                  "Y": 430.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -955.0,
+                "RightMargin": 455.0,
+                "TopMargin": -455.0,
+                "BottomMargin": 405.0,
+                "Tag": 752,
+                "ActionTag": 1571306330,
+                "Size": {
+                  "X": 500.0,
+                  "Y": 50.0
+                },
+                "Name": "TextCurrentMoney",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 38,
+                "LabelText": "username",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 89,
+                  "G": 31,
+                  "B": 2
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -1.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -705.0,
+                  "Y": 493.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -955.0,
+                "RightMargin": 455.0,
+                "TopMargin": -518.0,
+                "BottomMargin": 468.0,
+                "Tag": 753,
+                "ActionTag": 1846845574,
+                "Size": {
+                  "X": 500.0,
+                  "Y": 50.0
+                },
+                "Name": "TextUserName",
+                "ctype": "TextObjectData"
+              },
+              {
+                "LabelText": "1",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fantasybase.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -358.0,
+                  "Y": -338.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -368.0,
+                "RightMargin": 348.0,
+                "TopMargin": 318.5,
+                "BottomMargin": -357.5,
+                "Tag": 80,
+                "ActionTag": -2146211005,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 39.0
+                },
+                "Name": "TextBetBase",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "1",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fantasybase.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -714.0,
+                  "Y": -403.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -724.0,
+                "RightMargin": 704.0,
+                "TopMargin": 383.5,
+                "BottomMargin": -422.5,
+                "Tag": 79,
+                "ActionTag": -667401382,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 39.0
+                },
+                "Name": "TextBetTotal",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "1",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fantasybase.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -714.0,
+                  "Y": -104.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -724.0,
+                "RightMargin": 704.0,
+                "TopMargin": 84.5,
+                "BottomMargin": -123.5,
+                "Tag": 78,
+                "ActionTag": 1421156797,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 39.0
+                },
+                "Name": "TextWinMoney",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonConfig.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonConfig.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonConfig.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 53,
+                "Scale9Height": 68,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 885.0,
+                  "Y": -465.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 843.5,
+                "RightMargin": -926.5,
+                "TopMargin": 420.0,
+                "BottomMargin": -510.0,
+                "Tag": 91,
+                "ActionTag": 1576163682,
+                "Size": {
+                  "X": 83.0,
+                  "Y": 90.0
+                },
+                "Name": "ButtonConfig",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -960.0,
+                "RightMargin": -960.0,
+                "TopMargin": -540.0,
+                "BottomMargin": -540.0,
+                "Tag": 83,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "AutoGroup.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 571.0,
+                      "Y": 325.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2974,
+                      "Y": 0.3009
+                    },
+                    "PreSize": {
+                      "X": 0.1578,
+                      "Y": 0.3546
+                    },
+                    "LeftMargin": 419.5,
+                    "RightMargin": 1197.5,
+                    "TopMargin": 563.5,
+                    "BottomMargin": 133.5,
+                    "Tag": 84,
+                    "ActionTag": -1859943410,
+                    "Size": {
+                      "X": 303.0,
+                      "Y": 383.0
+                    },
+                    "Name": "NumberGroup",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Rect.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "Scale9OriginX": 6,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 599.0,
+                      "Y": 188.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.312,
+                      "Y": 0.1741
+                    },
+                    "PreSize": {
+                      "X": 0.1042,
+                      "Y": 0.0417
+                    },
+                    "LeftMargin": 499.0,
+                    "RightMargin": 1221.0,
+                    "TopMargin": 869.5,
+                    "BottomMargin": 165.5,
+                    "Tag": 80,
+                    "ActionTag": 94548441,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 45.0
+                    },
+                    "Alpha": 0,
+                    "Name": "0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Rect.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "Scale9OriginX": 6,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 599.0,
+                      "Y": 245.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.312,
+                      "Y": 0.2269
+                    },
+                    "PreSize": {
+                      "X": 0.1042,
+                      "Y": 0.0417
+                    },
+                    "LeftMargin": 499.0,
+                    "RightMargin": 1221.0,
+                    "TopMargin": 812.5,
+                    "BottomMargin": 222.5,
+                    "Tag": 81,
+                    "ActionTag": 1041521503,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 45.0
+                    },
+                    "Alpha": 0,
+                    "Name": "1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Rect.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "Scale9OriginX": 6,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 599.0,
+                      "Y": 301.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.312,
+                      "Y": 0.2787
+                    },
+                    "PreSize": {
+                      "X": 0.1042,
+                      "Y": 0.0417
+                    },
+                    "LeftMargin": 499.0,
+                    "RightMargin": 1221.0,
+                    "TopMargin": 756.5,
+                    "BottomMargin": 278.5,
+                    "Tag": 82,
+                    "ActionTag": -937314258,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 45.0
+                    },
+                    "Alpha": 0,
+                    "Name": "2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Rect.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "Scale9OriginX": 6,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 599.0,
+                      "Y": 357.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.312,
+                      "Y": 0.3306
+                    },
+                    "PreSize": {
+                      "X": 0.1042,
+                      "Y": 0.0417
+                    },
+                    "LeftMargin": 499.0,
+                    "RightMargin": 1221.0,
+                    "TopMargin": 700.5,
+                    "BottomMargin": 334.5,
+                    "Tag": 83,
+                    "ActionTag": -847910898,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 45.0
+                    },
+                    "Alpha": 0,
+                    "Name": "3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Rect.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "Scale9OriginX": 6,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 599.0,
+                      "Y": 411.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.312,
+                      "Y": 0.3806
+                    },
+                    "PreSize": {
+                      "X": 0.1042,
+                      "Y": 0.0417
+                    },
+                    "LeftMargin": 499.0,
+                    "RightMargin": 1221.0,
+                    "TopMargin": 646.5,
+                    "BottomMargin": 388.5,
+                    "Tag": 84,
+                    "ActionTag": 1099049486,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 45.0
+                    },
+                    "Alpha": 0,
+                    "Name": "4",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -374343772,
+                "Size": {
+                  "X": 1920.0,
+                  "Y": 1080.0
+                },
+                "Name": "SelectGroup",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonAuto.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonAuto.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ButtonAuto.png",
+                  "Plist": "fantasyforest3x1.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 213,
+                "Scale9Height": 99,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -360.0,
+                  "Y": -453.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -482.0,
+                "RightMargin": 238.0,
+                "TopMargin": 391.0,
+                "BottomMargin": -515.0,
+                "Tag": 757,
+                "ActionTag": 342603502,
+                "Size": {
+                  "X": 244.0,
+                  "Y": 124.0
+                },
+                "Name": "ButtonAuto",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 76,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -960.0,
+                "RightMargin": -960.0,
+                "TopMargin": -540.0,
+                "BottomMargin": -540.0,
+                "Tag": 93,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "SettingBKG.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1770.0,
+                      "Y": 190.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9219,
+                      "Y": 0.1759
+                    },
+                    "PreSize": {
+                      "X": 0.0849,
+                      "Y": 0.1194
+                    },
+                    "LeftMargin": 1688.5,
+                    "RightMargin": 68.5,
+                    "TopMargin": 825.5,
+                    "BottomMargin": 125.5,
+                    "Tag": 77,
+                    "ActionTag": 1241832008,
+                    "Size": {
+                      "X": 163.0,
+                      "Y": 129.0
+                    },
+                    "Name": "SettingBKG",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Rect.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Rect.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Rect.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "Scale9OriginX": 6,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1770.0,
+                      "Y": 175.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9219,
+                      "Y": 0.162
+                    },
+                    "PreSize": {
+                      "X": 0.0833,
+                      "Y": 0.0463
+                    },
+                    "LeftMargin": 1690.0,
+                    "RightMargin": 70.0,
+                    "TopMargin": 880.0,
+                    "BottomMargin": 150.0,
+                    "Tag": 78,
+                    "ActionTag": -1573029400,
+                    "Size": {
+                      "X": 160.0,
+                      "Y": 50.0
+                    },
+                    "Alpha": 0,
+                    "Name": "ButtonHelp",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Rect.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Rect.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "Rect.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "Scale9OriginX": 6,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1770.0,
+                      "Y": 225.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9219,
+                      "Y": 0.2083
+                    },
+                    "PreSize": {
+                      "X": 0.0833,
+                      "Y": 0.0463
+                    },
+                    "LeftMargin": 1690.0,
+                    "RightMargin": 70.0,
+                    "TopMargin": 830.0,
+                    "BottomMargin": 200.0,
+                    "Tag": 79,
+                    "ActionTag": -620306649,
+                    "Size": {
+                      "X": 160.0,
+                      "Y": 50.0
+                    },
+                    "Alpha": 0,
+                    "Name": "ButtonLog",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 986515205,
+                "Size": {
+                  "X": 1920.0,
+                  "Y": 1080.0
+                },
+                "Name": "ConfigGroup",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 35,
+                "LabelText": "",
+                "VerticalAlignmentType": "VT_Bottom",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 54,
+                  "G": 61,
+                  "B": 7
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -478.0,
+                  "Y": -503.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -478.0,
+                "RightMargin": 378.0,
+                "TopMargin": 463.0,
+                "BottomMargin": -503.0,
+                "Tag": 758,
+                "ActionTag": -236895595,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 40.0
+                },
+                "Name": "TextAutoLeft",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1351335878,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "UIMain",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 229,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -316,
+            "Scale9OriginY": -233,
+            "Scale9Width": 632,
+            "Scale9Height": 466,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -1920.0,
+            "TopMargin": -1080.0,
+            "Tag": 159,
+            "ActionTag": -1680394354,
+            "Size": {
+              "X": 1920.0,
+              "Y": 1080.0
+            },
+            "Name": "EffectRoot",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 960.0,
+              "Y": 540.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -1920.0,
+            "TopMargin": -1080.0,
+            "Tag": 72,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PromptBoard.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 960.0,
+                  "Y": 640.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5926
+                },
+                "PreSize": {
+                  "X": 0.3938,
+                  "Y": 0.4185
+                },
+                "LeftMargin": 582.0,
+                "RightMargin": 582.0,
+                "TopMargin": 214.0,
+                "BottomMargin": 414.0,
+                "Tag": 73,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "PromptButton1.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "PromptButton1.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "PromptButton1.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 146,
+                    "Scale9Height": 45,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 375.0,
+                      "Y": 130.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.2876
+                    },
+                    "PreSize": {
+                      "X": 0.2328,
+                      "Y": 0.1858
+                    },
+                    "LeftMargin": 287.0,
+                    "RightMargin": 293.0,
+                    "TopMargin": 280.0,
+                    "BottomMargin": 88.0,
+                    "Tag": 76,
+                    "ActionTag": -2023129042,
+                    "Size": {
+                      "X": 176.0,
+                      "Y": 84.0
+                    },
+                    "Name": "ButtonCenter",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ErrorText0.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 375.0,
+                      "Y": 290.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.6416
+                    },
+                    "PreSize": {
+                      "X": 0.3783,
+                      "Y": 0.2323
+                    },
+                    "LeftMargin": 232.0,
+                    "RightMargin": 238.0,
+                    "TopMargin": 109.5,
+                    "BottomMargin": 237.5,
+                    "Tag": 691,
+                    "ActionTag": 849591366,
+                    "Size": {
+                      "X": 286.0,
+                      "Y": 105.0
+                    },
+                    "Name": "ErrorText0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ErrorText1.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 375.0,
+                      "Y": 290.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.6416
+                    },
+                    "PreSize": {
+                      "X": 0.3995,
+                      "Y": 0.104
+                    },
+                    "LeftMargin": 224.0,
+                    "RightMargin": 230.0,
+                    "TopMargin": 138.5,
+                    "BottomMargin": 266.5,
+                    "Tag": 695,
+                    "ActionTag": -45541487,
+                    "Size": {
+                      "X": 302.0,
+                      "Y": 47.0
+                    },
+                    "Name": "ErrorText1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ErrorText2.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 375.0,
+                      "Y": 290.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.6416
+                    },
+                    "PreSize": {
+                      "X": 0.3942,
+                      "Y": 0.104
+                    },
+                    "LeftMargin": 226.0,
+                    "RightMargin": 232.0,
+                    "TopMargin": 138.5,
+                    "BottomMargin": 266.5,
+                    "Tag": 694,
+                    "ActionTag": -1388174661,
+                    "Size": {
+                      "X": 298.0,
+                      "Y": 47.0
+                    },
+                    "Name": "ErrorText2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ErrorText3.png",
+                      "Plist": "fantasyforest3x1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 375.0,
+                      "Y": 290.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.6416
+                    },
+                    "PreSize": {
+                      "X": 0.4497,
+                      "Y": 0.1018
+                    },
+                    "LeftMargin": 205.0,
+                    "RightMargin": 211.0,
+                    "TopMargin": 139.0,
+                    "BottomMargin": 267.0,
+                    "Tag": 693,
+                    "ActionTag": 1480065923,
+                    "Size": {
+                      "X": 340.0,
+                      "Y": 46.0
+                    },
+                    "Name": "ErrorText3",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1217654139,
+                "Size": {
+                  "X": 756.0,
+                  "Y": 452.0
+                },
+                "Name": "Board",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 40,
+                "LabelText": "",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 962.1965,
+                  "Y": 670.247
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5011,
+                  "Y": 0.6206
+                },
+                "PreSize": {
+                  "X": 0.2604,
+                  "Y": 0.1852
+                },
+                "LeftMargin": 712.1965,
+                "RightMargin": 707.8035,
+                "TopMargin": 309.753,
+                "BottomMargin": 570.247,
+                "Tag": 80,
+                "ActionTag": 1281398170,
+                "Size": {
+                  "X": 500.0,
+                  "Y": 200.0
+                },
+                "Name": "Prompt",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1348148617,
+            "Size": {
+              "X": 1920.0,
+              "Y": 1080.0
+            },
+            "Name": "Prompt",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonExit.png",
+              "Plist": "fantasyforest3x1.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonExit.png",
+              "Plist": "fantasyforest3x1.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "ButtonExit.png",
+              "Plist": "fantasyforest3x1.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 102,
+            "Scale9Height": 113,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 1920.0,
+              "Y": 1080.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1788.0,
+            "RightMargin": -1920.0,
+            "TopMargin": -1080.0,
+            "BottomMargin": 945.0,
+            "Tag": 77,
+            "ActionTag": -1731534022,
+            "Size": {
+              "X": 132.0,
+              "Y": 135.0
+            },
+            "Name": "ButtonExit",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 2.0001,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 2.0001,
+            "RightMargin": -1922.0001,
+            "TopMargin": -1080.0,
+            "Tag": 690,
+            "ActionTag": -832419592,
+            "Size": {
+              "X": 1920.0,
+              "Y": 1080.0
+            },
+            "Name": "TopMask",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "fantasybase.fnt",
+        "fantasybase_0.png",
+        "fantasyforest3x1.plist",
+        "fantasyforest3x1.png",
+        "MainBackground.jpg",
+        "PromptBoard.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

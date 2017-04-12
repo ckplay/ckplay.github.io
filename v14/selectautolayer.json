@@ -1,0 +1,472 @@
+{
+    "ID": "4dcf3ffc-8914-4b84-b86c-3c77fe481f56",
+    "Version": "2.3.4",
+    "Name": "selectautolayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 31,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "empty.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Width": 9,
+                        "Scale9Height": 9,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 35,
+                        "ActionTag": -1992615548,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "autoback.jpg",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 670,
+                            "Y": 161.9992
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5234,
+                            "Y": 0.225
+                        },
+                        "PreSize": {
+                            "X": 0.1461,
+                            "Y": 0.4889
+                        },
+                        "LeftMargin": 670,
+                        "RightMargin": 423,
+                        "TopMargin": 206.0008,
+                        "BottomMargin": 161.9992,
+                        "Tag": 34,
+                        "ActionTag": -778487796,
+                        "Size": {
+                            "X": 187,
+                            "Y": 352
+                        },
+                        "Name": "autoback_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk6_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk6_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk6_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 166,
+                        "Scale9Height": 57,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 663.9985,
+                            "Y": 113.9993
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5187,
+                            "Y": 0.1583
+                        },
+                        "PreSize": {
+                            "X": 0.1531,
+                            "Y": 0.1097
+                        },
+                        "LeftMargin": 663.9985,
+                        "RightMargin": 420.0015,
+                        "TopMargin": 527.0007,
+                        "BottomMargin": 113.9993,
+                        "Tag": 35,
+                        "ActionTag": -926936633,
+                        "Size": {
+                            "X": 196,
+                            "Y": 79
+                        },
+                        "Name": "btnAuto25",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk7_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk7_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk7_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 166,
+                        "Scale9Height": 57,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 664,
+                            "Y": 193.9988
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5188,
+                            "Y": 0.2694
+                        },
+                        "PreSize": {
+                            "X": 0.1531,
+                            "Y": 0.1097
+                        },
+                        "LeftMargin": 664,
+                        "RightMargin": 420,
+                        "TopMargin": 447.0012,
+                        "BottomMargin": 193.9988,
+                        "Tag": 36,
+                        "ActionTag": -1225335893,
+                        "Size": {
+                            "X": 196,
+                            "Y": 79
+                        },
+                        "Name": "btnAuto50",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk8_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk8_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk8_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 166,
+                        "Scale9Height": 57,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 663.9998,
+                            "Y": 272.9988
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5187,
+                            "Y": 0.3792
+                        },
+                        "PreSize": {
+                            "X": 0.1531,
+                            "Y": 0.1097
+                        },
+                        "LeftMargin": 663.9998,
+                        "RightMargin": 420.0002,
+                        "TopMargin": 368.0012,
+                        "BottomMargin": 272.9988,
+                        "Tag": 37,
+                        "ActionTag": 1364972117,
+                        "Size": {
+                            "X": 196,
+                            "Y": 79
+                        },
+                        "Name": "btnAuto100",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk9_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk9_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk9_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 166,
+                        "Scale9Height": 57,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 663.9998,
+                            "Y": 350.9979
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5187,
+                            "Y": 0.4875
+                        },
+                        "PreSize": {
+                            "X": 0.1531,
+                            "Y": 0.1097
+                        },
+                        "LeftMargin": 663.9998,
+                        "RightMargin": 420.0002,
+                        "TopMargin": 290.0021,
+                        "BottomMargin": 350.9979,
+                        "Tag": 38,
+                        "ActionTag": -478423477,
+                        "Size": {
+                            "X": 196,
+                            "Y": 79
+                        },
+                        "Name": "btnAuto200",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk10_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk10_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk10_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 166,
+                        "Scale9Height": 57,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 663.9998,
+                            "Y": 428.9973
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5187,
+                            "Y": 0.5958
+                        },
+                        "PreSize": {
+                            "X": 0.1531,
+                            "Y": 0.1097
+                        },
+                        "LeftMargin": 663.9998,
+                        "RightMargin": 420.0002,
+                        "TopMargin": 212.0027,
+                        "BottomMargin": 428.9973,
+                        "Tag": 39,
+                        "ActionTag": 823777572,
+                        "Size": {
+                            "X": 196,
+                            "Y": 79
+                        },
+                        "Name": "btnAuto500",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "slamdunkpngres.plist",
+                "slamdunkpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,4094 @@
+{
+    "ID": "eb0568eb-15f4-4dd7-aa30-e7c0f75aff41",
+    "Version": "2.3.4",
+    "Name": "slamdunkgamelayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 4,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameback.jpg",
+                            "Plist": "slamdunkjpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 7,
+                        "ActionTag": -860322153,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "gameback_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "ClipAble": true,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 299,
+                            "Y": 453
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2336,
+                            "Y": 0.6292
+                        },
+                        "PreSize": {
+                            "X": 0.3125,
+                            "Y": 0.2222
+                        },
+                        "LeftMargin": 299,
+                        "RightMargin": 581,
+                        "TopMargin": 107,
+                        "BottomMargin": 453,
+                        "Tag": 78,
+                        "ActionTag": -1293983495,
+                        "Size": {
+                            "X": 400,
+                            "Y": 160
+                        },
+                        "Name": "layAni",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameback1.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 297.0001,
+                            "Y": 451.0009
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.232,
+                            "Y": 0.6264
+                        },
+                        "PreSize": {
+                            "X": 0.3156,
+                            "Y": 0.2278
+                        },
+                        "LeftMargin": 297.0001,
+                        "RightMargin": 578.9999,
+                        "TopMargin": 104.9991,
+                        "BottomMargin": 451.0009,
+                        "Tag": 8,
+                        "ActionTag": 1542970527,
+                        "Size": {
+                            "X": 404,
+                            "Y": 164
+                        },
+                        "Name": "gameback1_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "ClipAble": true,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 260.0001,
+                            "Y": 163
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2031,
+                            "Y": 0.2264
+                        },
+                        "PreSize": {
+                            "X": 0.1563,
+                            "Y": 0.3833
+                        },
+                        "LeftMargin": 260.0001,
+                        "RightMargin": 819.9999,
+                        "TopMargin": 281,
+                        "BottomMargin": 163,
+                        "Tag": 24,
+                        "ActionTag": -1493281441,
+                        "Size": {
+                            "X": 200,
+                            "Y": 276
+                        },
+                        "Name": "layWheel1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "ClipAble": true,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 466.0003,
+                            "Y": 163
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3641,
+                            "Y": 0.2264
+                        },
+                        "PreSize": {
+                            "X": 0.1563,
+                            "Y": 0.3833
+                        },
+                        "LeftMargin": 466.0003,
+                        "RightMargin": 613.9997,
+                        "TopMargin": 281,
+                        "BottomMargin": 163,
+                        "Tag": 25,
+                        "ActionTag": -2079854388,
+                        "Size": {
+                            "X": 200,
+                            "Y": 276
+                        },
+                        "Name": "layWheel2",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "ClipAble": true,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 672.0003,
+                            "Y": 163
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.525,
+                            "Y": 0.2264
+                        },
+                        "PreSize": {
+                            "X": 0.1563,
+                            "Y": 0.3833
+                        },
+                        "LeftMargin": 672.0003,
+                        "RightMargin": 407.9997,
+                        "TopMargin": 281,
+                        "BottomMargin": 163,
+                        "Tag": 26,
+                        "ActionTag": 866319230,
+                        "Size": {
+                            "X": 200,
+                            "Y": 276
+                        },
+                        "Name": "layWheel3",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameback2.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 258,
+                            "Y": 160
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2016,
+                            "Y": 0.2222
+                        },
+                        "PreSize": {
+                            "X": 0.1594,
+                            "Y": 0.3917
+                        },
+                        "LeftMargin": 258,
+                        "RightMargin": 818,
+                        "TopMargin": 278,
+                        "BottomMargin": 160,
+                        "Tag": 9,
+                        "ActionTag": 1488483892,
+                        "Size": {
+                            "X": 204,
+                            "Y": 282
+                        },
+                        "Name": "gameback2_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameback2.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 464.0003,
+                            "Y": 160
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3625,
+                            "Y": 0.2222
+                        },
+                        "PreSize": {
+                            "X": 0.1594,
+                            "Y": 0.3917
+                        },
+                        "LeftMargin": 464.0003,
+                        "RightMargin": 611.9997,
+                        "TopMargin": 278,
+                        "BottomMargin": 160,
+                        "Tag": 10,
+                        "ActionTag": 1325593346,
+                        "Size": {
+                            "X": 204,
+                            "Y": 282
+                        },
+                        "Name": "gameback2_3_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameback2.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 669.999,
+                            "Y": 160
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5234,
+                            "Y": 0.2222
+                        },
+                        "PreSize": {
+                            "X": 0.1594,
+                            "Y": 0.3917
+                        },
+                        "LeftMargin": 669.999,
+                        "RightMargin": 406.001,
+                        "TopMargin": 278,
+                        "BottomMargin": 160,
+                        "Tag": 11,
+                        "ActionTag": -408585921,
+                        "Size": {
+                            "X": 204,
+                            "Y": 282
+                        },
+                        "Name": "gameback2_3_0_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk1_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk1_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk1_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 161,
+                        "Scale9Height": 57,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 291.0001,
+                            "Y": 34
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2273,
+                            "Y": 0.0472
+                        },
+                        "PreSize": {
+                            "X": 0.1492,
+                            "Y": 0.1097
+                        },
+                        "LeftMargin": 291.0001,
+                        "RightMargin": 797.9999,
+                        "TopMargin": 607,
+                        "BottomMargin": 34,
+                        "Tag": 12,
+                        "ActionTag": -1647355855,
+                        "Size": {
+                            "X": 191,
+                            "Y": 79
+                        },
+                        "Name": "btnOne",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk2_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk2_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 164,
+                        "Scale9Height": 57,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 475.9999,
+                            "Y": 33.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3719,
+                            "Y": 0.0472
+                        },
+                        "PreSize": {
+                            "X": 0.1516,
+                            "Y": 0.1097
+                        },
+                        "LeftMargin": 475.9999,
+                        "RightMargin": 610.0001,
+                        "TopMargin": 607.0001,
+                        "BottomMargin": 33.9999,
+                        "Tag": 13,
+                        "ActionTag": -659293232,
+                        "Size": {
+                            "X": 194,
+                            "Y": 79
+                        },
+                        "Name": "btnAll",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk3_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk3_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk3_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 166,
+                        "Scale9Height": 57,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 663.9979,
+                            "Y": 33.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5187,
+                            "Y": 0.0472
+                        },
+                        "PreSize": {
+                            "X": 0.1531,
+                            "Y": 0.1097
+                        },
+                        "LeftMargin": 663.9979,
+                        "RightMargin": 420.0021,
+                        "TopMargin": 607.0001,
+                        "BottomMargin": 33.9999,
+                        "Tag": 14,
+                        "ActionTag": 206615982,
+                        "Size": {
+                            "X": 196,
+                            "Y": 79
+                        },
+                        "Name": "btnAuto",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk4_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk4_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk4_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 224,
+                        "Scale9Height": 81,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 855.0006,
+                            "Y": 34
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.668,
+                            "Y": 0.0472
+                        },
+                        "PreSize": {
+                            "X": 0.1984,
+                            "Y": 0.1431
+                        },
+                        "LeftMargin": 855.0006,
+                        "RightMargin": 170.9994,
+                        "TopMargin": 583,
+                        "BottomMargin": 34,
+                        "Tag": 15,
+                        "ActionTag": 742730873,
+                        "Size": {
+                            "X": 254,
+                            "Y": 103
+                        },
+                        "Name": "btnRun",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk5_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk5_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk5_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 224,
+                        "Scale9Height": 81,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 855.0179,
+                            "Y": 34.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.668,
+                            "Y": 0.0472
+                        },
+                        "PreSize": {
+                            "X": 0.1984,
+                            "Y": 0.1431
+                        },
+                        "LeftMargin": 855.0179,
+                        "RightMargin": 170.9822,
+                        "TopMargin": 582.9999,
+                        "BottomMargin": 34.0001,
+                        "Tag": 21,
+                        "ActionTag": 1387487044,
+                        "Size": {
+                            "X": 254,
+                            "Y": 103
+                        },
+                        "Name": "btnStop",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk21_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk21_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk21_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 166,
+                        "Scale9Height": 57,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 664,
+                            "Y": 34
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5188,
+                            "Y": 0.0472
+                        },
+                        "PreSize": {
+                            "X": 0.1531,
+                            "Y": 0.1097
+                        },
+                        "LeftMargin": 664,
+                        "RightMargin": 420,
+                        "TopMargin": 607,
+                        "BottomMargin": 34,
+                        "Tag": 661,
+                        "ActionTag": 875109041,
+                        "Size": {
+                            "X": 196,
+                            "Y": 79
+                        },
+                        "Name": "btnAutoStop",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "lamps1_dark.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 388
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0.5389
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0319
+                        },
+                        "RightMargin": 1257,
+                        "TopMargin": 309,
+                        "BottomMargin": 388,
+                        "Tag": 31,
+                        "ActionTag": 1208407312,
+                        "Size": {
+                            "X": 23,
+                            "Y": 23
+                        },
+                        "Name": "sprLamp00",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "lamps1_dark.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 323
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0.4486
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0319
+                        },
+                        "RightMargin": 1257,
+                        "TopMargin": 374,
+                        "BottomMargin": 323,
+                        "Tag": 32,
+                        "ActionTag": -2102158272,
+                        "Size": {
+                            "X": 23,
+                            "Y": 23
+                        },
+                        "Name": "sprLamp01",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "lamps1_dark.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 258
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0.3583
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0319
+                        },
+                        "RightMargin": 1257,
+                        "TopMargin": 439,
+                        "BottomMargin": 258,
+                        "Tag": 33,
+                        "ActionTag": -196054837,
+                        "Size": {
+                            "X": 23,
+                            "Y": 23
+                        },
+                        "Name": "sprLamp02",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "lamps1_dark.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 193
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0.2681
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0319
+                        },
+                        "RightMargin": 1257,
+                        "TopMargin": 504,
+                        "BottomMargin": 193,
+                        "Tag": 34,
+                        "ActionTag": 816780483,
+                        "Size": {
+                            "X": 23,
+                            "Y": 23
+                        },
+                        "Name": "sprLamp03",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "lamps1_dark.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1109.001,
+                            "Y": 388
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8664,
+                            "Y": 0.5389
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0319
+                        },
+                        "LeftMargin": 1109.001,
+                        "RightMargin": 147.999,
+                        "TopMargin": 309,
+                        "BottomMargin": 388,
+                        "Tag": 35,
+                        "ActionTag": 1551477839,
+                        "Size": {
+                            "X": 23,
+                            "Y": 23
+                        },
+                        "Name": "sprLamp10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "lamps1_dark.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1109,
+                            "Y": 323
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8664,
+                            "Y": 0.4486
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0319
+                        },
+                        "LeftMargin": 1109,
+                        "RightMargin": 148,
+                        "TopMargin": 374,
+                        "BottomMargin": 323,
+                        "Tag": 36,
+                        "ActionTag": 726904705,
+                        "Size": {
+                            "X": 23,
+                            "Y": 23
+                        },
+                        "Name": "sprLamp11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "lamps1_dark.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1109,
+                            "Y": 258
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8664,
+                            "Y": 0.3583
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0319
+                        },
+                        "LeftMargin": 1109,
+                        "RightMargin": 148,
+                        "TopMargin": 439,
+                        "BottomMargin": 258,
+                        "Tag": 37,
+                        "ActionTag": -1247125057,
+                        "Size": {
+                            "X": 23,
+                            "Y": 23
+                        },
+                        "Name": "sprLamp12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "lamps1_dark.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1109,
+                            "Y": 193
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8664,
+                            "Y": 0.2681
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0319
+                        },
+                        "LeftMargin": 1109,
+                        "RightMargin": 148,
+                        "TopMargin": 504,
+                        "BottomMargin": 193,
+                        "Tag": 38,
+                        "ActionTag": -1813993752,
+                        "Size": {
+                            "X": 23,
+                            "Y": 23
+                        },
+                        "Name": "sprLamp13",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gameback3.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 30.9999,
+                            "Y": 281.9996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0242,
+                            "Y": 0.3917
+                        },
+                        "PreSize": {
+                            "X": 0.1906,
+                            "Y": 0.0694
+                        },
+                        "LeftMargin": 30.9999,
+                        "RightMargin": 1005.0001,
+                        "TopMargin": 388.0004,
+                        "BottomMargin": 281.9996,
+                        "Tag": 16,
+                        "ActionTag": -1601177053,
+                        "Size": {
+                            "X": 244,
+                            "Y": 50
+                        },
+                        "Name": "gameback3_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "250000",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 993,
+                            "Y": 271.1914
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7758,
+                            "Y": 0.3767
+                        },
+                        "PreSize": {
+                            "X": 0.1437,
+                            "Y": 0.0569
+                        },
+                        "LeftMargin": 901,
+                        "RightMargin": 195,
+                        "TopMargin": 428.3086,
+                        "BottomMargin": 250.6914,
+                        "Tag": 16,
+                        "ActionTag": 1612431983,
+                        "Size": {
+                            "X": 184,
+                            "Y": 41
+                        },
+                        "Name": "textWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "1.00",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont2.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 172,
+                            "Y": 306.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1344,
+                            "Y": 0.4264
+                        },
+                        "PreSize": {
+                            "X": 0.0672,
+                            "Y": 0.0736
+                        },
+                        "LeftMargin": 129,
+                        "RightMargin": 1065,
+                        "TopMargin": 386.5001,
+                        "BottomMargin": 280.4999,
+                        "Tag": 17,
+                        "ActionTag": -1900929408,
+                        "Size": {
+                            "X": 86,
+                            "Y": 53
+                        },
+                        "Name": "textAllBet",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "￥0.03",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 142.9999,
+                            "Y": 228
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1117,
+                            "Y": 0.3167
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.0542
+                        },
+                        "LeftMargin": 93.9999,
+                        "RightMargin": 1088.0001,
+                        "TopMargin": 472.5,
+                        "BottomMargin": 208.5,
+                        "Tag": 18,
+                        "ActionTag": 1925288301,
+                        "Size": {
+                            "X": 98,
+                            "Y": 39
+                        },
+                        "Name": "textBet",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "CNY",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont4.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 111.9998,
+                            "Y": 83.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0875,
+                            "Y": 0.1167
+                        },
+                        "PreSize": {
+                            "X": 0.0375,
+                            "Y": 0.0333
+                        },
+                        "LeftMargin": 87.9998,
+                        "RightMargin": 1144.0002,
+                        "TopMargin": 624.0001,
+                        "BottomMargin": 71.9999,
+                        "Tag": 19,
+                        "ActionTag": 258198798,
+                        "Size": {
+                            "X": 48,
+                            "Y": 24
+                        },
+                        "Name": "BitmapFontLabel_3",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "9,999,999.99",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont4.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 1,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 253.999,
+                            "Y": 83.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1984,
+                            "Y": 0.1167
+                        },
+                        "PreSize": {
+                            "X": 0.0969,
+                            "Y": 0.0333
+                        },
+                        "LeftMargin": 129.999,
+                        "RightMargin": 1026.001,
+                        "TopMargin": 624.0005,
+                        "BottomMargin": 71.9995,
+                        "Tag": 20,
+                        "ActionTag": 806522906,
+                        "Size": {
+                            "X": 124,
+                            "Y": 24
+                        },
+                        "Name": "textMoney",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "500",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont5.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1021.4998,
+                            "Y": 174.4999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.798,
+                            "Y": 0.2424
+                        },
+                        "PreSize": {
+                            "X": 0.0352,
+                            "Y": 0.0458
+                        },
+                        "LeftMargin": 998.9998,
+                        "RightMargin": 236.0002,
+                        "TopMargin": 529.0001,
+                        "BottomMargin": 157.9999,
+                        "Tag": 22,
+                        "ActionTag": 369088939,
+                        "Size": {
+                            "X": 45,
+                            "Y": 33
+                        },
+                        "Name": "textAutoNum",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "img_autonum.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 921,
+                            "Y": 165.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7195,
+                            "Y": 0.2292
+                        },
+                        "PreSize": {
+                            "X": 0.1148,
+                            "Y": 0.0264
+                        },
+                        "LeftMargin": 921,
+                        "RightMargin": 212,
+                        "TopMargin": 535.9999,
+                        "BottomMargin": 165.0001,
+                        "Tag": 23,
+                        "ActionTag": -175173726,
+                        "Size": {
+                            "X": 147,
+                            "Y": 19
+                        },
+                        "Name": "sprAutoNum",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk11_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk11_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk11_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 16,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 202,
+                            "Y": 204
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1578,
+                            "Y": 0.2833
+                        },
+                        "PreSize": {
+                            "X": 0.0344,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 202,
+                        "RightMargin": 1034,
+                        "TopMargin": 472,
+                        "BottomMargin": 204,
+                        "Tag": 24,
+                        "ActionTag": 409602334,
+                        "Size": {
+                            "X": 44,
+                            "Y": 44
+                        },
+                        "Name": "btnRight",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk14_003.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk14_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk14_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 16,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 42,
+                            "Y": 204
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0328,
+                            "Y": 0.2833
+                        },
+                        "PreSize": {
+                            "X": 0.0344,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 42,
+                        "RightMargin": 1194,
+                        "TopMargin": 472,
+                        "BottomMargin": 204,
+                        "Tag": 25,
+                        "ActionTag": 246252652,
+                        "Size": {
+                            "X": 44,
+                            "Y": 44
+                        },
+                        "Name": "btnLeft",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "img_word1.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 324.9981,
+                            "Y": 572
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2539,
+                            "Y": 0.7944
+                        },
+                        "PreSize": {
+                            "X": 0.2477,
+                            "Y": 0.1875
+                        },
+                        "LeftMargin": 324.9981,
+                        "RightMargin": 638.0019,
+                        "TopMargin": 13,
+                        "BottomMargin": 572,
+                        "Tag": 26,
+                        "ActionTag": -1458700752,
+                        "Size": {
+                            "X": 317,
+                            "Y": 135
+                        },
+                        "Name": "sprWord1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "img_word2.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 782,
+                            "Y": 464.9979
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6109,
+                            "Y": 0.6458
+                        },
+                        "PreSize": {
+                            "X": 0.0609,
+                            "Y": 0.1542
+                        },
+                        "LeftMargin": 782,
+                        "RightMargin": 420,
+                        "TopMargin": 144.0021,
+                        "BottomMargin": 464.9979,
+                        "Tag": 27,
+                        "ActionTag": 1279915369,
+                        "Size": {
+                            "X": 78,
+                            "Y": 111
+                        },
+                        "Name": "sprWord2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "img_word4.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1111.9977,
+                            "Y": 640.9987
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8687,
+                            "Y": 0.8903
+                        },
+                        "PreSize": {
+                            "X": 0.0758,
+                            "Y": 0.0819
+                        },
+                        "LeftMargin": 1111.9977,
+                        "RightMargin": 71.0023,
+                        "TopMargin": 20.0013,
+                        "BottomMargin": 640.9987,
+                        "Tag": 29,
+                        "ActionTag": 464247920,
+                        "Size": {
+                            "X": 97,
+                            "Y": 59
+                        },
+                        "Name": "sprWord4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "img_lucky.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 888.9999,
+                            "Y": 370.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6945,
+                            "Y": 0.5153
+                        },
+                        "PreSize": {
+                            "X": 0.1664,
+                            "Y": 0.0639
+                        },
+                        "LeftMargin": 888.9999,
+                        "RightMargin": 178.0001,
+                        "TopMargin": 303.0001,
+                        "BottomMargin": 370.9999,
+                        "Tag": 30,
+                        "ActionTag": -1301232361,
+                        "Size": {
+                            "X": 213,
+                            "Y": 46
+                        },
+                        "Name": "sprInfo",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen1_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1139,
+                            "Y": 530
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.7361
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1139,
+                        "RightMargin": 2,
+                        "TopMargin": 161,
+                        "BottomMargin": 530,
+                        "Tag": 39,
+                        "ActionTag": -462489021,
+                        "Size": {
+                            "X": 139,
+                            "Y": 29
+                        },
+                        "Name": "sprBNeon0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen1_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1139,
+                            "Y": 460.9976
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.6403
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1139,
+                        "RightMargin": 2,
+                        "TopMargin": 230.0024,
+                        "BottomMargin": 460.9976,
+                        "Tag": 40,
+                        "ActionTag": -697234158,
+                        "Size": {
+                            "X": 139,
+                            "Y": 29
+                        },
+                        "Name": "sprBNeon1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen1_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1139.0017,
+                            "Y": 397.0009
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.5514
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1139.0017,
+                        "RightMargin": 1.9983,
+                        "TopMargin": 293.9991,
+                        "BottomMargin": 397.0009,
+                        "Tag": 41,
+                        "ActionTag": -45784497,
+                        "Size": {
+                            "X": 139,
+                            "Y": 29
+                        },
+                        "Name": "sprBNeon2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen1_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1139,
+                            "Y": 330.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.4597
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1139,
+                        "RightMargin": 2,
+                        "TopMargin": 360.0003,
+                        "BottomMargin": 330.9997,
+                        "Tag": 42,
+                        "ActionTag": 1429243384,
+                        "Size": {
+                            "X": 139,
+                            "Y": 29
+                        },
+                        "Name": "sprBNeon3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen1_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1139,
+                            "Y": 265.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.3694
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1139,
+                        "RightMargin": 2,
+                        "TopMargin": 425.0006,
+                        "BottomMargin": 265.9994,
+                        "Tag": 43,
+                        "ActionTag": 18661201,
+                        "Size": {
+                            "X": 139,
+                            "Y": 29
+                        },
+                        "Name": "sprBNeon4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen1_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1139,
+                            "Y": 202.9993
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.2819
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1139,
+                        "RightMargin": 2,
+                        "TopMargin": 488.0007,
+                        "BottomMargin": 202.9993,
+                        "Tag": 44,
+                        "ActionTag": -635975047,
+                        "Size": {
+                            "X": 139,
+                            "Y": 29
+                        },
+                        "Name": "sprBNeon5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen1_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1139,
+                            "Y": 141.9991
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.1972
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1139,
+                        "RightMargin": 2,
+                        "TopMargin": 549.0009,
+                        "BottomMargin": 141.9991,
+                        "Tag": 45,
+                        "ActionTag": -1702202659,
+                        "Size": {
+                            "X": 139,
+                            "Y": 29
+                        },
+                        "Name": "sprBNeon6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen1_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1139,
+                            "Y": 79.999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.1111
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1139,
+                        "RightMargin": 2,
+                        "TopMargin": 611.001,
+                        "BottomMargin": 79.999,
+                        "Tag": 46,
+                        "ActionTag": -1257039828,
+                        "Size": {
+                            "X": 139,
+                            "Y": 29
+                        },
+                        "Name": "sprBNeon7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen1_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1139,
+                            "Y": 16.9989
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.0236
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1139,
+                        "RightMargin": 2,
+                        "TopMargin": 674.0011,
+                        "BottomMargin": 16.9989,
+                        "Tag": 47,
+                        "ActionTag": 1643063648,
+                        "Size": {
+                            "X": 139,
+                            "Y": 29
+                        },
+                        "Name": "sprBNeon8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1138.9983,
+                            "Y": 530
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.7361
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1138.9983,
+                        "RightMargin": 92.0017,
+                        "TopMargin": 161,
+                        "BottomMargin": 530,
+                        "Tag": 48,
+                        "ActionTag": 539156216,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon00",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1184,
+                            "Y": 530
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.925,
+                            "Y": 0.7361
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1184,
+                        "RightMargin": 47,
+                        "TopMargin": 161,
+                        "BottomMargin": 530,
+                        "Tag": 49,
+                        "ActionTag": -58805833,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon01",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1229,
+                            "Y": 530
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9602,
+                            "Y": 0.7361
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1229,
+                        "RightMargin": 2,
+                        "TopMargin": 161,
+                        "BottomMargin": 530,
+                        "Tag": 50,
+                        "ActionTag": 1634968792,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon02",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1138.9976,
+                            "Y": 460.9981
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.6403
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1138.9976,
+                        "RightMargin": 92.0024,
+                        "TopMargin": 230.0019,
+                        "BottomMargin": 460.9981,
+                        "Tag": 51,
+                        "ActionTag": -2139928419,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1183.9989,
+                            "Y": 460.9981
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.925,
+                            "Y": 0.6403
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1183.9989,
+                        "RightMargin": 47.0011,
+                        "TopMargin": 230.0019,
+                        "BottomMargin": 460.9981,
+                        "Tag": 52,
+                        "ActionTag": -141997993,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1228.9995,
+                            "Y": 460.9981
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9602,
+                            "Y": 0.6403
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1228.9995,
+                        "RightMargin": 2.0005,
+                        "TopMargin": 230.0019,
+                        "BottomMargin": 460.9981,
+                        "Tag": 53,
+                        "ActionTag": 561047402,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon12",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1138.9966,
+                            "Y": 396.9965
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.5514
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1138.9966,
+                        "RightMargin": 92.0034,
+                        "TopMargin": 294.0035,
+                        "BottomMargin": 396.9965,
+                        "Tag": 55,
+                        "ActionTag": -1377259273,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon20",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1183.9979,
+                            "Y": 396.9965
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.925,
+                            "Y": 0.5514
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1183.9979,
+                        "RightMargin": 47.0021,
+                        "TopMargin": 294.0035,
+                        "BottomMargin": 396.9965,
+                        "Tag": 56,
+                        "ActionTag": 2113104072,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon21",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1228.9982,
+                            "Y": 396.9965
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9602,
+                            "Y": 0.5514
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1228.9982,
+                        "RightMargin": 2.0018,
+                        "TopMargin": 294.0035,
+                        "BottomMargin": 396.9965,
+                        "Tag": 57,
+                        "ActionTag": -1702512996,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon22",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1139,
+                            "Y": 330.9953
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.4597
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1139,
+                        "RightMargin": 92,
+                        "TopMargin": 360.0047,
+                        "BottomMargin": 330.9953,
+                        "Tag": 58,
+                        "ActionTag": -41781837,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon30",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1183.9971,
+                            "Y": 330.9953
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.925,
+                            "Y": 0.4597
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1183.9971,
+                        "RightMargin": 47.0029,
+                        "TopMargin": 360.0047,
+                        "BottomMargin": 330.9953,
+                        "Tag": 59,
+                        "ActionTag": 1246100247,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon31",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1228.9966,
+                            "Y": 330.9953
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9602,
+                            "Y": 0.4597
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1228.9966,
+                        "RightMargin": 2.0034,
+                        "TopMargin": 360.0047,
+                        "BottomMargin": 330.9953,
+                        "Tag": 60,
+                        "ActionTag": 1883862512,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon32",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1138.9998,
+                            "Y": 266
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.3694
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1138.9998,
+                        "RightMargin": 92.0002,
+                        "TopMargin": 425,
+                        "BottomMargin": 266,
+                        "Tag": 61,
+                        "ActionTag": 636501135,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon40",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1183.9962,
+                            "Y": 266
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.925,
+                            "Y": 0.3694
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1183.9962,
+                        "RightMargin": 47.0038,
+                        "TopMargin": 425,
+                        "BottomMargin": 266,
+                        "Tag": 62,
+                        "ActionTag": 2048109039,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon41",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1228.9961,
+                            "Y": 266
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9602,
+                            "Y": 0.3694
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1228.9961,
+                        "RightMargin": 2.0039,
+                        "TopMargin": 425,
+                        "BottomMargin": 266,
+                        "Tag": 63,
+                        "ActionTag": 1466897345,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon42",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1138.9982,
+                            "Y": 203
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.2819
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1138.9982,
+                        "RightMargin": 92.0018,
+                        "TopMargin": 488,
+                        "BottomMargin": 203,
+                        "Tag": 64,
+                        "ActionTag": 2024223636,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon50",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1183.9944,
+                            "Y": 203
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.925,
+                            "Y": 0.2819
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1183.9944,
+                        "RightMargin": 47.0056,
+                        "TopMargin": 488,
+                        "BottomMargin": 203,
+                        "Tag": 65,
+                        "ActionTag": -392274328,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon51",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1228.9952,
+                            "Y": 203
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9602,
+                            "Y": 0.2819
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1228.9952,
+                        "RightMargin": 2.0048,
+                        "TopMargin": 488,
+                        "BottomMargin": 203,
+                        "Tag": 66,
+                        "ActionTag": 433696345,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon52",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1138.9971,
+                            "Y": 141.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.1972
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1138.9971,
+                        "RightMargin": 92.0029,
+                        "TopMargin": 549.0002,
+                        "BottomMargin": 141.9998,
+                        "Tag": 67,
+                        "ActionTag": 1606585543,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon60",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1183.9933,
+                            "Y": 141.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.925,
+                            "Y": 0.1972
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1183.9933,
+                        "RightMargin": 47.0067,
+                        "TopMargin": 549.0002,
+                        "BottomMargin": 141.9998,
+                        "Tag": 68,
+                        "ActionTag": -100859541,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon61",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1228.9944,
+                            "Y": 141.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9602,
+                            "Y": 0.1972
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1228.9944,
+                        "RightMargin": 2.0056,
+                        "TopMargin": 549.0002,
+                        "BottomMargin": 141.9998,
+                        "Tag": 69,
+                        "ActionTag": 63625984,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon62",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1138.9957,
+                            "Y": 79.9996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.1111
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1138.9957,
+                        "RightMargin": 92.0043,
+                        "TopMargin": 611.0004,
+                        "BottomMargin": 79.9996,
+                        "Tag": 70,
+                        "ActionTag": 923755330,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon70",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1183.9922,
+                            "Y": 79.9996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.925,
+                            "Y": 0.1111
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1183.9922,
+                        "RightMargin": 47.0078,
+                        "TopMargin": 611.0004,
+                        "BottomMargin": 79.9996,
+                        "Tag": 71,
+                        "ActionTag": -65681820,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon71",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1228.9933,
+                            "Y": 79.9996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9602,
+                            "Y": 0.1111
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1228.9933,
+                        "RightMargin": 2.0067,
+                        "TopMargin": 611.0004,
+                        "BottomMargin": 79.9996,
+                        "Tag": 72,
+                        "ActionTag": -349171696,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon72",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1138.9955,
+                            "Y": 16.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8898,
+                            "Y": 0.0236
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1138.9955,
+                        "RightMargin": 92.0045,
+                        "TopMargin": 674.0005,
+                        "BottomMargin": 16.9995,
+                        "Tag": 73,
+                        "ActionTag": -1017063973,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon80",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1183.9913,
+                            "Y": 16.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.925,
+                            "Y": 0.0236
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1183.9913,
+                        "RightMargin": 47.0087,
+                        "TopMargin": 674.0005,
+                        "BottomMargin": 16.9995,
+                        "Tag": 74,
+                        "ActionTag": -941443896,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon81",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "noen2_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1228.9928,
+                            "Y": 16.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9602,
+                            "Y": 0.0236
+                        },
+                        "PreSize": {
+                            "X": 0.0383,
+                            "Y": 0.0403
+                        },
+                        "LeftMargin": 1228.9928,
+                        "RightMargin": 2.0072,
+                        "TopMargin": 674.0005,
+                        "BottomMargin": 16.9995,
+                        "Tag": 75,
+                        "ActionTag": -1025364240,
+                        "Size": {
+                            "X": 49,
+                            "Y": 29
+                        },
+                        "Name": "sprSNeon82",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk17_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk17_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk17_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 16,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 140,
+                            "Y": 11
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1094,
+                            "Y": 0.0153
+                        },
+                        "PreSize": {
+                            "X": 0.0344,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 140,
+                        "RightMargin": 1096,
+                        "TopMargin": 665,
+                        "BottomMargin": 11,
+                        "Tag": 78,
+                        "ActionTag": 478367776,
+                        "Size": {
+                            "X": 44,
+                            "Y": 44
+                        },
+                        "Name": "btnSetup",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk12_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk12_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk12_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 16,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 20,
+                            "Y": 11
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0156,
+                            "Y": 0.0153
+                        },
+                        "PreSize": {
+                            "X": 0.0344,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 20,
+                        "RightMargin": 1216,
+                        "TopMargin": 665,
+                        "BottomMargin": 11,
+                        "Tag": 77,
+                        "ActionTag": -335282099,
+                        "Size": {
+                            "X": 44,
+                            "Y": 44
+                        },
+                        "Name": "btnOpenSound",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk13_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk13_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk13_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 16,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 20,
+                            "Y": 11
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0156,
+                            "Y": 0.0153
+                        },
+                        "PreSize": {
+                            "X": 0.0344,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 20,
+                        "RightMargin": 1216,
+                        "TopMargin": 665,
+                        "BottomMargin": 11,
+                        "Tag": 111,
+                        "ActionTag": -545702908,
+                        "Size": {
+                            "X": 44,
+                            "Y": 44
+                        },
+                        "Name": "btnCloseSound",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk19_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk19_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk19_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 16,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 80,
+                            "Y": 11
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0625,
+                            "Y": 0.0153
+                        },
+                        "PreSize": {
+                            "X": 0.0344,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 80,
+                        "RightMargin": 1156,
+                        "TopMargin": 665,
+                        "BottomMargin": 11,
+                        "Tag": 112,
+                        "ActionTag": 1933537524,
+                        "Size": {
+                            "X": 44,
+                            "Y": 44
+                        },
+                        "Name": "btnOpenEffect",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk20_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk20_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk20_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 16,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 80,
+                            "Y": 11
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0625,
+                            "Y": 0.0153
+                        },
+                        "PreSize": {
+                            "X": 0.0344,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 80,
+                        "RightMargin": 1156,
+                        "TopMargin": 665,
+                        "BottomMargin": 11,
+                        "Tag": 113,
+                        "ActionTag": -2117107848,
+                        "Size": {
+                            "X": 44,
+                            "Y": 44
+                        },
+                        "Name": "btnCloseEffect",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "img_name.jpg",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 1
+                        },
+                        "Position": {
+                            "X": 0,
+                            "Y": 720
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 1
+                        },
+                        "PreSize": {
+                            "X": 0.0516,
+                            "Y": 0.0444
+                        },
+                        "RightMargin": 1214,
+                        "BottomMargin": 688,
+                        "Tag": 81,
+                        "ActionTag": -1650152215,
+                        "Size": {
+                            "X": 66,
+                            "Y": 32
+                        },
+                        "Name": "img_name_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "IsCustomSize": true,
+                        "FontSize": 16,
+                        "LabelText": "樱木花道的哥哥樱木花道的哥哥",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "AnchorPoint": {
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 65.0001,
+                            "Y": 705.004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0508,
+                            "Y": 0.9792
+                        },
+                        "PreSize": {
+                            "X": 0.175,
+                            "Y": 0.025
+                        },
+                        "LeftMargin": 65.0001,
+                        "RightMargin": 990.9999,
+                        "TopMargin": 5.996,
+                        "BottomMargin": 696.004,
+                        "Tag": 80,
+                        "ActionTag": -1264018581,
+                        "Size": {
+                            "X": 224,
+                            "Y": 18
+                        },
+                        "Name": "textName",
+                        "ctype": "TextObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "gamelogo.jpg",
+                            "Plist": "slamdunkjpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 639.9995,
+                            "Y": 19
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.0264
+                        },
+                        "PreSize": {
+                            "X": 0.1594,
+                            "Y": 0.0167
+                        },
+                        "LeftMargin": 537.9995,
+                        "RightMargin": 538.0005,
+                        "TopMargin": 695,
+                        "BottomMargin": 13,
+                        "Tag": 151,
+                        "ActionTag": -553061511,
+                        "Size": {
+                            "X": 204,
+                            "Y": 12
+                        },
+                        "Name": "gamelogo_16",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1139.9999,
+                            "Y": 18
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8906,
+                            "Y": 0.025
+                        },
+                        "PreSize": {
+                            "X": 0.0359,
+                            "Y": 0.8125
+                        },
+                        "LeftMargin": 1139.9999,
+                        "RightMargin": 94.0001,
+                        "TopMargin": 117,
+                        "BottomMargin": 18,
+                        "Tag": 101,
+                        "ActionTag": 1913589996,
+                        "Size": {
+                            "X": 46,
+                            "Y": 585
+                        },
+                        "Name": "layBet1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1185.9988,
+                            "Y": 17.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9266,
+                            "Y": 0.025
+                        },
+                        "PreSize": {
+                            "X": 0.0352,
+                            "Y": 0.8125
+                        },
+                        "LeftMargin": 1185.9988,
+                        "RightMargin": 49.0012,
+                        "TopMargin": 117.0001,
+                        "BottomMargin": 17.9999,
+                        "Tag": 104,
+                        "ActionTag": 299211902,
+                        "Size": {
+                            "X": 45,
+                            "Y": 585
+                        },
+                        "Name": "layBet2",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1230.9987,
+                            "Y": 17.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9617,
+                            "Y": 0.025
+                        },
+                        "PreSize": {
+                            "X": 0.0359,
+                            "Y": 0.8125
+                        },
+                        "LeftMargin": 1230.9987,
+                        "RightMargin": 3.0013,
+                        "TopMargin": 117.0001,
+                        "BottomMargin": 17.9999,
+                        "Tag": 105,
+                        "ActionTag": 1615310335,
+                        "Size": {
+                            "X": 46,
+                            "Y": 585
+                        },
+                        "Name": "layBet3",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk22_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk22_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk22_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 34,
+                        "Scale9Height": 20,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "Position": {
+                            "X": 1279.9996,
+                            "Y": 720
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "PreSize": {
+                            "X": 0.0484,
+                            "Y": 0.0583
+                        },
+                        "LeftMargin": 1217.9996,
+                        "RightMargin": 0.0004,
+                        "BottomMargin": 678,
+                        "Tag": 333,
+                        "ActionTag": -1809526924,
+                        "Size": {
+                            "X": 62,
+                            "Y": 42
+                        },
+                        "Name": "btnClose",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "gamefont1.fnt",
+                "gamefont1.png",
+                "gamefont2.fnt",
+                "gamefont2.png",
+                "gamefont3.fnt",
+                "gamefont3.png",
+                "gamefont4.fnt",
+                "gamefont4.png",
+                "gamefont5.fnt",
+                "gamefont5.png",
+                "slamdunkjpgres.jpg",
+                "slamdunkjpgres.plist",
+                "slamdunkpngres.plist",
+                "slamdunkpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,540 @@
+{
+    "ID": "a6fbab58-1b06-496f-a522-af97a24053a4",
+    "Version": "2.3.4",
+    "Name": "disconnectlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 77,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 1.8153
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0.0025
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "TopMargin": -1.8153,
+                        "BottomMargin": 1.8153,
+                        "Tag": 91,
+                        "ActionTag": -620090996,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "disconnectback.jpg",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 320
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4444
+                        },
+                        "PreSize": {
+                            "X": 0.3594,
+                            "Y": 0.3778
+                        },
+                        "LeftMargin": 410,
+                        "RightMargin": 410,
+                        "TopMargin": 264,
+                        "BottomMargin": 184,
+                        "Tag": 92,
+                        "ActionTag": 1154401260,
+                        "Size": {
+                            "X": 460,
+                            "Y": 272
+                        },
+                        "Name": "disconnectback_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk18_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk18_002.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnslamdunk18_001.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 160,
+                        "Scale9Height": 26,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 235
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.3264
+                        },
+                        "PreSize": {
+                            "X": 0.1484,
+                            "Y": 0.0667
+                        },
+                        "LeftMargin": 545,
+                        "RightMargin": 545,
+                        "TopMargin": 461,
+                        "BottomMargin": 211,
+                        "Tag": 94,
+                        "ActionTag": 223963788,
+                        "Size": {
+                            "X": 190,
+                            "Y": 48
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "img_disconnect.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 400
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.1844,
+                            "Y": 0.1
+                        },
+                        "LeftMargin": 522,
+                        "RightMargin": 522,
+                        "TopMargin": 284,
+                        "BottomMargin": 364,
+                        "Tag": 83,
+                        "ActionTag": -926985972,
+                        "Size": {
+                            "X": 236,
+                            "Y": 72
+                        },
+                        "Name": "sprDisconnect",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "img_notenough.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 410
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5694
+                        },
+                        "PreSize": {
+                            "X": 0.1547,
+                            "Y": 0.0472
+                        },
+                        "LeftMargin": 541,
+                        "RightMargin": 541,
+                        "TopMargin": 293,
+                        "BottomMargin": 393,
+                        "Tag": 84,
+                        "ActionTag": -1206839043,
+                        "Size": {
+                            "X": 198,
+                            "Y": 34
+                        },
+                        "Name": "sprNotEnough",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "img_error.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 414
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.575
+                        },
+                        "PreSize": {
+                            "X": 0.1,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 576,
+                        "RightMargin": 576,
+                        "TopMargin": 288,
+                        "BottomMargin": 396,
+                        "Tag": 89,
+                        "ActionTag": 1158272382,
+                        "Size": {
+                            "X": 128,
+                            "Y": 36
+                        },
+                        "Name": "sprError",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "img_error1.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 400
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.1922,
+                            "Y": 0.1
+                        },
+                        "LeftMargin": 517,
+                        "RightMargin": 517,
+                        "TopMargin": 284,
+                        "BottomMargin": 364,
+                        "Tag": 104,
+                        "ActionTag": -1544581327,
+                        "Size": {
+                            "X": 246,
+                            "Y": 72
+                        },
+                        "Name": "sprError1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "img_error2.png",
+                            "Plist": "slamdunkpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 401
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5569
+                        },
+                        "PreSize": {
+                            "X": 0.2469,
+                            "Y": 0.1028
+                        },
+                        "LeftMargin": 482,
+                        "RightMargin": 482,
+                        "TopMargin": 282,
+                        "BottomMargin": 364,
+                        "Tag": 288,
+                        "ActionTag": 241168631,
+                        "Size": {
+                            "X": 316,
+                            "Y": 74
+                        },
+                        "Name": "sprError2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 330
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4583
+                        },
+                        "PreSize": {
+                            "X": 0.3281,
+                            "Y": 0.1667
+                        },
+                        "LeftMargin": 430,
+                        "RightMargin": 430,
+                        "TopMargin": 330,
+                        "BottomMargin": 270,
+                        "Tag": 44,
+                        "ActionTag": -1424632618,
+                        "Size": {
+                            "X": 420,
+                            "Y": 120
+                        },
+                        "Name": "layErrorBack",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "出错了",
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 639.9998,
+                            "Y": 329.9973
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {
+                            "R": 230,
+                            "G": 230,
+                            "B": 250
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4583
+                        },
+                        "PreSize": {
+                            "X": 0.3125,
+                            "Y": 0.1389
+                        },
+                        "LeftMargin": 439.9998,
+                        "RightMargin": 440.0002,
+                        "TopMargin": 340.0027,
+                        "BottomMargin": 279.9973,
+                        "Tag": 31,
+                        "ActionTag": 1593394317,
+                        "Size": {
+                            "X": 400,
+                            "Y": 100
+                        },
+                        "Name": "textError",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "slamdunkpngres.plist",
+                "slamdunkpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,4311 @@
+{
+    "ID": "495294d4-105a-4711-bbdc-1a150ae69ef6",
+    "Version": "2.3.4",
+    "Name": "sd2helplayer2",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 142,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback1.jpg",
+                            "Plist": "slamdunk2jpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 198,
+                        "ActionTag": 1247679674,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "sd2helpback1_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn19_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn19_002.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn19_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 107,
+                        "Scale9Height": 82,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1143,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.893,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.107,
+                            "Y": 0.1444
+                        },
+                        "LeftMargin": 1143,
+                        "TopMargin": 616,
+                        "Tag": 200,
+                        "ActionTag": -1482231850,
+                        "Size": {
+                            "X": 137,
+                            "Y": 104
+                        },
+                        "Name": "btnNext",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn18_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn18_002.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn18_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 92,
+                        "Scale9Height": 80,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.0953,
+                            "Y": 0.1417
+                        },
+                        "RightMargin": 1158,
+                        "TopMargin": 618,
+                        "Tag": 201,
+                        "ActionTag": -91786505,
+                        "Size": {
+                            "X": 122,
+                            "Y": 102
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback2.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 309.999,
+                            "Y": 16.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2422,
+                            "Y": 0.0236
+                        },
+                        "PreSize": {
+                            "X": 0.5102,
+                            "Y": 0.1194
+                        },
+                        "LeftMargin": 309.999,
+                        "RightMargin": 317.001,
+                        "TopMargin": 617.0003,
+                        "BottomMargin": 16.9997,
+                        "Tag": 202,
+                        "ActionTag": 318533552,
+                        "Size": {
+                            "X": 653,
+                            "Y": 86
+                        },
+                        "Name": "sd2helpback2_55",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback3.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 139.9999,
+                            "Y": 369.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1094,
+                            "Y": 0.5139
+                        },
+                        "PreSize": {
+                            "X": 0.3656,
+                            "Y": 0.325
+                        },
+                        "LeftMargin": 139.9999,
+                        "RightMargin": 672.0001,
+                        "TopMargin": 116.0001,
+                        "BottomMargin": 369.9999,
+                        "Tag": 204,
+                        "ActionTag": -2072563445,
+                        "Size": {
+                            "X": 468,
+                            "Y": 234
+                        },
+                        "Name": "sd2helpback3_57",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback3.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 669,
+                            "Y": 370.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5227,
+                            "Y": 0.5139
+                        },
+                        "PreSize": {
+                            "X": 0.3656,
+                            "Y": 0.325
+                        },
+                        "LeftMargin": 669,
+                        "RightMargin": 143,
+                        "TopMargin": 115.9999,
+                        "BottomMargin": 370.0001,
+                        "Tag": 205,
+                        "ActionTag": 1230728221,
+                        "Size": {
+                            "X": 468,
+                            "Y": 234
+                        },
+                        "Name": "sd2helpback3_57_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback3.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 140,
+                            "Y": 117.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1094,
+                            "Y": 0.1639
+                        },
+                        "PreSize": {
+                            "X": 0.3656,
+                            "Y": 0.325
+                        },
+                        "LeftMargin": 140,
+                        "RightMargin": 672,
+                        "TopMargin": 368.0001,
+                        "BottomMargin": 117.9999,
+                        "Tag": 206,
+                        "ActionTag": -1937907978,
+                        "Size": {
+                            "X": 468,
+                            "Y": 234
+                        },
+                        "Name": "sd2helpback3_57_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback3.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 669,
+                            "Y": 118
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5227,
+                            "Y": 0.1639
+                        },
+                        "PreSize": {
+                            "X": 0.3656,
+                            "Y": 0.325
+                        },
+                        "LeftMargin": 669,
+                        "RightMargin": 143,
+                        "TopMargin": 368,
+                        "BottomMargin": 118,
+                        "Tag": 207,
+                        "ActionTag": -288734905,
+                        "Size": {
+                            "X": 468,
+                            "Y": 234
+                        },
+                        "Name": "sd2helpback3_57_1_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 724,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline9.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 821,
+                                    "Y": 177.9968
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 739.5,
+                                "RightMargin": -902.5,
+                                "TopMargin": -217.4968,
+                                "BottomMargin": 138.4968,
+                                "Tag": 725,
+                                "ActionTag": 348176070,
+                                "Size": {
+                                    "X": 163,
+                                    "Y": 79
+                                },
+                                "Name": "sprLine1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline9.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 984.0001,
+                                    "Y": 177.9968
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 902.5001,
+                                "RightMargin": -1065.5001,
+                                "TopMargin": -217.4968,
+                                "BottomMargin": 138.4968,
+                                "Tag": 726,
+                                "ActionTag": 524186154,
+                                "Size": {
+                                    "X": 163,
+                                    "Y": 79
+                                },
+                                "Name": "sprLine1_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": 1025648415,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine9",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 721,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline8.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 821,
+                                    "Y": 292.9966
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 739.5,
+                                "RightMargin": -902.5,
+                                "TopMargin": -332.4966,
+                                "BottomMargin": 253.4966,
+                                "Tag": 722,
+                                "ActionTag": -966272118,
+                                "Size": {
+                                    "X": 163,
+                                    "Y": 79
+                                },
+                                "Name": "sprLine1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline8.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 984,
+                                    "Y": 292.9966
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 902.5,
+                                "RightMargin": -1065.5,
+                                "TopMargin": -332.4966,
+                                "BottomMargin": 253.4966,
+                                "Tag": 723,
+                                "ActionTag": 2107697016,
+                                "Size": {
+                                    "X": 163,
+                                    "Y": 79
+                                },
+                                "Name": "sprLine1_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -1493961529,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine8",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 718,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline7.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 292,
+                                    "Y": 206.9985
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 209.5,
+                                "RightMargin": -374.5,
+                                "TopMargin": -249.9985,
+                                "BottomMargin": 163.9985,
+                                "Tag": 719,
+                                "ActionTag": -920671390,
+                                "Size": {
+                                    "X": 165,
+                                    "Y": 86
+                                },
+                                "Name": "sprLine1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline7.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 457.0009,
+                                    "Y": 206.9989
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 374.5009,
+                                "RightMargin": -539.5009,
+                                "TopMargin": -249.9989,
+                                "BottomMargin": 163.9989,
+                                "Tag": 720,
+                                "ActionTag": -1427078934,
+                                "Size": {
+                                    "X": 165,
+                                    "Y": 86
+                                },
+                                "Name": "sprLine1_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -1641921020,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine7",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 715,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline6.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 292.0001,
+                                    "Y": 266.9993
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 209.5001,
+                                "RightMargin": -374.5001,
+                                "TopMargin": -309.9993,
+                                "BottomMargin": 223.9993,
+                                "Tag": 716,
+                                "ActionTag": -1702241317,
+                                "Size": {
+                                    "X": 165,
+                                    "Y": 86
+                                },
+                                "Name": "sprLine1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline6.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 457.0011,
+                                    "Y": 266.9997
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 374.5011,
+                                "RightMargin": -539.5011,
+                                "TopMargin": -309.9997,
+                                "BottomMargin": 223.9997,
+                                "Tag": 717,
+                                "ActionTag": 748597164,
+                                "Size": {
+                                    "X": 165,
+                                    "Y": 86
+                                },
+                                "Name": "sprLine1_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -593414398,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine6",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 712,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline5.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 821,
+                                    "Y": 483.9962
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 739.5,
+                                "RightMargin": -902.5,
+                                "TopMargin": -551.4962,
+                                "BottomMargin": 416.4962,
+                                "Tag": 713,
+                                "ActionTag": -1084610578,
+                                "Size": {
+                                    "X": 163,
+                                    "Y": 135
+                                },
+                                "Name": "sprLine1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline5.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 984,
+                                    "Y": 483.9962
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 902.5,
+                                "RightMargin": -1065.5,
+                                "TopMargin": -551.4962,
+                                "BottomMargin": 416.4962,
+                                "Tag": 714,
+                                "ActionTag": -2050209902,
+                                "Size": {
+                                    "X": 163,
+                                    "Y": 135
+                                },
+                                "Name": "sprLine1_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -779729560,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine5",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 706,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline4.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 821,
+                                    "Y": 489.9962
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 739.5,
+                                "RightMargin": -902.5,
+                                "TopMargin": -557.4962,
+                                "BottomMargin": 422.4962,
+                                "Tag": 707,
+                                "ActionTag": -1503047418,
+                                "Size": {
+                                    "X": 163,
+                                    "Y": 135
+                                },
+                                "Name": "sprLine1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline4.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 983.9999,
+                                    "Y": 489.9962
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 902.4999,
+                                "RightMargin": -1065.4999,
+                                "TopMargin": -557.4962,
+                                "BottomMargin": 422.4962,
+                                "Tag": 708,
+                                "ActionTag": -1153651278,
+                                "Size": {
+                                    "X": 163,
+                                    "Y": 135
+                                },
+                                "Name": "sprLine1_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -1123750037,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine4",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 703,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline3.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 292.0001,
+                                    "Y": 423.9967
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 210.0001,
+                                "RightMargin": -374.0001,
+                                "TopMargin": -434.9967,
+                                "BottomMargin": 412.9967,
+                                "Tag": 704,
+                                "ActionTag": 1124930235,
+                                "Size": {
+                                    "X": 164,
+                                    "Y": 22
+                                },
+                                "Name": "sprLine1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline3.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 456.0001,
+                                    "Y": 423.9967
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 374.0001,
+                                "RightMargin": -538.0001,
+                                "TopMargin": -434.9967,
+                                "BottomMargin": 412.9967,
+                                "Tag": 705,
+                                "ActionTag": 395730937,
+                                "Size": {
+                                    "X": 164,
+                                    "Y": 22
+                                },
+                                "Name": "sprLine1_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -1796445762,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine3",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 700,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline2.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 292.0001,
+                                    "Y": 550.998
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 210.0001,
+                                "RightMargin": -374.0001,
+                                "TopMargin": -561.998,
+                                "BottomMargin": 539.998,
+                                "Tag": 701,
+                                "ActionTag": 19705701,
+                                "Size": {
+                                    "X": 164,
+                                    "Y": 22
+                                },
+                                "Name": "sprLine1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline2.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 456.0001,
+                                    "Y": 550.998
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 374.0001,
+                                "RightMargin": -538.0001,
+                                "TopMargin": -561.998,
+                                "BottomMargin": 539.998,
+                                "Tag": 702,
+                                "ActionTag": -1562203333,
+                                "Size": {
+                                    "X": 164,
+                                    "Y": 22
+                                },
+                                "Name": "sprLine1_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -302782569,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine2",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 697,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline1.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 292.0001,
+                                    "Y": 487
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 210.0001,
+                                "RightMargin": -374.0001,
+                                "TopMargin": -498,
+                                "BottomMargin": 476,
+                                "Tag": 698,
+                                "ActionTag": 111065763,
+                                "Size": {
+                                    "X": 164,
+                                    "Y": 22
+                                },
+                                "Name": "sprLine1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "sd2img_helpline1.png",
+                                    "Plist": "slamdunk2pngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 456.0001,
+                                    "Y": 487
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 374.0001,
+                                "RightMargin": -538.0001,
+                                "TopMargin": -498,
+                                "BottomMargin": 476,
+                                "Tag": 699,
+                                "ActionTag": -754055512,
+                                "Size": {
+                                    "X": 164,
+                                    "Y": 22
+                                },
+                                "Name": "sprLine1_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -1338729815,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine1",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1083.999,
+                            "Y": 547.9982
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8469,
+                            "Y": 0.7611
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1054.999,
+                        "RightMargin": 167.001,
+                        "TopMargin": 143.0018,
+                        "BottomMargin": 518.9982,
+                        "Tag": 651,
+                        "ActionTag": -105776706,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprRed4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1083.999,
+                            "Y": 547.9982
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8469,
+                            "Y": 0.7611
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1054.999,
+                        "RightMargin": 167.001,
+                        "TopMargin": 143.0018,
+                        "BottomMargin": 518.9982,
+                        "Tag": 679,
+                        "ActionTag": -1295508279,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLRed4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "4",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1083.9976,
+                            "Y": 548.9991
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8469,
+                            "Y": 0.7625
+                        },
+                        "PreSize": {
+                            "X": 0.0234,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 1068.9976,
+                        "RightMargin": 181.0024,
+                        "TopMargin": 153.0009,
+                        "BottomMargin": 530.9991,
+                        "Tag": 625,
+                        "ActionTag": -643998891,
+                        "Size": {
+                            "X": 30,
+                            "Y": 36
+                        },
+                        "Name": "textRed4",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555.0001,
+                            "Y": 296.004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.4111
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 526.0001,
+                        "RightMargin": 695.9999,
+                        "TopMargin": 394.996,
+                        "BottomMargin": 267.004,
+                        "Tag": 650,
+                        "ActionTag": -279015570,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprRed6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555.0001,
+                            "Y": 296.004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.4111
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 526.0001,
+                        "RightMargin": 695.9999,
+                        "TopMargin": 394.996,
+                        "BottomMargin": 267.004,
+                        "Tag": 680,
+                        "ActionTag": 116643502,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLRed6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "6",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555,
+                            "Y": 297
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.4125
+                        },
+                        "PreSize": {
+                            "X": 0.0219,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 541,
+                        "RightMargin": 711,
+                        "TopMargin": 405,
+                        "BottomMargin": 279,
+                        "Tag": 627,
+                        "ActionTag": -1285044169,
+                        "Size": {
+                            "X": 28,
+                            "Y": 36
+                        },
+                        "Name": "textRed6",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555,
+                            "Y": 549.0015
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.7625
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 526,
+                        "RightMargin": 696,
+                        "TopMargin": 141.9985,
+                        "BottomMargin": 520.0015,
+                        "Tag": 649,
+                        "ActionTag": 241711340,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprRed2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555,
+                            "Y": 549.0017
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.7625
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 526,
+                        "RightMargin": 696,
+                        "TopMargin": 141.9983,
+                        "BottomMargin": 520.0017,
+                        "Tag": 681,
+                        "ActionTag": -1811305107,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLRed2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "2",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555,
+                            "Y": 550.0021
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.7639
+                        },
+                        "PreSize": {
+                            "X": 0.0227,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 540.5,
+                        "RightMargin": 710.5,
+                        "TopMargin": 151.9979,
+                        "BottomMargin": 532.0021,
+                        "Tag": 629,
+                        "ActionTag": 858595711,
+                        "Size": {
+                            "X": 29,
+                            "Y": 36
+                        },
+                        "Name": "textRed2",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1084,
+                            "Y": 264
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8469,
+                            "Y": 0.3667
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1055,
+                        "RightMargin": 167,
+                        "TopMargin": 427,
+                        "BottomMargin": 235,
+                        "Tag": 648,
+                        "ActionTag": -1893948249,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprRed8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1084,
+                            "Y": 264
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8469,
+                            "Y": 0.3667
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1055,
+                        "RightMargin": 167,
+                        "TopMargin": 427,
+                        "BottomMargin": 235,
+                        "Tag": 682,
+                        "ActionTag": 1763748254,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLRed8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "8",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1084,
+                            "Y": 265
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8469,
+                            "Y": 0.3681
+                        },
+                        "PreSize": {
+                            "X": 0.0219,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 1070,
+                        "RightMargin": 182,
+                        "TopMargin": 437,
+                        "BottomMargin": 247,
+                        "Tag": 631,
+                        "ActionTag": 309611756,
+                        "Size": {
+                            "X": 28,
+                            "Y": 36
+                        },
+                        "Name": "textRed8",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555,
+                            "Y": 485.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.675
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 526,
+                        "RightMargin": 696,
+                        "TopMargin": 205.0002,
+                        "BottomMargin": 456.9998,
+                        "Tag": 647,
+                        "ActionTag": 494817203,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprRed1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555,
+                            "Y": 486.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.675
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 526,
+                        "RightMargin": 696,
+                        "TopMargin": 204.9998,
+                        "BottomMargin": 457.0002,
+                        "Tag": 683,
+                        "ActionTag": 1925517960,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLRed1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "1",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 556,
+                            "Y": 486.9996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4344,
+                            "Y": 0.6764
+                        },
+                        "PreSize": {
+                            "X": 0.0141,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 547,
+                        "RightMargin": 715,
+                        "TopMargin": 215.0004,
+                        "BottomMargin": 468.9996,
+                        "Tag": 633,
+                        "ActionTag": 2080912872,
+                        "Size": {
+                            "X": 18,
+                            "Y": 36
+                        },
+                        "Name": "textRed1",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1084.0039,
+                            "Y": 204.0025
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8469,
+                            "Y": 0.2833
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1055.0039,
+                        "RightMargin": 166.9961,
+                        "TopMargin": 486.9975,
+                        "BottomMargin": 175.0025,
+                        "Tag": 646,
+                        "ActionTag": 2090014588,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprRed9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1084,
+                            "Y": 204.0032
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8469,
+                            "Y": 0.2833
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1055,
+                        "RightMargin": 167,
+                        "TopMargin": 486.9968,
+                        "BottomMargin": 175.0032,
+                        "Tag": 684,
+                        "ActionTag": -2113250954,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLRed9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "9",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1084.0044,
+                            "Y": 205.0024
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8469,
+                            "Y": 0.2847
+                        },
+                        "PreSize": {
+                            "X": 0.0227,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 1069.5044,
+                        "RightMargin": 181.4956,
+                        "TopMargin": 496.9976,
+                        "BottomMargin": 187.0024,
+                        "Tag": 635,
+                        "ActionTag": -1745788498,
+                        "Size": {
+                            "X": 29,
+                            "Y": 36
+                        },
+                        "Name": "textRed9",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555,
+                            "Y": 421.9972
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.5861
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 526,
+                        "RightMargin": 696,
+                        "TopMargin": 269.0028,
+                        "BottomMargin": 392.9972,
+                        "Tag": 645,
+                        "ActionTag": 672479012,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprRed3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555,
+                            "Y": 421.9976
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.5861
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 526,
+                        "RightMargin": 696,
+                        "TopMargin": 269.0024,
+                        "BottomMargin": 392.9976,
+                        "Tag": 685,
+                        "ActionTag": -2079740225,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLRed3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "3",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555,
+                            "Y": 422.9963
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.5875
+                        },
+                        "PreSize": {
+                            "X": 0.0211,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 541.5,
+                        "RightMargin": 711.5,
+                        "TopMargin": 279.0037,
+                        "BottomMargin": 404.9963,
+                        "Tag": 637,
+                        "ActionTag": -1195295970,
+                        "Size": {
+                            "X": 27,
+                            "Y": 36
+                        },
+                        "Name": "textRed3",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555,
+                            "Y": 173.0003
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.2403
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 526,
+                        "RightMargin": 696,
+                        "TopMargin": 517.9997,
+                        "BottomMargin": 144.0003,
+                        "Tag": 644,
+                        "ActionTag": 1693413211,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprRed7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555,
+                            "Y": 173.0007
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.2403
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 526,
+                        "RightMargin": 696,
+                        "TopMargin": 517.9993,
+                        "BottomMargin": 144.0007,
+                        "Tag": 686,
+                        "ActionTag": 1686477813,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLRed7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "7",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 555,
+                            "Y": 174.0006
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.2417
+                        },
+                        "PreSize": {
+                            "X": 0.0219,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 541,
+                        "RightMargin": 711,
+                        "TopMargin": 527.9994,
+                        "BottomMargin": 156.0006,
+                        "Tag": 639,
+                        "ActionTag": -808342143,
+                        "Size": {
+                            "X": 28,
+                            "Y": 36
+                        },
+                        "Name": "textRed7",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1084,
+                            "Y": 425.0017
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8469,
+                            "Y": 0.5903
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1055,
+                        "RightMargin": 167,
+                        "TopMargin": 265.9983,
+                        "BottomMargin": 396.0017,
+                        "Tag": 643,
+                        "ActionTag": -1567119071,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprRed5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1084,
+                            "Y": 425.002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8469,
+                            "Y": 0.5903
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 1055,
+                        "RightMargin": 167,
+                        "TopMargin": 265.998,
+                        "BottomMargin": 396.002,
+                        "Tag": 687,
+                        "ActionTag": -1820963290,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLRed5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "5",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1084.0001,
+                            "Y": 426.001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8469,
+                            "Y": 0.5917
+                        },
+                        "PreSize": {
+                            "X": 0.0211,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 1070.5001,
+                        "RightMargin": 182.4999,
+                        "TopMargin": 275.999,
+                        "BottomMargin": 408.001,
+                        "Tag": 641,
+                        "ActionTag": 245405673,
+                        "Size": {
+                            "X": 27,
+                            "Y": 36
+                        },
+                        "Name": "textRed5",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 722,
+                            "Y": 548.0032
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.7611
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 693,
+                        "RightMargin": 529,
+                        "TopMargin": 142.9968,
+                        "BottomMargin": 519.0032,
+                        "Tag": 652,
+                        "ActionTag": 1809490647,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprBlue4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 722,
+                            "Y": 548.0034
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.7611
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 693,
+                        "RightMargin": 529,
+                        "TopMargin": 142.9966,
+                        "BottomMargin": 519.0034,
+                        "Tag": 688,
+                        "ActionTag": 1245214041,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLBlue4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "4",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 722.0038,
+                            "Y": 549.0023
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.7625
+                        },
+                        "PreSize": {
+                            "X": 0.0234,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 707.0038,
+                        "RightMargin": 542.9962,
+                        "TopMargin": 152.9977,
+                        "BottomMargin": 531.0023,
+                        "Tag": 607,
+                        "ActionTag": 2072279781,
+                        "Size": {
+                            "X": 30,
+                            "Y": 36
+                        },
+                        "Name": "textBlue4",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 193,
+                            "Y": 296.0026
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.4111
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 164,
+                        "RightMargin": 1058,
+                        "TopMargin": 394.9974,
+                        "BottomMargin": 267.0026,
+                        "Tag": 653,
+                        "ActionTag": -2066973072,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprBlue6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 193,
+                            "Y": 296.003
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.4111
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 164,
+                        "RightMargin": 1058,
+                        "TopMargin": 394.997,
+                        "BottomMargin": 267.003,
+                        "Tag": 689,
+                        "ActionTag": 1328886335,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLBlue6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "6",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 192.9995,
+                            "Y": 297.0009
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.4125
+                        },
+                        "PreSize": {
+                            "X": 0.0219,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 178.9995,
+                        "RightMargin": 1073.0005,
+                        "TopMargin": 404.9991,
+                        "BottomMargin": 279.0009,
+                        "Tag": 609,
+                        "ActionTag": 505474272,
+                        "Size": {
+                            "X": 28,
+                            "Y": 36
+                        },
+                        "Name": "textBlue6",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 193,
+                            "Y": 549
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.7625
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 164,
+                        "RightMargin": 1058,
+                        "TopMargin": 142,
+                        "BottomMargin": 520,
+                        "Tag": 654,
+                        "ActionTag": -2023749669,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprBlue2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 193,
+                            "Y": 549
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.7625
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 164,
+                        "RightMargin": 1058,
+                        "TopMargin": 142,
+                        "BottomMargin": 520,
+                        "Tag": 690,
+                        "ActionTag": 601005071,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLBlue2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "2",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 192.9976,
+                            "Y": 550
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.7639
+                        },
+                        "PreSize": {
+                            "X": 0.0227,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 178.4976,
+                        "RightMargin": 1072.5024,
+                        "TopMargin": 152,
+                        "BottomMargin": 532,
+                        "Tag": 611,
+                        "ActionTag": 1912840530,
+                        "Size": {
+                            "X": 29,
+                            "Y": 36
+                        },
+                        "Name": "textBlue2",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 722,
+                            "Y": 264.0011
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.3667
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 693,
+                        "RightMargin": 529,
+                        "TopMargin": 426.9989,
+                        "BottomMargin": 235.0011,
+                        "Tag": 655,
+                        "ActionTag": -523193057,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprBlue8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 722,
+                            "Y": 264.0011
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.3667
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 693,
+                        "RightMargin": 529,
+                        "TopMargin": 426.9989,
+                        "BottomMargin": 235.0011,
+                        "Tag": 691,
+                        "ActionTag": 783231101,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLBlue8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "8",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 722,
+                            "Y": 265.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.3681
+                        },
+                        "PreSize": {
+                            "X": 0.0219,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 708,
+                        "RightMargin": 544,
+                        "TopMargin": 436.9998,
+                        "BottomMargin": 247.0002,
+                        "Tag": 613,
+                        "ActionTag": -1159797693,
+                        "Size": {
+                            "X": 28,
+                            "Y": 36
+                        },
+                        "Name": "textBlue8",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 193,
+                            "Y": 486.0006
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.675
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 164,
+                        "RightMargin": 1058,
+                        "TopMargin": 204.9994,
+                        "BottomMargin": 457.0006,
+                        "Tag": 656,
+                        "ActionTag": -1198729737,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprBlue1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 193,
+                            "Y": 486.0011
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.675
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 164,
+                        "RightMargin": 1058,
+                        "TopMargin": 204.9989,
+                        "BottomMargin": 457.0011,
+                        "Tag": 692,
+                        "ActionTag": 600202405,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLBlue1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "1",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 193.9982,
+                            "Y": 486.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1516,
+                            "Y": 0.6764
+                        },
+                        "PreSize": {
+                            "X": 0.0141,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 184.9982,
+                        "RightMargin": 1077.0018,
+                        "TopMargin": 215.0005,
+                        "BottomMargin": 468.9995,
+                        "Tag": 615,
+                        "ActionTag": -737167074,
+                        "Size": {
+                            "X": 18,
+                            "Y": 36
+                        },
+                        "Name": "textBlue1",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 722,
+                            "Y": 204
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.2833
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 693,
+                        "RightMargin": 529,
+                        "TopMargin": 487,
+                        "BottomMargin": 175,
+                        "Tag": 657,
+                        "ActionTag": 1711881896,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprBlue9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 722,
+                            "Y": 204
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.2833
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 693,
+                        "RightMargin": 529,
+                        "TopMargin": 487,
+                        "BottomMargin": 175,
+                        "Tag": 693,
+                        "ActionTag": 1547574621,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLBlue9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "9",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 721.9972,
+                            "Y": 205
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.2847
+                        },
+                        "PreSize": {
+                            "X": 0.0227,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 707.4972,
+                        "RightMargin": 543.5028,
+                        "TopMargin": 497,
+                        "BottomMargin": 187,
+                        "Tag": 617,
+                        "ActionTag": 1569698282,
+                        "Size": {
+                            "X": 29,
+                            "Y": 36
+                        },
+                        "Name": "textBlue9",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 193,
+                            "Y": 421.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.5861
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 164,
+                        "RightMargin": 1058,
+                        "TopMargin": 269.0001,
+                        "BottomMargin": 392.9999,
+                        "Tag": 658,
+                        "ActionTag": 62878229,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprBlue3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 193,
+                            "Y": 422.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.5861
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 164,
+                        "RightMargin": 1058,
+                        "TopMargin": 268.9999,
+                        "BottomMargin": 393.0001,
+                        "Tag": 694,
+                        "ActionTag": -175488425,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLBlue3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "3",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 193,
+                            "Y": 422.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.5875
+                        },
+                        "PreSize": {
+                            "X": 0.0211,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 179.5,
+                        "RightMargin": 1073.5,
+                        "TopMargin": 279.0003,
+                        "BottomMargin": 404.9997,
+                        "Tag": 619,
+                        "ActionTag": 2083573858,
+                        "Size": {
+                            "X": 27,
+                            "Y": 36
+                        },
+                        "Name": "textBlue3",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 193,
+                            "Y": 173.9963
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.2417
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 164,
+                        "RightMargin": 1058,
+                        "TopMargin": 517.0037,
+                        "BottomMargin": 144.9963,
+                        "Tag": 659,
+                        "ActionTag": -2116100007,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprBlue7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 193,
+                            "Y": 173.9967
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.2417
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 164,
+                        "RightMargin": 1058,
+                        "TopMargin": 517.0033,
+                        "BottomMargin": 144.9967,
+                        "Tag": 695,
+                        "ActionTag": -535682498,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLBlue7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "7",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 192.9956,
+                            "Y": 174.9966
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1508,
+                            "Y": 0.2431
+                        },
+                        "PreSize": {
+                            "X": 0.0219,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 178.9956,
+                        "RightMargin": 1073.0044,
+                        "TopMargin": 527.0034,
+                        "BottomMargin": 156.9966,
+                        "Tag": 621,
+                        "ActionTag": 488815724,
+                        "Size": {
+                            "X": 28,
+                            "Y": 36
+                        },
+                        "Name": "textBlue7",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn16_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 722,
+                            "Y": 425.0015
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.5903
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 693,
+                        "RightMargin": 529,
+                        "TopMargin": 265.9985,
+                        "BottomMargin": 396.0015,
+                        "Tag": 660,
+                        "ActionTag": 1199978105,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprBlue5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn17_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 722,
+                            "Y": 425.0015
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.5903
+                        },
+                        "PreSize": {
+                            "X": 0.0453,
+                            "Y": 0.0806
+                        },
+                        "LeftMargin": 693,
+                        "RightMargin": 529,
+                        "TopMargin": 265.9985,
+                        "BottomMargin": 396.0015,
+                        "Tag": 696,
+                        "ActionTag": -1136288545,
+                        "Size": {
+                            "X": 58,
+                            "Y": 58
+                        },
+                        "Name": "sprLBlue5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "5",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "sd2font3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 722,
+                            "Y": 426.0008
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.5917
+                        },
+                        "PreSize": {
+                            "X": 0.0211,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 708.5,
+                        "RightMargin": 544.5,
+                        "TopMargin": 275.9992,
+                        "BottomMargin": 408.0008,
+                        "Tag": 623,
+                        "ActionTag": 904386959,
+                        "Size": {
+                            "X": 27,
+                            "Y": 36
+                        },
+                        "Name": "textBlue5",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback16.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 123.0001,
+                            "Y": 486
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0961,
+                            "Y": 0.675
+                        },
+                        "PreSize": {
+                            "X": 0.0836,
+                            "Y": 0.0458
+                        },
+                        "LeftMargin": 69.5001,
+                        "RightMargin": 1103.4999,
+                        "TopMargin": 217.5,
+                        "BottomMargin": 469.5,
+                        "Tag": 388,
+                        "ActionTag": -285501411,
+                        "Size": {
+                            "X": 107,
+                            "Y": 33
+                        },
+                        "Name": "sprWin1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback16.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 123,
+                            "Y": 549
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0961,
+                            "Y": 0.7625
+                        },
+                        "PreSize": {
+                            "X": 0.0836,
+                            "Y": 0.0458
+                        },
+                        "LeftMargin": 69.5,
+                        "RightMargin": 1103.5,
+                        "TopMargin": 154.5,
+                        "BottomMargin": 532.5,
+                        "Tag": 389,
+                        "ActionTag": 274315179,
+                        "Size": {
+                            "X": 107,
+                            "Y": 33
+                        },
+                        "Name": "sprWin2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback16.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 123,
+                            "Y": 422
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0961,
+                            "Y": 0.5861
+                        },
+                        "PreSize": {
+                            "X": 0.0836,
+                            "Y": 0.0458
+                        },
+                        "LeftMargin": 69.5,
+                        "RightMargin": 1103.5,
+                        "TopMargin": 281.5,
+                        "BottomMargin": 405.5,
+                        "Tag": 390,
+                        "ActionTag": 422634812,
+                        "Size": {
+                            "X": 107,
+                            "Y": 33
+                        },
+                        "Name": "sprWin3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback16.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 652.0011,
+                            "Y": 548.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5094,
+                            "Y": 0.7611
+                        },
+                        "PreSize": {
+                            "X": 0.0836,
+                            "Y": 0.0458
+                        },
+                        "LeftMargin": 598.5011,
+                        "RightMargin": 574.4989,
+                        "TopMargin": 155.4996,
+                        "BottomMargin": 531.5004,
+                        "Tag": 391,
+                        "ActionTag": 1868084291,
+                        "Size": {
+                            "X": 107,
+                            "Y": 33
+                        },
+                        "Name": "sprWin4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback16.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 652,
+                            "Y": 425
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5094,
+                            "Y": 0.5903
+                        },
+                        "PreSize": {
+                            "X": 0.0836,
+                            "Y": 0.0458
+                        },
+                        "LeftMargin": 598.5,
+                        "RightMargin": 574.5,
+                        "TopMargin": 278.5,
+                        "BottomMargin": 408.5,
+                        "Tag": 392,
+                        "ActionTag": 1632158628,
+                        "Size": {
+                            "X": 107,
+                            "Y": 33
+                        },
+                        "Name": "sprWin5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback16.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 122.9999,
+                            "Y": 296
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0961,
+                            "Y": 0.4111
+                        },
+                        "PreSize": {
+                            "X": 0.0836,
+                            "Y": 0.0458
+                        },
+                        "LeftMargin": 69.4999,
+                        "RightMargin": 1103.5001,
+                        "TopMargin": 407.5,
+                        "BottomMargin": 279.5,
+                        "Tag": 393,
+                        "ActionTag": -1701448312,
+                        "Size": {
+                            "X": 107,
+                            "Y": 33
+                        },
+                        "Name": "sprWin6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback16.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 123,
+                            "Y": 174
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0961,
+                            "Y": 0.2417
+                        },
+                        "PreSize": {
+                            "X": 0.0836,
+                            "Y": 0.0458
+                        },
+                        "LeftMargin": 69.5,
+                        "RightMargin": 1103.5,
+                        "TopMargin": 529.5,
+                        "BottomMargin": 157.5,
+                        "Tag": 394,
+                        "ActionTag": 1549123477,
+                        "Size": {
+                            "X": 107,
+                            "Y": 33
+                        },
+                        "Name": "sprWin7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback16.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 652,
+                            "Y": 264
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5094,
+                            "Y": 0.3667
+                        },
+                        "PreSize": {
+                            "X": 0.0836,
+                            "Y": 0.0458
+                        },
+                        "LeftMargin": 598.5,
+                        "RightMargin": 574.5,
+                        "TopMargin": 439.5,
+                        "BottomMargin": 247.5,
+                        "Tag": 395,
+                        "ActionTag": -1881140589,
+                        "Size": {
+                            "X": 107,
+                            "Y": 33
+                        },
+                        "Name": "sprWin8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2helpback16.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 652,
+                            "Y": 204
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5094,
+                            "Y": 0.2833
+                        },
+                        "PreSize": {
+                            "X": 0.0836,
+                            "Y": 0.0458
+                        },
+                        "LeftMargin": 598.5,
+                        "RightMargin": 574.5,
+                        "TopMargin": 499.5,
+                        "BottomMargin": 187.5,
+                        "Tag": 396,
+                        "ActionTag": -1969778912,
+                        "Size": {
+                            "X": 107,
+                            "Y": 33
+                        },
+                        "Name": "sprWin9",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "sd2font3.fnt",
+                "sd2font3.png",
+                "slamdunk2jpgres.jpg",
+                "slamdunk2jpgres.plist",
+                "slamdunk2pngres.plist",
+                "slamdunk2pngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

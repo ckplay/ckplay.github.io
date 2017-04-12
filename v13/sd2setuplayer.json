@@ -1,0 +1,258 @@
+{
+    "ID": "e5671b02-bf6e-43de-a16b-fd9291c8743f",
+    "Version": "2.3.4",
+    "Name": "sd2setuplayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 157,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "empty.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "Scale9Width": 9,
+                        "Scale9Height": 9,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 1.4528
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0.002
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "TopMargin": -1.4528,
+                        "BottomMargin": 1.4528,
+                        "Tag": 158,
+                        "ActionTag": 1214515560,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2setupback.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 5,
+                            "Y": 451.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0039,
+                            "Y": 0.6264
+                        },
+                        "PreSize": {
+                            "X": 0.1437,
+                            "Y": 0.275
+                        },
+                        "LeftMargin": 5,
+                        "RightMargin": 1091,
+                        "TopMargin": 70.9999,
+                        "BottomMargin": 451.0001,
+                        "Tag": 159,
+                        "ActionTag": -1437290515,
+                        "Size": {
+                            "X": 184,
+                            "Y": 198
+                        },
+                        "Name": "setupback_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn20_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn20_002.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn20_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 108,
+                        "Scale9Height": 21,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 26,
+                            "Y": 554.9996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0203,
+                            "Y": 0.7708
+                        },
+                        "PreSize": {
+                            "X": 0.1078,
+                            "Y": 0.0597
+                        },
+                        "LeftMargin": 26,
+                        "RightMargin": 1116,
+                        "TopMargin": 122.0004,
+                        "BottomMargin": 554.9996,
+                        "Tag": 160,
+                        "ActionTag": -763847515,
+                        "Size": {
+                            "X": 138,
+                            "Y": 43
+                        },
+                        "Name": "btnHistory",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn21_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn21_002.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "sd2btn21_001.png",
+                            "Plist": "slamdunk2pngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 108,
+                        "Scale9Height": 21,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 26.0001,
+                            "Y": 481.9993
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0203,
+                            "Y": 0.6694
+                        },
+                        "PreSize": {
+                            "X": 0.1078,
+                            "Y": 0.0597
+                        },
+                        "LeftMargin": 26.0001,
+                        "RightMargin": 1116,
+                        "TopMargin": 195.0007,
+                        "BottomMargin": 481.9993,
+                        "Tag": 161,
+                        "ActionTag": -692354952,
+                        "Size": {
+                            "X": 138,
+                            "Y": 43
+                        },
+                        "Name": "btnHelp",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "slamdunk2pngres.plist",
+                "slamdunk2pngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

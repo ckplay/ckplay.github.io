@@ -1,0 +1,206 @@
+{
+    "ID": "c2d9a448-9966-417d-bf67-0193fe533681",
+    "Version": "2.3.4",
+    "Name": "saintfireani",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 22,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": 181472918,
+                        "Property": "FileData",
+                        "Frames": [
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintimg_fire1_01.jpg",
+                                    "Plist": "saintjpg.plist"
+                                },
+                                "FrameIndex": 0,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintimg_fire1_02.jpg",
+                                    "Plist": "saintjpg.plist"
+                                },
+                                "FrameIndex": 2,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintimg_fire1_03.jpg",
+                                    "Plist": "saintjpg.plist"
+                                },
+                                "FrameIndex": 4,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintimg_fire1_04.jpg",
+                                    "Plist": "saintjpg.plist"
+                                },
+                                "FrameIndex": 6,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintimg_fire1_05.jpg",
+                                    "Plist": "saintjpg.plist"
+                                },
+                                "FrameIndex": 8,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintimg_fire1_06.jpg",
+                                    "Plist": "saintjpg.plist"
+                                },
+                                "FrameIndex": 10,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintimg_fire1_07.jpg",
+                                    "Plist": "saintjpg.plist"
+                                },
+                                "FrameIndex": 12,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintimg_fire1_08.jpg",
+                                    "Plist": "saintjpg.plist"
+                                },
+                                "FrameIndex": 14,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintimg_fire1_09.jpg",
+                                    "Plist": "saintjpg.plist"
+                                },
+                                "FrameIndex": 16,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintimg_fire1_10.jpg",
+                                    "Plist": "saintjpg.plist"
+                                },
+                                "FrameIndex": 18,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintimg_fire1_11.jpg",
+                                    "Plist": "saintjpg.plist"
+                                },
+                                "FrameIndex": 20,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintimg_fire1_01.jpg",
+                                    "Plist": "saintjpg.plist"
+                                },
+                                "FrameIndex": 22,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 64,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "saintimg_fire1_07.jpg",
+                            "Plist": "saintjpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 1
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 0,
+                            "Y": 12.0003
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -26,
+                        "RightMargin": -26,
+                        "TopMargin": -45.0003,
+                        "BottomMargin": -20.9997,
+                        "Tag": 81,
+                        "ActionTag": 181472918,
+                        "Size": {
+                            "X": 52,
+                            "Y": 66
+                        },
+                        "Name": "Sprite_1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "saintjpg.jpg",
+                "saintjpg.plist"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

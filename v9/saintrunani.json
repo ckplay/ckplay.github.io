@@ -1,0 +1,186 @@
+{
+    "ID": "33f006c0-93f6-4677-bcbc-d58a6dcb2e4d",
+    "Version": "2.3.4",
+    "Name": "saintrunani",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 18,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": 211850344,
+                        "Property": "FileData",
+                        "Frames": [
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintrunani1_02.jpg",
+                                    "Plist": "saintanijpg.plist"
+                                },
+                                "FrameIndex": 0,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintrunani1_03.jpg",
+                                    "Plist": "saintanijpg.plist"
+                                },
+                                "FrameIndex": 2,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintrunani1_04.jpg",
+                                    "Plist": "saintanijpg.plist"
+                                },
+                                "FrameIndex": 4,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintrunani1_05.jpg",
+                                    "Plist": "saintanijpg.plist"
+                                },
+                                "FrameIndex": 6,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintrunani1_06.jpg",
+                                    "Plist": "saintanijpg.plist"
+                                },
+                                "FrameIndex": 8,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintrunani1_07.jpg",
+                                    "Plist": "saintanijpg.plist"
+                                },
+                                "FrameIndex": 10,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintrunani1_08.jpg",
+                                    "Plist": "saintanijpg.plist"
+                                },
+                                "FrameIndex": 12,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintrunani1_09.jpg",
+                                    "Plist": "saintanijpg.plist"
+                                },
+                                "FrameIndex": 14,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintrunani1_10.jpg",
+                                    "Plist": "saintanijpg.plist"
+                                },
+                                "FrameIndex": 16,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "saintrunani1_02.jpg",
+                                    "Plist": "saintanijpg.plist"
+                                },
+                                "FrameIndex": 18,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 353,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "saintrunani1_04.jpg",
+                            "Plist": "saintanijpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 1
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -23,
+                        "RightMargin": -23,
+                        "TopMargin": -23,
+                        "BottomMargin": -23,
+                        "Tag": 355,
+                        "ActionTag": 211850344,
+                        "Size": {
+                            "X": 248,
+                            "Y": 192
+                        },
+                        "Name": "Sprite_2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "saintanijpg.jpg",
+                "saintanijpg.plist"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

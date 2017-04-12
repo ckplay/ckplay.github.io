@@ -1,0 +1,492 @@
+{
+    "ID": "959edb6b-e0ea-4fbf-adc5-e7ab7c002766",
+    "Version": "2.3.4",
+    "Name": "onepiecedisconnectlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 67,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 93,
+                        "ActionTag": 2013660732,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecedisconnectback.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 320
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4444
+                        },
+                        "PreSize": {
+                            "X": 0.4063,
+                            "Y": 0.4667
+                        },
+                        "LeftMargin": 380,
+                        "RightMargin": 380,
+                        "TopMargin": 232,
+                        "BottomMargin": 152,
+                        "Tag": 94,
+                        "ActionTag": 1913928217,
+                        "Size": {
+                            "X": 520,
+                            "Y": 336
+                        },
+                        "Name": "disconnectback_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn43_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn43_2.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn43_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 134,
+                        "Scale9Height": 48,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 639.9998,
+                            "Y": 202.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.2819
+                        },
+                        "PreSize": {
+                            "X": 0.1281,
+                            "Y": 0.0972
+                        },
+                        "LeftMargin": 557.9998,
+                        "RightMargin": 558.0002,
+                        "TopMargin": 482.0005,
+                        "BottomMargin": 167.9995,
+                        "CallBackType": "Click",
+                        "Tag": 95,
+                        "ActionTag": -1018094256,
+                        "Size": {
+                            "X": 164,
+                            "Y": 70
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepieceimg_disconnect.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 333
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4625
+                        },
+                        "PreSize": {
+                            "X": 0.1656,
+                            "Y": 0.1125
+                        },
+                        "LeftMargin": 534,
+                        "RightMargin": 534,
+                        "TopMargin": 346.5,
+                        "BottomMargin": 292.5,
+                        "Tag": 96,
+                        "ActionTag": 1434212577,
+                        "Size": {
+                            "X": 212,
+                            "Y": 81
+                        },
+                        "Name": "sprDisconnect",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepieceimg_notenough.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 333
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4625
+                        },
+                        "PreSize": {
+                            "X": 0.1422,
+                            "Y": 0.0514
+                        },
+                        "LeftMargin": 549,
+                        "RightMargin": 549,
+                        "TopMargin": 368.5,
+                        "BottomMargin": 314.5,
+                        "Tag": 97,
+                        "ActionTag": 42728088,
+                        "Size": {
+                            "X": 182,
+                            "Y": 37
+                        },
+                        "Name": "sprNotEnough",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepieceimg_error1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 332.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4625
+                        },
+                        "PreSize": {
+                            "X": 0.1898,
+                            "Y": 0.1139
+                        },
+                        "LeftMargin": 518.5,
+                        "RightMargin": 518.5,
+                        "TopMargin": 346.0006,
+                        "BottomMargin": 291.9994,
+                        "Tag": 98,
+                        "ActionTag": 390590494,
+                        "Size": {
+                            "X": 243,
+                            "Y": 82
+                        },
+                        "Name": "sprError1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepieceimg_error2.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 333
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4625
+                        },
+                        "PreSize": {
+                            "X": 0.2375,
+                            "Y": 0.1139
+                        },
+                        "LeftMargin": 488,
+                        "RightMargin": 488,
+                        "TopMargin": 346,
+                        "BottomMargin": 292,
+                        "Tag": 99,
+                        "ActionTag": 1520925386,
+                        "Size": {
+                            "X": 304,
+                            "Y": 82
+                        },
+                        "Name": "sprError2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 329.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4583
+                        },
+                        "PreSize": {
+                            "X": 0.3281,
+                            "Y": 0.2083
+                        },
+                        "LeftMargin": 430,
+                        "RightMargin": 430,
+                        "TopMargin": 315.0003,
+                        "BottomMargin": 254.9997,
+                        "Tag": 100,
+                        "ActionTag": 1331951677,
+                        "Size": {
+                            "X": 420,
+                            "Y": 150
+                        },
+                        "Name": "layErrorBack",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "出错了",
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 639.9998,
+                            "Y": 329.9973
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {
+                            "R": 230,
+                            "G": 230,
+                            "B": 250
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4583
+                        },
+                        "PreSize": {
+                            "X": 0.3125,
+                            "Y": 0.1806
+                        },
+                        "LeftMargin": 439.9998,
+                        "RightMargin": 440.0002,
+                        "TopMargin": 325.0027,
+                        "BottomMargin": 264.9973,
+                        "Tag": 101,
+                        "ActionTag": 374900915,
+                        "Size": {
+                            "X": 400,
+                            "Y": 130
+                        },
+                        "Name": "textError",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "onepiecepngres.plist",
+                "onepiecepngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

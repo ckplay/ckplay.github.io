@@ -1,0 +1,3560 @@
+{
+    "ID": "091f8df0-0ac6-4d0c-a97e-10d9d7a393fc",
+    "Version": "2.3.4",
+    "Name": "onepiecehelplayer2",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -1332126590,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": -0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1332126590,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1332126590,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 273,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 299,
+                        "ActionTag": -1332126590,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecehelpback1.jpg",
+                            "Plist": "onepiecejpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 274,
+                        "ActionTag": 115241620,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "onepiecehelpback1_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecehelpback4.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 586,
+                            "Y": 475
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "RotationSkewX": -1,
+                        "RotationSkewY": -1,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4578,
+                            "Y": 0.6597
+                        },
+                        "PreSize": {
+                            "X": 0.175,
+                            "Y": 0.4889
+                        },
+                        "LeftMargin": 474,
+                        "RightMargin": 582,
+                        "TopMargin": 69,
+                        "BottomMargin": 299,
+                        "Tag": 601,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecem5.png",
+                                    "Plist": "onepiecepngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 112,
+                                    "Y": 210
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.9,
+                                    "ScaleY": 0.9
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.5966
+                                },
+                                "PreSize": {
+                                    "X": 0.8482,
+                                    "Y": 0.5057
+                                },
+                                "LeftMargin": 17,
+                                "RightMargin": 17,
+                                "TopMargin": 53,
+                                "BottomMargin": 121,
+                                "Tag": 602,
+                                "ActionTag": 1817041433,
+                                "Size": {
+                                    "X": 190,
+                                    "Y": 178
+                                },
+                                "Name": "sprIcon6",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 112,
+                                    "Y": 97
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.2756
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 112,
+                                "RightMargin": 112,
+                                "TopMargin": 255,
+                                "BottomMargin": 97,
+                                "Tag": 820,
+                                "Children": [
+                                    {
+                                        "LabelText": "3X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -63.9975,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -63.9975,
+                                        "RightMargin": 18.9975,
+                                        "TopMargin": -19,
+                                        "BottomMargin": -19,
+                                        "Tag": 819,
+                                        "ActionTag": -493369267,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "40",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 68.9998,
+                                            "Y": -0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 27.9998,
+                                        "RightMargin": -68.9998,
+                                        "TopMargin": -18.9999,
+                                        "BottomMargin": -19.0001,
+                                        "Tag": 823,
+                                        "ActionTag": -192350616,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -115607927,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore63",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 112,
+                                    "Y": 68
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.1932
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 112,
+                                "RightMargin": 112,
+                                "TopMargin": 284,
+                                "BottomMargin": 68,
+                                "Tag": 824,
+                                "Children": [
+                                    {
+                                        "LabelText": "4X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -63.9979,
+                                            "Y": 0.0002
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -63.9979,
+                                        "RightMargin": 18.9979,
+                                        "TopMargin": -19.0002,
+                                        "BottomMargin": -18.9998,
+                                        "Tag": 825,
+                                        "ActionTag": 673469785,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "70",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 66.9995,
+                                            "Y": 0.0002
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 25.9995,
+                                        "RightMargin": -66.9995,
+                                        "TopMargin": -19.0002,
+                                        "BottomMargin": -18.9998,
+                                        "Tag": 826,
+                                        "ActionTag": 1741023071,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1849933539,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore64",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 112,
+                                    "Y": 39
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.1108
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 112,
+                                "RightMargin": 112,
+                                "TopMargin": 313,
+                                "BottomMargin": 39,
+                                "Tag": 827,
+                                "Children": [
+                                    {
+                                        "LabelText": "5X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -64,
+                                            "Y": -0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -64,
+                                        "RightMargin": 19,
+                                        "TopMargin": -18.9999,
+                                        "BottomMargin": -19.0001,
+                                        "Tag": 828,
+                                        "ActionTag": 790203659,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "500",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 66.9997,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 5.9997,
+                                        "RightMargin": -66.9997,
+                                        "TopMargin": -19,
+                                        "BottomMargin": -19,
+                                        "Tag": 829,
+                                        "ActionTag": -419921657,
+                                        "Size": {
+                                            "X": 61,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1602545099,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore65",
+                                "ctype": "SingleNodeObjectData"
+                            }
+                        ],
+                        "ActionTag": 1312318326,
+                        "Size": {
+                            "X": 224,
+                            "Y": 352
+                        },
+                        "Name": "onepiecehelpback4_49",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecehelpback4.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 800.0042,
+                            "Y": 472.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "RotationSkewX": 4,
+                        "RotationSkewY": 4,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.625,
+                            "Y": 0.6569
+                        },
+                        "PreSize": {
+                            "X": 0.175,
+                            "Y": 0.4889
+                        },
+                        "LeftMargin": 688.0042,
+                        "RightMargin": 367.9958,
+                        "TopMargin": 71.0006,
+                        "BottomMargin": 296.9994,
+                        "Tag": 938,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecem6.png",
+                                    "Plist": "onepiecepngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 112,
+                                    "Y": 210
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.9,
+                                    "ScaleY": 0.9
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.5966
+                                },
+                                "PreSize": {
+                                    "X": 0.8482,
+                                    "Y": 0.5057
+                                },
+                                "LeftMargin": 17,
+                                "RightMargin": 17,
+                                "TopMargin": 53,
+                                "BottomMargin": 121,
+                                "Tag": 939,
+                                "ActionTag": -899591902,
+                                "Size": {
+                                    "X": 190,
+                                    "Y": 178
+                                },
+                                "Name": "sprIcon7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 112,
+                                    "Y": 97
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.2756
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 112,
+                                "RightMargin": 112,
+                                "TopMargin": 255,
+                                "BottomMargin": 97,
+                                "Tag": 940,
+                                "Children": [
+                                    {
+                                        "LabelText": "3X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -63.9975,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -63.9975,
+                                        "RightMargin": 18.9975,
+                                        "TopMargin": -19,
+                                        "BottomMargin": -19,
+                                        "Tag": 941,
+                                        "ActionTag": 1263006929,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "20",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 68.9998,
+                                            "Y": -0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 27.9998,
+                                        "RightMargin": -68.9998,
+                                        "TopMargin": -18.9999,
+                                        "BottomMargin": -19.0001,
+                                        "Tag": 942,
+                                        "ActionTag": -30551968,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 712837024,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore73",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 112,
+                                    "Y": 68
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.1932
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 112,
+                                "RightMargin": 112,
+                                "TopMargin": 284,
+                                "BottomMargin": 68,
+                                "Tag": 943,
+                                "Children": [
+                                    {
+                                        "LabelText": "4X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -63.9979,
+                                            "Y": 0.0002
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -63.9979,
+                                        "RightMargin": 18.9979,
+                                        "TopMargin": -19.0002,
+                                        "BottomMargin": -18.9998,
+                                        "Tag": 944,
+                                        "ActionTag": -288952601,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "60",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 66.9995,
+                                            "Y": 0.0002
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 25.9995,
+                                        "RightMargin": -66.9995,
+                                        "TopMargin": -19.0002,
+                                        "BottomMargin": -18.9998,
+                                        "Tag": 945,
+                                        "ActionTag": -1076645556,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1819249942,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore74",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 112,
+                                    "Y": 39
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.1108
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 112,
+                                "RightMargin": 112,
+                                "TopMargin": 313,
+                                "BottomMargin": 39,
+                                "Tag": 946,
+                                "Children": [
+                                    {
+                                        "LabelText": "5X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -64,
+                                            "Y": -0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -64,
+                                        "RightMargin": 19,
+                                        "TopMargin": -18.9999,
+                                        "BottomMargin": -19.0001,
+                                        "Tag": 947,
+                                        "ActionTag": -2104445764,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "400",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 66.9997,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 5.9997,
+                                        "RightMargin": -66.9997,
+                                        "TopMargin": -19,
+                                        "BottomMargin": -19,
+                                        "Tag": 948,
+                                        "ActionTag": 1439630518,
+                                        "Size": {
+                                            "X": 61,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 688696861,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore75",
+                                "ctype": "SingleNodeObjectData"
+                            }
+                        ],
+                        "ActionTag": 1606672882,
+                        "Size": {
+                            "X": 224,
+                            "Y": 352
+                        },
+                        "Name": "onepiecehelpback4_49_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecehelpback4.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1018.0039,
+                            "Y": 465.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "RotationSkewX": -2,
+                        "RotationSkewY": -2,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7953,
+                            "Y": 0.6472
+                        },
+                        "PreSize": {
+                            "X": 0.175,
+                            "Y": 0.4889
+                        },
+                        "LeftMargin": 906.0039,
+                        "RightMargin": 149.9961,
+                        "TopMargin": 78.0005,
+                        "BottomMargin": 289.9995,
+                        "Tag": 949,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecem7.png",
+                                    "Plist": "onepiecepngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 112,
+                                    "Y": 210
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.9,
+                                    "ScaleY": 0.9
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.5966
+                                },
+                                "PreSize": {
+                                    "X": 0.8482,
+                                    "Y": 0.5057
+                                },
+                                "LeftMargin": 17,
+                                "RightMargin": 17,
+                                "TopMargin": 53,
+                                "BottomMargin": 121,
+                                "Tag": 950,
+                                "ActionTag": 1553666202,
+                                "Size": {
+                                    "X": 190,
+                                    "Y": 178
+                                },
+                                "Name": "sprIcon8",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 112,
+                                    "Y": 97
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.2756
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 112,
+                                "RightMargin": 112,
+                                "TopMargin": 255,
+                                "BottomMargin": 97,
+                                "Tag": 951,
+                                "Children": [
+                                    {
+                                        "LabelText": "3X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -63.9975,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -63.9975,
+                                        "RightMargin": 18.9975,
+                                        "TopMargin": -19,
+                                        "BottomMargin": -19,
+                                        "Tag": 952,
+                                        "ActionTag": -1280920478,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "20",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 68.9998,
+                                            "Y": -0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 27.9998,
+                                        "RightMargin": -68.9998,
+                                        "TopMargin": -18.9999,
+                                        "BottomMargin": -19.0001,
+                                        "Tag": 953,
+                                        "ActionTag": 1567416363,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -902550392,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore83",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 112,
+                                    "Y": 68
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.1932
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 112,
+                                "RightMargin": 112,
+                                "TopMargin": 284,
+                                "BottomMargin": 68,
+                                "Tag": 954,
+                                "Children": [
+                                    {
+                                        "LabelText": "4X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -63.9979,
+                                            "Y": 0.0002
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -63.9979,
+                                        "RightMargin": 18.9979,
+                                        "TopMargin": -19.0002,
+                                        "BottomMargin": -18.9998,
+                                        "Tag": 955,
+                                        "ActionTag": 1701343424,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "40",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 66.9995,
+                                            "Y": 0.0002
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 25.9995,
+                                        "RightMargin": -66.9995,
+                                        "TopMargin": -19.0002,
+                                        "BottomMargin": -18.9998,
+                                        "Tag": 956,
+                                        "ActionTag": -315162836,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 122039648,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore84",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 112,
+                                    "Y": 39
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.1108
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 112,
+                                "RightMargin": 112,
+                                "TopMargin": 313,
+                                "BottomMargin": 39,
+                                "Tag": 957,
+                                "Children": [
+                                    {
+                                        "LabelText": "5X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -64,
+                                            "Y": -0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -64,
+                                        "RightMargin": 19,
+                                        "TopMargin": -18.9999,
+                                        "BottomMargin": -19.0001,
+                                        "Tag": 958,
+                                        "ActionTag": 90559908,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "400",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 66.9997,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 5.9997,
+                                        "RightMargin": -66.9997,
+                                        "TopMargin": -19,
+                                        "BottomMargin": -19,
+                                        "Tag": 959,
+                                        "ActionTag": 1980747729,
+                                        "Size": {
+                                            "X": 61,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 942952158,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore85",
+                                "ctype": "SingleNodeObjectData"
+                            }
+                        ],
+                        "ActionTag": -1235499179,
+                        "Size": {
+                            "X": 224,
+                            "Y": 352
+                        },
+                        "Name": "onepiecehelpback4_49_0_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecehelpback5.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 557,
+                            "Y": 183
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "RotationSkewX": 2,
+                        "RotationSkewY": 2,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4352,
+                            "Y": 0.2542
+                        },
+                        "PreSize": {
+                            "X": 0.3031,
+                            "Y": 0.3389
+                        },
+                        "LeftMargin": 363,
+                        "RightMargin": 529,
+                        "TopMargin": 415,
+                        "BottomMargin": 61,
+                        "Tag": 960,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecem8.png",
+                                    "Plist": "onepiecepngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 103,
+                                    "Y": 155.0022
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.55,
+                                    "ScaleY": 0.55
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2655,
+                                    "Y": 0.6353
+                                },
+                                "PreSize": {
+                                    "X": 0.4897,
+                                    "Y": 0.7295
+                                },
+                                "LeftMargin": 8,
+                                "RightMargin": 190,
+                                "TopMargin": -0.0022,
+                                "BottomMargin": 66.0022,
+                                "Tag": 961,
+                                "ActionTag": 270559566,
+                                "Size": {
+                                    "X": 190,
+                                    "Y": 178
+                                },
+                                "Name": "sprIcon9",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 102.9996,
+                                    "Y": 101
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.2655,
+                                    "Y": 0.4139
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 102.9996,
+                                "RightMargin": 285.0004,
+                                "TopMargin": 143,
+                                "BottomMargin": 101,
+                                "Tag": 962,
+                                "Children": [
+                                    {
+                                        "LabelText": "3X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -43.9964,
+                                            "Y": 0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -43.9964,
+                                        "RightMargin": -1.0036,
+                                        "TopMargin": -19.0001,
+                                        "BottomMargin": -18.9999,
+                                        "Tag": 963,
+                                        "ActionTag": 1453492567,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "20",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 45.0002,
+                                            "Y": -0.0003
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 4.0002,
+                                        "RightMargin": -45.0002,
+                                        "TopMargin": -18.9997,
+                                        "BottomMargin": -19.0003,
+                                        "Tag": 964,
+                                        "ActionTag": -1873021519,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -374509847,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore93",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 103.0006,
+                                    "Y": 71
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.2655,
+                                    "Y": 0.291
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 103.0006,
+                                "RightMargin": 284.9994,
+                                "TopMargin": 173,
+                                "BottomMargin": 71,
+                                "Tag": 965,
+                                "Children": [
+                                    {
+                                        "LabelText": "4X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -43.9964,
+                                            "Y": 0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -43.9964,
+                                        "RightMargin": -1.0036,
+                                        "TopMargin": -19.0001,
+                                        "BottomMargin": -18.9999,
+                                        "Tag": 966,
+                                        "ActionTag": 1698919517,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "30",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 45.0002,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 4.0002,
+                                        "RightMargin": -45.0002,
+                                        "TopMargin": -19,
+                                        "BottomMargin": -19,
+                                        "Tag": 967,
+                                        "ActionTag": 590707910,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -459927301,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore94",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 103,
+                                    "Y": 41
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.2655,
+                                    "Y": 0.168
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 103,
+                                "RightMargin": 285,
+                                "TopMargin": 203,
+                                "BottomMargin": 41,
+                                "Tag": 968,
+                                "Children": [
+                                    {
+                                        "LabelText": "5X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -43.9964,
+                                            "Y": 0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -43.9964,
+                                        "RightMargin": -1.0036,
+                                        "TopMargin": -19.0001,
+                                        "BottomMargin": -18.9999,
+                                        "Tag": 969,
+                                        "ActionTag": -223587280,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "200",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 45.0002,
+                                            "Y": -0.0003
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -15.9998,
+                                        "RightMargin": -45.0002,
+                                        "TopMargin": -18.9997,
+                                        "BottomMargin": -19.0003,
+                                        "Tag": 970,
+                                        "ActionTag": -1678131996,
+                                        "Size": {
+                                            "X": 61,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1367161197,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore95",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecem9.png",
+                                    "Plist": "onepiecepngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 285,
+                                    "Y": 155
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.55,
+                                    "ScaleY": 0.55
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.7345,
+                                    "Y": 0.6352
+                                },
+                                "PreSize": {
+                                    "X": 0.4897,
+                                    "Y": 0.7295
+                                },
+                                "LeftMargin": 190,
+                                "RightMargin": 8,
+                                "BottomMargin": 66,
+                                "Tag": 971,
+                                "ActionTag": -748284736,
+                                "Size": {
+                                    "X": 190,
+                                    "Y": 178
+                                },
+                                "Name": "sprIcon10",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 285,
+                                    "Y": 101
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.7345,
+                                    "Y": 0.4139
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 285,
+                                "RightMargin": 103,
+                                "TopMargin": 143,
+                                "BottomMargin": 101,
+                                "Tag": 972,
+                                "Children": [
+                                    {
+                                        "LabelText": "3X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -43.9964,
+                                            "Y": 0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -43.9964,
+                                        "RightMargin": -1.0036,
+                                        "TopMargin": -19.0001,
+                                        "BottomMargin": -18.9999,
+                                        "Tag": 973,
+                                        "ActionTag": 523666386,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "20",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 45.0002,
+                                            "Y": -0.0003
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 4.0002,
+                                        "RightMargin": -45.0002,
+                                        "TopMargin": -18.9997,
+                                        "BottomMargin": -19.0003,
+                                        "Tag": 974,
+                                        "ActionTag": -1906444432,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1886457867,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore103",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 285,
+                                    "Y": 71
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.7345,
+                                    "Y": 0.291
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 285,
+                                "RightMargin": 103,
+                                "TopMargin": 173,
+                                "BottomMargin": 71,
+                                "Tag": 975,
+                                "Children": [
+                                    {
+                                        "LabelText": "4X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -43.9964,
+                                            "Y": 0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -43.9964,
+                                        "RightMargin": -1.0036,
+                                        "TopMargin": -19.0001,
+                                        "BottomMargin": -18.9999,
+                                        "Tag": 976,
+                                        "ActionTag": 1653458853,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "30",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 45.0002,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 4.0002,
+                                        "RightMargin": -45.0002,
+                                        "TopMargin": -19,
+                                        "BottomMargin": -19,
+                                        "Tag": 977,
+                                        "ActionTag": -1872804993,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 772204333,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore104",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 285,
+                                    "Y": 41
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.7345,
+                                    "Y": 0.168
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 285,
+                                "RightMargin": 103,
+                                "TopMargin": 203,
+                                "BottomMargin": 41,
+                                "Tag": 978,
+                                "Children": [
+                                    {
+                                        "LabelText": "5X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -43.9964,
+                                            "Y": 0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -43.9964,
+                                        "RightMargin": -1.0036,
+                                        "TopMargin": -19.0001,
+                                        "BottomMargin": -18.9999,
+                                        "Tag": 979,
+                                        "ActionTag": 1024405291,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "200",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 45.0002,
+                                            "Y": -0.0003
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -15.9998,
+                                        "RightMargin": -45.0002,
+                                        "TopMargin": -18.9997,
+                                        "BottomMargin": -19.0003,
+                                        "Tag": 980,
+                                        "ActionTag": -529069554,
+                                        "Size": {
+                                            "X": 61,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 943294907,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore105",
+                                "ctype": "SingleNodeObjectData"
+                            }
+                        ],
+                        "ActionTag": 651346802,
+                        "Size": {
+                            "X": 388,
+                            "Y": 244
+                        },
+                        "Name": "onepiecehelpback5_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecehelpback5.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 947.0023,
+                            "Y": 179.9996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "RotationSkewX": -2,
+                        "RotationSkewY": -2,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7398,
+                            "Y": 0.25
+                        },
+                        "PreSize": {
+                            "X": 0.3031,
+                            "Y": 0.3389
+                        },
+                        "LeftMargin": 753.0023,
+                        "RightMargin": 138.9977,
+                        "TopMargin": 418.0004,
+                        "BottomMargin": 57.9996,
+                        "Tag": 981,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecemt.png",
+                                    "Plist": "onepiecepngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 103,
+                                    "Y": 155.0022
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.55,
+                                    "ScaleY": 0.55
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2655,
+                                    "Y": 0.6353
+                                },
+                                "PreSize": {
+                                    "X": 0.4897,
+                                    "Y": 0.7295
+                                },
+                                "LeftMargin": 8,
+                                "RightMargin": 190,
+                                "TopMargin": -0.0022,
+                                "BottomMargin": 66.0022,
+                                "Tag": 982,
+                                "ActionTag": -2124068780,
+                                "Size": {
+                                    "X": 190,
+                                    "Y": 178
+                                },
+                                "Name": "sprIcon11",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 102.9996,
+                                    "Y": 101
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.2655,
+                                    "Y": 0.4139
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 102.9996,
+                                "RightMargin": 285.0004,
+                                "TopMargin": 143,
+                                "BottomMargin": 101,
+                                "Tag": 983,
+                                "Children": [
+                                    {
+                                        "LabelText": "3X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -43.9964,
+                                            "Y": 0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -43.9964,
+                                        "RightMargin": -1.0036,
+                                        "TopMargin": -19.0001,
+                                        "BottomMargin": -18.9999,
+                                        "Tag": 984,
+                                        "ActionTag": -657893904,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "10",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 45.0002,
+                                            "Y": -0.0003
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 4.0002,
+                                        "RightMargin": -45.0002,
+                                        "TopMargin": -18.9997,
+                                        "BottomMargin": -19.0003,
+                                        "Tag": 985,
+                                        "ActionTag": 1523354934,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1069678519,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore113",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 103.0006,
+                                    "Y": 71
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.2655,
+                                    "Y": 0.291
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 103.0006,
+                                "RightMargin": 284.9994,
+                                "TopMargin": 173,
+                                "BottomMargin": 71,
+                                "Tag": 986,
+                                "Children": [
+                                    {
+                                        "LabelText": "4X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -43.9964,
+                                            "Y": 0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -43.9964,
+                                        "RightMargin": -1.0036,
+                                        "TopMargin": -19.0001,
+                                        "BottomMargin": -18.9999,
+                                        "Tag": 987,
+                                        "ActionTag": -1449011721,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "30",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 45.0002,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 4.0002,
+                                        "RightMargin": -45.0002,
+                                        "TopMargin": -19,
+                                        "BottomMargin": -19,
+                                        "Tag": 988,
+                                        "ActionTag": 2049653950,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -861354364,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore114",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 103,
+                                    "Y": 41
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.2655,
+                                    "Y": 0.168
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 103,
+                                "RightMargin": 285,
+                                "TopMargin": 203,
+                                "BottomMargin": 41,
+                                "Tag": 989,
+                                "Children": [
+                                    {
+                                        "LabelText": "5X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -43.9964,
+                                            "Y": 0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -43.9964,
+                                        "RightMargin": -1.0036,
+                                        "TopMargin": -19.0001,
+                                        "BottomMargin": -18.9999,
+                                        "Tag": 990,
+                                        "ActionTag": -1152133007,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "200",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 45.0002,
+                                            "Y": -0.0003
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -15.9998,
+                                        "RightMargin": -45.0002,
+                                        "TopMargin": -18.9997,
+                                        "BottomMargin": -19.0003,
+                                        "Tag": 991,
+                                        "ActionTag": -1667881991,
+                                        "Size": {
+                                            "X": 61,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1812737679,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore115",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepieceme.png",
+                                    "Plist": "onepiecepngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 285,
+                                    "Y": 155
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.55,
+                                    "ScaleY": 0.55
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.7345,
+                                    "Y": 0.6352
+                                },
+                                "PreSize": {
+                                    "X": 0.4897,
+                                    "Y": 0.7295
+                                },
+                                "LeftMargin": 190,
+                                "RightMargin": 8,
+                                "BottomMargin": 66,
+                                "Tag": 992,
+                                "ActionTag": 347657802,
+                                "Size": {
+                                    "X": 190,
+                                    "Y": 178
+                                },
+                                "Name": "sprIcon12",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 285,
+                                    "Y": 101
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.7345,
+                                    "Y": 0.4139
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 285,
+                                "RightMargin": 103,
+                                "TopMargin": 143,
+                                "BottomMargin": 101,
+                                "Tag": 993,
+                                "Children": [
+                                    {
+                                        "LabelText": "3X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -43.9964,
+                                            "Y": 0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -43.9964,
+                                        "RightMargin": -1.0036,
+                                        "TopMargin": -19.0001,
+                                        "BottomMargin": -18.9999,
+                                        "Tag": 994,
+                                        "ActionTag": -420727151,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "10",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 45.0002,
+                                            "Y": -0.0003
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 4.0002,
+                                        "RightMargin": -45.0002,
+                                        "TopMargin": -18.9997,
+                                        "BottomMargin": -19.0003,
+                                        "Tag": 995,
+                                        "ActionTag": 1290460114,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1392570262,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore123",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 285,
+                                    "Y": 71
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.7345,
+                                    "Y": 0.291
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 285,
+                                "RightMargin": 103,
+                                "TopMargin": 173,
+                                "BottomMargin": 71,
+                                "Tag": 996,
+                                "Children": [
+                                    {
+                                        "LabelText": "4X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -43.9964,
+                                            "Y": 0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -43.9964,
+                                        "RightMargin": -1.0036,
+                                        "TopMargin": -19.0001,
+                                        "BottomMargin": -18.9999,
+                                        "Tag": 997,
+                                        "ActionTag": -141705662,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "20",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 45.0002,
+                                            "Y": 0
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": 4.0002,
+                                        "RightMargin": -45.0002,
+                                        "TopMargin": -19,
+                                        "BottomMargin": -19,
+                                        "Tag": 998,
+                                        "ActionTag": -128896138,
+                                        "Size": {
+                                            "X": 41,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1799224403,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore124",
+                                "ctype": "SingleNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 285,
+                                    "Y": 41
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0.7345,
+                                    "Y": 0.168
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 285,
+                                "RightMargin": 103,
+                                "TopMargin": 203,
+                                "BottomMargin": 41,
+                                "Tag": 999,
+                                "Children": [
+                                    {
+                                        "LabelText": "5X",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -43.9964,
+                                            "Y": 0.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -43.9964,
+                                        "RightMargin": -1.0036,
+                                        "TopMargin": -19.0001,
+                                        "BottomMargin": -18.9999,
+                                        "Tag": 1000,
+                                        "ActionTag": 3636864,
+                                        "Size": {
+                                            "X": 45,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": "200",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "onepiecefont2.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": 45.0002,
+                                            "Y": -0.0003
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 0.75,
+                                            "ScaleY": 0.75
+                                        },
+                                        "CColor": {
+                                            "R": 81,
+                                            "G": 32,
+                                            "B": 15
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "PreSize": {
+                                            "X": 0,
+                                            "Y": 0
+                                        },
+                                        "LeftMargin": -15.9998,
+                                        "RightMargin": -45.0002,
+                                        "TopMargin": -18.9997,
+                                        "BottomMargin": -19.0003,
+                                        "Tag": 1001,
+                                        "ActionTag": -1019494854,
+                                        "Size": {
+                                            "X": 61,
+                                            "Y": 38
+                                        },
+                                        "Name": "BitmapFontLabel_126_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 40641083,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodScore125",
+                                "ctype": "SingleNodeObjectData"
+                            }
+                        ],
+                        "ActionTag": 416104417,
+                        "Size": {
+                            "X": 388,
+                            "Y": 244
+                        },
+                        "Name": "onepiecehelpback5_6_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecehelpback6.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.3094,
+                            "Y": 0.5639
+                        },
+                        "RightMargin": 884,
+                        "TopMargin": 314,
+                        "Tag": 362,
+                        "ActionTag": 164234532,
+                        "Size": {
+                            "X": 396,
+                            "Y": 406
+                        },
+                        "Name": "onepiecehelpback6_14",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn41_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn41_2.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn41_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 134,
+                        "Scale9Height": 48,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 3.9999,
+                            "Y": 17
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0031,
+                            "Y": 0.0236
+                        },
+                        "PreSize": {
+                            "X": 0.1281,
+                            "Y": 0.0972
+                        },
+                        "LeftMargin": 3.9999,
+                        "RightMargin": 1112.0001,
+                        "TopMargin": 633,
+                        "BottomMargin": 17,
+                        "Tag": 518,
+                        "ActionTag": 1545439286,
+                        "Size": {
+                            "X": 164,
+                            "Y": 70
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn42_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn42_2.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn42_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 134,
+                        "Scale9Height": 48,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1104.0004,
+                            "Y": 16
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8625,
+                            "Y": 0.0222
+                        },
+                        "PreSize": {
+                            "X": 0.1281,
+                            "Y": 0.0972
+                        },
+                        "LeftMargin": 1104.0004,
+                        "RightMargin": 11.9996,
+                        "TopMargin": 634,
+                        "BottomMargin": 16,
+                        "Tag": 598,
+                        "ActionTag": -1336309525,
+                        "Size": {
+                            "X": 164,
+                            "Y": 70
+                        },
+                        "Name": "btnNext",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "onepiecefont2.fnt",
+                "onepiecefont2.png",
+                "onepiecejpgres.jpg",
+                "onepiecejpgres.plist",
+                "onepiecepngres.plist",
+                "onepiecepngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,1592 @@
+{
+    "ID": "7d120955-9c43-4940-ae5e-c32a0366f1c6",
+    "Version": "2.3.4",
+    "Name": "onepieceboxlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -616136903,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": -0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -616136903,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -616136903,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 21,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 42,
+                        "ActionTag": -616136903,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepieceboxback01.jpg",
+                            "Plist": "onepiecejpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 43,
+                        "ActionTag": -992990073,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "onepieceboxback01_7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn09_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn09_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn09_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 97,
+                        "Scale9Height": 84,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 696.0005,
+                            "Y": 548.0022
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5438,
+                            "Y": 0.7611
+                        },
+                        "PreSize": {
+                            "X": 0.0992,
+                            "Y": 0.1472
+                        },
+                        "LeftMargin": 696.0005,
+                        "RightMargin": 456.9995,
+                        "TopMargin": 65.9978,
+                        "BottomMargin": 548.0022,
+                        "Tag": 33,
+                        "ActionTag": 766506378,
+                        "Size": {
+                            "X": 127,
+                            "Y": 106
+                        },
+                        "Name": "btnBox1_1",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn10_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn10_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn10_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 97,
+                        "Scale9Height": 82,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 823,
+                            "Y": 533
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.643,
+                            "Y": 0.7403
+                        },
+                        "PreSize": {
+                            "X": 0.0992,
+                            "Y": 0.1444
+                        },
+                        "LeftMargin": 823,
+                        "RightMargin": 330,
+                        "TopMargin": 83,
+                        "BottomMargin": 533,
+                        "Tag": 34,
+                        "ActionTag": -192391172,
+                        "Size": {
+                            "X": 127,
+                            "Y": 104
+                        },
+                        "Name": "btnBox1_2",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn11_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn11_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn11_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 97,
+                        "Scale9Height": 94,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 950,
+                            "Y": 518
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7422,
+                            "Y": 0.7194
+                        },
+                        "PreSize": {
+                            "X": 0.0992,
+                            "Y": 0.1611
+                        },
+                        "LeftMargin": 950,
+                        "RightMargin": 203,
+                        "TopMargin": 86,
+                        "BottomMargin": 518,
+                        "Tag": 35,
+                        "ActionTag": -2077541427,
+                        "Size": {
+                            "X": 127,
+                            "Y": 116
+                        },
+                        "Name": "btnBox1_3",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn12_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn12_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn12_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 97,
+                        "Scale9Height": 126,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1077,
+                            "Y": 506
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8414,
+                            "Y": 0.7028
+                        },
+                        "PreSize": {
+                            "X": 0.0992,
+                            "Y": 0.2056
+                        },
+                        "LeftMargin": 1077,
+                        "RightMargin": 76,
+                        "TopMargin": 66,
+                        "BottomMargin": 506,
+                        "Tag": 36,
+                        "ActionTag": 800248096,
+                        "Size": {
+                            "X": 127,
+                            "Y": 148
+                        },
+                        "Name": "btnBox1_4",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn13_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn13_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn13_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 100,
+                        "Scale9Height": 124,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 714.0014,
+                            "Y": 404
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5578,
+                            "Y": 0.5611
+                        },
+                        "PreSize": {
+                            "X": 0.1016,
+                            "Y": 0.2028
+                        },
+                        "LeftMargin": 714.0014,
+                        "RightMargin": 435.9986,
+                        "TopMargin": 170,
+                        "BottomMargin": 404,
+                        "Tag": 37,
+                        "ActionTag": -2135694481,
+                        "Size": {
+                            "X": 130,
+                            "Y": 146
+                        },
+                        "Name": "btnBox2_1",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn14_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn14_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn14_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 100,
+                        "Scale9Height": 112,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 844,
+                            "Y": 405
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6594,
+                            "Y": 0.5625
+                        },
+                        "PreSize": {
+                            "X": 0.1016,
+                            "Y": 0.1861
+                        },
+                        "LeftMargin": 844,
+                        "RightMargin": 306,
+                        "TopMargin": 181,
+                        "BottomMargin": 405,
+                        "Tag": 38,
+                        "ActionTag": 1040778913,
+                        "Size": {
+                            "X": 130,
+                            "Y": 134
+                        },
+                        "Name": "btnBox2_2",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn15_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn15_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn15_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 100,
+                        "Scale9Height": 94,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 974.0038,
+                            "Y": 406.0007
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7609,
+                            "Y": 0.5639
+                        },
+                        "PreSize": {
+                            "X": 0.1016,
+                            "Y": 0.1611
+                        },
+                        "LeftMargin": 974.0038,
+                        "RightMargin": 175.9962,
+                        "TopMargin": 197.9993,
+                        "BottomMargin": 406.0007,
+                        "Tag": 39,
+                        "ActionTag": -2030958143,
+                        "Size": {
+                            "X": 130,
+                            "Y": 116
+                        },
+                        "Name": "btnBox2_3",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn16_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn16_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn16_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 101,
+                        "Scale9Height": 76,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1104.0138,
+                            "Y": 408.0066
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8625,
+                            "Y": 0.5667
+                        },
+                        "PreSize": {
+                            "X": 0.1023,
+                            "Y": 0.1361
+                        },
+                        "LeftMargin": 1104.0138,
+                        "RightMargin": 44.9862,
+                        "TopMargin": 213.9934,
+                        "BottomMargin": 408.0066,
+                        "Tag": 40,
+                        "ActionTag": 673445332,
+                        "Size": {
+                            "X": 131,
+                            "Y": 98
+                        },
+                        "Name": "btnBox2_4",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn17_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn17_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn17_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 103,
+                        "Scale9Height": 106,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 695.0044,
+                            "Y": 274.002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.543,
+                            "Y": 0.3806
+                        },
+                        "PreSize": {
+                            "X": 0.1039,
+                            "Y": 0.1778
+                        },
+                        "LeftMargin": 695.0044,
+                        "RightMargin": 451.9956,
+                        "TopMargin": 317.998,
+                        "BottomMargin": 274.002,
+                        "Tag": 41,
+                        "ActionTag": 319665236,
+                        "Size": {
+                            "X": 133,
+                            "Y": 128
+                        },
+                        "Name": "btnBox3_1",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn18_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn18_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn18_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 103,
+                        "Scale9Height": 106,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 828,
+                            "Y": 275.0025
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6469,
+                            "Y": 0.3819
+                        },
+                        "PreSize": {
+                            "X": 0.1039,
+                            "Y": 0.1778
+                        },
+                        "LeftMargin": 828,
+                        "RightMargin": 319,
+                        "TopMargin": 316.9975,
+                        "BottomMargin": 275.0025,
+                        "Tag": 42,
+                        "ActionTag": -1078857834,
+                        "Size": {
+                            "X": 133,
+                            "Y": 128
+                        },
+                        "Name": "btnBox3_2",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn19_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn19_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn19_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 103,
+                        "Scale9Height": 100,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 961,
+                            "Y": 282.0031
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7508,
+                            "Y": 0.3917
+                        },
+                        "PreSize": {
+                            "X": 0.1039,
+                            "Y": 0.1694
+                        },
+                        "LeftMargin": 961,
+                        "RightMargin": 186,
+                        "TopMargin": 315.9969,
+                        "BottomMargin": 282.0031,
+                        "Tag": 43,
+                        "ActionTag": 940183741,
+                        "Size": {
+                            "X": 133,
+                            "Y": 122
+                        },
+                        "Name": "btnBox3_3",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn20_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn20_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn20_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 104,
+                        "Scale9Height": 112,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1094.0033,
+                            "Y": 288.0037
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8547,
+                            "Y": 0.4
+                        },
+                        "PreSize": {
+                            "X": 0.1047,
+                            "Y": 0.1861
+                        },
+                        "LeftMargin": 1094.0033,
+                        "RightMargin": 51.9967,
+                        "TopMargin": 297.9963,
+                        "BottomMargin": 288.0037,
+                        "Tag": 44,
+                        "ActionTag": -953137675,
+                        "Size": {
+                            "X": 134,
+                            "Y": 134
+                        },
+                        "Name": "btnBox3_4",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn21_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn21_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn21_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 105,
+                        "Scale9Height": 118,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 672.0048,
+                            "Y": 134.0025
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.525,
+                            "Y": 0.1861
+                        },
+                        "PreSize": {
+                            "X": 0.1055,
+                            "Y": 0.1944
+                        },
+                        "LeftMargin": 672.0048,
+                        "RightMargin": 472.9952,
+                        "TopMargin": 445.9975,
+                        "BottomMargin": 134.0025,
+                        "Tag": 45,
+                        "ActionTag": -1909778306,
+                        "Size": {
+                            "X": 135,
+                            "Y": 140
+                        },
+                        "Name": "btnBox4_1",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn22_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn22_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn22_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 105,
+                        "Scale9Height": 118,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 807,
+                            "Y": 139.0026
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6305,
+                            "Y": 0.1931
+                        },
+                        "PreSize": {
+                            "X": 0.1055,
+                            "Y": 0.1944
+                        },
+                        "LeftMargin": 807,
+                        "RightMargin": 338,
+                        "TopMargin": 440.9974,
+                        "BottomMargin": 139.0026,
+                        "Tag": 46,
+                        "ActionTag": 172262878,
+                        "Size": {
+                            "X": 135,
+                            "Y": 140
+                        },
+                        "Name": "btnBox4_2",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn23_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn23_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn23_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 105,
+                        "Scale9Height": 108,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 942,
+                            "Y": 156.0026
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7359,
+                            "Y": 0.2167
+                        },
+                        "PreSize": {
+                            "X": 0.1055,
+                            "Y": 0.1806
+                        },
+                        "LeftMargin": 942,
+                        "RightMargin": 203,
+                        "TopMargin": 433.9974,
+                        "BottomMargin": 156.0026,
+                        "Tag": 47,
+                        "ActionTag": 541933,
+                        "Size": {
+                            "X": 135,
+                            "Y": 130
+                        },
+                        "Name": "btnBox4_3",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn24_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn24_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn24_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 106,
+                        "Scale9Height": 94,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1077.0005,
+                            "Y": 175.0026
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8414,
+                            "Y": 0.2431
+                        },
+                        "PreSize": {
+                            "X": 0.1063,
+                            "Y": 0.1611
+                        },
+                        "LeftMargin": 1077.0005,
+                        "RightMargin": 66.9995,
+                        "TopMargin": 428.9974,
+                        "BottomMargin": 175.0026,
+                        "Tag": 48,
+                        "ActionTag": -1173531473,
+                        "Size": {
+                            "X": 136,
+                            "Y": 116
+                        },
+                        "Name": "btnBox4_4",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn25_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn25_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn25_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 103,
+                        "Scale9Height": 102,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 695.0099,
+                            "Y": 17.0034
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.543,
+                            "Y": 0.0236
+                        },
+                        "PreSize": {
+                            "X": 0.1039,
+                            "Y": 0.1722
+                        },
+                        "LeftMargin": 695.0099,
+                        "RightMargin": 451.9901,
+                        "TopMargin": 578.9966,
+                        "BottomMargin": 17.0034,
+                        "Tag": 49,
+                        "ActionTag": -1275826384,
+                        "Size": {
+                            "X": 133,
+                            "Y": 124
+                        },
+                        "Name": "btnBox5_1",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn26_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn26_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn26_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 103,
+                        "Scale9Height": 110,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 828.0007,
+                            "Y": 21.0033
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6469,
+                            "Y": 0.0292
+                        },
+                        "PreSize": {
+                            "X": 0.1039,
+                            "Y": 0.1833
+                        },
+                        "LeftMargin": 828.0007,
+                        "RightMargin": 318.9993,
+                        "TopMargin": 566.9967,
+                        "BottomMargin": 21.0033,
+                        "Tag": 50,
+                        "ActionTag": 1181798506,
+                        "Size": {
+                            "X": 133,
+                            "Y": 132
+                        },
+                        "Name": "btnBox5_2",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn27_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn27_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn27_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 103,
+                        "Scale9Height": 118,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 960.9993,
+                            "Y": 25.0033
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7508,
+                            "Y": 0.0347
+                        },
+                        "PreSize": {
+                            "X": 0.1039,
+                            "Y": 0.1944
+                        },
+                        "LeftMargin": 960.9993,
+                        "RightMargin": 186.0007,
+                        "TopMargin": 554.9967,
+                        "BottomMargin": 25.0033,
+                        "Tag": 51,
+                        "ActionTag": -1582049505,
+                        "Size": {
+                            "X": 133,
+                            "Y": 140
+                        },
+                        "Name": "btnBox5_3",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn28_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn28_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn28_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 102,
+                        "Scale9Height": 134,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1093.9995,
+                            "Y": 20.0033
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8547,
+                            "Y": 0.0278
+                        },
+                        "PreSize": {
+                            "X": 0.1031,
+                            "Y": 0.2167
+                        },
+                        "LeftMargin": 1093.9995,
+                        "RightMargin": 54.0005,
+                        "TopMargin": 543.9967,
+                        "BottomMargin": 20.0033,
+                        "Tag": 52,
+                        "ActionTag": -445812470,
+                        "Size": {
+                            "X": 132,
+                            "Y": 156
+                        },
+                        "Name": "btnBox5_4",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "onepiecejpgres.jpg",
+                "onepiecejpgres.plist",
+                "onepiecepngres.plist",
+                "onepiecepngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

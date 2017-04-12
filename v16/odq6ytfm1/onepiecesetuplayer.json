@@ -1,0 +1,267 @@
+{
+    "ID": "de8c2197-1631-4ab4-bcc8-567ccd74f402",
+    "Version": "2.3.4",
+    "Name": "onepiecesetuplayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 24,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 45,
+                        "ActionTag": -441316789,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecegameback14.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 71,
+                            "Y": 410.0009
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0555,
+                            "Y": 0.5694
+                        },
+                        "PreSize": {
+                            "X": 0.1484,
+                            "Y": 0.2361
+                        },
+                        "LeftMargin": 71,
+                        "RightMargin": 1019,
+                        "TopMargin": 139.999,
+                        "BottomMargin": 410.0009,
+                        "Tag": 46,
+                        "ActionTag": -128980742,
+                        "Size": {
+                            "X": 190,
+                            "Y": 170
+                        },
+                        "Name": "setupback_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn40_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn40_2.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn40_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 134,
+                        "Scale9Height": 48,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 81.9996,
+                            "Y": 483.999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0641,
+                            "Y": 0.6722
+                        },
+                        "PreSize": {
+                            "X": 0.1281,
+                            "Y": 0.0972
+                        },
+                        "LeftMargin": 81.9996,
+                        "RightMargin": 1034.0004,
+                        "TopMargin": 166.001,
+                        "BottomMargin": 483.999,
+                        "Tag": 47,
+                        "ActionTag": -1050547539,
+                        "Size": {
+                            "X": 164,
+                            "Y": 70
+                        },
+                        "Name": "btnHistory",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn39_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn39_2.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn39_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 134,
+                        "Scale9Height": 48,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 81.9993,
+                            "Y": 421.0016
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0641,
+                            "Y": 0.5847
+                        },
+                        "PreSize": {
+                            "X": 0.1281,
+                            "Y": 0.0972
+                        },
+                        "LeftMargin": 81.9993,
+                        "RightMargin": 1034.0007,
+                        "TopMargin": 228.9984,
+                        "BottomMargin": 421.0016,
+                        "Tag": 48,
+                        "ActionTag": 1983369707,
+                        "Size": {
+                            "X": 164,
+                            "Y": 70
+                        },
+                        "Name": "btnHelp",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "onepiecepngres.plist",
+                "onepiecepngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

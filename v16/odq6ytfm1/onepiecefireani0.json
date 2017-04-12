@@ -1,0 +1,224 @@
+{
+    "ID": "5d0c336c-8d5f-4589-a4a3-c06444f8a245",
+    "Version": "2.3.4",
+    "Name": "onepiecefireani0",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 15,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": -1126327827,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 30,
+                                "FrameIndex": 15,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1126327827,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 15,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1126327827,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 15,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1126327827,
+                        "Property": "FileData",
+                        "Frames": [
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecefire1_01.png",
+                                    "Plist": "onepieceanipng.plist"
+                                },
+                                "FrameIndex": 0,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecefire1_02.png",
+                                    "Plist": "onepieceanipng.plist"
+                                },
+                                "FrameIndex": 2,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecefire1_03.png",
+                                    "Plist": "onepieceanipng.plist"
+                                },
+                                "FrameIndex": 4,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecefire1_04.png",
+                                    "Plist": "onepieceanipng.plist"
+                                },
+                                "FrameIndex": 6,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecefire1_05.png",
+                                    "Plist": "onepieceanipng.plist"
+                                },
+                                "FrameIndex": 8,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecefire1_06.png",
+                                    "Plist": "onepieceanipng.plist"
+                                },
+                                "FrameIndex": 10,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecefire1_07.png",
+                                    "Plist": "onepieceanipng.plist"
+                                },
+                                "FrameIndex": 12,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecefire1_08.png",
+                                    "Plist": "onepieceanipng.plist"
+                                },
+                                "FrameIndex": 14,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "onepiecefire1_08.png",
+                                    "Plist": "onepieceanipng.plist"
+                                },
+                                "FrameIndex": 15,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 21,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecefire1_07.png",
+                            "Plist": "onepieceanipng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 1
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 0,
+                            "Y": 30
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -135,
+                        "RightMargin": -135,
+                        "TopMargin": -172.5,
+                        "BottomMargin": -112.5,
+                        "Tag": 24,
+                        "ActionTag": -1126327827,
+                        "Size": {
+                            "X": 270,
+                            "Y": 285
+                        },
+                        "Name": "Sprite_3",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "onepieceanipng.plist",
+                "onepieceanipng.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

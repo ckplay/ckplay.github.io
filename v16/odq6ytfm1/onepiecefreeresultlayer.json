@@ -1,0 +1,672 @@
+{
+    "ID": "d7a8404c-047e-4227-a600-122de0f4aa68",
+    "Version": "2.3.4",
+    "Name": "onepiecefreeresultlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": 211762833,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": -0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 211762833,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 211762833,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 78,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 79,
+                        "ActionTag": 211762833,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecewin1_03.jpg",
+                            "Plist": "onepieceanijpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 311.999,
+                            "Y": 196.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 0.8,
+                            "ScaleY": 0.8
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2437,
+                            "Y": 0.2736
+                        },
+                        "PreSize": {
+                            "X": 0.6383,
+                            "Y": 0.7
+                        },
+                        "LeftMargin": 311.999,
+                        "RightMargin": 151.001,
+                        "TopMargin": 19.0001,
+                        "BottomMargin": 196.9999,
+                        "Tag": 80,
+                        "ActionTag": 1832609366,
+                        "Size": {
+                            "X": 817,
+                            "Y": 504
+                        },
+                        "Name": "narutodlgback1_29",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecedlgback1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 352.0025,
+                            "Y": 549.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.275,
+                            "Y": 0.7639
+                        },
+                        "PreSize": {
+                            "X": 0.4508,
+                            "Y": 0.1139
+                        },
+                        "LeftMargin": 352.0025,
+                        "RightMargin": 350.9975,
+                        "TopMargin": 88.0001,
+                        "BottomMargin": 549.9999,
+                        "Tag": 81,
+                        "ActionTag": -141899557,
+                        "Size": {
+                            "X": 577,
+                            "Y": 82
+                        },
+                        "Name": "narutodlgback5_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecedlgback4.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 408.0001,
+                            "Y": 483.9987
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3188,
+                            "Y": 0.6722
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0569
+                        },
+                        "LeftMargin": 408.0001,
+                        "RightMargin": 742.9999,
+                        "TopMargin": 195.0013,
+                        "BottomMargin": 483.9987,
+                        "Tag": 82,
+                        "ActionTag": -41399201,
+                        "Size": {
+                            "X": 129,
+                            "Y": 41
+                        },
+                        "Name": "narutodlgback6_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecedlgback3.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 409.0001,
+                            "Y": 406.9996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3195,
+                            "Y": 0.5653
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0569
+                        },
+                        "LeftMargin": 409.0001,
+                        "RightMargin": 741.9999,
+                        "TopMargin": 272.0004,
+                        "BottomMargin": 406.9996,
+                        "Tag": 83,
+                        "ActionTag": 1837288695,
+                        "Size": {
+                            "X": 129,
+                            "Y": 41
+                        },
+                        "Name": "narutodlgback7_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecedlgback5.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 408.0009,
+                            "Y": 329.0009
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3188,
+                            "Y": 0.4569
+                        },
+                        "PreSize": {
+                            "X": 0.1227,
+                            "Y": 0.0583
+                        },
+                        "LeftMargin": 408.0009,
+                        "RightMargin": 714.999,
+                        "TopMargin": 348.9991,
+                        "BottomMargin": 329.0009,
+                        "Tag": 84,
+                        "ActionTag": 235476934,
+                        "Size": {
+                            "X": 157,
+                            "Y": 42
+                        },
+                        "Name": "narutodlgback8_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecedlgback2.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 583,
+                            "Y": 327.0011
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4555,
+                            "Y": 0.4542
+                        },
+                        "PreSize": {
+                            "X": 0.1734,
+                            "Y": 0.0639
+                        },
+                        "LeftMargin": 583,
+                        "RightMargin": 475,
+                        "TopMargin": 346.9989,
+                        "BottomMargin": 327.0011,
+                        "Tag": 92,
+                        "ActionTag": -1517389970,
+                        "Size": {
+                            "X": 222,
+                            "Y": 46
+                        },
+                        "Name": "onepiecedlgback2_2_0_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecedlgback2.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 583,
+                            "Y": 404.0012
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4555,
+                            "Y": 0.5611
+                        },
+                        "PreSize": {
+                            "X": 0.1734,
+                            "Y": 0.0639
+                        },
+                        "LeftMargin": 583,
+                        "RightMargin": 475,
+                        "TopMargin": 269.9988,
+                        "BottomMargin": 404.0012,
+                        "Tag": 91,
+                        "ActionTag": 1933452982,
+                        "Size": {
+                            "X": 222,
+                            "Y": 46
+                        },
+                        "Name": "onepiecedlgback2_2_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecedlgback2.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 583,
+                            "Y": 481.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4555,
+                            "Y": 0.6681
+                        },
+                        "PreSize": {
+                            "X": 0.1734,
+                            "Y": 0.0639
+                        },
+                        "LeftMargin": 583,
+                        "RightMargin": 475,
+                        "TopMargin": 192.9998,
+                        "BottomMargin": 481.0002,
+                        "Tag": 90,
+                        "ActionTag": 1928386739,
+                        "Size": {
+                            "X": 222,
+                            "Y": 46
+                        },
+                        "Name": "onepiecedlgback2_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "9999109999",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "onepiecefont4.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 693.0006,
+                            "Y": 505.0027
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5414,
+                            "Y": 0.7014
+                        },
+                        "PreSize": {
+                            "X": 0.1484,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 598.0006,
+                        "RightMargin": 491.9994,
+                        "TopMargin": 196.9973,
+                        "BottomMargin": 487.0027,
+                        "CallBackType": "Click",
+                        "Tag": 85,
+                        "ActionTag": -1987988155,
+                        "Size": {
+                            "X": 190,
+                            "Y": 36
+                        },
+                        "Name": "textGameWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "9999109999",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "onepiecefont4.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 693.0006,
+                            "Y": 428.0014
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5414,
+                            "Y": 0.5944
+                        },
+                        "PreSize": {
+                            "X": 0.1484,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 598.0006,
+                        "RightMargin": 491.9994,
+                        "TopMargin": 273.9986,
+                        "BottomMargin": 410.0014,
+                        "CallBackType": "Click",
+                        "Tag": 86,
+                        "ActionTag": 1047760322,
+                        "Size": {
+                            "X": 190,
+                            "Y": 36
+                        },
+                        "Name": "textFreeWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "9999109999",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "onepiecefont4.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 693.0006,
+                            "Y": 351.0007
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5414,
+                            "Y": 0.4875
+                        },
+                        "PreSize": {
+                            "X": 0.1484,
+                            "Y": 0.05
+                        },
+                        "LeftMargin": 598.0006,
+                        "RightMargin": 491.9994,
+                        "TopMargin": 350.9993,
+                        "BottomMargin": 333.0007,
+                        "CallBackType": "Click",
+                        "Tag": 87,
+                        "ActionTag": 1706796022,
+                        "Size": {
+                            "X": 190,
+                            "Y": 36
+                        },
+                        "Name": "textAllWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn43_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn43_2.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "onepiecebtn43_1.png",
+                            "Plist": "onepiecepngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 134,
+                        "Scale9Height": 48,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 558.9999,
+                            "Y": 215.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4367,
+                            "Y": 0.3
+                        },
+                        "PreSize": {
+                            "X": 0.1281,
+                            "Y": 0.0972
+                        },
+                        "LeftMargin": 558.9999,
+                        "RightMargin": 557.0001,
+                        "TopMargin": 434.0001,
+                        "BottomMargin": 215.9999,
+                        "Tag": 88,
+                        "ActionTag": 1841304307,
+                        "Size": {
+                            "X": 164,
+                            "Y": 70
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "onepieceanijpg.jpg",
+                "onepieceanijpg.plist",
+                "onepiecefont4.fnt",
+                "onepiecefont4.png",
+                "onepiecepngres.plist",
+                "onepiecepngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,711 @@
+{
+    "ID": "73d6eb61-1fd6-462c-b16e-f11edf36c9e1",
+    "Version": "2.3.4",
+    "Name": "heros108selectautolayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 326,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "empty.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "Scale9OriginX": 2,
+                        "Scale9OriginY": 2,
+                        "Scale9Width": 5,
+                        "Scale9Height": 5,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 150,
+                        "ActionTag": 173043809,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_back_autonums2.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1059.1997,
+                            "Y": 208.0284
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8275,
+                            "Y": 0.2889
+                        },
+                        "PreSize": {
+                            "X": 0.107,
+                            "Y": 0.4083
+                        },
+                        "LeftMargin": 990.6997,
+                        "RightMargin": 152.3003,
+                        "TopMargin": 364.9716,
+                        "BottomMargin": 61.0284,
+                        "Tag": 528,
+                        "ActionTag": -577166083,
+                        "Size": {
+                            "X": 137,
+                            "Y": 294
+                        },
+                        "Name": "heros108_back_autonums2_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums2.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 99,
+                        "Scale9Height": 35,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1058.9982,
+                            "Y": 312.0023
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8273,
+                            "Y": 0.4333
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0764
+                        },
+                        "LeftMargin": 994.4982,
+                        "RightMargin": 156.5018,
+                        "TopMargin": 380.4977,
+                        "BottomMargin": 284.5023,
+                        "Tag": 152,
+                        "Children": [
+                            {
+                                "LabelText": "500",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_36.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 63.9996,
+                                    "Y": 23.9997
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4961,
+                                    "Y": 0.4364
+                                },
+                                "PreSize": {
+                                    "X": 0.4419,
+                                    "Y": 0.7455
+                                },
+                                "LeftMargin": 35.4996,
+                                "RightMargin": 36.5004,
+                                "TopMargin": 10.5003,
+                                "BottomMargin": 3.4997,
+                                "Tag": 493,
+                                "ActionTag": -568406898,
+                                "Size": {
+                                    "X": 57,
+                                    "Y": 41
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 374906188,
+                        "Size": {
+                            "X": 129,
+                            "Y": 55
+                        },
+                        "Name": "btnAuto500",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums2.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 99,
+                        "Scale9Height": 35,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1058.9982,
+                            "Y": 256.2517
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8273,
+                            "Y": 0.3559
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0764
+                        },
+                        "LeftMargin": 994.4982,
+                        "RightMargin": 156.5018,
+                        "TopMargin": 436.2483,
+                        "BottomMargin": 228.7517,
+                        "Tag": 153,
+                        "Children": [
+                            {
+                                "LabelText": "200",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_36.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 63.9997,
+                                    "Y": 23.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4961,
+                                    "Y": 0.4364
+                                },
+                                "PreSize": {
+                                    "X": 0.4574,
+                                    "Y": 0.7455
+                                },
+                                "LeftMargin": 34.4997,
+                                "RightMargin": 35.5003,
+                                "TopMargin": 10.5001,
+                                "BottomMargin": 3.4999,
+                                "Tag": 492,
+                                "ActionTag": 405864324,
+                                "Size": {
+                                    "X": 59,
+                                    "Y": 41
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 49349917,
+                        "Size": {
+                            "X": 129,
+                            "Y": 55
+                        },
+                        "Name": "btnAuto200",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums2.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 99,
+                        "Scale9Height": 35,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1058.9969,
+                            "Y": 200.5011
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8273,
+                            "Y": 0.2785
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0764
+                        },
+                        "LeftMargin": 994.4969,
+                        "RightMargin": 156.5031,
+                        "TopMargin": 491.9989,
+                        "BottomMargin": 173.0011,
+                        "Tag": 154,
+                        "Children": [
+                            {
+                                "LabelText": "100",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_36.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 64.0008,
+                                    "Y": 23.9998
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4961,
+                                    "Y": 0.4364
+                                },
+                                "PreSize": {
+                                    "X": 0.4031,
+                                    "Y": 0.7455
+                                },
+                                "LeftMargin": 38.0008,
+                                "RightMargin": 38.9992,
+                                "TopMargin": 10.5002,
+                                "BottomMargin": 3.4998,
+                                "Tag": 491,
+                                "ActionTag": -1549302168,
+                                "Size": {
+                                    "X": 52,
+                                    "Y": 41
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 316103498,
+                        "Size": {
+                            "X": 129,
+                            "Y": 55
+                        },
+                        "Name": "btnAuto100",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums2.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 99,
+                        "Scale9Height": 35,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1058.9969,
+                            "Y": 144.7506
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8273,
+                            "Y": 0.201
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0764
+                        },
+                        "LeftMargin": 994.4969,
+                        "RightMargin": 156.5031,
+                        "TopMargin": 547.7495,
+                        "BottomMargin": 117.2506,
+                        "Tag": 155,
+                        "Children": [
+                            {
+                                "LabelText": "50",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_36.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 64.0007,
+                                    "Y": 23.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4961,
+                                    "Y": 0.4364
+                                },
+                                "PreSize": {
+                                    "X": 0.3023,
+                                    "Y": 0.7455
+                                },
+                                "LeftMargin": 44.5007,
+                                "RightMargin": 45.4993,
+                                "TopMargin": 10.5001,
+                                "BottomMargin": 3.4999,
+                                "Tag": 490,
+                                "ActionTag": -1597907605,
+                                "Size": {
+                                    "X": 39,
+                                    "Y": 41
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1863787116,
+                        "Size": {
+                            "X": 129,
+                            "Y": 55
+                        },
+                        "Name": "btnAuto50",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums2.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_autonums1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 99,
+                        "Scale9Height": 35,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1058.9982,
+                            "Y": 89
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8273,
+                            "Y": 0.1236
+                        },
+                        "PreSize": {
+                            "X": 0.1008,
+                            "Y": 0.0764
+                        },
+                        "LeftMargin": 994.4982,
+                        "RightMargin": 156.5018,
+                        "TopMargin": 603.5001,
+                        "BottomMargin": 61.5,
+                        "Tag": 156,
+                        "Children": [
+                            {
+                                "LabelText": "25",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_36.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 62.9996,
+                                    "Y": 23.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.4884,
+                                    "Y": 0.4364
+                                },
+                                "PreSize": {
+                                    "X": 0.3178,
+                                    "Y": 0.7455
+                                },
+                                "LeftMargin": 42.4996,
+                                "RightMargin": 45.5004,
+                                "TopMargin": 10.5001,
+                                "BottomMargin": 3.4999,
+                                "Tag": 480,
+                                "ActionTag": 454709934,
+                                "Size": {
+                                    "X": 41,
+                                    "Y": 41
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1768605754,
+                        "Size": {
+                            "X": 129,
+                            "Y": 55
+                        },
+                        "Name": "btnAuto25",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "heros108_36.fnt",
+                "heros108_36.png",
+                "heros108_png.plist",
+                "heros108_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

@@ -1,0 +1,493 @@
+{
+    "ID": "5a41af3a-cab5-4e5c-a093-c6bc4967a2b4",
+    "Version": "2.3.4",
+    "Name": "heros108disconnectlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 227,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 242,
+                        "ActionTag": -1039465550,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_back_tips.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 360
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5
+                        },
+                        "PreSize": {
+                            "X": 0.4109,
+                            "Y": 0.4528
+                        },
+                        "LeftMargin": 377,
+                        "RightMargin": 377,
+                        "TopMargin": 197,
+                        "BottomMargin": 197,
+                        "Tag": 241,
+                        "ActionTag": 1243228949,
+                        "Size": {
+                            "X": 526,
+                            "Y": 326
+                        },
+                        "Name": "disconnectback_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_img_word2.jpg",
+                            "Plist": "heros108_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640.0006,
+                            "Y": 397.0013
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5514
+                        },
+                        "PreSize": {
+                            "X": 0.1969,
+                            "Y": 0.0917
+                        },
+                        "LeftMargin": 514.0006,
+                        "RightMargin": 513.9994,
+                        "TopMargin": 289.9987,
+                        "BottomMargin": 364.0013,
+                        "Tag": 236,
+                        "ActionTag": 29303136,
+                        "Size": {
+                            "X": 252,
+                            "Y": 66
+                        },
+                        "Name": "sprError1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_img_word4.jpg",
+                            "Plist": "heros108_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640.0001,
+                            "Y": 391.002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5431
+                        },
+                        "PreSize": {
+                            "X": 0.15,
+                            "Y": 0.0389
+                        },
+                        "LeftMargin": 544.0001,
+                        "RightMargin": 543.9999,
+                        "TopMargin": 314.998,
+                        "BottomMargin": 377.002,
+                        "Tag": 238,
+                        "ActionTag": -715195825,
+                        "Size": {
+                            "X": 192,
+                            "Y": 28
+                        },
+                        "Name": "sprNotEnough",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_img_word3.jpg",
+                            "Plist": "heros108_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640.0006,
+                            "Y": 395.0009
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5486
+                        },
+                        "PreSize": {
+                            "X": 0.2016,
+                            "Y": 0.1
+                        },
+                        "LeftMargin": 511.0006,
+                        "RightMargin": 510.9994,
+                        "TopMargin": 288.9991,
+                        "BottomMargin": 359.0009,
+                        "Tag": 239,
+                        "ActionTag": 807651291,
+                        "Size": {
+                            "X": 258,
+                            "Y": 72
+                        },
+                        "Name": "sprDisconnect",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_ok1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_ok2.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_ok1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 115,
+                        "Scale9Height": 41,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640.0007,
+                            "Y": 288.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4014
+                        },
+                        "PreSize": {
+                            "X": 0.1133,
+                            "Y": 0.0875
+                        },
+                        "LeftMargin": 567.5007,
+                        "RightMargin": 567.4993,
+                        "TopMargin": 399.5002,
+                        "BottomMargin": 257.4998,
+                        "Tag": 240,
+                        "ActionTag": -523113766,
+                        "Size": {
+                            "X": 145,
+                            "Y": 63
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_img_word1.jpg",
+                            "Plist": "heros108_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640.0001,
+                            "Y": 391.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5431
+                        },
+                        "PreSize": {
+                            "X": 0.3063,
+                            "Y": 0.1
+                        },
+                        "LeftMargin": 444.0001,
+                        "RightMargin": 443.9999,
+                        "TopMargin": 292.9998,
+                        "BottomMargin": 355.0002,
+                        "Tag": 297,
+                        "ActionTag": -131162719,
+                        "Size": {
+                            "X": 392,
+                            "Y": 72
+                        },
+                        "Name": "sprError2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9OriginX": -83,
+                        "Scale9OriginY": -23,
+                        "Scale9Width": 166,
+                        "Scale9Height": 46,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 380.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5278
+                        },
+                        "PreSize": {
+                            "X": 0.3281,
+                            "Y": 0.1667
+                        },
+                        "LeftMargin": 430,
+                        "RightMargin": 430,
+                        "TopMargin": 279.9999,
+                        "BottomMargin": 320.0001,
+                        "Tag": 46,
+                        "ActionTag": 1245261995,
+                        "Size": {
+                            "X": 420,
+                            "Y": 120
+                        },
+                        "Name": "layErrorBack",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "出错了",
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640.0001,
+                            "Y": 379.997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {
+                            "G": 236,
+                            "B": 190
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5278
+                        },
+                        "PreSize": {
+                            "X": 0.3125,
+                            "Y": 0.1389
+                        },
+                        "LeftMargin": 440.0001,
+                        "RightMargin": 439.9999,
+                        "TopMargin": 290.003,
+                        "BottomMargin": 329.997,
+                        "Tag": 21,
+                        "ActionTag": -825032164,
+                        "Size": {
+                            "X": 400,
+                            "Y": 100
+                        },
+                        "Name": "textError",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "heros108_jpg.jpg",
+                "heros108_jpg.plist",
+                "heros108_png.plist",
+                "heros108_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

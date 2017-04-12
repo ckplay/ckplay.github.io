@@ -1,0 +1,687 @@
+{
+    "ID": "42dcab80-f5bc-4305-b5b7-dee378e96b8c",
+    "Version": "2.3.4",
+    "Name": "heros108freeresultlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": 1687479116,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": -0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1687479116,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": 1687479116,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 250,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 251,
+                        "ActionTag": 1687479116,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_back_tips.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 321.999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4472
+                        },
+                        "PreSize": {
+                            "X": 0.4109,
+                            "Y": 0.4528
+                        },
+                        "LeftMargin": 377,
+                        "RightMargin": 377,
+                        "TopMargin": 235.001,
+                        "BottomMargin": 158.999,
+                        "Tag": 252,
+                        "ActionTag": 54323373,
+                        "Size": {
+                            "X": 526,
+                            "Y": 326
+                        },
+                        "Name": "narutodlgback1_29",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_img_result1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 435
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.6042
+                        },
+                        "PreSize": {
+                            "X": 0.1688,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 532,
+                        "RightMargin": 532,
+                        "TopMargin": 270,
+                        "BottomMargin": 420,
+                        "Tag": 260,
+                        "ActionTag": -736138430,
+                        "Size": {
+                            "X": 216,
+                            "Y": 30
+                        },
+                        "Name": "narutodlgback5_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_img_result2.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 481.7734,
+                            "Y": 369.9996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3764,
+                            "Y": 0.5139
+                        },
+                        "PreSize": {
+                            "X": 0.1031,
+                            "Y": 0.0347
+                        },
+                        "LeftMargin": 481.7734,
+                        "RightMargin": 666.2266,
+                        "TopMargin": 325.0004,
+                        "BottomMargin": 369.9996,
+                        "Tag": 261,
+                        "ActionTag": 2003975387,
+                        "Size": {
+                            "X": 132,
+                            "Y": 25
+                        },
+                        "Name": "narutodlgback6_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_img_result3.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 481.7734,
+                            "Y": 319.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3764,
+                            "Y": 0.4444
+                        },
+                        "PreSize": {
+                            "X": 0.1031,
+                            "Y": 0.0375
+                        },
+                        "LeftMargin": 481.7734,
+                        "RightMargin": 666.2266,
+                        "TopMargin": 373.0002,
+                        "BottomMargin": 319.9998,
+                        "Tag": 262,
+                        "ActionTag": 1455760788,
+                        "Size": {
+                            "X": 132,
+                            "Y": 27
+                        },
+                        "Name": "narutodlgback7_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_img_result4.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 451.7737,
+                            "Y": 269.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3529,
+                            "Y": 0.375
+                        },
+                        "PreSize": {
+                            "X": 0.1266,
+                            "Y": 0.0375
+                        },
+                        "LeftMargin": 451.7737,
+                        "RightMargin": 666.2263,
+                        "TopMargin": 423.0002,
+                        "BottomMargin": 269.9998,
+                        "Tag": 263,
+                        "ActionTag": -364738771,
+                        "Size": {
+                            "X": 162,
+                            "Y": 27
+                        },
+                        "Name": "narutodlgback8_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_img_result5.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 723.7058,
+                            "Y": 281.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5654,
+                            "Y": 0.3917
+                        },
+                        "PreSize": {
+                            "X": 0.1555,
+                            "Y": 0.0556
+                        },
+                        "LeftMargin": 624.2058,
+                        "RightMargin": 456.7942,
+                        "TopMargin": 418.0006,
+                        "BottomMargin": 261.9994,
+                        "Tag": 350,
+                        "ActionTag": -897064063,
+                        "Size": {
+                            "X": 199,
+                            "Y": 40
+                        },
+                        "Name": "heros108_img_result5_1_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_img_result5.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 723.7058,
+                            "Y": 331.9992
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5654,
+                            "Y": 0.4611
+                        },
+                        "PreSize": {
+                            "X": 0.1555,
+                            "Y": 0.0556
+                        },
+                        "LeftMargin": 624.2058,
+                        "RightMargin": 456.7942,
+                        "TopMargin": 368.0008,
+                        "BottomMargin": 311.9992,
+                        "Tag": 349,
+                        "ActionTag": -910875857,
+                        "Size": {
+                            "X": 199,
+                            "Y": 40
+                        },
+                        "Name": "heros108_img_result5_1_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_img_result5.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 723.7066,
+                            "Y": 381.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5654,
+                            "Y": 0.5306
+                        },
+                        "PreSize": {
+                            "X": 0.1555,
+                            "Y": 0.0556
+                        },
+                        "LeftMargin": 624.2066,
+                        "RightMargin": 456.7934,
+                        "TopMargin": 318.0005,
+                        "BottomMargin": 361.9995,
+                        "Tag": 348,
+                        "ActionTag": 860056983,
+                        "Size": {
+                            "X": 199,
+                            "Y": 40
+                        },
+                        "Name": "heros108_img_result5_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "99999999",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "heros108_36.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 721.9995,
+                            "Y": 380.9985
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.5292
+                        },
+                        "PreSize": {
+                            "X": 0.1148,
+                            "Y": 0.0569
+                        },
+                        "LeftMargin": 648.4995,
+                        "RightMargin": 484.5005,
+                        "TopMargin": 318.5015,
+                        "BottomMargin": 360.4985,
+                        "CallBackType": "Click",
+                        "Tag": 277,
+                        "ActionTag": 1755446985,
+                        "Size": {
+                            "X": 147,
+                            "Y": 41
+                        },
+                        "Name": "textGameWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "99999999",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "heros108_36.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 721.9995,
+                            "Y": 330.9989
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.4597
+                        },
+                        "PreSize": {
+                            "X": 0.1148,
+                            "Y": 0.0569
+                        },
+                        "LeftMargin": 648.4995,
+                        "RightMargin": 484.5005,
+                        "TopMargin": 368.5011,
+                        "BottomMargin": 310.4989,
+                        "CallBackType": "Click",
+                        "Tag": 278,
+                        "ActionTag": -1543590831,
+                        "Size": {
+                            "X": 147,
+                            "Y": 41
+                        },
+                        "Name": "textFreeWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "99999999",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "heros108_36.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 721.9995,
+                            "Y": 280.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5641,
+                            "Y": 0.3903
+                        },
+                        "PreSize": {
+                            "X": 0.1148,
+                            "Y": 0.0569
+                        },
+                        "LeftMargin": 648.4995,
+                        "RightMargin": 484.5005,
+                        "TopMargin": 418.5005,
+                        "BottomMargin": 260.4995,
+                        "CallBackType": "Click",
+                        "Tag": 279,
+                        "ActionTag": -1421590008,
+                        "Size": {
+                            "X": 147,
+                            "Y": 41
+                        },
+                        "Name": "textAllWin",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_ok1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_ok2.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_ok1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 115,
+                        "Scale9Height": 41,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 188
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.2611
+                        },
+                        "PreSize": {
+                            "X": 0.1133,
+                            "Y": 0.0875
+                        },
+                        "LeftMargin": 567.5,
+                        "RightMargin": 567.5,
+                        "TopMargin": 469,
+                        "BottomMargin": 188,
+                        "Tag": 258,
+                        "ActionTag": 759543184,
+                        "Size": {
+                            "X": 145,
+                            "Y": 63
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "heros108_36.fnt",
+                "heros108_36.png",
+                "heros108_png.plist",
+                "heros108_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

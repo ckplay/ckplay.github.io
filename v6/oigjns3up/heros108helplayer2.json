@@ -1,0 +1,2360 @@
+{
+    "ID": "59c04f6c-558d-4ec3-b845-760643ac9a6d",
+    "Version": "2.3.4",
+    "Name": "heros108helplayer2",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -1918160960,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1918160960,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1918160960,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 226,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9OriginX": -422,
+                        "Scale9OriginY": -237,
+                        "Scale9Width": 844,
+                        "Scale9Height": 474,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": 0.0001,
+                        "RightMargin": -0.0001,
+                        "Tag": 208,
+                        "ActionTag": -1918160960,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_rule_back1.jpg",
+                            "Plist": "heros108_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.5,
+                            "Y": 1
+                        },
+                        "RightMargin": 640,
+                        "Tag": 977,
+                        "ActionTag": 169123816,
+                        "Size": {
+                            "X": 640,
+                            "Y": 720
+                        },
+                        "Name": "heros108_rule_back1_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_rule_back1.jpg",
+                            "Plist": "heros108_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 1
+                        },
+                        "Position": {
+                            "X": 1280,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 1,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.5,
+                            "Y": 1
+                        },
+                        "LeftMargin": 640,
+                        "Tag": 976,
+                        "ActionTag": 1861594496,
+                        "Size": {
+                            "X": 640,
+                            "Y": 720
+                        },
+                        "Name": "heros108_rule_back1_9_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_title_paytable.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 650
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.9028
+                        },
+                        "PreSize": {
+                            "X": 0.1695,
+                            "Y": 0.0819
+                        },
+                        "LeftMargin": 531.5,
+                        "RightMargin": 531.5,
+                        "TopMargin": 40.5,
+                        "BottomMargin": 620.5,
+                        "Tag": 975,
+                        "ActionTag": -551922200,
+                        "Size": {
+                            "X": 217,
+                            "Y": 59
+                        },
+                        "Name": "heros108_title_paytable_11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_rule_back2.jpg",
+                            "Plist": "heros108_jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 975.9995,
+                            "Y": 164.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7625,
+                            "Y": 0.2292
+                        },
+                        "PreSize": {
+                            "X": 0.2922,
+                            "Y": 0.4722
+                        },
+                        "LeftMargin": 788.9995,
+                        "RightMargin": 117.0005,
+                        "TopMargin": 215.0001,
+                        "BottomMargin": 164.9999,
+                        "Tag": 247,
+                        "ActionTag": -95148484,
+                        "Size": {
+                            "X": 374,
+                            "Y": 340
+                        },
+                        "Name": "helpback24_21",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_arrow1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_arrow2.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_arrow1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 27,
+                        "Scale9Height": 44,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1207.0009,
+                            "Y": 323
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.943,
+                            "Y": 0.4486
+                        },
+                        "PreSize": {
+                            "X": 0.0445,
+                            "Y": 0.0917
+                        },
+                        "LeftMargin": 1207.0009,
+                        "RightMargin": 15.9991,
+                        "TopMargin": 331,
+                        "BottomMargin": 323,
+                        "Tag": 1098,
+                        "ActionTag": -2044243077,
+                        "Size": {
+                            "X": 57,
+                            "Y": 66
+                        },
+                        "Name": "btnNext",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_arrow1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_arrow2.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_arrow1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 27,
+                        "Scale9Height": 44,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 72,
+                            "Y": 323.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0562,
+                            "Y": 0.4486
+                        },
+                        "PreSize": {
+                            "X": 0.0445,
+                            "Y": 0.0917
+                        },
+                        "LeftMargin": 72,
+                        "RightMargin": 1151,
+                        "TopMargin": 330.9999,
+                        "BottomMargin": 323.0001,
+                        "Tag": 1099,
+                        "ActionTag": -1733491674,
+                        "Size": {
+                            "X": 57,
+                            "Y": 66
+                        },
+                        "Name": "btnFront",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_close1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_close2.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_btn_close1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 20,
+                        "Scale9Height": 25,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1159.9994,
+                            "Y": 617.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9062,
+                            "Y": 0.8569
+                        },
+                        "PreSize": {
+                            "X": 0.0391,
+                            "Y": 0.0653
+                        },
+                        "LeftMargin": 1159.9994,
+                        "RightMargin": 70.0006,
+                        "TopMargin": 55.9998,
+                        "BottomMargin": 617.0002,
+                        "Tag": 1100,
+                        "ActionTag": -1041520643,
+                        "Size": {
+                            "X": 50,
+                            "Y": 47
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_back_rule1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 231.0003,
+                            "Y": 338.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1805,
+                            "Y": 0.4708
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 161.5003,
+                        "RightMargin": 979.4997,
+                        "TopMargin": 163.0003,
+                        "BottomMargin": 338.9997,
+                        "Tag": 249,
+                        "ActionTag": 1786488973,
+                        "Size": {
+                            "X": 139,
+                            "Y": 218
+                        },
+                        "Name": "helpback8_23",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_back_rule1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 370.0005,
+                            "Y": 338.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2891,
+                            "Y": 0.4708
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 300.5005,
+                        "RightMargin": 840.4995,
+                        "TopMargin": 163.0003,
+                        "BottomMargin": 338.9997,
+                        "Tag": 1101,
+                        "ActionTag": 1449751874,
+                        "Size": {
+                            "X": 139,
+                            "Y": 218
+                        },
+                        "Name": "helpback8_23_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipY": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_back_rule1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 231.0003,
+                            "Y": 120.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1805,
+                            "Y": 0.1681
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 161.5003,
+                        "RightMargin": 979.4997,
+                        "TopMargin": 381.0001,
+                        "BottomMargin": 120.9999,
+                        "Tag": 1102,
+                        "ActionTag": -1023457795,
+                        "Size": {
+                            "X": 139,
+                            "Y": 218
+                        },
+                        "Name": "helpback8_23_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FlipY": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_back_rule1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 370.0013,
+                            "Y": 120.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2891,
+                            "Y": 0.1681
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 300.5013,
+                        "RightMargin": 840.4987,
+                        "TopMargin": 381.0001,
+                        "BottomMargin": 120.9999,
+                        "Tag": 1103,
+                        "ActionTag": 873969700,
+                        "Size": {
+                            "X": 139,
+                            "Y": 218
+                        },
+                        "Name": "helpback8_23_0_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_back_rule1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 557.9991,
+                            "Y": 338.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4359,
+                            "Y": 0.4708
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 488.4991,
+                        "RightMargin": 652.5009,
+                        "TopMargin": 163.0005,
+                        "BottomMargin": 338.9995,
+                        "Tag": 1104,
+                        "ActionTag": -953164187,
+                        "Size": {
+                            "X": 139,
+                            "Y": 218
+                        },
+                        "Name": "helpback8_23_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_back_rule1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 696.9987,
+                            "Y": 338.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5445,
+                            "Y": 0.4708
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 627.4987,
+                        "RightMargin": 513.5013,
+                        "TopMargin": 163.0005,
+                        "BottomMargin": 338.9995,
+                        "Tag": 1105,
+                        "ActionTag": 122500023,
+                        "Size": {
+                            "X": 139,
+                            "Y": 218
+                        },
+                        "Name": "helpback8_23_0_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipY": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_back_rule1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 557.9991,
+                            "Y": 120.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4359,
+                            "Y": 0.1681
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 488.4991,
+                        "RightMargin": 652.5009,
+                        "TopMargin": 381.0002,
+                        "BottomMargin": 120.9998,
+                        "Tag": 1106,
+                        "ActionTag": -2113297727,
+                        "Size": {
+                            "X": 139,
+                            "Y": 218
+                        },
+                        "Name": "helpback8_23_1_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FlipY": true,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_back_rule1.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 696.9995,
+                            "Y": 121
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5445,
+                            "Y": 0.1681
+                        },
+                        "PreSize": {
+                            "X": 0.1086,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 627.4995,
+                        "RightMargin": 513.5005,
+                        "TopMargin": 381,
+                        "BottomMargin": 121,
+                        "Tag": 1107,
+                        "ActionTag": -507024399,
+                        "Size": {
+                            "X": 139,
+                            "Y": 218
+                        },
+                        "Name": "helpback8_23_0_0_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 1108,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "heros108_icon_wl.png",
+                                    "Plist": "heros108_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 300,
+                                    "Y": 429.9997
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 227,
+                                "RightMargin": -373,
+                                "TopMargin": -502.9997,
+                                "BottomMargin": 356.9997,
+                                "Tag": 1109,
+                                "ActionTag": 1843629501,
+                                "Size": {
+                                    "X": 146,
+                                    "Y": 146
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "1000",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 328.9191,
+                                    "Y": 304.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {
+                                    "G": 224,
+                                    "B": 149
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 296.9191,
+                                "RightMargin": -360.9191,
+                                "TopMargin": -325.9999,
+                                "BottomMargin": 283.9999,
+                                "Tag": 1110,
+                                "Children": [
+                                    {
+                                        "LabelText": "X5 ",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -37,
+                                            "Y": 20
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -0.5781,
+                                            "Y": 0.4762
+                                        },
+                                        "PreSize": {
+                                            "X": 0.6094,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -56.5,
+                                        "RightMargin": 81.5,
+                                        "TopMargin": 1,
+                                        "BottomMargin": -1,
+                                        "Tag": 1114,
+                                        "ActionTag": -156236693,
+                                        "Size": {
+                                            "X": 39,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": ".",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -7,
+                                            "Y": 29.9999
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1.3,
+                                            "ScaleY": 1.3
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -0.1094,
+                                            "Y": 0.7143
+                                        },
+                                        "PreSize": {
+                                            "X": 0.1719,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -12.5,
+                                        "RightMargin": 65.5,
+                                        "TopMargin": -8.9999,
+                                        "BottomMargin": 8.9999,
+                                        "Tag": 1366,
+                                        "ActionTag": -2020726397,
+                                        "Size": {
+                                            "X": 11,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -253176043,
+                                "Size": {
+                                    "X": 64,
+                                    "Y": 42
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "500",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 328.919,
+                                    "Y": 269.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {
+                                    "G": 224,
+                                    "B": 149
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 302.419,
+                                "RightMargin": -355.419,
+                                "TopMargin": -290.9999,
+                                "BottomMargin": 248.9999,
+                                "Tag": 1111,
+                                "Children": [
+                                    {
+                                        "LabelText": "X4",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -42.0005,
+                                            "Y": 20
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -0.7925,
+                                            "Y": 0.4762
+                                        },
+                                        "PreSize": {
+                                            "X": 0.7547,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -62.0005,
+                                        "RightMargin": 75.0005,
+                                        "TopMargin": 1,
+                                        "BottomMargin": -1,
+                                        "Tag": 1367,
+                                        "ActionTag": 1787660185,
+                                        "Size": {
+                                            "X": 40,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": ".",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -12.0003,
+                                            "Y": 30.9997
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1.3,
+                                            "ScaleY": 1.3
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -0.2264,
+                                            "Y": 0.7381
+                                        },
+                                        "PreSize": {
+                                            "X": 0.2075,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -17.5003,
+                                        "RightMargin": 59.5003,
+                                        "TopMargin": -9.9997,
+                                        "BottomMargin": 9.9997,
+                                        "Tag": 1368,
+                                        "ActionTag": 127447609,
+                                        "Size": {
+                                            "X": 11,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 485288854,
+                                "Size": {
+                                    "X": 53,
+                                    "Y": 42
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "200",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 328.919,
+                                    "Y": 235
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {
+                                    "G": 224,
+                                    "B": 149
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 302.419,
+                                "RightMargin": -355.419,
+                                "TopMargin": -256,
+                                "BottomMargin": 214,
+                                "Tag": 1112,
+                                "Children": [
+                                    {
+                                        "LabelText": "X3",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -42.0008,
+                                            "Y": 19.9999
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -0.7925,
+                                            "Y": 0.4762
+                                        },
+                                        "PreSize": {
+                                            "X": 0.7358,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -61.5008,
+                                        "RightMargin": 75.5008,
+                                        "TopMargin": 1.0001,
+                                        "BottomMargin": -1.0001,
+                                        "Tag": 1369,
+                                        "ActionTag": 2140404232,
+                                        "Size": {
+                                            "X": 39,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": ".",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -12.0008,
+                                            "Y": 29.9998
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1.3,
+                                            "ScaleY": 1.3
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -0.2264,
+                                            "Y": 0.7143
+                                        },
+                                        "PreSize": {
+                                            "X": 0.2075,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -17.5008,
+                                        "RightMargin": 59.5008,
+                                        "TopMargin": -8.9998,
+                                        "BottomMargin": 8.9998,
+                                        "Tag": 1370,
+                                        "ActionTag": 1820704767,
+                                        "Size": {
+                                            "X": 11,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1681839346,
+                                "Size": {
+                                    "X": 53,
+                                    "Y": 42
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "10",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 328.9191,
+                                    "Y": 199.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {
+                                    "G": 224,
+                                    "B": 149
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 313.9191,
+                                "RightMargin": -343.9191,
+                                "TopMargin": -220.9999,
+                                "BottomMargin": 178.9999,
+                                "Tag": 1113,
+                                "Children": [
+                                    {
+                                        "LabelText": "X2",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -54.0002,
+                                            "Y": 20
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -1.8,
+                                            "Y": 0.4762
+                                        },
+                                        "PreSize": {
+                                            "X": 1.2667,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -73.0002,
+                                        "RightMargin": 65.0002,
+                                        "TopMargin": 1,
+                                        "BottomMargin": -1,
+                                        "Tag": 1373,
+                                        "ActionTag": -1092536201,
+                                        "Size": {
+                                            "X": 38,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": ".",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -24,
+                                            "Y": 30.9992
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1.3,
+                                            "ScaleY": 1.3
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -0.8,
+                                            "Y": 0.7381
+                                        },
+                                        "PreSize": {
+                                            "X": 0.3667,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -29.5,
+                                        "RightMargin": 48.5,
+                                        "TopMargin": -9.9992,
+                                        "BottomMargin": 9.9992,
+                                        "Tag": 1374,
+                                        "ActionTag": -362688301,
+                                        "Size": {
+                                            "X": 11,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -832238989,
+                                "Size": {
+                                    "X": 30,
+                                    "Y": 42
+                                },
+                                "Name": "txt2",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 367953789,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node0",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 0.0001,
+                        "RightMargin": 1279.9999,
+                        "TopMargin": 720,
+                        "Tag": 1375,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "heros108_icon_fg.png",
+                                    "Plist": "heros108_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 626.9979,
+                                    "Y": 429.9977
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 553.9979,
+                                "RightMargin": -699.9979,
+                                "TopMargin": -502.9977,
+                                "BottomMargin": 356.9977,
+                                "Tag": 1376,
+                                "ActionTag": 1942828943,
+                                "Size": {
+                                    "X": 146,
+                                    "Y": 146
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "100",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 655.9172,
+                                    "Y": 304.9981
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {
+                                    "G": 224,
+                                    "B": 149
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 632.4172,
+                                "RightMargin": -679.4172,
+                                "TopMargin": -325.9981,
+                                "BottomMargin": 283.9981,
+                                "Tag": 1377,
+                                "Children": [
+                                    {
+                                        "LabelText": "X5 ",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -38.9999,
+                                            "Y": 20.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -0.8298,
+                                            "Y": 0.4762
+                                        },
+                                        "PreSize": {
+                                            "X": 0.8298,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -58.4999,
+                                        "RightMargin": 66.4999,
+                                        "TopMargin": 0.9999,
+                                        "BottomMargin": -0.9999,
+                                        "Tag": 1378,
+                                        "ActionTag": 475963031,
+                                        "Size": {
+                                            "X": 39,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": ".",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -7,
+                                            "Y": 29.9999
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1.3,
+                                            "ScaleY": 1.3
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -0.1489,
+                                            "Y": 0.7143
+                                        },
+                                        "PreSize": {
+                                            "X": 0.234,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -12.5,
+                                        "RightMargin": 48.5,
+                                        "TopMargin": -8.9999,
+                                        "BottomMargin": 8.9999,
+                                        "Tag": 1379,
+                                        "ActionTag": -1521457398,
+                                        "Size": {
+                                            "X": 11,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -1647561471,
+                                "Size": {
+                                    "X": 47,
+                                    "Y": 42
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "10",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 655.9163,
+                                    "Y": 269.9984
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {
+                                    "G": 224,
+                                    "B": 149
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 640.9163,
+                                "RightMargin": -670.9163,
+                                "TopMargin": -290.9984,
+                                "BottomMargin": 248.9984,
+                                "Tag": 1380,
+                                "Children": [
+                                    {
+                                        "LabelText": "X4",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -45.9999,
+                                            "Y": 20.0002
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -1.5333,
+                                            "Y": 0.4762
+                                        },
+                                        "PreSize": {
+                                            "X": 1.3333,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -65.9999,
+                                        "RightMargin": 55.9999,
+                                        "TopMargin": 0.9998,
+                                        "BottomMargin": -0.9998,
+                                        "Tag": 1381,
+                                        "ActionTag": -1732071874,
+                                        "Size": {
+                                            "X": 40,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": ".",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -15.0005,
+                                            "Y": 30.9998
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1.3,
+                                            "ScaleY": 1.3
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -0.5,
+                                            "Y": 0.7381
+                                        },
+                                        "PreSize": {
+                                            "X": 0.3667,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -20.5005,
+                                        "RightMargin": 39.5005,
+                                        "TopMargin": -9.9998,
+                                        "BottomMargin": 9.9998,
+                                        "Tag": 1382,
+                                        "ActionTag": -149137502,
+                                        "Size": {
+                                            "X": 11,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 943077248,
+                                "Size": {
+                                    "X": 30,
+                                    "Y": 42
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "2",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 655.9163,
+                                    "Y": 234.9985
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {
+                                    "G": 224,
+                                    "B": 149
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 646.4163,
+                                "RightMargin": -665.4163,
+                                "TopMargin": -255.9985,
+                                "BottomMargin": 213.9985,
+                                "Tag": 1383,
+                                "Children": [
+                                    {
+                                        "LabelText": "X3",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -52.0012,
+                                            "Y": 20.0001
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -2.7369,
+                                            "Y": 0.4762
+                                        },
+                                        "PreSize": {
+                                            "X": 2.0526,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -71.5012,
+                                        "RightMargin": 51.5012,
+                                        "TopMargin": 0.9999,
+                                        "BottomMargin": -0.9999,
+                                        "Tag": 1384,
+                                        "ActionTag": -2052659543,
+                                        "Size": {
+                                            "X": 39,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": ".",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -21.0011,
+                                            "Y": 29.9998
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1.3,
+                                            "ScaleY": 1.3
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -1.1053,
+                                            "Y": 0.7143
+                                        },
+                                        "PreSize": {
+                                            "X": 0.5789,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -26.5011,
+                                        "RightMargin": 34.5011,
+                                        "TopMargin": -8.9998,
+                                        "BottomMargin": 8.9998,
+                                        "Tag": 1385,
+                                        "ActionTag": -455517813,
+                                        "Size": {
+                                            "X": 11,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": 1299869053,
+                                "Size": {
+                                    "X": 19,
+                                    "Y": 42
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "1",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "heros108_30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 655.9157,
+                                    "Y": 199.9984
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {
+                                    "G": 224,
+                                    "B": 149
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 649.9157,
+                                "RightMargin": -661.9157,
+                                "TopMargin": -220.9984,
+                                "BottomMargin": 178.9984,
+                                "Tag": 1386,
+                                "Children": [
+                                    {
+                                        "LabelText": "X2",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -55.9995,
+                                            "Y": 20
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1,
+                                            "ScaleY": 1
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -4.6666,
+                                            "Y": 0.4762
+                                        },
+                                        "PreSize": {
+                                            "X": 3.1667,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -74.9995,
+                                        "RightMargin": 48.9995,
+                                        "TopMargin": 1,
+                                        "BottomMargin": -1,
+                                        "Tag": 1387,
+                                        "ActionTag": -117397204,
+                                        "Size": {
+                                            "X": 38,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_1",
+                                        "ctype": "TextBMFontObjectData"
+                                    },
+                                    {
+                                        "LabelText": ".",
+                                        "LabelBMFontFile_CNB": {
+                                            "Type": "Normal",
+                                            "Path": "heros108_30.fnt",
+                                            "Plist": ""
+                                        },
+                                        "AnchorPoint": {
+                                            "ScaleX": 0.5,
+                                            "ScaleY": 0.5
+                                        },
+                                        "Position": {
+                                            "X": -24,
+                                            "Y": 30.9992
+                                        },
+                                        "Scale": {
+                                            "ScaleX": 1.3,
+                                            "ScaleY": 1.3
+                                        },
+                                        "CColor": {
+                                            "G": 176,
+                                            "B": 0
+                                        },
+                                        "IconVisible": false,
+                                        "PrePosition": {
+                                            "X": -2,
+                                            "Y": 0.7381
+                                        },
+                                        "PreSize": {
+                                            "X": 0.9167,
+                                            "Y": 1
+                                        },
+                                        "LeftMargin": -29.5,
+                                        "RightMargin": 30.5,
+                                        "TopMargin": -9.9992,
+                                        "BottomMargin": 9.9992,
+                                        "Tag": 1388,
+                                        "ActionTag": 467549585,
+                                        "Size": {
+                                            "X": 11,
+                                            "Y": 42
+                                        },
+                                        "Name": "BitmapFontLabel_48_0_0",
+                                        "ctype": "TextBMFontObjectData"
+                                    }
+                                ],
+                                "ActionTag": -506507317,
+                                "Size": {
+                                    "X": 12,
+                                    "Y": 42
+                                },
+                                "Name": "txt2",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -258927412,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "node12",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_icon_wl.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 813.9998,
+                            "Y": 500
+                        },
+                        "Scale": {
+                            "ScaleX": 0.4,
+                            "ScaleY": 0.4
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6359,
+                            "Y": 0.6944
+                        },
+                        "PreSize": {
+                            "X": 0.1141,
+                            "Y": 0.2028
+                        },
+                        "LeftMargin": 740.9998,
+                        "RightMargin": 393.0002,
+                        "TopMargin": 147,
+                        "BottomMargin": 427,
+                        "Tag": 768,
+                        "ActionTag": -1547546550,
+                        "Size": {
+                            "X": 146,
+                            "Y": 146
+                        },
+                        "Name": "sprIcon_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_icon_wl.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1119,
+                            "Y": 400
+                        },
+                        "Scale": {
+                            "ScaleX": 0.4,
+                            "ScaleY": 0.4
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8742,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.1141,
+                            "Y": 0.2028
+                        },
+                        "LeftMargin": 1046,
+                        "RightMargin": 88,
+                        "TopMargin": 247,
+                        "BottomMargin": 327,
+                        "Tag": 769,
+                        "ActionTag": 1102687993,
+                        "Size": {
+                            "X": 146,
+                            "Y": 146
+                        },
+                        "Name": "sprIcon_0_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_icon_wl.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 814.9999,
+                            "Y": 314
+                        },
+                        "Scale": {
+                            "ScaleX": 0.4,
+                            "ScaleY": 0.4
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6367,
+                            "Y": 0.4361
+                        },
+                        "PreSize": {
+                            "X": 0.1141,
+                            "Y": 0.2028
+                        },
+                        "LeftMargin": 741.9999,
+                        "RightMargin": 392.0001,
+                        "TopMargin": 333,
+                        "BottomMargin": 241,
+                        "Tag": 770,
+                        "ActionTag": 1315150383,
+                        "Size": {
+                            "X": 146,
+                            "Y": 146
+                        },
+                        "Name": "sprIcon_0_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_icon_fg.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 869,
+                            "Y": 451
+                        },
+                        "Scale": {
+                            "ScaleX": 0.4,
+                            "ScaleY": 0.4
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6789,
+                            "Y": 0.6264
+                        },
+                        "PreSize": {
+                            "X": 0.1141,
+                            "Y": 0.2028
+                        },
+                        "LeftMargin": 796,
+                        "RightMargin": 338,
+                        "TopMargin": 196,
+                        "BottomMargin": 378,
+                        "Tag": 771,
+                        "ActionTag": -1782819960,
+                        "Size": {
+                            "X": 146,
+                            "Y": 146
+                        },
+                        "Name": "sprIcon_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "heros108_icon_fg.png",
+                            "Plist": "heros108_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 822,
+                            "Y": 224
+                        },
+                        "Scale": {
+                            "ScaleX": 0.4,
+                            "ScaleY": 0.4
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6422,
+                            "Y": 0.3111
+                        },
+                        "PreSize": {
+                            "X": 0.1141,
+                            "Y": 0.2028
+                        },
+                        "LeftMargin": 749,
+                        "RightMargin": 385,
+                        "TopMargin": 423,
+                        "BottomMargin": 151,
+                        "Tag": 772,
+                        "ActionTag": 210756205,
+                        "Size": {
+                            "X": 146,
+                            "Y": 146
+                        },
+                        "Name": "sprIcon_0_2",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "heros108_30.fnt",
+                "heros108_30.png",
+                "heros108_jpg.jpg",
+                "heros108_jpg.plist",
+                "heros108_png.plist",
+                "heros108_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

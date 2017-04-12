@@ -1,0 +1,174 @@
+{
+  "ID": "d9896996-7a44-41ba-a905-775992d0efdc",
+  "Version": "3.10.0.0",
+  "Name": "iconanim_clip4",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 40,
+        "Speed": 1.0,
+        "ActivedAnimationName": "0",
+        "Timelines": [
+          {
+            "ActionTag": -2089088302,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_clips/clips2_0.png",
+                  "Plist": "aladdin5x243_clips.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_clips/clips2_1.png",
+                  "Plist": "aladdin5x243_clips.plist"
+                },
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_clips/clips2_2.png",
+                  "Plist": "aladdin5x243_clips.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_clips/clips2_3.png",
+                  "Plist": "aladdin5x243_clips.plist"
+                },
+                "FrameIndex": 16,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_clips/clips2_4.png",
+                  "Plist": "aladdin5x243_clips.plist"
+                },
+                "FrameIndex": 22,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_clips/clips2_5.png",
+                  "Plist": "aladdin5x243_clips.plist"
+                },
+                "FrameIndex": 28,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_clips/clips2_6.png",
+                  "Plist": "aladdin5x243_clips.plist"
+                },
+                "FrameIndex": 34,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_clips/clips2_7.png",
+                  "Plist": "aladdin5x243_clips.plist"
+                },
+                "FrameIndex": 40,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 40,
+          "Name": "0",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 24,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "aladdin5x243_clips/clips2_5.png",
+              "Plist": "aladdin5x243_clips.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -299.5,
+            "RightMargin": -299.5,
+            "TopMargin": -282.0,
+            "BottomMargin": -282.0,
+            "Tag": 25,
+            "ActionTag": -2089088302,
+            "Size": {
+              "X": 599.0,
+              "Y": 564.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "aladdin5x243_clips.plist",
+        "aladdin5x243_clips.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

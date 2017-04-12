@@ -1,0 +1,194 @@
+{
+  "ID": "5a392836-2fe4-4894-952f-492038ce8704",
+  "Version": "3.10.0.0",
+  "Name": "iconanim_flying",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 45,
+        "Speed": 1.0,
+        "ActivedAnimationName": "0",
+        "Timelines": [
+          {
+            "ActionTag": -263227927,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_effect/Flying_0.png",
+                  "Plist": "aladdin5x243_effect.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_effect/Flying_1.png",
+                  "Plist": "aladdin5x243_effect.plist"
+                },
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_effect/Flying_2.png",
+                  "Plist": "aladdin5x243_effect.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_effect/Flying_3.png",
+                  "Plist": "aladdin5x243_effect.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_effect/Flying_4.png",
+                  "Plist": "aladdin5x243_effect.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_effect/Flying_5.png",
+                  "Plist": "aladdin5x243_effect.plist"
+                },
+                "FrameIndex": 25,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_effect/Flying_6.png",
+                  "Plist": "aladdin5x243_effect.plist"
+                },
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_effect/Flying_7.png",
+                  "Plist": "aladdin5x243_effect.plist"
+                },
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_effect/Flying_8.png",
+                  "Plist": "aladdin5x243_effect.plist"
+                },
+                "FrameIndex": 40,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "aladdin5x243_effect/Flying_9.png",
+                  "Plist": "aladdin5x243_effect.plist"
+                },
+                "FrameIndex": 45,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 45,
+          "Name": "0",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 19,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "aladdin5x243_effect/Flying_0.png",
+              "Plist": "aladdin5x243_effect.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -158.0,
+            "RightMargin": -158.0,
+            "TopMargin": -93.5,
+            "BottomMargin": -93.5,
+            "Tag": 20,
+            "ActionTag": -263227927,
+            "Size": {
+              "X": 316.0,
+              "Y": 187.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "aladdin5x243_effect.plist",
+        "aladdin5x243_effect.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

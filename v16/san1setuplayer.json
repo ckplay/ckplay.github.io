@@ -1,0 +1,264 @@
+{
+    "ID": "c80abd58-a3a0-4219-b77d-badbe1254422",
+    "Version": "2.3.4",
+    "Name": "san1setuplayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 249,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "empty.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9OriginX": 2,
+                        "Scale9OriginY": 2,
+                        "Scale9Width": 5,
+                        "Scale9Height": 5,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 253,
+                        "ActionTag": -724020590,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_settingback.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 120.9996,
+                            "Y": 246
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0945,
+                            "Y": 0.3417
+                        },
+                        "PreSize": {
+                            "X": 0.1805,
+                            "Y": 0.2194
+                        },
+                        "LeftMargin": 120.9996,
+                        "RightMargin": 928.0004,
+                        "TopMargin": 316,
+                        "BottomMargin": 246,
+                        "Tag": 252,
+                        "ActionTag": -788716424,
+                        "Size": {
+                            "X": 231,
+                            "Y": 158
+                        },
+                        "Name": "setupback_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_help1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_help2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_help1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 86,
+                        "Scale9Height": 25,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 235.9987,
+                            "Y": 292.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1844,
+                            "Y": 0.4069
+                        },
+                        "PreSize": {
+                            "X": 0.0906,
+                            "Y": 0.0653
+                        },
+                        "LeftMargin": 177.9987,
+                        "RightMargin": 986.0013,
+                        "TopMargin": 403.5001,
+                        "BottomMargin": 269.4999,
+                        "Tag": 250,
+                        "ActionTag": -1734526316,
+                        "Size": {
+                            "X": 116,
+                            "Y": 47
+                        },
+                        "Name": "btnHelp",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_record1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_record2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_record1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 88,
+                        "Scale9Height": 22,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 235.9996,
+                            "Y": 352.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1844,
+                            "Y": 0.4903
+                        },
+                        "PreSize": {
+                            "X": 0.0922,
+                            "Y": 0.0611
+                        },
+                        "LeftMargin": 176.9996,
+                        "RightMargin": 985.0004,
+                        "TopMargin": 345.0002,
+                        "BottomMargin": 330.9998,
+                        "Tag": 251,
+                        "ActionTag": 2108954151,
+                        "Size": {
+                            "X": 118,
+                            "Y": 44
+                        },
+                        "Name": "btnHistory",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "san1png.plist",
+                "san1png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

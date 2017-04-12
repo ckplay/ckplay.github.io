@@ -1,0 +1,1997 @@
+{
+    "ID": "29b636a5-e414-4956-ad3b-f74c72e18962",
+    "Version": "2.3.4",
+    "Name": "san1helplayer1",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -1918160960,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1918160960,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -1918160960,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 226,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_back7.jpg",
+                            "Plist": "san1jpg.plist"
+                        },
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9OriginX": 422,
+                        "Scale9OriginY": 237,
+                        "Scale9Width": 436,
+                        "Scale9Height": 246,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": 0.0001,
+                        "RightMargin": -0.0001,
+                        "Tag": 208,
+                        "ActionTag": -1918160960,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_iconinfoback.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 373
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5181
+                        },
+                        "PreSize": {
+                            "X": 0.2281,
+                            "Y": 0.2292
+                        },
+                        "LeftMargin": 494,
+                        "RightMargin": 494,
+                        "TopMargin": 264.5,
+                        "BottomMargin": 290.5,
+                        "Tag": 78,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_icon_0.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146,
+                                    "Y": 83
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5,
+                                    "Y": 0.503
+                                },
+                                "PreSize": {
+                                    "X": 0.5137,
+                                    "Y": 0.9091
+                                },
+                                "LeftMargin": 71,
+                                "RightMargin": 71,
+                                "TopMargin": 7,
+                                "BottomMargin": 8,
+                                "Tag": 240,
+                                "ActionTag": -1060636703,
+                                "Size": {
+                                    "X": 150,
+                                    "Y": 150
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": 515873574,
+                        "Size": {
+                            "X": 292,
+                            "Y": 165
+                        },
+                        "Name": "node0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_iconinfoback.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 96,
+                        "Scale9OriginY": 30,
+                        "Scale9Width": 100,
+                        "Scale9Height": 105,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 320,
+                            "Y": 508
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.25,
+                            "Y": 0.7056
+                        },
+                        "PreSize": {
+                            "X": 0.2281,
+                            "Y": 0.1833
+                        },
+                        "LeftMargin": 174,
+                        "RightMargin": 814,
+                        "TopMargin": 146,
+                        "BottomMargin": 442,
+                        "Tag": 87,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_icon_1.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 76.6207,
+                                    "Y": 74.3457
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.9,
+                                    "ScaleY": 0.9
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2624,
+                                    "Y": 0.5632
+                                },
+                                "PreSize": {
+                                    "X": 0.5137,
+                                    "Y": 1.1364
+                                },
+                                "LeftMargin": 1.6207,
+                                "RightMargin": 140.3793,
+                                "TopMargin": -17.3457,
+                                "BottomMargin": -0.6543,
+                                "Tag": 230,
+                                "ActionTag": -265243954,
+                                "Size": {
+                                    "X": 150,
+                                    "Y": 150
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X5  10000",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6352,
+                                    "Y": 104.7762
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.7938
+                                },
+                                "PreSize": {
+                                    "X": 0.4966,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6352,
+                                "RightMargin": 0.3648,
+                                "TopMargin": 12.2238,
+                                "BottomMargin": 89.7762,
+                                "Tag": 88,
+                                "ActionTag": 1525089657,
+                                "Size": {
+                                    "X": 145,
+                                    "Y": 30
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4  500",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6353,
+                                    "Y": 76.4429
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.5791
+                                },
+                                "PreSize": {
+                                    "X": 0.3938,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6353,
+                                "RightMargin": 30.3647,
+                                "TopMargin": 40.5571,
+                                "BottomMargin": 61.4429,
+                                "Tag": 89,
+                                "ActionTag": -1037417042,
+                                "Size": {
+                                    "X": 115,
+                                    "Y": 30
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X3  100",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6355,
+                                    "Y": 48.1097
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.3645
+                                },
+                                "PreSize": {
+                                    "X": 0.3938,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6355,
+                                "RightMargin": 30.3645,
+                                "TopMargin": 68.8903,
+                                "BottomMargin": 33.1097,
+                                "Tag": 90,
+                                "ActionTag": 2043525165,
+                                "Size": {
+                                    "X": 115,
+                                    "Y": 30
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X2  20",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6355,
+                                    "Y": 19.7766
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.1498
+                                },
+                                "PreSize": {
+                                    "X": 0.3425,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6355,
+                                "RightMargin": 45.3645,
+                                "TopMargin": 97.2234,
+                                "BottomMargin": 4.7766,
+                                "Tag": 91,
+                                "ActionTag": 746670476,
+                                "Size": {
+                                    "X": 100,
+                                    "Y": 30
+                                },
+                                "Name": "txt2",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 1259467939,
+                        "Size": {
+                            "X": 292,
+                            "Y": 132
+                        },
+                        "Name": "node1",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_iconinfoback.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 96,
+                        "Scale9OriginY": 30,
+                        "Scale9Width": 100,
+                        "Scale9Height": 105,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 959.9959,
+                            "Y": 507.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.75,
+                            "Y": 0.7056
+                        },
+                        "PreSize": {
+                            "X": 0.2281,
+                            "Y": 0.1833
+                        },
+                        "LeftMargin": 813.9959,
+                        "RightMargin": 174.0042,
+                        "TopMargin": 146.0002,
+                        "BottomMargin": 441.9998,
+                        "Tag": 105,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_icon_2.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 76.6201,
+                                    "Y": 74.3449
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.9,
+                                    "ScaleY": 0.9
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2624,
+                                    "Y": 0.5632
+                                },
+                                "PreSize": {
+                                    "X": 0.5137,
+                                    "Y": 1.1364
+                                },
+                                "LeftMargin": 1.6201,
+                                "RightMargin": 140.3799,
+                                "TopMargin": -17.3449,
+                                "BottomMargin": -0.6551,
+                                "Tag": 106,
+                                "ActionTag": -1951430994,
+                                "Size": {
+                                    "X": 150,
+                                    "Y": 150
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X5  5000",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6352,
+                                    "Y": 104.7762
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.7938
+                                },
+                                "PreSize": {
+                                    "X": 0.4452,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6352,
+                                "RightMargin": 15.3648,
+                                "TopMargin": 12.2238,
+                                "BottomMargin": 89.7762,
+                                "Tag": 107,
+                                "ActionTag": 151487210,
+                                "Size": {
+                                    "X": 130,
+                                    "Y": 30
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4  250",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6353,
+                                    "Y": 76.4429
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.5791
+                                },
+                                "PreSize": {
+                                    "X": 0.3938,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6353,
+                                "RightMargin": 30.3647,
+                                "TopMargin": 40.5571,
+                                "BottomMargin": 61.4429,
+                                "Tag": 108,
+                                "ActionTag": 506647761,
+                                "Size": {
+                                    "X": 115,
+                                    "Y": 30
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X3  50",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6355,
+                                    "Y": 48.1097
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.3645
+                                },
+                                "PreSize": {
+                                    "X": 0.3425,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6355,
+                                "RightMargin": 45.3645,
+                                "TopMargin": 68.8903,
+                                "BottomMargin": 33.1097,
+                                "Tag": 109,
+                                "ActionTag": -309419021,
+                                "Size": {
+                                    "X": 100,
+                                    "Y": 30
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X2  10",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6355,
+                                    "Y": 19.7766
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.1498
+                                },
+                                "PreSize": {
+                                    "X": 0.3425,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6355,
+                                "RightMargin": 45.3645,
+                                "TopMargin": 97.2234,
+                                "BottomMargin": 4.7766,
+                                "Tag": 110,
+                                "ActionTag": -707766348,
+                                "Size": {
+                                    "X": 100,
+                                    "Y": 30
+                                },
+                                "Name": "txt2",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -990598557,
+                        "Size": {
+                            "X": 292,
+                            "Y": 132
+                        },
+                        "Name": "node2",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_iconinfoback.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 96,
+                        "Scale9OriginY": 30,
+                        "Scale9Width": 100,
+                        "Scale9Height": 105,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 320,
+                            "Y": 364
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.25,
+                            "Y": 0.5056
+                        },
+                        "PreSize": {
+                            "X": 0.2281,
+                            "Y": 0.1833
+                        },
+                        "LeftMargin": 174,
+                        "RightMargin": 814,
+                        "TopMargin": 290,
+                        "BottomMargin": 298,
+                        "Tag": 93,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_icon_3.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 76.6207,
+                                    "Y": 74.3454
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.9,
+                                    "ScaleY": 0.9
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2624,
+                                    "Y": 0.5632
+                                },
+                                "PreSize": {
+                                    "X": 0.5137,
+                                    "Y": 1.1364
+                                },
+                                "LeftMargin": 1.6207,
+                                "RightMargin": 140.3793,
+                                "TopMargin": -17.3454,
+                                "BottomMargin": -0.6546,
+                                "Tag": 94,
+                                "ActionTag": 986934388,
+                                "Size": {
+                                    "X": 150,
+                                    "Y": 150
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X5  1000",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6352,
+                                    "Y": 104.7762
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.7938
+                                },
+                                "PreSize": {
+                                    "X": 0.4452,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6352,
+                                "RightMargin": 15.3648,
+                                "TopMargin": 12.2238,
+                                "BottomMargin": 89.7762,
+                                "Tag": 95,
+                                "ActionTag": -683037461,
+                                "Size": {
+                                    "X": 130,
+                                    "Y": 30
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4  150",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6353,
+                                    "Y": 76.4429
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.5791
+                                },
+                                "PreSize": {
+                                    "X": 0.3938,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6353,
+                                "RightMargin": 30.3647,
+                                "TopMargin": 40.5571,
+                                "BottomMargin": 61.4429,
+                                "Tag": 96,
+                                "ActionTag": -928272788,
+                                "Size": {
+                                    "X": 115,
+                                    "Y": 30
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X3  30",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6355,
+                                    "Y": 48.1097
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.3645
+                                },
+                                "PreSize": {
+                                    "X": 0.3425,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6355,
+                                "RightMargin": 45.3645,
+                                "TopMargin": 68.8903,
+                                "BottomMargin": 33.1097,
+                                "Tag": 97,
+                                "ActionTag": -277814691,
+                                "Size": {
+                                    "X": 100,
+                                    "Y": 30
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X2  5",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6355,
+                                    "Y": 19.7766
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.1498
+                                },
+                                "PreSize": {
+                                    "X": 0.2911,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6355,
+                                "RightMargin": 60.3645,
+                                "TopMargin": 97.2234,
+                                "BottomMargin": 4.7766,
+                                "Tag": 98,
+                                "ActionTag": -1946495553,
+                                "Size": {
+                                    "X": 85,
+                                    "Y": 30
+                                },
+                                "Name": "txt2",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1748074645,
+                        "Size": {
+                            "X": 292,
+                            "Y": 132
+                        },
+                        "Name": "node3",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_iconinfoback.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 96,
+                        "Scale9OriginY": 30,
+                        "Scale9Width": 100,
+                        "Scale9Height": 105,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 959.9959,
+                            "Y": 363.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.75,
+                            "Y": 0.5056
+                        },
+                        "PreSize": {
+                            "X": 0.2281,
+                            "Y": 0.1833
+                        },
+                        "LeftMargin": 813.9959,
+                        "RightMargin": 174.0042,
+                        "TopMargin": 290.0001,
+                        "BottomMargin": 297.9999,
+                        "Tag": 111,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_icon_4.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 76.6201,
+                                    "Y": 74.3452
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.9,
+                                    "ScaleY": 0.9
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2624,
+                                    "Y": 0.5632
+                                },
+                                "PreSize": {
+                                    "X": 0.5137,
+                                    "Y": 1.1364
+                                },
+                                "LeftMargin": 1.6201,
+                                "RightMargin": 140.3799,
+                                "TopMargin": -17.3452,
+                                "BottomMargin": -0.6548,
+                                "Tag": 112,
+                                "ActionTag": 1518398208,
+                                "Size": {
+                                    "X": 150,
+                                    "Y": 150
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X5  1000",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6352,
+                                    "Y": 104.7762
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.7938
+                                },
+                                "PreSize": {
+                                    "X": 0.4452,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6352,
+                                "RightMargin": 15.3648,
+                                "TopMargin": 12.2238,
+                                "BottomMargin": 89.7762,
+                                "Tag": 113,
+                                "ActionTag": 1188996274,
+                                "Size": {
+                                    "X": 130,
+                                    "Y": 30
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4  150",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6353,
+                                    "Y": 76.4429
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.5791
+                                },
+                                "PreSize": {
+                                    "X": 0.3938,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6353,
+                                "RightMargin": 30.3647,
+                                "TopMargin": 40.5571,
+                                "BottomMargin": 61.4429,
+                                "Tag": 114,
+                                "ActionTag": 1537942142,
+                                "Size": {
+                                    "X": 115,
+                                    "Y": 30
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X3  30",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6355,
+                                    "Y": 48.1097
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.3645
+                                },
+                                "PreSize": {
+                                    "X": 0.3425,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6355,
+                                "RightMargin": 45.3645,
+                                "TopMargin": 68.8903,
+                                "BottomMargin": 33.1097,
+                                "Tag": 115,
+                                "ActionTag": -1491638612,
+                                "Size": {
+                                    "X": 100,
+                                    "Y": 30
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X2  5",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6355,
+                                    "Y": 19.7766
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.1498
+                                },
+                                "PreSize": {
+                                    "X": 0.2911,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6355,
+                                "RightMargin": 60.3645,
+                                "TopMargin": 97.2234,
+                                "BottomMargin": 4.7766,
+                                "Tag": 116,
+                                "ActionTag": -1414369087,
+                                "Size": {
+                                    "X": 85,
+                                    "Y": 30
+                                },
+                                "Name": "txt2",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 846457748,
+                        "Size": {
+                            "X": 292,
+                            "Y": 132
+                        },
+                        "Name": "node4",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_iconinfoback.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 96,
+                        "Scale9OriginY": 30,
+                        "Scale9Width": 100,
+                        "Scale9Height": 105,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 320,
+                            "Y": 220
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.25,
+                            "Y": 0.3056
+                        },
+                        "PreSize": {
+                            "X": 0.2281,
+                            "Y": 0.1833
+                        },
+                        "LeftMargin": 174,
+                        "RightMargin": 814,
+                        "TopMargin": 434,
+                        "BottomMargin": 154,
+                        "Tag": 99,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_icon_5.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 76.6207,
+                                    "Y": 74.3454
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.9,
+                                    "ScaleY": 0.9
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2624,
+                                    "Y": 0.5632
+                                },
+                                "PreSize": {
+                                    "X": 0.5137,
+                                    "Y": 1.1364
+                                },
+                                "LeftMargin": 1.6207,
+                                "RightMargin": 140.3793,
+                                "TopMargin": -17.3454,
+                                "BottomMargin": -0.6546,
+                                "Tag": 100,
+                                "ActionTag": 274010058,
+                                "Size": {
+                                    "X": 150,
+                                    "Y": 150
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X5  300",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6353,
+                                    "Y": 94.7762
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.718
+                                },
+                                "PreSize": {
+                                    "X": 0.3938,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6353,
+                                "RightMargin": 30.3647,
+                                "TopMargin": 22.2238,
+                                "BottomMargin": 79.7762,
+                                "Tag": 101,
+                                "ActionTag": 621019374,
+                                "Size": {
+                                    "X": 115,
+                                    "Y": 30
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4  50",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6353,
+                                    "Y": 63.4429
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.4806
+                                },
+                                "PreSize": {
+                                    "X": 0.3425,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6353,
+                                "RightMargin": 45.3647,
+                                "TopMargin": 53.5571,
+                                "BottomMargin": 48.4429,
+                                "Tag": 102,
+                                "ActionTag": -877282468,
+                                "Size": {
+                                    "X": 100,
+                                    "Y": 30
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X3  20",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6357,
+                                    "Y": 32.1097
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.2433
+                                },
+                                "PreSize": {
+                                    "X": 0.3425,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6357,
+                                "RightMargin": 45.3643,
+                                "TopMargin": 84.8903,
+                                "BottomMargin": 17.1097,
+                                "Tag": 103,
+                                "ActionTag": 2120042848,
+                                "Size": {
+                                    "X": 100,
+                                    "Y": 30
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 1151350756,
+                        "Size": {
+                            "X": 292,
+                            "Y": 132
+                        },
+                        "Name": "node5",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_iconinfoback.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 96,
+                        "Scale9OriginY": 30,
+                        "Scale9Width": 100,
+                        "Scale9Height": 105,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 959.9959,
+                            "Y": 220
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.75,
+                            "Y": 0.3056
+                        },
+                        "PreSize": {
+                            "X": 0.2281,
+                            "Y": 0.1833
+                        },
+                        "LeftMargin": 813.9959,
+                        "RightMargin": 174.0042,
+                        "TopMargin": 434,
+                        "BottomMargin": 154,
+                        "Tag": 117,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "san1_icon_6.png",
+                                    "Plist": "san1png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 76.6201,
+                                    "Y": 74.3454
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.9,
+                                    "ScaleY": 0.9
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.2624,
+                                    "Y": 0.5632
+                                },
+                                "PreSize": {
+                                    "X": 0.5137,
+                                    "Y": 1.1364
+                                },
+                                "LeftMargin": 1.6201,
+                                "RightMargin": 140.3799,
+                                "TopMargin": -17.3454,
+                                "BottomMargin": -0.6546,
+                                "Tag": 118,
+                                "ActionTag": -1975472239,
+                                "Size": {
+                                    "X": 150,
+                                    "Y": 150
+                                },
+                                "Name": "sprIcon",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "LabelText": "X5  300",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6353,
+                                    "Y": 94.7762
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.718
+                                },
+                                "PreSize": {
+                                    "X": 0.3938,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6353,
+                                "RightMargin": 30.3647,
+                                "TopMargin": 22.2238,
+                                "BottomMargin": 79.7762,
+                                "Tag": 119,
+                                "ActionTag": 919388010,
+                                "Size": {
+                                    "X": 115,
+                                    "Y": 30
+                                },
+                                "Name": "txt5",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X4  50",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6353,
+                                    "Y": 63.4429
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.4806
+                                },
+                                "PreSize": {
+                                    "X": 0.3425,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6353,
+                                "RightMargin": 45.3647,
+                                "TopMargin": 53.5571,
+                                "BottomMargin": 48.4429,
+                                "Tag": 120,
+                                "ActionTag": 1008928876,
+                                "Size": {
+                                    "X": 100,
+                                    "Y": 30
+                                },
+                                "Name": "txt4",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "X3  10",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "san30b.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 146.6357,
+                                    "Y": 32.1097
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.85,
+                                    "ScaleY": 0.85
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0.5022,
+                                    "Y": 0.2433
+                                },
+                                "PreSize": {
+                                    "X": 0.3425,
+                                    "Y": 0.2273
+                                },
+                                "LeftMargin": 146.6357,
+                                "RightMargin": 45.3643,
+                                "TopMargin": 84.8903,
+                                "BottomMargin": 17.1097,
+                                "Tag": 121,
+                                "ActionTag": 901487839,
+                                "Size": {
+                                    "X": 100,
+                                    "Y": 30
+                                },
+                                "Name": "txt3",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1000145340,
+                        "Size": {
+                            "X": 292,
+                            "Y": 132
+                        },
+                        "Name": "node6",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_img_wwinfo.jpg",
+                            "Plist": "san1jpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 171
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.2375
+                        },
+                        "PreSize": {
+                            "X": 0.2281,
+                            "Y": 0.1597
+                        },
+                        "LeftMargin": 494,
+                        "RightMargin": 494,
+                        "TopMargin": 434,
+                        "BottomMargin": 171,
+                        "Tag": 247,
+                        "ActionTag": -95148484,
+                        "Size": {
+                            "X": 292,
+                            "Y": 115
+                        },
+                        "Name": "helpback24_21",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_title_pfgz.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 520
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.7222
+                        },
+                        "PreSize": {
+                            "X": 0.2062,
+                            "Y": 0.1056
+                        },
+                        "LeftMargin": 508,
+                        "RightMargin": 508,
+                        "TopMargin": 124,
+                        "BottomMargin": 520,
+                        "Tag": 249,
+                        "ActionTag": 1786488973,
+                        "Size": {
+                            "X": 264,
+                            "Y": 76
+                        },
+                        "Name": "helpback8_23",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_close2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_close2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_close1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 26,
+                        "Scale9Height": 29,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1069.9998,
+                            "Y": 580
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8359,
+                            "Y": 0.8056
+                        },
+                        "PreSize": {
+                            "X": 0.0437,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 1069.9998,
+                        "RightMargin": 154.0002,
+                        "TopMargin": 89,
+                        "BottomMargin": 580,
+                        "Tag": 134,
+                        "ActionTag": -645851823,
+                        "Size": {
+                            "X": 56,
+                            "Y": 51
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FlipX": true,
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 23,
+                        "Scale9Height": 66,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 194.9999,
+                            "Y": 123
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1523,
+                            "Y": 0.1708
+                        },
+                        "PreSize": {
+                            "X": 0.0414,
+                            "Y": 0.1222
+                        },
+                        "LeftMargin": 194.9999,
+                        "RightMargin": 1032.0001,
+                        "TopMargin": 509,
+                        "BottomMargin": 123,
+                        "Tag": 164,
+                        "ActionTag": -240239747,
+                        "Size": {
+                            "X": 53,
+                            "Y": 88
+                        },
+                        "Name": "btnFront",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow2.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "san1_btn_infoarrow1.png",
+                            "Plist": "san1png.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 23,
+                        "Scale9Height": 66,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1081,
+                            "Y": 123
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8445,
+                            "Y": 0.1708
+                        },
+                        "PreSize": {
+                            "X": 0.0414,
+                            "Y": 0.1222
+                        },
+                        "LeftMargin": 1081,
+                        "RightMargin": 146,
+                        "TopMargin": 509,
+                        "BottomMargin": 123,
+                        "Tag": 135,
+                        "ActionTag": 1116857809,
+                        "Size": {
+                            "X": 53,
+                            "Y": 88
+                        },
+                        "Name": "btnNext",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "san1jpg.jpg",
+                "san1jpg.plist",
+                "san1png.plist",
+                "san1png.png",
+                "san30b.fnt",
+                "san30b.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

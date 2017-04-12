@@ -1,0 +1,549 @@
+{
+    "ID": "a98d99f1-9527-4ba5-ae7c-b131d7d46c41",
+    "Version": "2.3.4",
+    "Name": "narutohelplayer4",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 586,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "empty.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9Width": 9,
+                        "Scale9Height": 9,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 614,
+                        "ActionTag": 1019402722,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutohelpback1.jpg",
+                            "Plist": "narutojpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 615,
+                        "ActionTag": -199737345,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "narutohelpback1_16",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn30_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn30_2.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn30_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 130,
+                        "Scale9Height": 40,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 232,
+                            "Y": 44.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1812,
+                            "Y": 0.0611
+                        },
+                        "PreSize": {
+                            "X": 0.125,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 232,
+                        "RightMargin": 888,
+                        "TopMargin": 613.9999,
+                        "BottomMargin": 44.0001,
+                        "Tag": 616,
+                        "ActionTag": 1238091416,
+                        "Size": {
+                            "X": 160,
+                            "Y": 62
+                        },
+                        "Name": "btnHelp1",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn29_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn29_2.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn29_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 130,
+                        "Scale9Height": 40,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 449,
+                            "Y": 44.0005
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3508,
+                            "Y": 0.0611
+                        },
+                        "PreSize": {
+                            "X": 0.125,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 449,
+                        "RightMargin": 671,
+                        "TopMargin": 613.9995,
+                        "BottomMargin": 44.0005,
+                        "Tag": 617,
+                        "ActionTag": -681480298,
+                        "Size": {
+                            "X": 160,
+                            "Y": 62
+                        },
+                        "Name": "btnHelp2",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn32_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn32_2.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn32_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 130,
+                        "Scale9Height": 40,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 668,
+                            "Y": 44.0007
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5219,
+                            "Y": 0.0611
+                        },
+                        "PreSize": {
+                            "X": 0.125,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 668,
+                        "RightMargin": 452,
+                        "TopMargin": 613.9993,
+                        "BottomMargin": 44.0007,
+                        "Tag": 618,
+                        "ActionTag": 1337611835,
+                        "Size": {
+                            "X": 160,
+                            "Y": 62
+                        },
+                        "Name": "btnHelp3",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn31_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn31_2.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn31_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 130,
+                        "Scale9Height": 40,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 886.0029,
+                            "Y": 44.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6922,
+                            "Y": 0.0611
+                        },
+                        "PreSize": {
+                            "X": 0.125,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 886.0029,
+                        "RightMargin": 233.9971,
+                        "TopMargin": 613.9998,
+                        "BottomMargin": 44.0002,
+                        "Tag": 619,
+                        "ActionTag": -1910323107,
+                        "Size": {
+                            "X": 160,
+                            "Y": 62
+                        },
+                        "Name": "btnHelp4",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn27_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn27_2.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn27_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 94,
+                        "Scale9Height": 54,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0.0969,
+                            "Y": 0.1056
+                        },
+                        "RightMargin": 1156,
+                        "TopMargin": 644,
+                        "Tag": 620,
+                        "ActionTag": 244353650,
+                        "Size": {
+                            "X": 124,
+                            "Y": 76
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutohelpback10.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 465.9998,
+                            "Y": 611
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3641,
+                            "Y": 0.8486
+                        },
+                        "PreSize": {
+                            "X": 0.3117,
+                            "Y": 0.1486
+                        },
+                        "LeftMargin": 465.9998,
+                        "RightMargin": 415.0002,
+                        "TopMargin": 2,
+                        "BottomMargin": 611,
+                        "Tag": 621,
+                        "ActionTag": -1117106968,
+                        "Size": {
+                            "X": 399,
+                            "Y": 107
+                        },
+                        "Name": "narutohelpback2_18",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutohelpback11.jpg",
+                            "Plist": "narutojpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 220.0003,
+                            "Y": 165
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1719,
+                            "Y": 0.2292
+                        },
+                        "PreSize": {
+                            "X": 0.6547,
+                            "Y": 0.6056
+                        },
+                        "LeftMargin": 220.0003,
+                        "RightMargin": 221.9998,
+                        "TopMargin": 119,
+                        "BottomMargin": 165,
+                        "Tag": 1149,
+                        "ActionTag": 957829127,
+                        "Size": {
+                            "X": 838,
+                            "Y": 436
+                        },
+                        "Name": "narutohelpback11_1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "narutojpgres.jpg",
+                "narutojpgres.plist",
+                "narutopngres.plist",
+                "narutopngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

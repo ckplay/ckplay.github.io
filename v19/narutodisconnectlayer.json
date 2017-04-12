@@ -1,0 +1,494 @@
+{
+    "ID": "48ef7de8-678c-4ad4-b2ff-d1d0abdc352d",
+    "Version": "2.3.4",
+    "Name": "narutodisconnectlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 599,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 610,
+                        "ActionTag": -1212909066,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutodisconnectback.jpg",
+                            "Plist": "narutojpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 320
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4444
+                        },
+                        "PreSize": {
+                            "X": 0.4125,
+                            "Y": 0.4125
+                        },
+                        "LeftMargin": 376,
+                        "RightMargin": 376,
+                        "TopMargin": 251.5,
+                        "BottomMargin": 171.5,
+                        "Tag": 611,
+                        "ActionTag": 1748818113,
+                        "Size": {
+                            "X": 528,
+                            "Y": 297
+                        },
+                        "Name": "disconnectback_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn26_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn26_2.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn26_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 130,
+                        "Scale9Height": 40,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 235
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.3264
+                        },
+                        "PreSize": {
+                            "X": 0.125,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 560,
+                        "RightMargin": 560,
+                        "TopMargin": 454,
+                        "BottomMargin": 204,
+                        "CallBackType": "Click",
+                        "Tag": 612,
+                        "ActionTag": -1313828765,
+                        "Size": {
+                            "X": 160,
+                            "Y": 62
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_disconnect.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 333
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4625
+                        },
+                        "PreSize": {
+                            "X": 0.1609,
+                            "Y": 0.1
+                        },
+                        "LeftMargin": 537,
+                        "RightMargin": 537,
+                        "TopMargin": 351,
+                        "BottomMargin": 297,
+                        "Tag": 613,
+                        "ActionTag": 1130680141,
+                        "Size": {
+                            "X": 206,
+                            "Y": 72
+                        },
+                        "Name": "sprDisconnect",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_notenough.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 333
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4625
+                        },
+                        "PreSize": {
+                            "X": 0.1398,
+                            "Y": 0.0431
+                        },
+                        "LeftMargin": 550.5,
+                        "RightMargin": 550.5,
+                        "TopMargin": 371.5,
+                        "BottomMargin": 317.5,
+                        "Tag": 614,
+                        "ActionTag": -450316274,
+                        "Size": {
+                            "X": 179,
+                            "Y": 31
+                        },
+                        "Name": "sprNotEnough",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_error1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 332.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4625
+                        },
+                        "PreSize": {
+                            "X": 0.1844,
+                            "Y": 0.0986
+                        },
+                        "LeftMargin": 522,
+                        "RightMargin": 522,
+                        "TopMargin": 351.5006,
+                        "BottomMargin": 297.4994,
+                        "Tag": 615,
+                        "ActionTag": 45979772,
+                        "Size": {
+                            "X": 236,
+                            "Y": 71
+                        },
+                        "Name": "sprError1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_error2.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 333
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4625
+                        },
+                        "PreSize": {
+                            "X": 0.2289,
+                            "Y": 0.0972
+                        },
+                        "LeftMargin": 493.5,
+                        "RightMargin": 493.5,
+                        "TopMargin": 352,
+                        "BottomMargin": 298,
+                        "Tag": 616,
+                        "ActionTag": -971263146,
+                        "Size": {
+                            "X": 293,
+                            "Y": 70
+                        },
+                        "Name": "sprError2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 330
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4583
+                        },
+                        "PreSize": {
+                            "X": 0.3281,
+                            "Y": 0.1667
+                        },
+                        "LeftMargin": 430,
+                        "RightMargin": 430,
+                        "TopMargin": 330,
+                        "BottomMargin": 270,
+                        "Tag": 617,
+                        "ActionTag": -452648059,
+                        "Size": {
+                            "X": 420,
+                            "Y": 120
+                        },
+                        "Name": "layErrorBack",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "出错了",
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 639.9998,
+                            "Y": 329.9973
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {
+                            "R": 230,
+                            "G": 230,
+                            "B": 250
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4583
+                        },
+                        "PreSize": {
+                            "X": 0.3125,
+                            "Y": 0.1389
+                        },
+                        "LeftMargin": 439.9998,
+                        "RightMargin": 440.0002,
+                        "TopMargin": 340.0027,
+                        "BottomMargin": 279.9973,
+                        "Tag": 618,
+                        "ActionTag": 90645034,
+                        "Size": {
+                            "X": 400,
+                            "Y": 100
+                        },
+                        "Name": "textError",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "narutojpgres.jpg",
+                "narutojpgres.plist",
+                "narutopngres.plist",
+                "narutopngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

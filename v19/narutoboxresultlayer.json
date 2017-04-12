@@ -1,0 +1,457 @@
+{
+    "ID": "ce2dff09-1218-4d47-9e01-9dbc3cb1f90c",
+    "Version": "2.3.4",
+    "Name": "narutoboxresultlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -653960353,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": -0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -653960353,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -653960353,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 266,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 311,
+                        "ActionTag": -653960353,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutodlgback1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 205.0001,
+                            "Y": 169.999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1602,
+                            "Y": 0.2361
+                        },
+                        "PreSize": {
+                            "X": 0.6625,
+                            "Y": 0.7153
+                        },
+                        "LeftMargin": 205.0001,
+                        "RightMargin": 227,
+                        "TopMargin": 35.001,
+                        "BottomMargin": 169.999,
+                        "Tag": 310,
+                        "ActionTag": -1372900613,
+                        "Size": {
+                            "X": 848,
+                            "Y": 515
+                        },
+                        "Name": "narutodlgback1_29",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutodlgback2.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 569,
+                            "Y": 543
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4445,
+                            "Y": 0.7542
+                        },
+                        "PreSize": {
+                            "X": 0.0961,
+                            "Y": 0.0944
+                        },
+                        "LeftMargin": 569,
+                        "RightMargin": 588,
+                        "TopMargin": 109,
+                        "BottomMargin": 543,
+                        "Tag": 312,
+                        "ActionTag": -1134406565,
+                        "Size": {
+                            "X": 123,
+                            "Y": 68
+                        },
+                        "Name": "narutodlgback2_30",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutodlgback3.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 410.9998,
+                            "Y": 426.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3211,
+                            "Y": 0.5931
+                        },
+                        "PreSize": {
+                            "X": 0.1617,
+                            "Y": 0.0875
+                        },
+                        "LeftMargin": 410.9998,
+                        "RightMargin": 662.0002,
+                        "TopMargin": 230.0001,
+                        "BottomMargin": 426.9999,
+                        "Tag": 313,
+                        "ActionTag": 391060178,
+                        "Size": {
+                            "X": 207,
+                            "Y": 63
+                        },
+                        "Name": "narutodlgback3_31",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutodlgback4.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 411.9995,
+                            "Y": 343
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3219,
+                            "Y": 0.4764
+                        },
+                        "PreSize": {
+                            "X": 0.1641,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 411.9995,
+                        "RightMargin": 658.0005,
+                        "TopMargin": 315,
+                        "BottomMargin": 343,
+                        "Tag": 314,
+                        "ActionTag": 808427151,
+                        "Size": {
+                            "X": 210,
+                            "Y": 62
+                        },
+                        "Name": "narutodlgback4_32",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "30",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "narutofon4.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 643.0004,
+                            "Y": 458.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5023,
+                            "Y": 0.6361
+                        },
+                        "PreSize": {
+                            "X": 0.0617,
+                            "Y": 0.0833
+                        },
+                        "LeftMargin": 643.0004,
+                        "RightMargin": 557.9996,
+                        "TopMargin": 231.9999,
+                        "BottomMargin": 428.0001,
+                        "CallBackType": "Click",
+                        "Tag": 337,
+                        "ActionTag": 1190342623,
+                        "Size": {
+                            "X": 79,
+                            "Y": 60
+                        },
+                        "Name": "textFreeNum",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "X5",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "narutofon4.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 648.0007,
+                            "Y": 375.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5063,
+                            "Y": 0.5208
+                        },
+                        "PreSize": {
+                            "X": 0.0688,
+                            "Y": 0.0833
+                        },
+                        "LeftMargin": 648.0007,
+                        "RightMargin": 543.9993,
+                        "TopMargin": 314.9996,
+                        "BottomMargin": 345.0004,
+                        "CallBackType": "Click",
+                        "Tag": 338,
+                        "ActionTag": -1284229372,
+                        "Size": {
+                            "X": 88,
+                            "Y": 60
+                        },
+                        "Name": "textFreeMul",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn26_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn26_2.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn26_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 130,
+                        "Scale9Height": 40,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 548.9998,
+                            "Y": 215.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4289,
+                            "Y": 0.3
+                        },
+                        "PreSize": {
+                            "X": 0.125,
+                            "Y": 0.0861
+                        },
+                        "LeftMargin": 548.9998,
+                        "RightMargin": 571.0002,
+                        "TopMargin": 442.0001,
+                        "BottomMargin": 215.9999,
+                        "Tag": 339,
+                        "ActionTag": 1589861498,
+                        "Size": {
+                            "X": 160,
+                            "Y": 62
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Scene",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "narutofon4.fnt",
+                "narutofon4.png",
+                "narutopngres.plist",
+                "narutopngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Scene"
+}

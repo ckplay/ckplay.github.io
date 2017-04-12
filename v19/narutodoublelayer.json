@@ -1,0 +1,1036 @@
+{
+    "ID": "d402b28e-2c93-4b07-968e-7c8453601e29",
+    "Version": "2.3.4",
+    "Name": "narutodoublelayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 323,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "empty.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9Width": 9,
+                        "Scale9Height": 9,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 592,
+                        "ActionTag": -1828901220,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "ImageViewObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutodoubleback01.jpg",
+                            "Plist": "narutojpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 325,
+                        "ActionTag": 1009257208,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "narutodoubleback01_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "￥9999999999",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "narutofon3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 258.9998,
+                            "Y": 553
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2023,
+                            "Y": 0.7681
+                        },
+                        "PreSize": {
+                            "X": 0.2047,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 127.9998,
+                        "RightMargin": 890.0002,
+                        "TopMargin": 148,
+                        "BottomMargin": 534,
+                        "Tag": 144,
+                        "ActionTag": 402740424,
+                        "Size": {
+                            "X": 262,
+                            "Y": 38
+                        },
+                        "Name": "textNum",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "￥9999999999",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "narutofon3.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1018.998,
+                            "Y": 552.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7961,
+                            "Y": 0.7681
+                        },
+                        "PreSize": {
+                            "X": 0.2047,
+                            "Y": 0.0528
+                        },
+                        "LeftMargin": 887.998,
+                        "RightMargin": 130.002,
+                        "TopMargin": 148.0001,
+                        "BottomMargin": 533.9999,
+                        "Tag": 145,
+                        "ActionTag": -1185840008,
+                        "Size": {
+                            "X": 262,
+                            "Y": 38
+                        },
+                        "Name": "textDouble",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn18_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn18_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn18_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 171,
+                        "Scale9Height": 290,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 281.5,
+                            "Y": 208.9992
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2199,
+                            "Y": 0.2903
+                        },
+                        "PreSize": {
+                            "X": 0.157,
+                            "Y": 0.4333
+                        },
+                        "LeftMargin": 181,
+                        "RightMargin": 898,
+                        "TopMargin": 355.0008,
+                        "BottomMargin": 52.9992,
+                        "Tag": 146,
+                        "ActionTag": 622700730,
+                        "Size": {
+                            "X": 201,
+                            "Y": 312
+                        },
+                        "Name": "btnSelect0",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn19_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn19_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn19_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 147,
+                        "Scale9Height": 282,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 988.5001,
+                            "Y": 208.9993
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7723,
+                            "Y": 0.2903
+                        },
+                        "PreSize": {
+                            "X": 0.1383,
+                            "Y": 0.4222
+                        },
+                        "LeftMargin": 900.0001,
+                        "RightMargin": 202.9999,
+                        "TopMargin": 359.0007,
+                        "BottomMargin": 56.9993,
+                        "Tag": 147,
+                        "ActionTag": 308572818,
+                        "Size": {
+                            "X": 177,
+                            "Y": 304
+                        },
+                        "Name": "btnSelect1",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn20_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn20_2.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn20_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 156,
+                        "Scale9Height": 48,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 547.9996,
+                            "Y": 17
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4281,
+                            "Y": 0.0236
+                        },
+                        "PreSize": {
+                            "X": 0.1453,
+                            "Y": 0.0972
+                        },
+                        "LeftMargin": 547.9996,
+                        "RightMargin": 546.0004,
+                        "TopMargin": 633,
+                        "BottomMargin": 17,
+                        "Tag": 148,
+                        "ActionTag": -1067684736,
+                        "Size": {
+                            "X": 186,
+                            "Y": 70
+                        },
+                        "Name": "btnReturn",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_cardback.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 637,
+                            "Y": 414.0011
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4977,
+                            "Y": 0.575
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 461,
+                        "RightMargin": 467,
+                        "TopMargin": 133.9989,
+                        "BottomMargin": 242.0011,
+                        "Tag": 515,
+                        "ActionTag": 1885854440,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprCardBack",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_card1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 637.0002,
+                            "Y": 414.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4977,
+                            "Y": 0.575
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 461.0002,
+                        "RightMargin": 466.9998,
+                        "TopMargin": 133.9999,
+                        "BottomMargin": 242.0001,
+                        "Tag": 516,
+                        "ActionTag": 1010939124,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprCard1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_card0.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 637.0011,
+                            "Y": 414.0007
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4977,
+                            "Y": 0.575
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 461.0011,
+                        "RightMargin": 466.9989,
+                        "TopMargin": 133.9993,
+                        "BottomMargin": 242.0007,
+                        "Tag": 517,
+                        "ActionTag": -539754475,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprCard0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_card0.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 495,
+                            "Y": 158
+                        },
+                        "Scale": {
+                            "ScaleX": 0.24,
+                            "ScaleY": 0.24
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3867,
+                            "Y": 0.2194
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 319,
+                        "RightMargin": 609,
+                        "TopMargin": 390,
+                        "BottomMargin": -14,
+                        "Tag": 518,
+                        "ActionTag": 290148439,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprHistory00",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_card1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 494.9997,
+                            "Y": 157.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 0.24,
+                            "ScaleY": 0.24
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3867,
+                            "Y": 0.2194
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 318.9997,
+                        "RightMargin": 609.0003,
+                        "TopMargin": 390.0001,
+                        "BottomMargin": -14.0001,
+                        "Tag": 519,
+                        "ActionTag": -510756385,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprHistory01",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_card0.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 567.0011,
+                            "Y": 158.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 0.24,
+                            "ScaleY": 0.24
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.443,
+                            "Y": 0.2194
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 391.0011,
+                        "RightMargin": 536.9989,
+                        "TopMargin": 389.9999,
+                        "BottomMargin": -13.9999,
+                        "Tag": 521,
+                        "ActionTag": -312207500,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprHistory10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_card1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 567.0005,
+                            "Y": 158
+                        },
+                        "Scale": {
+                            "ScaleX": 0.24,
+                            "ScaleY": 0.24
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.443,
+                            "Y": 0.2194
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 391.0005,
+                        "RightMargin": 536.9995,
+                        "TopMargin": 390,
+                        "BottomMargin": -14,
+                        "Tag": 522,
+                        "ActionTag": -1444483686,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprHistory11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_card0.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 639,
+                            "Y": 158
+                        },
+                        "Scale": {
+                            "ScaleX": 0.24,
+                            "ScaleY": 0.24
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4992,
+                            "Y": 0.2194
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 463,
+                        "RightMargin": 465,
+                        "TopMargin": 390,
+                        "BottomMargin": -14,
+                        "Tag": 523,
+                        "ActionTag": -1540064,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprHistory20",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_card1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 639,
+                            "Y": 158
+                        },
+                        "Scale": {
+                            "ScaleX": 0.24,
+                            "ScaleY": 0.24
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4992,
+                            "Y": 0.2194
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 463,
+                        "RightMargin": 465,
+                        "TopMargin": 390,
+                        "BottomMargin": -14,
+                        "Tag": 524,
+                        "ActionTag": 386200245,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprHistory21",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_card0.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 711,
+                            "Y": 158
+                        },
+                        "Scale": {
+                            "ScaleX": 0.24,
+                            "ScaleY": 0.24
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5555,
+                            "Y": 0.2194
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 535,
+                        "RightMargin": 393,
+                        "TopMargin": 390,
+                        "BottomMargin": -14,
+                        "Tag": 525,
+                        "ActionTag": -651004709,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprHistory30",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_card1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 711,
+                            "Y": 158
+                        },
+                        "Scale": {
+                            "ScaleX": 0.24,
+                            "ScaleY": 0.24
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5555,
+                            "Y": 0.2194
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 535,
+                        "RightMargin": 393,
+                        "TopMargin": 390,
+                        "BottomMargin": -14,
+                        "Tag": 526,
+                        "ActionTag": -416642774,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprHistory31",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_card0.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 783,
+                            "Y": 158
+                        },
+                        "Scale": {
+                            "ScaleX": 0.24,
+                            "ScaleY": 0.24
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6117,
+                            "Y": 0.2194
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 607,
+                        "RightMargin": 321,
+                        "TopMargin": 390,
+                        "BottomMargin": -14,
+                        "Tag": 527,
+                        "ActionTag": -866736417,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprHistory40",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_card1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 783,
+                            "Y": 158
+                        },
+                        "Scale": {
+                            "ScaleX": 0.24,
+                            "ScaleY": 0.24
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6117,
+                            "Y": 0.2194
+                        },
+                        "PreSize": {
+                            "X": 0.275,
+                            "Y": 0.4778
+                        },
+                        "LeftMargin": 607,
+                        "RightMargin": 321,
+                        "TopMargin": 390,
+                        "BottomMargin": -14,
+                        "Tag": 528,
+                        "ActionTag": 905930322,
+                        "Size": {
+                            "X": 352,
+                            "Y": 344
+                        },
+                        "Name": "sprHistory41",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 637,
+                            "Y": 414
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.4977,
+                            "Y": 0.575
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 637,
+                        "RightMargin": 643,
+                        "TopMargin": 306,
+                        "BottomMargin": 414,
+                        "Tag": 529,
+                        "ActionTag": -503126228,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodAni",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "narutofon3.fnt",
+                "narutofon3.png",
+                "narutojpgres.jpg",
+                "narutojpgres.plist",
+                "narutopngres.plist",
+                "narutopngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

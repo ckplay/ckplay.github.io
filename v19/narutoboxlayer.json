@@ -1,0 +1,1001 @@
+{
+    "ID": "c73bdb40-4e41-4146-b259-0104d1219c6a",
+    "Version": "2.3.4",
+    "Name": "narutoboxlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -380148670,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": -0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -380148670,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -380148670,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 504,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": -0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": -0.0001,
+                        "RightMargin": 0.0001,
+                        "Tag": 300,
+                        "ActionTag": -380148670,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoboxback01.jpg",
+                            "Plist": "narutojpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 506,
+                        "ActionTag": -1898103250,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "narutoboxback01_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 140,
+                        "Scale9Height": 196,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 159.0001,
+                            "Y": 198.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1242,
+                            "Y": 0.275
+                        },
+                        "PreSize": {
+                            "X": 0.1328,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 159.0001,
+                        "RightMargin": 950.9999,
+                        "TopMargin": 303.9999,
+                        "BottomMargin": 198.0001,
+                        "Tag": 507,
+                        "ActionTag": 724980965,
+                        "Size": {
+                            "X": 170,
+                            "Y": 218
+                        },
+                        "Name": "btnBox1",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 140,
+                        "Scale9Height": 196,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 357.0014,
+                            "Y": 198
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.2789,
+                            "Y": 0.275
+                        },
+                        "PreSize": {
+                            "X": 0.1328,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 357.0014,
+                        "RightMargin": 752.9986,
+                        "TopMargin": 304,
+                        "BottomMargin": 198,
+                        "Tag": 508,
+                        "ActionTag": 669166104,
+                        "Size": {
+                            "X": 170,
+                            "Y": 218
+                        },
+                        "Name": "btnBox2",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 140,
+                        "Scale9Height": 196,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 555.0045,
+                            "Y": 197.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4336,
+                            "Y": 0.275
+                        },
+                        "PreSize": {
+                            "X": 0.1328,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 555.0045,
+                        "RightMargin": 554.9955,
+                        "TopMargin": 304.0001,
+                        "BottomMargin": 197.9999,
+                        "Tag": 509,
+                        "ActionTag": -1975855079,
+                        "Size": {
+                            "X": 170,
+                            "Y": 218
+                        },
+                        "Name": "btnBox3",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 140,
+                        "Scale9Height": 196,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 753,
+                            "Y": 198.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5883,
+                            "Y": 0.275
+                        },
+                        "PreSize": {
+                            "X": 0.1328,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 753,
+                        "RightMargin": 357,
+                        "TopMargin": 303.9999,
+                        "BottomMargin": 198.0001,
+                        "Tag": 510,
+                        "ActionTag": -2029406576,
+                        "Size": {
+                            "X": 170,
+                            "Y": 218
+                        },
+                        "Name": "btnBox4",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutobtn25_1.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 140,
+                        "Scale9Height": 196,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 951,
+                            "Y": 198
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.743,
+                            "Y": 0.275
+                        },
+                        "PreSize": {
+                            "X": 0.1328,
+                            "Y": 0.3028
+                        },
+                        "LeftMargin": 951,
+                        "RightMargin": 159,
+                        "TopMargin": 304,
+                        "BottomMargin": 198,
+                        "Tag": 511,
+                        "ActionTag": -954649458,
+                        "Size": {
+                            "X": 170,
+                            "Y": 218
+                        },
+                        "Name": "btnBox5",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_boxcover.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 222.9972,
+                            "Y": 307
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1742,
+                            "Y": 0.4264
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.2361
+                        },
+                        "LeftMargin": 173.9972,
+                        "RightMargin": 1008.0028,
+                        "TopMargin": 328,
+                        "BottomMargin": 222,
+                        "Tag": 512,
+                        "ActionTag": 1694788925,
+                        "Size": {
+                            "X": 98,
+                            "Y": 170
+                        },
+                        "Name": "sprBoxCover1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_boxcover.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 420.9997,
+                            "Y": 307.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3289,
+                            "Y": 0.4264
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.2361
+                        },
+                        "LeftMargin": 371.9997,
+                        "RightMargin": 810.0003,
+                        "TopMargin": 327.9998,
+                        "BottomMargin": 222.0002,
+                        "Tag": 513,
+                        "ActionTag": 879637927,
+                        "Size": {
+                            "X": 98,
+                            "Y": 170
+                        },
+                        "Name": "sprBoxCover2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_boxcover.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 619,
+                            "Y": 307.0009
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4836,
+                            "Y": 0.4264
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.2361
+                        },
+                        "LeftMargin": 570,
+                        "RightMargin": 612,
+                        "TopMargin": 327.9991,
+                        "BottomMargin": 222.0009,
+                        "Tag": 514,
+                        "ActionTag": 1033449556,
+                        "Size": {
+                            "X": 98,
+                            "Y": 170
+                        },
+                        "Name": "sprBoxCover3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_boxcover.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 817,
+                            "Y": 307.001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6383,
+                            "Y": 0.4264
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.2361
+                        },
+                        "LeftMargin": 768,
+                        "RightMargin": 414,
+                        "TopMargin": 327.999,
+                        "BottomMargin": 222.001,
+                        "Tag": 515,
+                        "ActionTag": -1265690195,
+                        "Size": {
+                            "X": 98,
+                            "Y": 170
+                        },
+                        "Name": "sprBoxCover4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "narutoimg_boxcover.png",
+                            "Plist": "narutopngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1015,
+                            "Y": 307.0011
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.793,
+                            "Y": 0.4264
+                        },
+                        "PreSize": {
+                            "X": 0.0766,
+                            "Y": 0.2361
+                        },
+                        "LeftMargin": 966,
+                        "RightMargin": 216,
+                        "TopMargin": 327.9989,
+                        "BottomMargin": 222.0011,
+                        "Tag": 516,
+                        "ActionTag": -145899907,
+                        "Size": {
+                            "X": 98,
+                            "Y": 170
+                        },
+                        "Name": "sprBoxCover5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "8",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "narutofon4.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 550,
+                            "Y": 120.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4297,
+                            "Y": 0.1667
+                        },
+                        "PreSize": {
+                            "X": 0.0328,
+                            "Y": 0.0833
+                        },
+                        "LeftMargin": 550,
+                        "RightMargin": 688,
+                        "TopMargin": 569.9999,
+                        "BottomMargin": 90.0001,
+                        "Tag": 517,
+                        "ActionTag": -615292698,
+                        "Size": {
+                            "X": 42,
+                            "Y": 60
+                        },
+                        "Name": "textFreeNum",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "X2",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "narutofon4.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 818.0018,
+                            "Y": 120.0005
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6391,
+                            "Y": 0.1667
+                        },
+                        "PreSize": {
+                            "X": 0.0672,
+                            "Y": 0.0833
+                        },
+                        "LeftMargin": 818.0018,
+                        "RightMargin": 375.9982,
+                        "TopMargin": 569.9995,
+                        "BottomMargin": 90.0005,
+                        "Tag": 518,
+                        "ActionTag": -1378723607,
+                        "Size": {
+                            "X": 86,
+                            "Y": 60
+                        },
+                        "Name": "textFreeMul",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 223,
+                            "Y": 307
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.1742,
+                            "Y": 0.4264
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 223,
+                        "RightMargin": 1057,
+                        "TopMargin": 413,
+                        "BottomMargin": 307,
+                        "Tag": 519,
+                        "ActionTag": -1098685138,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodBoxAni1",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 421,
+                            "Y": 307
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.3289,
+                            "Y": 0.4264
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 421,
+                        "RightMargin": 859,
+                        "TopMargin": 413,
+                        "BottomMargin": 307,
+                        "Tag": 520,
+                        "ActionTag": -264361707,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodBoxAni2",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 619,
+                            "Y": 307
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.4836,
+                            "Y": 0.4264
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 619,
+                        "RightMargin": 661,
+                        "TopMargin": 413,
+                        "BottomMargin": 307,
+                        "Tag": 521,
+                        "ActionTag": -567673061,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodBoxAni3",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 817,
+                            "Y": 307
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.6383,
+                            "Y": 0.4264
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 817,
+                        "RightMargin": 463,
+                        "TopMargin": 413,
+                        "BottomMargin": 307,
+                        "Tag": 522,
+                        "ActionTag": 562020200,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodBoxAni4",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1015,
+                            "Y": 307
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.793,
+                            "Y": 0.4264
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 1015,
+                        "RightMargin": 265,
+                        "TopMargin": 413,
+                        "BottomMargin": 307,
+                        "Tag": 523,
+                        "ActionTag": 344809875,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodBoxAni5",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "narutofon4.fnt",
+                "narutofon4.png",
+                "narutojpgres.jpg",
+                "narutojpgres.plist",
+                "narutopngres.plist",
+                "narutopngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

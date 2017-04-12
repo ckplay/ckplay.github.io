@@ -1,0 +1,298 @@
+{
+    "ID": "61aef63e-a9d6-443f-b48f-00e8455bc164",
+    "Version": "2.3.4",
+    "Name": "soundtipslayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 60,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -2108059674,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 59,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 60,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -2108059674,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 59,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 60,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -2108059674,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 59,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 60,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 262,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 265,
+                        "ActionTag": -2108059674,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "layClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof14_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof14_002.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof14_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 27,
+                        "Scale9Height": 33,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 11,
+                            "Y": 23
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0086,
+                            "Y": 0.0319
+                        },
+                        "PreSize": {
+                            "X": 0.043,
+                            "Y": 0.0764
+                        },
+                        "LeftMargin": 11,
+                        "RightMargin": 1214,
+                        "TopMargin": 642,
+                        "BottomMargin": 23,
+                        "Tag": 264,
+                        "ActionTag": 1368197181,
+                        "Size": {
+                            "X": 55,
+                            "Y": 55
+                        },
+                        "Name": "btnCloseSound",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "img_kofopensoudn.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 66.0001,
+                            "Y": 6.0006
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0516,
+                            "Y": 0.0083
+                        },
+                        "PreSize": {
+                            "X": 0.1875,
+                            "Y": 0.1083
+                        },
+                        "LeftMargin": 66.0001,
+                        "RightMargin": 973.9999,
+                        "TopMargin": 635.9994,
+                        "BottomMargin": 6.0006,
+                        "Tag": 263,
+                        "ActionTag": -1210489950,
+                        "Size": {
+                            "X": 240,
+                            "Y": 78
+                        },
+                        "Name": "img_opensoudn_1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "kofpngres.plist",
+                "kofpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

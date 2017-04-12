@@ -1,0 +1,136 @@
+{
+    "ID": "1fc523fd-34f2-4663-bd01-70594bfe0fc0",
+    "Version": "2.3.4",
+    "Name": "kofrunani6",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 4,
+                "Speed": 0.1333,
+                "Timelines": [
+                    {
+                        "ActionTag": 1485608452,
+                        "Property": "FileData",
+                        "Frames": [
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "mt.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "FrameIndex": 0,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "mt_1.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "FrameIndex": 1,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "mt_2.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "FrameIndex": 2,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "mt_3.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "FrameIndex": 3,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "mt_4.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "FrameIndex": 4,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 393,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "mt_2.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -23,
+                        "RightMargin": -23,
+                        "TopMargin": -23,
+                        "BottomMargin": -23,
+                        "Tag": 397,
+                        "ActionTag": 1485608452,
+                        "Size": {
+                            "X": 166,
+                            "Y": 126
+                        },
+                        "Name": "Sprite_1",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "kofpngres.plist",
+                "kofpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

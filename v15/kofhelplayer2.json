@@ -1,0 +1,4261 @@
+{
+    "ID": "ced89d04-5b24-4a7a-b402-622361332cd2",
+    "Version": "2.3.4",
+    "Name": "kofhelplayer2",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [
+                    {
+                        "ActionTag": -319522165,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 0.0001,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -319522165,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 1,
+                                "Y": 1,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -319522165,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 161,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 76,
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback1.jpg",
+                            "Plist": "kofjpgres.plist"
+                        },
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1280,
+                        "Scale9Height": 720,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0.0001,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "LeftMargin": 0.0001,
+                        "RightMargin": -0.0001,
+                        "Tag": 209,
+                        "ActionTag": -319522165,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "Panel_1",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback27.jpg",
+                            "Plist": "kofjpgres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 211.9983,
+                            "Y": 26
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1656,
+                            "Y": 0.0361
+                        },
+                        "PreSize": {
+                            "X": 0.6812,
+                            "Y": 0.1278
+                        },
+                        "LeftMargin": 211.9983,
+                        "RightMargin": 196.0017,
+                        "TopMargin": 602,
+                        "BottomMargin": 26,
+                        "Tag": 210,
+                        "ActionTag": 107963297,
+                        "Size": {
+                            "X": 872,
+                            "Y": 92
+                        },
+                        "Name": "helpback27_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof25_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof25_002.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof25_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 112,
+                        "Scale9Height": 23,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 4.0001,
+                            "Y": 25.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0031,
+                            "Y": 0.0347
+                        },
+                        "PreSize": {
+                            "X": 0.1109,
+                            "Y": 0.0625
+                        },
+                        "LeftMargin": 4.0001,
+                        "RightMargin": 1133.9999,
+                        "TopMargin": 649.9999,
+                        "BottomMargin": 25.0001,
+                        "Tag": 211,
+                        "ActionTag": -1533497748,
+                        "Size": {
+                            "X": 142,
+                            "Y": 45
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof27_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof27_002.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof27_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 112,
+                        "Scale9Height": 23,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1124,
+                            "Y": 25.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8781,
+                            "Y": 0.0347
+                        },
+                        "PreSize": {
+                            "X": 0.1109,
+                            "Y": 0.0625
+                        },
+                        "LeftMargin": 1124,
+                        "RightMargin": 14,
+                        "TopMargin": 649.9999,
+                        "BottomMargin": 25.0001,
+                        "Tag": 212,
+                        "ActionTag": -1583789361,
+                        "Size": {
+                            "X": 142,
+                            "Y": 45
+                        },
+                        "Name": "btnNext",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback26.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 526.0018,
+                            "Y": 607.0015
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4109,
+                            "Y": 0.8431
+                        },
+                        "PreSize": {
+                            "X": 0.1852,
+                            "Y": 0.1333
+                        },
+                        "LeftMargin": 526.0018,
+                        "RightMargin": 516.9982,
+                        "TopMargin": 16.9985,
+                        "BottomMargin": 607.0015,
+                        "Tag": 213,
+                        "ActionTag": -1990004529,
+                        "Size": {
+                            "X": 237,
+                            "Y": 96
+                        },
+                        "Name": "helpback26_5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback29.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 198.0001,
+                            "Y": 381
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1547,
+                            "Y": 0.5292
+                        },
+                        "PreSize": {
+                            "X": 0.2727,
+                            "Y": 0.3083
+                        },
+                        "LeftMargin": 198.0001,
+                        "RightMargin": 732.9999,
+                        "TopMargin": 117,
+                        "BottomMargin": 381,
+                        "Tag": 214,
+                        "ActionTag": 2025320299,
+                        "Size": {
+                            "X": 349,
+                            "Y": 222
+                        },
+                        "Name": "helpback29_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback29.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 735.0214,
+                            "Y": 381.0003
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5742,
+                            "Y": 0.5292
+                        },
+                        "PreSize": {
+                            "X": 0.2727,
+                            "Y": 0.3083
+                        },
+                        "LeftMargin": 735.0214,
+                        "RightMargin": 195.9785,
+                        "TopMargin": 116.9997,
+                        "BottomMargin": 381.0003,
+                        "Tag": 215,
+                        "ActionTag": 284823693,
+                        "Size": {
+                            "X": 349,
+                            "Y": 222
+                        },
+                        "Name": "helpback29_6_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback29.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 198,
+                            "Y": 139.0008
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1547,
+                            "Y": 0.1931
+                        },
+                        "PreSize": {
+                            "X": 0.2727,
+                            "Y": 0.3083
+                        },
+                        "LeftMargin": 198,
+                        "RightMargin": 733,
+                        "TopMargin": 358.9992,
+                        "BottomMargin": 139.0008,
+                        "Tag": 216,
+                        "ActionTag": 1490527211,
+                        "Size": {
+                            "X": 349,
+                            "Y": 222
+                        },
+                        "Name": "helpback29_6_1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback29.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 735.0219,
+                            "Y": 139.0012
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5742,
+                            "Y": 0.1931
+                        },
+                        "PreSize": {
+                            "X": 0.2727,
+                            "Y": 0.3083
+                        },
+                        "LeftMargin": 735.0219,
+                        "RightMargin": 195.978,
+                        "TopMargin": 358.9988,
+                        "BottomMargin": 139.0012,
+                        "Tag": 217,
+                        "ActionTag": 251758871,
+                        "Size": {
+                            "X": 349,
+                            "Y": 222
+                        },
+                        "Name": "helpback29_6_0_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof8_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9998,
+                            "Y": 534
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.7417
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 144.9998,
+                        "RightMargin": 1084.0002,
+                        "TopMargin": 135,
+                        "BottomMargin": 534,
+                        "Tag": 367,
+                        "ActionTag": -1872697477,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprBlue2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof8_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.999,
+                            "Y": 466.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.6486
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 144.999,
+                        "RightMargin": 1084.001,
+                        "TopMargin": 202.0006,
+                        "BottomMargin": 466.9994,
+                        "Tag": 368,
+                        "ActionTag": 356585061,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprBlue1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof8_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9989,
+                            "Y": 399.9986
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 144.9989,
+                        "RightMargin": 1084.0011,
+                        "TopMargin": 269.0014,
+                        "BottomMargin": 399.9986,
+                        "Tag": 369,
+                        "ActionTag": -966816489,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprBlue3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof8_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9989,
+                            "Y": 290.998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.4042
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 144.9989,
+                        "RightMargin": 1084.0011,
+                        "TopMargin": 378.002,
+                        "BottomMargin": 290.998,
+                        "Tag": 370,
+                        "ActionTag": -911114611,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprBlue6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof8_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9987,
+                            "Y": 156.9977
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.2181
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 144.9987,
+                        "RightMargin": 1084.0013,
+                        "TopMargin": 512.0023,
+                        "BottomMargin": 156.9977,
+                        "Tag": 371,
+                        "ActionTag": -1818779146,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprBlue7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof8_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 681.9993,
+                            "Y": 534
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5328,
+                            "Y": 0.7417
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 681.9993,
+                        "RightMargin": 547.0007,
+                        "TopMargin": 135,
+                        "BottomMargin": 534,
+                        "Tag": 372,
+                        "ActionTag": 1853846038,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprBlue4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof8_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 681.998,
+                            "Y": 399.9986
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5328,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 681.998,
+                        "RightMargin": 547.002,
+                        "TopMargin": 269.0014,
+                        "BottomMargin": 399.9986,
+                        "Tag": 373,
+                        "ActionTag": -276833802,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprBlue5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof8_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 681.9981,
+                            "Y": 255
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5328,
+                            "Y": 0.3542
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 681.9981,
+                        "RightMargin": 547.0019,
+                        "TopMargin": 414,
+                        "BottomMargin": 255,
+                        "Tag": 374,
+                        "ActionTag": -2100473274,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprBlue8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof8_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 681.9982,
+                            "Y": 202
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5328,
+                            "Y": 0.2806
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 681.9982,
+                        "RightMargin": 547.0018,
+                        "TopMargin": 467,
+                        "BottomMargin": 202,
+                        "Tag": 375,
+                        "ActionTag": 497105622,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprBlue9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof9_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 549,
+                            "Y": 534.0012
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4289,
+                            "Y": 0.7417
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 549,
+                        "RightMargin": 680,
+                        "TopMargin": 134.9988,
+                        "BottomMargin": 534.0012,
+                        "Tag": 376,
+                        "ActionTag": 8860473,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprRed2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof9_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 549,
+                            "Y": 467
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4289,
+                            "Y": 0.6486
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 549,
+                        "RightMargin": 680,
+                        "TopMargin": 202,
+                        "BottomMargin": 467,
+                        "Tag": 377,
+                        "ActionTag": -812540094,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprRed1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof9_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 549,
+                            "Y": 399.9991
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4289,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 549,
+                        "RightMargin": 680,
+                        "TopMargin": 269.0009,
+                        "BottomMargin": 399.9991,
+                        "Tag": 378,
+                        "ActionTag": 276750901,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprRed3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof9_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 549,
+                            "Y": 290.998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4289,
+                            "Y": 0.4042
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 549,
+                        "RightMargin": 680,
+                        "TopMargin": 378.002,
+                        "BottomMargin": 290.998,
+                        "Tag": 379,
+                        "ActionTag": -705716191,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprRed6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof9_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 549,
+                            "Y": 157.551
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4289,
+                            "Y": 0.2188
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 549,
+                        "RightMargin": 680,
+                        "TopMargin": 511.449,
+                        "BottomMargin": 157.551,
+                        "Tag": 380,
+                        "ActionTag": -1937531871,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprRed7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof9_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1086,
+                            "Y": 534
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8484,
+                            "Y": 0.7417
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 1086,
+                        "RightMargin": 143,
+                        "TopMargin": 135,
+                        "BottomMargin": 534,
+                        "Tag": 381,
+                        "ActionTag": -1279968321,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprRed4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof9_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1086,
+                            "Y": 400
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8484,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 1086,
+                        "RightMargin": 143,
+                        "TopMargin": 269,
+                        "BottomMargin": 400,
+                        "Tag": 382,
+                        "ActionTag": 468319628,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprRed5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof9_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1086,
+                            "Y": 255
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8484,
+                            "Y": 0.3542
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 1086,
+                        "RightMargin": 143,
+                        "TopMargin": 414,
+                        "BottomMargin": 255,
+                        "Tag": 383,
+                        "ActionTag": -844936272,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprRed8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof9_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1086,
+                            "Y": 202
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8484,
+                            "Y": 0.2806
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 1086,
+                        "RightMargin": 143,
+                        "TopMargin": 467,
+                        "BottomMargin": 202,
+                        "Tag": 384,
+                        "ActionTag": 550085407,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprRed9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9998,
+                            "Y": 533.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.7417
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 144.9998,
+                        "RightMargin": 1084.0002,
+                        "TopMargin": 135.0003,
+                        "BottomMargin": 533.9997,
+                        "Tag": 385,
+                        "ActionTag": 1902034943,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLBlue2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9991,
+                            "Y": 466.9993
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.6486
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 144.9991,
+                        "RightMargin": 1084.0009,
+                        "TopMargin": 202.0007,
+                        "BottomMargin": 466.9993,
+                        "Tag": 386,
+                        "ActionTag": -1980683150,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLBlue1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9989,
+                            "Y": 399.9984
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 144.9989,
+                        "RightMargin": 1084.0011,
+                        "TopMargin": 269.0016,
+                        "BottomMargin": 399.9984,
+                        "Tag": 387,
+                        "ActionTag": 2059967327,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLBlue3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9989,
+                            "Y": 290.9979
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.4042
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 144.9989,
+                        "RightMargin": 1084.0011,
+                        "TopMargin": 378.0021,
+                        "BottomMargin": 290.9979,
+                        "Tag": 388,
+                        "ActionTag": -1743600432,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLBlue6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 144.9989,
+                            "Y": 156.9977
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1133,
+                            "Y": 0.2181
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 144.9989,
+                        "RightMargin": 1084.0011,
+                        "TopMargin": 512.0023,
+                        "BottomMargin": 156.9977,
+                        "Tag": 389,
+                        "ActionTag": -188769105,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLBlue7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 681.9981,
+                            "Y": 533.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5328,
+                            "Y": 0.7417
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 681.9981,
+                        "RightMargin": 547.0019,
+                        "TopMargin": 135.0003,
+                        "BottomMargin": 533.9997,
+                        "Tag": 390,
+                        "ActionTag": -1410054650,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLBlue4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 681.9971,
+                            "Y": 399.9987
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5328,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 681.9971,
+                        "RightMargin": 547.0029,
+                        "TopMargin": 269.0013,
+                        "BottomMargin": 399.9987,
+                        "Tag": 391,
+                        "ActionTag": 15431496,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLBlue5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 681.9971,
+                            "Y": 255
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5328,
+                            "Y": 0.3542
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 681.9971,
+                        "RightMargin": 547.0029,
+                        "TopMargin": 414,
+                        "BottomMargin": 255,
+                        "Tag": 392,
+                        "ActionTag": -624686501,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLBlue8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 681.9971,
+                            "Y": 202
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5328,
+                            "Y": 0.2806
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 681.9971,
+                        "RightMargin": 547.0029,
+                        "TopMargin": 467,
+                        "BottomMargin": 202,
+                        "Tag": 393,
+                        "ActionTag": -2090519781,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLBlue9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 548.9988,
+                            "Y": 534.0012
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4289,
+                            "Y": 0.7417
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 548.9988,
+                        "RightMargin": 680.0012,
+                        "TopMargin": 134.9988,
+                        "BottomMargin": 534.0012,
+                        "Tag": 394,
+                        "ActionTag": 502400186,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLRed2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 548.9988,
+                            "Y": 466.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4289,
+                            "Y": 0.6486
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 548.9988,
+                        "RightMargin": 680.0012,
+                        "TopMargin": 202.0001,
+                        "BottomMargin": 466.9999,
+                        "Tag": 395,
+                        "ActionTag": -1338087775,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLRed1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 548.9988,
+                            "Y": 399.9991
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4289,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 548.9988,
+                        "RightMargin": 680.0012,
+                        "TopMargin": 269.0009,
+                        "BottomMargin": 399.9991,
+                        "Tag": 396,
+                        "ActionTag": 1703658517,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLRed3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 548.9988,
+                            "Y": 290.9981
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4289,
+                            "Y": 0.4042
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 548.9988,
+                        "RightMargin": 680.0012,
+                        "TopMargin": 378.0019,
+                        "BottomMargin": 290.9981,
+                        "Tag": 397,
+                        "ActionTag": -1077244657,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLRed6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 548.9988,
+                            "Y": 157.551
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4289,
+                            "Y": 0.2188
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 548.9988,
+                        "RightMargin": 680.0012,
+                        "TopMargin": 511.449,
+                        "BottomMargin": 157.551,
+                        "Tag": 398,
+                        "ActionTag": -699315472,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLRed7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1085.9995,
+                            "Y": 533.9997
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8484,
+                            "Y": 0.7417
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 1085.9995,
+                        "RightMargin": 143.0005,
+                        "TopMargin": 135.0003,
+                        "BottomMargin": 533.9997,
+                        "Tag": 399,
+                        "ActionTag": -450513211,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLRed4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1085.9995,
+                            "Y": 399.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8484,
+                            "Y": 0.5556
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 1085.9995,
+                        "RightMargin": 143.0005,
+                        "TopMargin": 269.0001,
+                        "BottomMargin": 399.9999,
+                        "Tag": 400,
+                        "ActionTag": -674613680,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLRed5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1085.9995,
+                            "Y": 255
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8484,
+                            "Y": 0.3542
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 1085.9995,
+                        "RightMargin": 143.0005,
+                        "TopMargin": 414,
+                        "BottomMargin": 255,
+                        "Tag": 401,
+                        "ActionTag": -1336680143,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLRed8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "btnkof22_001.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1085.9995,
+                            "Y": 202
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8484,
+                            "Y": 0.2806
+                        },
+                        "PreSize": {
+                            "X": 0.0398,
+                            "Y": 0.0708
+                        },
+                        "LeftMargin": 1085.9995,
+                        "RightMargin": 143.0005,
+                        "TopMargin": 467,
+                        "BottomMargin": 202,
+                        "Tag": 402,
+                        "ActionTag": 910703500,
+                        "Size": {
+                            "X": 51,
+                            "Y": 51
+                        },
+                        "Name": "sprLRed9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "LabelText": "1",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 171.0001,
+                            "Y": 489.9984
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1336,
+                            "Y": 0.6806
+                        },
+                        "PreSize": {
+                            "X": 0.0094,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 165.0001,
+                        "RightMargin": 1102.9999,
+                        "TopMargin": 220.0016,
+                        "BottomMargin": 479.9984,
+                        "Tag": 403,
+                        "ActionTag": -147408548,
+                        "Size": {
+                            "X": 12,
+                            "Y": 20
+                        },
+                        "Name": "textBlue1",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "2",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 173.0001,
+                            "Y": 558.0006
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1352,
+                            "Y": 0.775
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 161.5001,
+                        "RightMargin": 1095.4999,
+                        "TopMargin": 151.9994,
+                        "BottomMargin": 548.0006,
+                        "Tag": 404,
+                        "ActionTag": 500992612,
+                        "Size": {
+                            "X": 23,
+                            "Y": 20
+                        },
+                        "Name": "textBlue2",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "3",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 173.0001,
+                            "Y": 423
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1352,
+                            "Y": 0.5875
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 161.5001,
+                        "RightMargin": 1095.4999,
+                        "TopMargin": 287,
+                        "BottomMargin": 413,
+                        "Tag": 405,
+                        "ActionTag": 164037176,
+                        "Size": {
+                            "X": 23,
+                            "Y": 20
+                        },
+                        "Name": "textBlue3",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "6",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 173.0006,
+                            "Y": 315.0089
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1352,
+                            "Y": 0.4375
+                        },
+                        "PreSize": {
+                            "X": 0.0188,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 161.0006,
+                        "RightMargin": 1094.9994,
+                        "TopMargin": 394.9911,
+                        "BottomMargin": 305.0089,
+                        "Tag": 406,
+                        "ActionTag": -1077496724,
+                        "Size": {
+                            "X": 24,
+                            "Y": 20
+                        },
+                        "Name": "textBlue6",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "7",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 172.0006,
+                            "Y": 180.01
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1344,
+                            "Y": 0.25
+                        },
+                        "PreSize": {
+                            "X": 0.0188,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 160.0006,
+                        "RightMargin": 1095.9994,
+                        "TopMargin": 529.99,
+                        "BottomMargin": 170.01,
+                        "Tag": 407,
+                        "ActionTag": -671004662,
+                        "Size": {
+                            "X": 24,
+                            "Y": 20
+                        },
+                        "Name": "textBlue7",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "4",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 709,
+                            "Y": 557.0023
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5539,
+                            "Y": 0.7736
+                        },
+                        "PreSize": {
+                            "X": 0.0188,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 697,
+                        "RightMargin": 559,
+                        "TopMargin": 152.9977,
+                        "BottomMargin": 547.0023,
+                        "Tag": 408,
+                        "ActionTag": 36225256,
+                        "Size": {
+                            "X": 24,
+                            "Y": 20
+                        },
+                        "Name": "textBlue4",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "5",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 710,
+                            "Y": 423
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5547,
+                            "Y": 0.5875
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 698.5,
+                        "RightMargin": 558.5,
+                        "TopMargin": 287,
+                        "BottomMargin": 413,
+                        "Tag": 409,
+                        "ActionTag": -821216929,
+                        "Size": {
+                            "X": 23,
+                            "Y": 20
+                        },
+                        "Name": "textBlue5",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "8",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 709.0002,
+                            "Y": 278.0038
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5539,
+                            "Y": 0.3861
+                        },
+                        "PreSize": {
+                            "X": 0.0188,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 697.0002,
+                        "RightMargin": 558.9998,
+                        "TopMargin": 431.9962,
+                        "BottomMargin": 268.0038,
+                        "Tag": 410,
+                        "ActionTag": -108217778,
+                        "Size": {
+                            "X": 24,
+                            "Y": 20
+                        },
+                        "Name": "textBlue8",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "9",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 709.0004,
+                            "Y": 226.005
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5539,
+                            "Y": 0.3139
+                        },
+                        "PreSize": {
+                            "X": 0.0188,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 697.0004,
+                        "RightMargin": 558.9996,
+                        "TopMargin": 483.995,
+                        "BottomMargin": 216.005,
+                        "Tag": 411,
+                        "ActionTag": 4540219,
+                        "Size": {
+                            "X": 24,
+                            "Y": 20
+                        },
+                        "Name": "textBlue9",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "1",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 575,
+                            "Y": 490.001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4492,
+                            "Y": 0.6806
+                        },
+                        "PreSize": {
+                            "X": 0.0094,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 569,
+                        "RightMargin": 699,
+                        "TopMargin": 219.999,
+                        "BottomMargin": 480.001,
+                        "Tag": 412,
+                        "ActionTag": 2008577357,
+                        "Size": {
+                            "X": 12,
+                            "Y": 20
+                        },
+                        "Name": "textRed1",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "2",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 577,
+                            "Y": 558
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4508,
+                            "Y": 0.775
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 565.5,
+                        "RightMargin": 691.5,
+                        "TopMargin": 152,
+                        "BottomMargin": 548,
+                        "Tag": 413,
+                        "ActionTag": 1706744349,
+                        "Size": {
+                            "X": 23,
+                            "Y": 20
+                        },
+                        "Name": "textRed2",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "3",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5633,
+                            "ScaleY": 0.5884
+                        },
+                        "Position": {
+                            "X": 578.0001,
+                            "Y": 425
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4516,
+                            "Y": 0.5903
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 565.0443,
+                        "RightMargin": 691.9557,
+                        "TopMargin": 286.768,
+                        "BottomMargin": 413.232,
+                        "Tag": 414,
+                        "ActionTag": -392206934,
+                        "Size": {
+                            "X": 23,
+                            "Y": 20
+                        },
+                        "Name": "textRed3",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "6",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 577,
+                            "Y": 315
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4508,
+                            "Y": 0.4375
+                        },
+                        "PreSize": {
+                            "X": 0.0188,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 565,
+                        "RightMargin": 691,
+                        "TopMargin": 395,
+                        "BottomMargin": 305,
+                        "Tag": 415,
+                        "ActionTag": 106208615,
+                        "Size": {
+                            "X": 24,
+                            "Y": 20
+                        },
+                        "Name": "textRed6",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "7",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 576,
+                            "Y": 180
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.45,
+                            "Y": 0.25
+                        },
+                        "PreSize": {
+                            "X": 0.0188,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 564,
+                        "RightMargin": 692,
+                        "TopMargin": 530,
+                        "BottomMargin": 170,
+                        "Tag": 416,
+                        "ActionTag": 1919944584,
+                        "Size": {
+                            "X": 24,
+                            "Y": 20
+                        },
+                        "Name": "textRed7",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "4",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1113,
+                            "Y": 557
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8695,
+                            "Y": 0.7736
+                        },
+                        "PreSize": {
+                            "X": 0.0188,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 1101,
+                        "RightMargin": 155,
+                        "TopMargin": 153,
+                        "BottomMargin": 547,
+                        "Tag": 417,
+                        "ActionTag": -1527308421,
+                        "Size": {
+                            "X": 24,
+                            "Y": 20
+                        },
+                        "Name": "textRed4",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "5",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1114,
+                            "Y": 423.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8703,
+                            "Y": 0.5875
+                        },
+                        "PreSize": {
+                            "X": 0.018,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 1102.5,
+                        "RightMargin": 154.5,
+                        "TopMargin": 286.9996,
+                        "BottomMargin": 413.0004,
+                        "Tag": 418,
+                        "ActionTag": 431307097,
+                        "Size": {
+                            "X": 23,
+                            "Y": 20
+                        },
+                        "Name": "textRed5",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "8",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1113,
+                            "Y": 278
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8695,
+                            "Y": 0.3861
+                        },
+                        "PreSize": {
+                            "X": 0.0188,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 1101,
+                        "RightMargin": 155,
+                        "TopMargin": 432,
+                        "BottomMargin": 268,
+                        "Tag": 419,
+                        "ActionTag": -1877454357,
+                        "Size": {
+                            "X": 24,
+                            "Y": 20
+                        },
+                        "Name": "textRed8",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "LabelText": "9",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "gamefont1.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1113,
+                            "Y": 226
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8695,
+                            "Y": 0.3139
+                        },
+                        "PreSize": {
+                            "X": 0.0188,
+                            "Y": 0.0278
+                        },
+                        "LeftMargin": 1101,
+                        "RightMargin": 155,
+                        "TopMargin": 484,
+                        "BottomMargin": 216,
+                        "Tag": 420,
+                        "ActionTag": -118967418,
+                        "Size": {
+                            "X": 24,
+                            "Y": 20
+                        },
+                        "Name": "textRed9",
+                        "ctype": "TextBMFontObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback28.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 105.0006,
+                            "Y": 560
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.082,
+                            "Y": 0.7778
+                        },
+                        "PreSize": {
+                            "X": 0.0641,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 64.0006,
+                        "RightMargin": 1133.9994,
+                        "TopMargin": 145,
+                        "BottomMargin": 545,
+                        "Tag": 421,
+                        "ActionTag": 804353319,
+                        "Size": {
+                            "X": 82,
+                            "Y": 30
+                        },
+                        "Name": "sprWin2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback28.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 105.0007,
+                            "Y": 493.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.082,
+                            "Y": 0.6847
+                        },
+                        "PreSize": {
+                            "X": 0.0641,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 64.0007,
+                        "RightMargin": 1133.9993,
+                        "TopMargin": 211.9996,
+                        "BottomMargin": 478.0004,
+                        "Tag": 422,
+                        "ActionTag": -1809280277,
+                        "Size": {
+                            "X": 82,
+                            "Y": 30
+                        },
+                        "Name": "sprWin1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback28.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 105.0005,
+                            "Y": 425.0005
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.082,
+                            "Y": 0.5903
+                        },
+                        "PreSize": {
+                            "X": 0.0641,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 64.0005,
+                        "RightMargin": 1133.9995,
+                        "TopMargin": 279.9995,
+                        "BottomMargin": 410.0005,
+                        "Tag": 423,
+                        "ActionTag": 1777714815,
+                        "Size": {
+                            "X": 82,
+                            "Y": 30
+                        },
+                        "Name": "sprWin3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback28.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 105.0007,
+                            "Y": 317.0003
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.082,
+                            "Y": 0.4403
+                        },
+                        "PreSize": {
+                            "X": 0.0641,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 64.0007,
+                        "RightMargin": 1133.9993,
+                        "TopMargin": 387.9997,
+                        "BottomMargin": 302.0003,
+                        "Tag": 424,
+                        "ActionTag": 1392664518,
+                        "Size": {
+                            "X": 82,
+                            "Y": 30
+                        },
+                        "Name": "sprWin6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback28.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 105.0005,
+                            "Y": 181.9995
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.082,
+                            "Y": 0.2528
+                        },
+                        "PreSize": {
+                            "X": 0.0641,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 64.0005,
+                        "RightMargin": 1133.9995,
+                        "TopMargin": 523.0005,
+                        "BottomMargin": 166.9995,
+                        "Tag": 425,
+                        "ActionTag": 789356123,
+                        "Size": {
+                            "X": 82,
+                            "Y": 30
+                        },
+                        "Name": "sprWin7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback28.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1176.0001,
+                            "Y": 560.002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9188,
+                            "Y": 0.7778
+                        },
+                        "PreSize": {
+                            "X": 0.0641,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 1135.0001,
+                        "RightMargin": 62.9999,
+                        "TopMargin": 144.998,
+                        "BottomMargin": 545.002,
+                        "Tag": 426,
+                        "ActionTag": 2029993420,
+                        "Size": {
+                            "X": 82,
+                            "Y": 30
+                        },
+                        "Name": "sprWin4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback28.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1176.0001,
+                            "Y": 425.0007
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9188,
+                            "Y": 0.5903
+                        },
+                        "PreSize": {
+                            "X": 0.0641,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 1135.0001,
+                        "RightMargin": 62.9999,
+                        "TopMargin": 279.9993,
+                        "BottomMargin": 410.0007,
+                        "Tag": 427,
+                        "ActionTag": -530969636,
+                        "Size": {
+                            "X": 82,
+                            "Y": 30
+                        },
+                        "Name": "sprWin5",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback28.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1176,
+                            "Y": 278.9958
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9187,
+                            "Y": 0.3875
+                        },
+                        "PreSize": {
+                            "X": 0.0641,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 1135,
+                        "RightMargin": 63,
+                        "TopMargin": 426.0042,
+                        "BottomMargin": 263.9958,
+                        "Tag": 428,
+                        "ActionTag": -640899645,
+                        "Size": {
+                            "X": 82,
+                            "Y": 30
+                        },
+                        "Name": "sprWin8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "helpback28.png",
+                            "Plist": "kofpngres.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 1176,
+                            "Y": 227.996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9187,
+                            "Y": 0.3167
+                        },
+                        "PreSize": {
+                            "X": 0.0641,
+                            "Y": 0.0417
+                        },
+                        "LeftMargin": 1135,
+                        "RightMargin": 63,
+                        "TopMargin": 477.004,
+                        "BottomMargin": 212.996,
+                        "Tag": 429,
+                        "ActionTag": -1883679752,
+                        "Size": {
+                            "X": 82,
+                            "Y": 30
+                        },
+                        "Name": "sprWin9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 164,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline1.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 233.9996,
+                                    "Y": 485.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 233.9996,
+                                "RightMargin": -373.9996,
+                                "TopMargin": -499.9991,
+                                "BottomMargin": 485.9991,
+                                "Tag": 218,
+                                "ActionTag": 1782855514,
+                                "Size": {
+                                    "X": 140,
+                                    "Y": 14
+                                },
+                                "Name": "sprLine1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline1.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 514,
+                                    "Y": 485.9991
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 514,
+                                "RightMargin": -654,
+                                "TopMargin": -499.9991,
+                                "BottomMargin": 485.9991,
+                                "Tag": 173,
+                                "ActionTag": -15841838,
+                                "Size": {
+                                    "X": 140,
+                                    "Y": 14
+                                },
+                                "Name": "sprLine1_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -665660179,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine1",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 165,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline2.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 233.9996,
+                                    "Y": 554.9985
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 233.9996,
+                                "RightMargin": -373.9996,
+                                "TopMargin": -568.9985,
+                                "BottomMargin": 554.9985,
+                                "Tag": 219,
+                                "ActionTag": -42606550,
+                                "Size": {
+                                    "X": 140,
+                                    "Y": 14
+                                },
+                                "Name": "sprLine2",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline2.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 514,
+                                    "Y": 555
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 514,
+                                "RightMargin": -654,
+                                "TopMargin": -569,
+                                "BottomMargin": 555,
+                                "Tag": 174,
+                                "ActionTag": -869234851,
+                                "Size": {
+                                    "X": 140,
+                                    "Y": 14
+                                },
+                                "Name": "sprLine2_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -319449690,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine2",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 166,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline3.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 233.9996,
+                                    "Y": 416.9996
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 233.9996,
+                                "RightMargin": -373.9996,
+                                "TopMargin": -430.9996,
+                                "BottomMargin": 416.9996,
+                                "Tag": 220,
+                                "ActionTag": 215265366,
+                                "Size": {
+                                    "X": 140,
+                                    "Y": 14
+                                },
+                                "Name": "sprLine3",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline3.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 514,
+                                    "Y": 417
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 514,
+                                "RightMargin": -654,
+                                "TopMargin": -431,
+                                "BottomMargin": 417,
+                                "Tag": 175,
+                                "ActionTag": 1744740108,
+                                "Size": {
+                                    "X": 140,
+                                    "Y": 14
+                                },
+                                "Name": "sprLine3_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -993638275,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine3",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 168,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline5.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 755.0001,
+                                    "Y": 414.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 755.0001,
+                                "RightMargin": -912.0001,
+                                "TopMargin": -568.9999,
+                                "BottomMargin": 414.9999,
+                                "Tag": 222,
+                                "ActionTag": -1507643108,
+                                "Size": {
+                                    "X": 157,
+                                    "Y": 154
+                                },
+                                "Name": "sprLine5",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline5.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 1069,
+                                    "Y": 415
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1069,
+                                "RightMargin": -1226,
+                                "TopMargin": -569,
+                                "BottomMargin": 415,
+                                "Tag": 176,
+                                "ActionTag": -1767737197,
+                                "Size": {
+                                    "X": 157,
+                                    "Y": 154
+                                },
+                                "Name": "sprLine5_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": 476668840,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine5",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 167,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline4.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 755.0002,
+                                    "Y": 413.9998
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 755.0002,
+                                "RightMargin": -912.0002,
+                                "TopMargin": -567.9998,
+                                "BottomMargin": 413.9998,
+                                "Tag": 221,
+                                "ActionTag": -1862414031,
+                                "Size": {
+                                    "X": 157,
+                                    "Y": 154
+                                },
+                                "Name": "sprLine4",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline4.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 1069,
+                                    "Y": 414
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1069,
+                                "RightMargin": -1226,
+                                "TopMargin": -568,
+                                "BottomMargin": 414,
+                                "Tag": 177,
+                                "ActionTag": 596976548,
+                                "Size": {
+                                    "X": 157,
+                                    "Y": 154
+                                },
+                                "Name": "sprLine4_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -895372183,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine4",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 170,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline7.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 232.0005,
+                                    "Y": 170.0001
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 232.0005,
+                                "RightMargin": -372.0005,
+                                "TopMargin": -259.0001,
+                                "BottomMargin": 170.0001,
+                                "Tag": 223,
+                                "ActionTag": 2123734408,
+                                "Size": {
+                                    "X": 140,
+                                    "Y": 89
+                                },
+                                "Name": "sprLine7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline7.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 512,
+                                    "Y": 170
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 512,
+                                "RightMargin": -652,
+                                "TopMargin": -259,
+                                "BottomMargin": 170,
+                                "Tag": 178,
+                                "ActionTag": 1938331321,
+                                "Size": {
+                                    "X": 140,
+                                    "Y": 89
+                                },
+                                "Name": "sprLine7_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -135646090,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine7",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 169,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline6.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 232,
+                                    "Y": 243.9999
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 232,
+                                "RightMargin": -372,
+                                "TopMargin": -332.9999,
+                                "BottomMargin": 243.9999,
+                                "Tag": 224,
+                                "ActionTag": -355285189,
+                                "Size": {
+                                    "X": 140,
+                                    "Y": 89
+                                },
+                                "Name": "sprLine6",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline6.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 512,
+                                    "Y": 244
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 512,
+                                "RightMargin": -652,
+                                "TopMargin": -333,
+                                "BottomMargin": 244,
+                                "Tag": 179,
+                                "ActionTag": 1622489664,
+                                "Size": {
+                                    "X": 140,
+                                    "Y": 89
+                                },
+                                "Name": "sprLine6_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -1991178744,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine6",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 171,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline8.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 753.0007,
+                                    "Y": 260
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 753.0007,
+                                "RightMargin": -910.0007,
+                                "TopMargin": -328,
+                                "BottomMargin": 260,
+                                "Tag": 225,
+                                "ActionTag": 1939230210,
+                                "Size": {
+                                    "X": 157,
+                                    "Y": 68
+                                },
+                                "Name": "sprLine8",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline8.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 1067,
+                                    "Y": 260
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1067,
+                                "RightMargin": -1224,
+                                "TopMargin": -328,
+                                "BottomMargin": 260,
+                                "Tag": 180,
+                                "ActionTag": -920180893,
+                                "Size": {
+                                    "X": 157,
+                                    "Y": 68
+                                },
+                                "Name": "sprLine8_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -1185321391,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine8",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "RightMargin": 1280,
+                        "TopMargin": 720,
+                        "Tag": 172,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline9.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 753.0005,
+                                    "Y": 175
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 753.0005,
+                                "RightMargin": -910.0005,
+                                "TopMargin": -243,
+                                "BottomMargin": 175,
+                                "Tag": 226,
+                                "ActionTag": -2014210575,
+                                "Size": {
+                                    "X": 157,
+                                    "Y": 68
+                                },
+                                "Name": "sprLine9",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "helpline9.png",
+                                    "Plist": "kofpngres.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 1067,
+                                    "Y": 175
+                                },
+                                "Scale": {
+                                    "ScaleX": -1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 1067,
+                                "RightMargin": -1224,
+                                "TopMargin": -243,
+                                "BottomMargin": 175,
+                                "Tag": 181,
+                                "ActionTag": -1139959009,
+                                "Size": {
+                                    "X": 157,
+                                    "Y": 68
+                                },
+                                "Name": "sprLine9_0",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -699180956,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeLine9",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "gamefont1.fnt",
+                "gamefont1.png",
+                "kofjpgres.jpg",
+                "kofjpgres.plist",
+                "kofpngres.plist",
+                "kofpngres.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

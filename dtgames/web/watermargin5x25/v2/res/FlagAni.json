@@ -1,0 +1,195 @@
+{
+  "ID": "e14e4388-6913-4216-bf2c-acc2106689fe",
+  "Version": "3.10.0.0",
+  "Name": "FlagAni",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 10,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": -305451613,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/flag_Ani0.png",
+                  "Plist": "Plist/Plist/iconAni3.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/flag_Ani1.png",
+                  "Plist": "Plist/Plist/iconAni3.plist"
+                },
+                "FrameIndex": 2,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/flag_Ani2.png",
+                  "Plist": "Plist/Plist/iconAni3.plist"
+                },
+                "FrameIndex": 4,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/flag_Ani3.png",
+                  "Plist": "Plist/Plist/iconAni3.plist"
+                },
+                "FrameIndex": 6,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/flag_Ani4.png",
+                  "Plist": "Plist/Plist/iconAni3.plist"
+                },
+                "FrameIndex": 8,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/flag_Ani0.png",
+                  "Plist": "Plist/Plist/iconAni3.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 150,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Texture/Winning/qichi.png",
+              "Plist": "Plist/Plist/main.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.59,
+              "ScaleY": 0.06
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewY": -0.0017,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -136.29,
+            "RightMargin": -94.71,
+            "TopMargin": -262.26,
+            "BottomMargin": -16.74,
+            "Tag": 151,
+            "ActionTag": 1835291495,
+            "Size": {
+              "X": 231.0,
+              "Y": 279.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Flag1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Texture/Clips/flag_Ani0.png",
+              "Plist": "Plist/Plist/iconAni3.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.61,
+              "ScaleY": 0.03
+            },
+            "Position": {
+              "X": 0.3842,
+              "Y": -4.8
+            },
+            "Scale": {
+              "ScaleX": 1.1,
+              "ScaleY": 1.1182
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -144.1858,
+            "RightMargin": -92.8142,
+            "TopMargin": -241.58,
+            "BottomMargin": -12.42,
+            "Tag": 152,
+            "ActionTag": -305451613,
+            "Size": {
+              "X": 237.0,
+              "Y": 254.0
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Plist/Plist/iconAni3.plist",
+        "Plist/Plist/iconAni3.png",
+        "Plist/Plist/main.plist",
+        "Plist/Plist/main.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

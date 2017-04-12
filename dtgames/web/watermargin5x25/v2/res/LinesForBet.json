@@ -1,0 +1,1170 @@
+{
+  "ID": "8fd0a47e-f91c-42f2-9457-daa72925a4cd",
+  "Version": "3.10.0.0",
+  "Name": "LinesForBet",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 175,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/1.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 644.9557
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.5972
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.0037
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 435.0443,
+            "BottomMargin": 640.9557,
+            "Tag": 177,
+            "ActionTag": 1568064263,
+            "Size": {
+              "X": 560.0,
+              "Y": 4.0
+            },
+            "VisibleForFrame": false,
+            "Name": "1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/10.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 857.7993
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.7943
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.2102
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 222.2007,
+            "BottomMargin": 630.7993,
+            "Tag": 178,
+            "ActionTag": 1510930526,
+            "Size": {
+              "X": 560.0,
+              "Y": 227.0
+            },
+            "VisibleForFrame": false,
+            "Name": "10",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/11.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 867.6652
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.8034
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.2111
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 212.3348,
+            "BottomMargin": 639.6652,
+            "Tag": 179,
+            "ActionTag": 289997606,
+            "Size": {
+              "X": 560.0,
+              "Y": 228.0
+            },
+            "VisibleForFrame": false,
+            "Name": "11",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/13.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 680.9182
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.6305
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.1019
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 399.0818,
+            "BottomMargin": 570.9182,
+            "Tag": 180,
+            "ActionTag": 1840470840,
+            "Size": {
+              "X": 560.0,
+              "Y": 110.0
+            },
+            "VisibleForFrame": false,
+            "Name": "13",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/16.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 935.1408
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.8659
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.087
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 144.8592,
+            "BottomMargin": 841.1408,
+            "Tag": 181,
+            "ActionTag": -1006280019,
+            "Size": {
+              "X": 560.0,
+              "Y": 94.0
+            },
+            "VisibleForFrame": false,
+            "Name": "16",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/17.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 531.462
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.4921
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.087
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 548.538,
+            "BottomMargin": 437.462,
+            "Tag": 182,
+            "ActionTag": -182085593,
+            "Size": {
+              "X": 560.0,
+              "Y": 94.0
+            },
+            "VisibleForFrame": false,
+            "Name": "17",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/2.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 931.2173
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.8622
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.0037
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 148.7827,
+            "BottomMargin": 927.2173,
+            "Tag": 183,
+            "ActionTag": 585579342,
+            "Size": {
+              "X": 560.0,
+              "Y": 4.0
+            },
+            "VisibleForFrame": false,
+            "Name": "2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/20.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 815.0541
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.7547
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.1565
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 264.9459,
+            "BottomMargin": 646.0541,
+            "Tag": 184,
+            "ActionTag": 636560117,
+            "Size": {
+              "X": 560.0,
+              "Y": 169.0
+            },
+            "VisibleForFrame": false,
+            "Name": "20",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/21.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 799.4979
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.7403
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.1843
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 280.5021,
+            "BottomMargin": 600.4979,
+            "Tag": 185,
+            "ActionTag": 1695872988,
+            "Size": {
+              "X": 560.0,
+              "Y": 199.0
+            },
+            "VisibleForFrame": false,
+            "Name": "21",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/24.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 894.8948
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.8286
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.2694
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 185.1052,
+            "BottomMargin": 603.8948,
+            "Tag": 186,
+            "ActionTag": 1262062968,
+            "Size": {
+              "X": 560.0,
+              "Y": 291.0
+            },
+            "VisibleForFrame": false,
+            "Name": "24",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/3.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 359.4038
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.3328
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.0037
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 720.5962,
+            "BottomMargin": 355.4038,
+            "Tag": 187,
+            "ActionTag": 1920135801,
+            "Size": {
+              "X": 560.0,
+              "Y": 4.0
+            },
+            "VisibleForFrame": false,
+            "Name": "3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/4.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 989.1533
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.9159
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.2759
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 90.8467,
+            "BottomMargin": 691.1533,
+            "Tag": 188,
+            "ActionTag": 427799384,
+            "Size": {
+              "X": 560.0,
+              "Y": 298.0
+            },
+            "VisibleForFrame": false,
+            "Name": "4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/5.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 120.0,
+              "Y": 894.1267
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0625,
+              "Y": 0.8279
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.2824
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 1240.0,
+            "TopMargin": 185.8733,
+            "BottomMargin": 589.1267,
+            "Tag": 189,
+            "ActionTag": 1859538720,
+            "Size": {
+              "X": 560.0,
+              "Y": 305.0
+            },
+            "VisibleForFrame": false,
+            "Name": "5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/12.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 758.7563
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.7026
+            },
+            "PreSize": {
+              "X": 0.2927,
+              "Y": 0.1
+            },
+            "LeftMargin": 548.0,
+            "RightMargin": 810.0,
+            "TopMargin": 267.2437,
+            "BottomMargin": 704.7563,
+            "Tag": 190,
+            "ActionTag": 735135470,
+            "Size": {
+              "X": 562.0,
+              "Y": 108.0
+            },
+            "VisibleForFrame": false,
+            "Name": "12",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/14.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 844.0104
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.7815
+            },
+            "PreSize": {
+              "X": 0.2927,
+              "Y": 0.138
+            },
+            "LeftMargin": 548.0,
+            "RightMargin": 810.0,
+            "TopMargin": 161.4896,
+            "BottomMargin": 769.5104,
+            "Tag": 191,
+            "ActionTag": -2045715199,
+            "Size": {
+              "X": 562.0,
+              "Y": 149.0
+            },
+            "VisibleForFrame": false,
+            "Name": "14",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/15.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 435.6875
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.4034
+            },
+            "PreSize": {
+              "X": 0.2927,
+              "Y": 0.1389
+            },
+            "LeftMargin": 548.0,
+            "RightMargin": 810.0,
+            "TopMargin": 569.3125,
+            "BottomMargin": 360.6875,
+            "Tag": 192,
+            "ActionTag": -1610959315,
+            "Size": {
+              "X": 562.0,
+              "Y": 150.0
+            },
+            "VisibleForFrame": false,
+            "Name": "15",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/18.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 691.0261
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.6398
+            },
+            "PreSize": {
+              "X": 0.2927,
+              "Y": 0.2213
+            },
+            "LeftMargin": 548.0,
+            "RightMargin": 810.0,
+            "TopMargin": 269.4739,
+            "BottomMargin": 571.5261,
+            "Tag": 193,
+            "ActionTag": -1248905317,
+            "Size": {
+              "X": 562.0,
+              "Y": 239.0
+            },
+            "VisibleForFrame": false,
+            "Name": "18",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/19.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 652.2241
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.6039
+            },
+            "PreSize": {
+              "X": 0.2927,
+              "Y": 0.2213
+            },
+            "LeftMargin": 548.0,
+            "RightMargin": 810.0,
+            "TopMargin": 308.2759,
+            "BottomMargin": 532.7241,
+            "Tag": 194,
+            "ActionTag": -759113451,
+            "Size": {
+              "X": 562.0,
+              "Y": 239.0
+            },
+            "VisibleForFrame": false,
+            "Name": "19",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/22.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 684.5396
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.6338
+            },
+            "PreSize": {
+              "X": 0.2927,
+              "Y": 0.2407
+            },
+            "LeftMargin": 548.0,
+            "RightMargin": 810.0,
+            "TopMargin": 265.4604,
+            "BottomMargin": 554.5396,
+            "Tag": 195,
+            "ActionTag": 2024544595,
+            "Size": {
+              "X": 562.0,
+              "Y": 260.0
+            },
+            "VisibleForFrame": false,
+            "Name": "22",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/23.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 594.865
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.5508
+            },
+            "PreSize": {
+              "X": 0.2927,
+              "Y": 0.2417
+            },
+            "LeftMargin": 548.0,
+            "RightMargin": 810.0,
+            "TopMargin": 354.635,
+            "BottomMargin": 464.365,
+            "Tag": 196,
+            "ActionTag": -567426985,
+            "Size": {
+              "X": 562.0,
+              "Y": 261.0
+            },
+            "VisibleForFrame": false,
+            "Name": "23",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/25.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 622.5254
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.5764
+            },
+            "PreSize": {
+              "X": 0.2927,
+              "Y": 0.262
+            },
+            "LeftMargin": 548.0,
+            "RightMargin": 810.0,
+            "TopMargin": 315.9746,
+            "BottomMargin": 481.0254,
+            "Tag": 197,
+            "ActionTag": 458570574,
+            "Size": {
+              "X": 562.0,
+              "Y": 283.0
+            },
+            "VisibleForFrame": false,
+            "Name": "25",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/6.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 770.5928
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.7135
+            },
+            "PreSize": {
+              "X": 0.2927,
+              "Y": 0.1083
+            },
+            "LeftMargin": 548.0,
+            "RightMargin": 810.0,
+            "TopMargin": 250.9072,
+            "BottomMargin": 712.0928,
+            "Tag": 198,
+            "ActionTag": -1956505502,
+            "Size": {
+              "X": 562.0,
+              "Y": 117.0
+            },
+            "VisibleForFrame": false,
+            "Name": "6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/7.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 512.7095
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.4747
+            },
+            "PreSize": {
+              "X": 0.2927,
+              "Y": 0.1111
+            },
+            "LeftMargin": 548.0,
+            "RightMargin": 810.0,
+            "TopMargin": 507.2905,
+            "BottomMargin": 452.7095,
+            "Tag": 199,
+            "ActionTag": 567252317,
+            "Size": {
+              "X": 562.0,
+              "Y": 120.0
+            },
+            "VisibleForFrame": false,
+            "Name": "7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/8.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 731.8793
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.6777
+            },
+            "PreSize": {
+              "X": 0.2927,
+              "Y": 0.237
+            },
+            "LeftMargin": 548.0,
+            "RightMargin": 810.0,
+            "TopMargin": 220.1207,
+            "BottomMargin": 603.8793,
+            "Tag": 200,
+            "ActionTag": 421710554,
+            "Size": {
+              "X": 562.0,
+              "Y": 256.0
+            },
+            "VisibleForFrame": false,
+            "Name": "8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "Texture/lines/9.png",
+              "Plist": "Plist/Lines.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 548.9944
+            },
+            "Scale": {
+              "ScaleX": 1.966,
+              "ScaleY": 1.966
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4318,
+              "Y": 0.5083
+            },
+            "PreSize": {
+              "X": 0.2927,
+              "Y": 0.237
+            },
+            "LeftMargin": 548.0,
+            "RightMargin": 810.0,
+            "TopMargin": 403.0056,
+            "BottomMargin": 420.9944,
+            "Tag": 201,
+            "ActionTag": -773991794,
+            "Size": {
+              "X": 562.0,
+              "Y": 256.0
+            },
+            "VisibleForFrame": false,
+            "Name": "9",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1920.0,
+          "Y": 1080.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Plist/Lines.plist",
+        "Plist/Lines.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

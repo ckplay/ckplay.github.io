@@ -1,0 +1,1379 @@
+{
+  "ID": "63e6b235-f1a8-4d1f-a870-64bed141ee14",
+  "Version": "3.10.0.0",
+  "Name": "WinEffect2",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 15,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": -764457781,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 783.7666,
+                "Y": 639.9797,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 783.7666,
+                "Y": 639.9797,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 783.7666,
+                "Y": 639.9797,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -764457781,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -764457781,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -764457781,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 3184019,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 735.4456,
+                "Y": 897.0872,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 26
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 735.4491,
+                "Y": 897.0869,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 3184019,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.4067,
+                "Y": 0.001,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 26
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.4067,
+                "Y": 2.0619,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 3184019,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 26
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1053275573,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 741.2941,
+                "Y": 896.491,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 741.2941,
+                "Y": 896.491,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 26
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 741.2941,
+                "Y": 896.491,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1053275573,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.001,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.001,
+                "Y": 1.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 26
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1053275573,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 26
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1053275573,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 26
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1053275573,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Main/Image_Win_b.png",
+                  "Plist": "Plist/Plist/main.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1053275573,
+            "Property": "BlendFunc",
+            "Frames": [
+              {
+                "Src": 1,
+                "Dst": 771,
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "BlendFuncFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1203468575,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": -811.9993,
+                "Y": 613.3733,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 8
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 807.1301,
+                "Y": 613.3733,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1203468575,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1203468575,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1203468575,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 137,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -2070080707,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 1359.0583,
+                "Y": 183.7753,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1359.0583,
+                "Y": 183.7753,
+                "FrameIndex": 3,
+                "EasingData": {
+                  "Type": 14
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 810.3655,
+                "Y": 188.9241,
+                "FrameIndex": 8,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -2070080707,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 3,
+                "EasingData": {
+                  "Type": 14
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 8,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -2070080707,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 3,
+                "EasingData": {
+                  "Type": 14
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -2070080707,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 3,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1925257319,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 747.379,
+                "Y": 696.7456,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1925257319,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1925257319,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1925257319,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 8,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 588,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1920.0,
+            "TopMargin": 1080.0,
+            "Tag": 594,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Main/Texture_BG2.png",
+                  "Plist": "Plist/Plist/main.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1510.6611,
+                  "Y": 539.4188
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.9987
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1328.1611,
+                "RightMargin": -1693.1611,
+                "TopMargin": -1079.4188,
+                "BottomMargin": -0.5812,
+                "Tag": 595,
+                "ActionTag": -444968807,
+                "Size": {
+                  "X": 365.0,
+                  "Y": 1080.0
+                },
+                "Name": "Texture_Main_Texture_BG2_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Main/Image_man.png",
+                  "Plist": "Plist/Plist/main.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1599.3428,
+                  "Y": 276.8615
+                },
+                "Scale": {
+                  "ScaleX": 0.8316,
+                  "ScaleY": 0.8316
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1429.3428,
+                "RightMargin": -1769.3428,
+                "TopMargin": -437.8615,
+                "BottomMargin": 115.8615,
+                "Tag": 596,
+                "ActionTag": 229444951,
+                "Size": {
+                  "X": 340.0,
+                  "Y": 322.0
+                },
+                "Name": "Texture_Main_Image_man_31",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Texture/Main/Texture_BG1.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": -1329.0,
+                "TopMargin": -1080.0,
+                "Tag": 597,
+                "ActionTag": 1313599852,
+                "Size": {
+                  "X": 1329.0,
+                  "Y": 1080.0
+                },
+                "Name": "Texture_BG1_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Main/Texture_BG0.png",
+                  "Plist": "Plist/Plist/main.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": -1920.0,
+                "TopMargin": -277.0,
+                "Tag": 598,
+                "ActionTag": -1369467261,
+                "Size": {
+                  "X": 1920.0,
+                  "Y": 277.0
+                },
+                "Name": "Texture_Main_Texture_BG0_5",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 151482733,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Frame",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Texture/Main/Texture_EffectBG0.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 783.7666,
+              "Y": 639.9797
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4082,
+              "Y": 0.5926
+            },
+            "PreSize": {
+              "X": 0.8146,
+              "Y": 0.6565
+            },
+            "LeftMargin": 1.7666,
+            "RightMargin": 354.2334,
+            "TopMargin": 85.5203,
+            "BottomMargin": 285.4797,
+            "Tag": 593,
+            "ActionTag": -764457781,
+            "Size": {
+              "X": 1564.0,
+              "Y": 709.0
+            },
+            "Alpha": 0,
+            "Name": "Texture_EffectBG0_42",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Texture/Winning/anui.png",
+              "Plist": "Plist/Plist/main.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 735.4456,
+              "Y": 897.0872
+            },
+            "Scale": {
+              "ScaleX": 1.4067,
+              "ScaleY": 0.001
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.383,
+              "Y": 0.8306
+            },
+            "PreSize": {
+              "X": 0.2802,
+              "Y": 0.125
+            },
+            "LeftMargin": 466.4456,
+            "RightMargin": 915.5544,
+            "TopMargin": 115.4128,
+            "BottomMargin": 829.5872,
+            "Tag": 592,
+            "ActionTag": 3184019,
+            "Size": {
+              "X": 538.0,
+              "Y": 135.0
+            },
+            "Name": "Texture_Winning_anui_44",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Texture/Main/Image_Win_b.png",
+              "Plist": "Plist/Plist/main.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 741.2941,
+              "Y": 896.491
+            },
+            "Scale": {
+              "ScaleX": 0.001,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3861,
+              "Y": 0.8301
+            },
+            "PreSize": {
+              "X": 0.1354,
+              "Y": 0.1213
+            },
+            "LeftMargin": 611.2941,
+            "RightMargin": 1048.7059,
+            "TopMargin": 118.009,
+            "BottomMargin": 830.991,
+            "Tag": 591,
+            "ActionTag": -1053275573,
+            "Size": {
+              "X": 260.0,
+              "Y": 131.0
+            },
+            "Name": "Texture_Main_Image_Win_m_45",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Texture/Main/Texture_EffectBG1.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -811.9993,
+              "Y": 613.3733
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.4229,
+              "Y": 0.5679
+            },
+            "PreSize": {
+              "X": 0.8385,
+              "Y": 0.3389
+            },
+            "LeftMargin": -1616.9993,
+            "RightMargin": 1926.9993,
+            "TopMargin": 283.6267,
+            "BottomMargin": 430.3733,
+            "Tag": 590,
+            "ActionTag": -1203468575,
+            "Size": {
+              "X": 1610.0,
+              "Y": 366.0
+            },
+            "Alpha": 137,
+            "Name": "Texture_EffectBG1_43",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 368.6705,
+              "Y": 430.726
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.192,
+              "Y": 0.3988
+            },
+            "PreSize": {
+              "X": 0.6771,
+              "Y": 0.3398
+            },
+            "LeftMargin": 368.6705,
+            "RightMargin": 251.3296,
+            "TopMargin": 282.274,
+            "BottomMargin": 430.726,
+            "Tag": 600,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Main/Textrue_512_4.png",
+                  "Plist": "Plist/Plist/main.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1359.0583,
+                  "Y": 183.7753
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0454,
+                  "Y": 0.5008
+                },
+                "PreSize": {
+                  "X": 0.4177,
+                  "Y": 0.9973
+                },
+                "LeftMargin": 1087.5583,
+                "RightMargin": -330.5583,
+                "TopMargin": 0.2247,
+                "BottomMargin": 0.7753,
+                "Tag": 599,
+                "ActionTag": -2070080707,
+                "Size": {
+                  "X": 543.0,
+                  "Y": 366.0
+                },
+                "Alpha": 0,
+                "Name": "Texture_Main_Textrue_512_4_10",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1088126119,
+            "Size": {
+              "X": 1300.0,
+              "Y": 367.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Texture/Main/Texture_maskEffect.png",
+              "Plist": "Plist/Plist/main.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1497.6,
+              "Y": 748.3
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.78,
+              "Y": 0.6929
+            },
+            "PreSize": {
+              "X": 0.2036,
+              "Y": 0.613
+            },
+            "LeftMargin": 1302.1,
+            "RightMargin": 226.9,
+            "TopMargin": 0.7,
+            "BottomMargin": 417.3,
+            "Tag": 589,
+            "ActionTag": -1239514873,
+            "Size": {
+              "X": 391.0,
+              "Y": 662.0
+            },
+            "Name": "Texture_Main_Texture_maskEffect_41",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "LabelText": "100",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "Font/wnum.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 747.379,
+              "Y": 696.7456
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3893,
+              "Y": 0.6451
+            },
+            "PreSize": {
+              "X": 0.2135,
+              "Y": 0.0296
+            },
+            "LeftMargin": 542.379,
+            "RightMargin": 967.621,
+            "TopMargin": 367.2544,
+            "BottomMargin": 680.7456,
+            "Tag": 616,
+            "ActionTag": 1925257319,
+            "Size": {
+              "X": 410.0,
+              "Y": 32.0
+            },
+            "Alpha": 0,
+            "Name": "WinText",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 968.8538,
+              "Y": 548.8302
+            },
+            "Scale": {
+              "ScaleX": 44.0708,
+              "ScaleY": 39.1857
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5046,
+              "Y": 0.5082
+            },
+            "PreSize": {
+              "X": 0.024,
+              "Y": 0.0333
+            },
+            "LeftMargin": 945.8538,
+            "RightMargin": 928.1462,
+            "TopMargin": 513.1698,
+            "BottomMargin": 530.8302,
+            "Tag": 659,
+            "ActionTag": 1211821229,
+            "Size": {
+              "X": 46.0,
+              "Y": 36.0
+            },
+            "Alpha": 0,
+            "Name": "ButtonCull",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1920.0,
+          "Y": 1080.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "Font/wnum.fnt",
+        "Font/wnum_0.png",
+        "Plist/Plist/main.plist",
+        "Plist/Plist/main.png",
+        "Texture/Main/Texture_BG1.jpg",
+        "Texture/Main/Texture_EffectBG0.png",
+        "Texture/Main/Texture_EffectBG1.jpg"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

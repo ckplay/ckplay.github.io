@@ -1,0 +1,471 @@
+{
+  "ID": "1b73d363-57b3-4be7-b27e-017a2e9df333",
+  "Version": "3.10.0.0",
+  "Name": "FreeGameResult",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 20,
+        "Speed": 0.4,
+        "ActivedAnimationName": "FreeGameResultOut",
+        "Timelines": [
+          {
+            "ActionTag": 2105085975,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": -450.0,
+                "Y": 623.7547,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 8
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 744.51,
+                "Y": 623.7547,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 7
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 2380.0,
+                "Y": 623.7547,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2105085975,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 7
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2105085975,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 7
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2105085975,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 7
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 10,
+          "Name": "FreeGameResultIn",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 10,
+          "EndIndex": 20,
+          "Name": "FreeGameResultOut",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 455,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Texture/Winning/mfcsjs.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -450.0,
+              "Y": 623.7547
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.2344,
+              "Y": 0.5776
+            },
+            "PreSize": {
+              "X": 0.4521,
+              "Y": 0.5019
+            },
+            "LeftMargin": -884.0,
+            "RightMargin": 1936.0,
+            "TopMargin": 185.2453,
+            "BottomMargin": 352.7547,
+            "Tag": 456,
+            "Children": [
+              {
+                "LabelText": "35",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "Font/wcan.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 447.0,
+                  "Y": 356.1025
+                },
+                "Scale": {
+                  "ScaleX": 1.7,
+                  "ScaleY": 1.7
+                },
+                "CColor": {
+                  "R": 243,
+                  "G": 202,
+                  "B": 60
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.515,
+                  "Y": 0.657
+                },
+                "PreSize": {
+                  "X": 0.0369,
+                  "Y": 0.059
+                },
+                "LeftMargin": 447.0,
+                "RightMargin": 389.0,
+                "TopMargin": 169.8975,
+                "BottomMargin": 340.1025,
+                "Tag": 457,
+                "ActionTag": -1939814646,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 32.0
+                },
+                "Name": "FreeGameTimes",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "5.8",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "Font/wcan.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 445.0,
+                  "Y": 273.5507
+                },
+                "Scale": {
+                  "ScaleX": 1.7,
+                  "ScaleY": 1.7
+                },
+                "CColor": {
+                  "R": 243,
+                  "G": 202,
+                  "B": 60
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5127,
+                  "Y": 0.5047
+                },
+                "PreSize": {
+                  "X": 0.0553,
+                  "Y": 0.059
+                },
+                "LeftMargin": 445.0,
+                "RightMargin": 375.0,
+                "TopMargin": 252.4493,
+                "BottomMargin": 257.5507,
+                "Tag": 458,
+                "ActionTag": -1656914346,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 32.0
+                },
+                "Name": "FreeGameMul",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "875.24",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "Font/wcan.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 442.0,
+                  "Y": 193.0901
+                },
+                "Scale": {
+                  "ScaleX": 2.0,
+                  "ScaleY": 2.0
+                },
+                "CColor": {
+                  "R": 243,
+                  "G": 202,
+                  "B": 60
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5092,
+                  "Y": 0.3563
+                },
+                "PreSize": {
+                  "X": 0.1106,
+                  "Y": 0.059
+                },
+                "LeftMargin": 442.0,
+                "RightMargin": 330.0,
+                "TopMargin": 332.9099,
+                "BottomMargin": 177.0901,
+                "Tag": 459,
+                "ActionTag": -502085487,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 32.0
+                },
+                "Name": "FreeGameWins",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Winning/qdd.png",
+                  "Plist": "Plist/Plist/main.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 426.363,
+                  "Y": 98.3846
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4912,
+                  "Y": 0.1815
+                },
+                "PreSize": {
+                  "X": 0.2488,
+                  "Y": 0.1402
+                },
+                "LeftMargin": 318.363,
+                "RightMargin": 333.637,
+                "TopMargin": 405.6154,
+                "BottomMargin": 60.3846,
+                "Tag": 460,
+                "ActionTag": 65518793,
+                "Size": {
+                  "X": 216.0,
+                  "Y": 76.0
+                },
+                "Name": "Texture_Winning_qdd_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 14,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 719.5973,
+                  "Y": 165.7239
+                },
+                "Scale": {
+                  "ScaleX": 49.9648,
+                  "ScaleY": 34.8822
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.829,
+                  "Y": 0.3058
+                },
+                "PreSize": {
+                  "X": 0.053,
+                  "Y": 0.0664
+                },
+                "LeftMargin": 696.5973,
+                "RightMargin": 125.4027,
+                "TopMargin": 358.2761,
+                "BottomMargin": 147.7239,
+                "Tag": 461,
+                "ActionTag": 2078691811,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 36.0
+                },
+                "Alpha": 0,
+                "Name": "BtnBack",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 2105085975,
+            "Size": {
+              "X": 868.0,
+              "Y": 542.0
+            },
+            "Name": "FreeGameResult",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1920.0,
+          "Y": 1080.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "Font/wcan.fnt",
+        "Font/wcan_0.png",
+        "Plist/Plist/main.plist",
+        "Plist/Plist/main.png",
+        "Texture/Winning/mfcsjs.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

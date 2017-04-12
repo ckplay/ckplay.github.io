@@ -1,0 +1,196 @@
+{
+  "ID": "bdd21172-ee8d-49aa-bc70-09eb9839afd4",
+  "Version": "3.10.0.0",
+  "Name": "Icon10Ani",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 30,
+        "Speed": 0.4,
+        "Timelines": [
+          {
+            "ActionTag": 1832390876,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/icon10_ani0.png",
+                  "Plist": "Plist/Plist/iconAni1.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/icon10_ani1.png",
+                  "Plist": "Plist/Plist/iconAni1.plist"
+                },
+                "FrameIndex": 3,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/icon10_ani2.png",
+                  "Plist": "Plist/Plist/iconAni1.plist"
+                },
+                "FrameIndex": 6,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/icon10_ani3.png",
+                  "Plist": "Plist/Plist/iconAni1.plist"
+                },
+                "FrameIndex": 9,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/icon10_ani4.png",
+                  "Plist": "Plist/Plist/iconAni1.plist"
+                },
+                "FrameIndex": 12,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/icon10_ani5.png",
+                  "Plist": "Plist/Plist/iconAni1.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/icon10_ani6.png",
+                  "Plist": "Plist/Plist/iconAni1.plist"
+                },
+                "FrameIndex": 18,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/icon10_ani7.png",
+                  "Plist": "Plist/Plist/iconAni1.plist"
+                },
+                "FrameIndex": 21,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/icon10_ani8.png",
+                  "Plist": "Plist/Plist/iconAni1.plist"
+                },
+                "FrameIndex": 24,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/icon10_ani9.png",
+                  "Plist": "Plist/Plist/iconAni1.plist"
+                },
+                "FrameIndex": 27,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "Texture/Clips/icon10_ani0.png",
+                  "Plist": "Plist/Plist/iconAni1.plist"
+                },
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 97,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Texture/Clips/icon10_ani0.png",
+              "Plist": "Plist/Plist/iconAni1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -23.0,
+            "RightMargin": -23.0,
+            "TopMargin": -23.0,
+            "BottomMargin": -23.0,
+            "Tag": 121,
+            "ActionTag": 1832390876,
+            "Size": {
+              "X": 230.0,
+              "Y": 230.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Plist/Plist/iconAni1.plist",
+        "Plist/Plist/iconAni1.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

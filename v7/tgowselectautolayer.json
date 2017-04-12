@@ -1,0 +1,551 @@
+{
+    "ID": "cbd89db1-7dc5-4c00-9571-74b883c7bd42",
+    "Version": "2.3.4",
+    "Name": "tgowselectautolayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 26,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 127,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 1.3584
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0.0019
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "TopMargin": -1.3584,
+                        "BottomMargin": 1.3584,
+                        "Tag": 33,
+                        "ActionTag": -1034350585,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowimg_autoback.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 804.0032,
+                            "Y": 21
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6281,
+                            "Y": 0.0292
+                        },
+                        "PreSize": {
+                            "X": 0.1133,
+                            "Y": 0.4514
+                        },
+                        "LeftMargin": 804.0032,
+                        "RightMargin": 330.9968,
+                        "TopMargin": 374,
+                        "BottomMargin": 21,
+                        "Tag": 51,
+                        "ActionTag": -1174467384,
+                        "Size": {
+                            "X": 145,
+                            "Y": 325
+                        },
+                        "Name": "tgowimg_autoback_7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn03_3.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn03_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn03_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 95,
+                        "Scale9Height": 38,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 814.0215,
+                            "Y": -3.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.636,
+                            "Y": -0.0042
+                        },
+                        "PreSize": {
+                            "X": 0.0977,
+                            "Y": 0.0833
+                        },
+                        "LeftMargin": 814.0215,
+                        "RightMargin": 340.9785,
+                        "TopMargin": 663.0001,
+                        "BottomMargin": -3.0001,
+                        "Tag": 50,
+                        "ActionTag": 1887097038,
+                        "Size": {
+                            "X": 125,
+                            "Y": 60
+                        },
+                        "Name": "btnAuto",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn08_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn08_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn08_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 95,
+                        "Scale9Height": 38,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 814.0202,
+                            "Y": 51.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.636,
+                            "Y": 0.0722
+                        },
+                        "PreSize": {
+                            "X": 0.0977,
+                            "Y": 0.0833
+                        },
+                        "LeftMargin": 814.0202,
+                        "RightMargin": 340.9798,
+                        "TopMargin": 608.0006,
+                        "BottomMargin": 51.9994,
+                        "Tag": 52,
+                        "ActionTag": -1619788095,
+                        "Size": {
+                            "X": 125,
+                            "Y": 60
+                        },
+                        "Name": "btnAuto25",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn09_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn09_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn09_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 95,
+                        "Scale9Height": 38,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 814.0202,
+                            "Y": 106.9996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.636,
+                            "Y": 0.1486
+                        },
+                        "PreSize": {
+                            "X": 0.0977,
+                            "Y": 0.0833
+                        },
+                        "LeftMargin": 814.0202,
+                        "RightMargin": 340.9798,
+                        "TopMargin": 553.0004,
+                        "BottomMargin": 106.9996,
+                        "Tag": 53,
+                        "ActionTag": 1341332080,
+                        "Size": {
+                            "X": 125,
+                            "Y": 60
+                        },
+                        "Name": "btnAuto50",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn10_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn10_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn10_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 95,
+                        "Scale9Height": 38,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 814.0202,
+                            "Y": 162.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.636,
+                            "Y": 0.225
+                        },
+                        "PreSize": {
+                            "X": 0.0977,
+                            "Y": 0.0833
+                        },
+                        "LeftMargin": 814.0202,
+                        "RightMargin": 340.9798,
+                        "TopMargin": 497.9999,
+                        "BottomMargin": 162.0001,
+                        "Tag": 54,
+                        "ActionTag": 649856224,
+                        "Size": {
+                            "X": 125,
+                            "Y": 60
+                        },
+                        "Name": "btnAuto100",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn11_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn11_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn11_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 95,
+                        "Scale9Height": 38,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 814.0194,
+                            "Y": 217.0005
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.636,
+                            "Y": 0.3014
+                        },
+                        "PreSize": {
+                            "X": 0.0977,
+                            "Y": 0.0833
+                        },
+                        "LeftMargin": 814.0194,
+                        "RightMargin": 340.9806,
+                        "TopMargin": 442.9995,
+                        "BottomMargin": 217.0005,
+                        "Tag": 55,
+                        "ActionTag": 1451281980,
+                        "Size": {
+                            "X": 125,
+                            "Y": 60
+                        },
+                        "Name": "btnAuto200",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn12_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn12_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn12_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 95,
+                        "Scale9Height": 38,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 814.0215,
+                            "Y": 271.4288
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.636,
+                            "Y": 0.377
+                        },
+                        "PreSize": {
+                            "X": 0.0977,
+                            "Y": 0.0833
+                        },
+                        "LeftMargin": 814.0215,
+                        "RightMargin": 340.9785,
+                        "TopMargin": 388.5712,
+                        "BottomMargin": 271.4288,
+                        "Tag": 56,
+                        "ActionTag": 1187081967,
+                        "Size": {
+                            "X": 125,
+                            "Y": 60
+                        },
+                        "Name": "btnAuto500",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "tgowpng.plist",
+                "tgowpng.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

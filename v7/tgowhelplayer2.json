@@ -1,0 +1,3106 @@
+{
+    "ID": "c4a845e0-0168-41ec-9baa-2f78d40066d1",
+    "Version": "2.3.4",
+    "Name": "tgowhelplayer2",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 193,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 127,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 195,
+                        "ActionTag": -1679275145,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback01.jpg",
+                            "Plist": "tgowjpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 92.4789,
+                            "Y": 69.9989
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0722,
+                            "Y": 0.0972
+                        },
+                        "PreSize": {
+                            "X": 0.8531,
+                            "Y": 0.8
+                        },
+                        "LeftMargin": 92.4789,
+                        "RightMargin": 95.5211,
+                        "TopMargin": 74.0011,
+                        "BottomMargin": 69.9989,
+                        "Tag": 207,
+                        "ActionTag": -909328099,
+                        "Size": {
+                            "X": 1092,
+                            "Y": 576
+                        },
+                        "Name": "tgowhelpback01_10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback03.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 56.002,
+                            "Y": 646.0017
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0438,
+                            "Y": 0.8972
+                        },
+                        "PreSize": {
+                            "X": 0.4547,
+                            "Y": 0.0542
+                        },
+                        "LeftMargin": 56.002,
+                        "RightMargin": 641.998,
+                        "TopMargin": 34.9983,
+                        "BottomMargin": 646.0017,
+                        "Tag": 196,
+                        "ActionTag": 1937024817,
+                        "Size": {
+                            "X": 582,
+                            "Y": 39
+                        },
+                        "Name": "tgowhelpback03_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback03.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1221.0005,
+                            "Y": 646.0001
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9539,
+                            "Y": 0.8972
+                        },
+                        "PreSize": {
+                            "X": 0.4547,
+                            "Y": 0.0542
+                        },
+                        "LeftMargin": 1221.0005,
+                        "RightMargin": -523.0005,
+                        "TopMargin": 34.9999,
+                        "BottomMargin": 646.0001,
+                        "Tag": 197,
+                        "ActionTag": 453572946,
+                        "Size": {
+                            "X": 582,
+                            "Y": 39
+                        },
+                        "Name": "tgowhelpback03_2_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback04.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 63.0012,
+                            "Y": 73.9969
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0492,
+                            "Y": 0.1028
+                        },
+                        "PreSize": {
+                            "X": 0.032,
+                            "Y": 0.7944
+                        },
+                        "LeftMargin": 63.0012,
+                        "RightMargin": 1175.9988,
+                        "TopMargin": 74.0031,
+                        "BottomMargin": 73.9969,
+                        "Tag": 199,
+                        "ActionTag": -1779110504,
+                        "Size": {
+                            "X": 41,
+                            "Y": 572
+                        },
+                        "Name": "tgowhelpback04_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback04.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1214.011,
+                            "Y": 73.9971
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9484,
+                            "Y": 0.1028
+                        },
+                        "PreSize": {
+                            "X": 0.032,
+                            "Y": 0.7944
+                        },
+                        "LeftMargin": 1214.011,
+                        "RightMargin": 24.989,
+                        "TopMargin": 74.0029,
+                        "BottomMargin": 73.9971,
+                        "Tag": 200,
+                        "ActionTag": 1298042487,
+                        "Size": {
+                            "X": 41,
+                            "Y": 572
+                        },
+                        "Name": "tgowhelpback04_4_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback05.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 54.0002,
+                            "Y": 35.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1.01,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0422,
+                            "Y": 0.0486
+                        },
+                        "PreSize": {
+                            "X": 0.4563,
+                            "Y": 0.0542
+                        },
+                        "LeftMargin": 54.0002,
+                        "RightMargin": 641.9998,
+                        "TopMargin": 645.9999,
+                        "BottomMargin": 35.0001,
+                        "Tag": 201,
+                        "ActionTag": 661516639,
+                        "Size": {
+                            "X": 584,
+                            "Y": 39
+                        },
+                        "Name": "tgowhelpback05_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback05.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1223.005,
+                            "Y": 35.0002
+                        },
+                        "Scale": {
+                            "ScaleX": -1.01,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9555,
+                            "Y": 0.0486
+                        },
+                        "PreSize": {
+                            "X": 0.4563,
+                            "Y": 0.0542
+                        },
+                        "LeftMargin": 1223.005,
+                        "RightMargin": -527.005,
+                        "TopMargin": 645.9998,
+                        "BottomMargin": 35.0002,
+                        "Tag": 202,
+                        "ActionTag": 1096380544,
+                        "Size": {
+                            "X": 584,
+                            "Y": 39
+                        },
+                        "Name": "tgowhelpback05_6_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback06.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 466.9998,
+                            "Y": 596.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3648,
+                            "Y": 0.8278
+                        },
+                        "PreSize": {
+                            "X": 0.2703,
+                            "Y": 0.1625
+                        },
+                        "LeftMargin": 466.9998,
+                        "RightMargin": 467.0002,
+                        "TopMargin": 6.9999,
+                        "BottomMargin": 596.0001,
+                        "Tag": 203,
+                        "ActionTag": -30743780,
+                        "Size": {
+                            "X": 346,
+                            "Y": 117
+                        },
+                        "Name": "tgowhelpback06_8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback08.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 577.0002,
+                            "Y": 625
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4508,
+                            "Y": 0.8681
+                        },
+                        "PreSize": {
+                            "X": 0.0992,
+                            "Y": 0.0667
+                        },
+                        "LeftMargin": 577.0002,
+                        "RightMargin": 575.9998,
+                        "TopMargin": 47,
+                        "BottomMargin": 625,
+                        "Tag": 204,
+                        "ActionTag": 122910292,
+                        "Size": {
+                            "X": 127,
+                            "Y": 48
+                        },
+                        "Name": "tgowhelpback08_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn22_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn22_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn22_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 53,
+                        "Scale9Height": 67,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1147.0011,
+                            "Y": 617.0015
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8961,
+                            "Y": 0.8569
+                        },
+                        "PreSize": {
+                            "X": 0.0648,
+                            "Y": 0.1236
+                        },
+                        "LeftMargin": 1147.0011,
+                        "RightMargin": 49.9989,
+                        "TopMargin": 13.9985,
+                        "BottomMargin": 617.0015,
+                        "Tag": 198,
+                        "ActionTag": -652241166,
+                        "Size": {
+                            "X": 83,
+                            "Y": 89
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn23_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn23_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn23_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 54,
+                        "Scale9Height": 100,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 44,
+                            "Y": 298
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0344,
+                            "Y": 0.4139
+                        },
+                        "PreSize": {
+                            "X": 0.0656,
+                            "Y": 0.1694
+                        },
+                        "LeftMargin": 44,
+                        "RightMargin": 1152,
+                        "TopMargin": 300,
+                        "BottomMargin": 298,
+                        "Tag": 205,
+                        "ActionTag": 418959145,
+                        "Size": {
+                            "X": 84,
+                            "Y": 122
+                        },
+                        "Name": "btnLeft",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn23_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn23_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn23_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 54,
+                        "Scale9Height": 100,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1236.0004,
+                            "Y": 298
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9656,
+                            "Y": 0.4139
+                        },
+                        "PreSize": {
+                            "X": 0.0656,
+                            "Y": 0.1694
+                        },
+                        "LeftMargin": 1236.0004,
+                        "RightMargin": -40.0004,
+                        "TopMargin": 300,
+                        "BottomMargin": 298,
+                        "Tag": 206,
+                        "ActionTag": 1353509536,
+                        "Size": {
+                            "X": 84,
+                            "Y": 122
+                        },
+                        "Name": "btnRight",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowicon7.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 552,
+                            "Y": 498
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4313,
+                            "Y": 0.6917
+                        },
+                        "PreSize": {
+                            "X": 0.1477,
+                            "Y": 0.2542
+                        },
+                        "LeftMargin": 457.5,
+                        "RightMargin": 633.5,
+                        "TopMargin": 130.5,
+                        "BottomMargin": 406.5,
+                        "Tag": 27,
+                        "ActionTag": 886645256,
+                        "Size": {
+                            "X": 189,
+                            "Y": 183
+                        },
+                        "Name": "sprIcon7",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 710.0042,
+                            "Y": 516
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.5547,
+                            "Y": 0.7167
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 710.0042,
+                        "RightMargin": 569.9958,
+                        "TopMargin": 204,
+                        "BottomMargin": 516,
+                        "Tag": 28,
+                        "Children": [
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 9,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 29,
+                                "ActionTag": -1224594218,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "200",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -78.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 30,
+                                "ActionTag": 106062820,
+                                "Size": {
+                                    "X": 81,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1939978822,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore75",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 710.0045,
+                            "Y": 490.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.5547,
+                            "Y": 0.6819
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 710.0045,
+                        "RightMargin": 569.9955,
+                        "TopMargin": 229.0001,
+                        "BottomMargin": 490.9999,
+                        "Tag": 31,
+                        "Children": [
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 9,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 32,
+                                "ActionTag": -523734134,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "20",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -53.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 33,
+                                "ActionTag": -948022911,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 1171135188,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore74",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 710.0049,
+                            "Y": 467
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.5547,
+                            "Y": 0.6486
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 710.0049,
+                        "RightMargin": 569.9951,
+                        "TopMargin": 253,
+                        "BottomMargin": 467,
+                        "Tag": 34,
+                        "Children": [
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 7,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 35,
+                                "ActionTag": -1350306265,
+                                "Size": {
+                                    "X": 57,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "10",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -53.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 36,
+                                "ActionTag": 31831281,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 2009751029,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore73",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowicon8.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 894.9969,
+                            "Y": 497.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6992,
+                            "Y": 0.6917
+                        },
+                        "PreSize": {
+                            "X": 0.1477,
+                            "Y": 0.2542
+                        },
+                        "LeftMargin": 800.4969,
+                        "RightMargin": 290.5031,
+                        "TopMargin": 130.5001,
+                        "BottomMargin": 406.4999,
+                        "Tag": 37,
+                        "ActionTag": 2041046287,
+                        "Size": {
+                            "X": 189,
+                            "Y": 183
+                        },
+                        "Name": "sprIcon8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1053.0027,
+                            "Y": 515.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.8227,
+                            "Y": 0.7167
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 1053.0027,
+                        "RightMargin": 226.9973,
+                        "TopMargin": 204.0001,
+                        "BottomMargin": 515.9999,
+                        "Tag": 38,
+                        "Children": [
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 9,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 39,
+                                "ActionTag": 1089686200,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "100",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -78.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 40,
+                                "ActionTag": 1004575968,
+                                "Size": {
+                                    "X": 81,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -241072809,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore85",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1053.0027,
+                            "Y": 490.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.8227,
+                            "Y": 0.6819
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 1053.0027,
+                        "RightMargin": 226.9973,
+                        "TopMargin": 229.0002,
+                        "BottomMargin": 490.9998,
+                        "Tag": 41,
+                        "Children": [
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 9,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 42,
+                                "ActionTag": 882210969,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "15",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -52.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 43,
+                                "ActionTag": 1824559564,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 1503272722,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore84",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1053.0032,
+                            "Y": 466.9998
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.8227,
+                            "Y": 0.6486
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 1053.0032,
+                        "RightMargin": 226.9968,
+                        "TopMargin": 253.0002,
+                        "BottomMargin": 466.9998,
+                        "Tag": 44,
+                        "Children": [
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 7,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 45,
+                                "ActionTag": 1623512238,
+                                "Size": {
+                                    "X": 57,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "10",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -53.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 46,
+                                "ActionTag": 1611294103,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1452271781,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore83",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowicon9.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 208.9981,
+                            "Y": 326.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1633,
+                            "Y": 0.4542
+                        },
+                        "PreSize": {
+                            "X": 0.1477,
+                            "Y": 0.2542
+                        },
+                        "LeftMargin": 114.4981,
+                        "RightMargin": 976.5019,
+                        "TopMargin": 301.5006,
+                        "BottomMargin": 235.4994,
+                        "Tag": 47,
+                        "ActionTag": 1098557955,
+                        "Size": {
+                            "X": 189,
+                            "Y": 183
+                        },
+                        "Name": "sprIcon9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 367.0012,
+                            "Y": 341.9973
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.2867,
+                            "Y": 0.475
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 367.0012,
+                        "RightMargin": 912.9988,
+                        "TopMargin": 378.0027,
+                        "BottomMargin": 341.9973,
+                        "Tag": 48,
+                        "Children": [
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 9,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 49,
+                                "ActionTag": -1393030827,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "100",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -78.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 50,
+                                "ActionTag": -767225436,
+                                "Size": {
+                                    "X": 81,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 457507778,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore95",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 367.0016,
+                            "Y": 316.9972
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.2867,
+                            "Y": 0.4403
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 367.0016,
+                        "RightMargin": 912.9984,
+                        "TopMargin": 403.0028,
+                        "BottomMargin": 316.9972,
+                        "Tag": 51,
+                        "Children": [
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 9,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 52,
+                                "ActionTag": 879125505,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "15",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -52.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 53,
+                                "ActionTag": -1144635432,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 209849246,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore94",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 367.0022,
+                            "Y": 292.9973
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.2867,
+                            "Y": 0.4069
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 367.0022,
+                        "RightMargin": 912.9978,
+                        "TopMargin": 427.0027,
+                        "BottomMargin": 292.9973,
+                        "Tag": 54,
+                        "Children": [
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 7,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 55,
+                                "ActionTag": 821356452,
+                                "Size": {
+                                    "X": 57,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "10",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -53.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 56,
+                                "ActionTag": 9575998,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 1045416157,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore93",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowicon10.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 551.9996,
+                            "Y": 327.0017
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4312,
+                            "Y": 0.4542
+                        },
+                        "PreSize": {
+                            "X": 0.1477,
+                            "Y": 0.2542
+                        },
+                        "LeftMargin": 457.4996,
+                        "RightMargin": 633.5004,
+                        "TopMargin": 301.4983,
+                        "BottomMargin": 235.5017,
+                        "Tag": 57,
+                        "ActionTag": -213396168,
+                        "Size": {
+                            "X": 189,
+                            "Y": 183
+                        },
+                        "Name": "sprIcon10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 710.0038,
+                            "Y": 342.0012
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.5547,
+                            "Y": 0.475
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 710.0038,
+                        "RightMargin": 569.9962,
+                        "TopMargin": 377.9988,
+                        "BottomMargin": 342.0012,
+                        "Tag": 58,
+                        "Children": [
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 9,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 59,
+                                "ActionTag": 1428268874,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "100",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -78.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 60,
+                                "ActionTag": 1312930610,
+                                "Size": {
+                                    "X": 81,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -345988996,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore105",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 710.0043,
+                            "Y": 317.0008
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.5547,
+                            "Y": 0.4403
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 710.0043,
+                        "RightMargin": 569.9957,
+                        "TopMargin": 402.9992,
+                        "BottomMargin": 317.0008,
+                        "Tag": 61,
+                        "Children": [
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 9,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 62,
+                                "ActionTag": 1002400425,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "15",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -52.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 63,
+                                "ActionTag": 707410906,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1999640599,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore104",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 710.0046,
+                            "Y": 293.0007
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.5547,
+                            "Y": 0.4069
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 710.0046,
+                        "RightMargin": 569.9954,
+                        "TopMargin": 426.9993,
+                        "BottomMargin": 293.0007,
+                        "Tag": 64,
+                        "Children": [
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 7,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 65,
+                                "ActionTag": -1533213356,
+                                "Size": {
+                                    "X": 57,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "5",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -25.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 66,
+                                "ActionTag": 1348083760,
+                                "Size": {
+                                    "X": 28,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 647058691,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore103",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowicon11.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 895,
+                            "Y": 327.0019
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.6992,
+                            "Y": 0.4542
+                        },
+                        "PreSize": {
+                            "X": 0.1477,
+                            "Y": 0.2542
+                        },
+                        "LeftMargin": 800.5,
+                        "RightMargin": 290.5,
+                        "TopMargin": 301.4981,
+                        "BottomMargin": 235.5019,
+                        "Tag": 77,
+                        "ActionTag": -2056916589,
+                        "Size": {
+                            "X": 189,
+                            "Y": 183
+                        },
+                        "Name": "sprIcon11",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1053,
+                            "Y": 342.0014
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.8227,
+                            "Y": 0.475
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 1053,
+                        "RightMargin": 227,
+                        "TopMargin": 377.9986,
+                        "BottomMargin": 342.0014,
+                        "Tag": 78,
+                        "Children": [
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 9,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 79,
+                                "ActionTag": 376928281,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "100",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -3,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -3,
+                                "RightMargin": -78,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 80,
+                                "ActionTag": -1480196724,
+                                "Size": {
+                                    "X": 81,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 1624707831,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore115",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1053,
+                            "Y": 317.0009
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.8227,
+                            "Y": 0.4403
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 1053,
+                        "RightMargin": 227,
+                        "TopMargin": 402.9991,
+                        "BottomMargin": 317.0009,
+                        "Tag": 81,
+                        "Children": [
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 9,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 82,
+                                "ActionTag": 1476466969,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "10",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -53.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 83,
+                                "ActionTag": 2120418608,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 188425178,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore114",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1053,
+                            "Y": 293.0009
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.8227,
+                            "Y": 0.4069
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 1053,
+                        "RightMargin": 227,
+                        "TopMargin": 426.9991,
+                        "BottomMargin": 293.0009,
+                        "Tag": 84,
+                        "Children": [
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 7,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 85,
+                                "ActionTag": 652020622,
+                                "Size": {
+                                    "X": 57,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "5",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -25.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 86,
+                                "ActionTag": -1187803321,
+                                "Size": {
+                                    "X": 28,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -871360277,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore113",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowicon6.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 209,
+                            "Y": 497.9996
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.1633,
+                            "Y": 0.6917
+                        },
+                        "PreSize": {
+                            "X": 0.1477,
+                            "Y": 0.2542
+                        },
+                        "LeftMargin": 114.5,
+                        "RightMargin": 976.5,
+                        "TopMargin": 130.5004,
+                        "BottomMargin": 406.4996,
+                        "Tag": 163,
+                        "ActionTag": 1638451018,
+                        "Size": {
+                            "X": 189,
+                            "Y": 183
+                        },
+                        "Name": "sprIcon6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 367,
+                            "Y": 515.9993
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.2867,
+                            "Y": 0.7167
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 367,
+                        "RightMargin": 913,
+                        "TopMargin": 204.0007,
+                        "BottomMargin": 515.9993,
+                        "Tag": 164,
+                        "Children": [
+                            {
+                                "LabelText": "5x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 9,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 165,
+                                "ActionTag": 171303045,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "200",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -78.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 166,
+                                "ActionTag": -249305821,
+                                "Size": {
+                                    "X": 81,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": -1920601444,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore65",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 367,
+                            "Y": 490.9994
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.2867,
+                            "Y": 0.6819
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 367,
+                        "RightMargin": 913,
+                        "TopMargin": 229.0006,
+                        "BottomMargin": 490.9994,
+                        "Tag": 167,
+                        "Children": [
+                            {
+                                "LabelText": "4x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 9,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 168,
+                                "ActionTag": 554752351,
+                                "Size": {
+                                    "X": 55,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "30",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -53.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 169,
+                                "ActionTag": -1612992405,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 1896885624,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore64",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 367,
+                            "Y": 466.9991
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0.2867,
+                            "Y": 0.6486
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 367,
+                        "RightMargin": 913,
+                        "TopMargin": 253.0009,
+                        "BottomMargin": 466.9991,
+                        "Tag": 170,
+                        "Children": [
+                            {
+                                "LabelText": "3x",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -64,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -64,
+                                "RightMargin": 7,
+                                "TopMargin": -19,
+                                "BottomMargin": -19,
+                                "Tag": 171,
+                                "ActionTag": -1179307447,
+                                "Size": {
+                                    "X": 57,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "LabelText": "10",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "tgow30.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -2.9999,
+                                    "Y": -0.0002
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.6,
+                                    "ScaleY": 0.6
+                                },
+                                "CColor": {
+                                    "R": 212,
+                                    "B": 40
+                                },
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.9999,
+                                "RightMargin": -53.0001,
+                                "TopMargin": -18.9998,
+                                "BottomMargin": -19.0002,
+                                "Tag": 172,
+                                "ActionTag": 2050132336,
+                                "Size": {
+                                    "X": 56,
+                                    "Y": 38
+                                },
+                                "Name": "BitmapFontLabel_1_0",
+                                "ctype": "TextBMFontObjectData"
+                            }
+                        ],
+                        "ActionTag": 1291496094,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodScore63",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "tgow30.fnt",
+                "tgow30.png",
+                "tgowjpg.jpg",
+                "tgowjpg.plist",
+                "tgowpng.plist",
+                "tgowpng.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

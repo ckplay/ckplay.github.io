@@ -1,0 +1,674 @@
+{
+    "ID": "ca18ae74-0f88-4ef2-b275-6f037c97d140",
+    "Version": "2.3.4",
+    "Name": "tgowhelplayer3",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 193,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 127,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 195,
+                        "ActionTag": -1679275145,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback02.jpg",
+                            "Plist": "tgowjpg.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 770,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 92.4789,
+                            "Y": 69.9989
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0722,
+                            "Y": 0.0972
+                        },
+                        "PreSize": {
+                            "X": 0.8531,
+                            "Y": 0.8
+                        },
+                        "LeftMargin": 92.4789,
+                        "RightMargin": 95.5211,
+                        "TopMargin": 74.0011,
+                        "BottomMargin": 69.9989,
+                        "Tag": 207,
+                        "ActionTag": -909328099,
+                        "Size": {
+                            "X": 1092,
+                            "Y": 576
+                        },
+                        "Name": "tgowhelpback01_10",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback03.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 56.002,
+                            "Y": 646.0017
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0438,
+                            "Y": 0.8972
+                        },
+                        "PreSize": {
+                            "X": 0.4547,
+                            "Y": 0.0542
+                        },
+                        "LeftMargin": 56.002,
+                        "RightMargin": 641.998,
+                        "TopMargin": 34.9983,
+                        "BottomMargin": 646.0017,
+                        "Tag": 196,
+                        "ActionTag": 1937024817,
+                        "Size": {
+                            "X": 582,
+                            "Y": 39
+                        },
+                        "Name": "tgowhelpback03_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback03.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1221.0005,
+                            "Y": 646.0001
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9539,
+                            "Y": 0.8972
+                        },
+                        "PreSize": {
+                            "X": 0.4547,
+                            "Y": 0.0542
+                        },
+                        "LeftMargin": 1221.0005,
+                        "RightMargin": -523.0005,
+                        "TopMargin": 34.9999,
+                        "BottomMargin": 646.0001,
+                        "Tag": 197,
+                        "ActionTag": 453572946,
+                        "Size": {
+                            "X": 582,
+                            "Y": 39
+                        },
+                        "Name": "tgowhelpback03_2_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback04.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 63.0012,
+                            "Y": 73.9969
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0492,
+                            "Y": 0.1028
+                        },
+                        "PreSize": {
+                            "X": 0.032,
+                            "Y": 0.7944
+                        },
+                        "LeftMargin": 63.0012,
+                        "RightMargin": 1175.9988,
+                        "TopMargin": 74.0031,
+                        "BottomMargin": 73.9969,
+                        "Tag": 199,
+                        "ActionTag": -1779110504,
+                        "Size": {
+                            "X": 41,
+                            "Y": 572
+                        },
+                        "Name": "tgowhelpback04_4",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback04.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1214.011,
+                            "Y": 73.9971
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9484,
+                            "Y": 0.1028
+                        },
+                        "PreSize": {
+                            "X": 0.032,
+                            "Y": 0.7944
+                        },
+                        "LeftMargin": 1214.011,
+                        "RightMargin": 24.989,
+                        "TopMargin": 74.0029,
+                        "BottomMargin": 73.9971,
+                        "Tag": 200,
+                        "ActionTag": 1298042487,
+                        "Size": {
+                            "X": 41,
+                            "Y": 572
+                        },
+                        "Name": "tgowhelpback04_4_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback05.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 54.0002,
+                            "Y": 35.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1.01,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0422,
+                            "Y": 0.0486
+                        },
+                        "PreSize": {
+                            "X": 0.4563,
+                            "Y": 0.0542
+                        },
+                        "LeftMargin": 54.0002,
+                        "RightMargin": 641.9998,
+                        "TopMargin": 645.9999,
+                        "BottomMargin": 35.0001,
+                        "Tag": 201,
+                        "ActionTag": 661516639,
+                        "Size": {
+                            "X": 584,
+                            "Y": 39
+                        },
+                        "Name": "tgowhelpback05_6",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback05.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1223.005,
+                            "Y": 35.0002
+                        },
+                        "Scale": {
+                            "ScaleX": -1.01,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9555,
+                            "Y": 0.0486
+                        },
+                        "PreSize": {
+                            "X": 0.4563,
+                            "Y": 0.0542
+                        },
+                        "LeftMargin": 1223.005,
+                        "RightMargin": -527.005,
+                        "TopMargin": 645.9998,
+                        "BottomMargin": 35.0002,
+                        "Tag": 202,
+                        "ActionTag": 1096380544,
+                        "Size": {
+                            "X": 584,
+                            "Y": 39
+                        },
+                        "Name": "tgowhelpback05_6_0",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback06.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 466.9998,
+                            "Y": 596.0001
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.3648,
+                            "Y": 0.8278
+                        },
+                        "PreSize": {
+                            "X": 0.2703,
+                            "Y": 0.1625
+                        },
+                        "LeftMargin": 466.9998,
+                        "RightMargin": 467.0002,
+                        "TopMargin": 6.9999,
+                        "BottomMargin": 596.0001,
+                        "Tag": 203,
+                        "ActionTag": -30743780,
+                        "Size": {
+                            "X": 346,
+                            "Y": 117
+                        },
+                        "Name": "tgowhelpback06_8",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowhelpback07.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 577.0002,
+                            "Y": 625
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4508,
+                            "Y": 0.8681
+                        },
+                        "PreSize": {
+                            "X": 0.0992,
+                            "Y": 0.0667
+                        },
+                        "LeftMargin": 577.0002,
+                        "RightMargin": 575.9998,
+                        "TopMargin": 47,
+                        "BottomMargin": 625,
+                        "Tag": 204,
+                        "ActionTag": 122910292,
+                        "Size": {
+                            "X": 127,
+                            "Y": 48
+                        },
+                        "Name": "tgowhelpback08_9",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn22_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn22_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn22_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 53,
+                        "Scale9Height": 67,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1147.0011,
+                            "Y": 617.0015
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8961,
+                            "Y": 0.8569
+                        },
+                        "PreSize": {
+                            "X": 0.0648,
+                            "Y": 0.1236
+                        },
+                        "LeftMargin": 1147.0011,
+                        "RightMargin": 49.9989,
+                        "TopMargin": 13.9985,
+                        "BottomMargin": 617.0015,
+                        "Tag": 198,
+                        "ActionTag": -652241166,
+                        "Size": {
+                            "X": 83,
+                            "Y": 89
+                        },
+                        "Name": "btnExit",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn23_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn23_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn23_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 54,
+                        "Scale9Height": 100,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 44,
+                            "Y": 298
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.0344,
+                            "Y": 0.4139
+                        },
+                        "PreSize": {
+                            "X": 0.0656,
+                            "Y": 0.1694
+                        },
+                        "LeftMargin": 44,
+                        "RightMargin": 1152,
+                        "TopMargin": 300,
+                        "BottomMargin": 298,
+                        "Tag": 205,
+                        "ActionTag": 418959145,
+                        "Size": {
+                            "X": 84,
+                            "Y": 122
+                        },
+                        "Name": "btnLeft",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn23_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn23_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn23_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 54,
+                        "Scale9Height": 100,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1236.0004,
+                            "Y": 298
+                        },
+                        "Scale": {
+                            "ScaleX": -1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.9656,
+                            "Y": 0.4139
+                        },
+                        "PreSize": {
+                            "X": 0.0656,
+                            "Y": 0.1694
+                        },
+                        "LeftMargin": 1236.0004,
+                        "RightMargin": -40.0004,
+                        "TopMargin": 300,
+                        "BottomMargin": 298,
+                        "Tag": 206,
+                        "ActionTag": 1353509536,
+                        "Size": {
+                            "X": 84,
+                            "Y": 122
+                        },
+                        "Name": "btnRight",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "tgowjpg.jpg",
+                "tgowjpg.plist",
+                "tgowpng.plist",
+                "tgowpng.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

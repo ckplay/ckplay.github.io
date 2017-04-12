@@ -1,0 +1,240 @@
+{
+    "ID": "c4e66a2a-b36c-4076-930f-57751b47b10e",
+    "Version": "2.3.4",
+    "Name": "tgowaddnumani",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 24,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": -2060674004,
+                        "Property": "Position",
+                        "Frames": [
+                            {
+                                "X": 906.8947,
+                                "Y": 645.9009,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 906.8947,
+                                "Y": 645.9009,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 906.894,
+                                "Y": 677.4734,
+                                "FrameIndex": 20,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            },
+                            {
+                                "X": 906.8938,
+                                "Y": 685.8928,
+                                "FrameIndex": 24,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "PointFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -2060674004,
+                        "Property": "Scale",
+                        "Frames": [
+                            {
+                                "X": 0.01,
+                                "Y": 0.01,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0.7,
+                                "Y": 0.7,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0.7,
+                                "Y": 0.7,
+                                "FrameIndex": 20,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0.7,
+                                "Y": 0.7,
+                                "FrameIndex": 24,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -2060674004,
+                        "Property": "RotationSkew",
+                        "Frames": [
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 0,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 20,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            },
+                            {
+                                "X": 0,
+                                "Y": 0,
+                                "FrameIndex": 24,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "ScaleValueFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    },
+                    {
+                        "ActionTag": -2060674004,
+                        "Property": "Alpha",
+                        "Frames": [
+                            {
+                                "Value": 255,
+                                "FrameIndex": 5,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 255,
+                                "FrameIndex": 20,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            },
+                            {
+                                "Value": 0,
+                                "FrameIndex": 24,
+                                "EasingData": {
+                                    "Type": 0
+                                },
+                                "ctype": "IntFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 39,
+                "Children": [
+                    {
+                        "LabelText": "+25",
+                        "LabelBMFontFile_CNB": {
+                            "Type": "Normal",
+                            "Path": "tgow30.fnt",
+                            "Plist": ""
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 906.8939,
+                            "Y": 679.5783
+                        },
+                        "Scale": {
+                            "ScaleX": 0.7,
+                            "ScaleY": 0.7
+                        },
+                        "CColor": {
+                            "G": 165,
+                            "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 865.8939,
+                        "RightMargin": -947.8939,
+                        "TopMargin": -698.5783,
+                        "BottomMargin": 660.5783,
+                        "Tag": 50,
+                        "ActionTag": -2060674004,
+                        "Size": {
+                            "X": 82,
+                            "Y": 38
+                        },
+                        "Alpha": 191,
+                        "Name": "textNum",
+                        "ctype": "TextBMFontObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "tgow30.fnt",
+                "tgow30.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

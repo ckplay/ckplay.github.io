@@ -1,0 +1,484 @@
+{
+    "ID": "fd05168a-0e98-4c53-842a-dfd79c2ab1bc",
+    "Version": "2.3.4",
+    "Name": "tgowdisconnectlayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 171,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 127,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 182,
+                        "ActionTag": -1201484109,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowdisconnectback.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640.0008,
+                            "Y": 357
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.4958
+                        },
+                        "PreSize": {
+                            "X": 0.5016,
+                            "Y": 0.5778
+                        },
+                        "LeftMargin": 319.0008,
+                        "RightMargin": 318.9992,
+                        "TopMargin": 155,
+                        "BottomMargin": 149,
+                        "Tag": 183,
+                        "ActionTag": -1596181321,
+                        "Size": {
+                            "X": 642,
+                            "Y": 416
+                        },
+                        "Name": "tgowdisconnectback_2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn21_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn21_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn21_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 95,
+                        "Scale9Height": 37,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 577.9999,
+                            "Y": 172.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.4516,
+                            "Y": 0.2403
+                        },
+                        "PreSize": {
+                            "X": 0.0977,
+                            "Y": 0.0819
+                        },
+                        "LeftMargin": 577.9999,
+                        "RightMargin": 577.0001,
+                        "TopMargin": 488.0001,
+                        "BottomMargin": 172.9999,
+                        "Tag": 184,
+                        "ActionTag": 674429637,
+                        "Size": {
+                            "X": 125,
+                            "Y": 59
+                        },
+                        "Name": "btnOK",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowimg_disconnect.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640.0001,
+                            "Y": 380.0007
+                        },
+                        "Scale": {
+                            "ScaleX": 1.5,
+                            "ScaleY": 1.5
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5278
+                        },
+                        "PreSize": {
+                            "X": 0.1953,
+                            "Y": 0.0792
+                        },
+                        "LeftMargin": 515.0001,
+                        "RightMargin": 514.9999,
+                        "TopMargin": 311.4993,
+                        "BottomMargin": 351.5007,
+                        "Tag": 185,
+                        "ActionTag": 1172877675,
+                        "Size": {
+                            "X": 250,
+                            "Y": 57
+                        },
+                        "Name": "sprDisconnect",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowimg_disconnect1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640.0001,
+                            "Y": 380.0005
+                        },
+                        "Scale": {
+                            "ScaleX": 1.5,
+                            "ScaleY": 1.5
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5278
+                        },
+                        "PreSize": {
+                            "X": 0.2344,
+                            "Y": 0.0778
+                        },
+                        "LeftMargin": 490.0001,
+                        "RightMargin": 489.9999,
+                        "TopMargin": 311.9995,
+                        "BottomMargin": 352.0005,
+                        "Tag": 186,
+                        "ActionTag": 550406818,
+                        "Size": {
+                            "X": 300,
+                            "Y": 56
+                        },
+                        "Name": "sprError1",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowimg_disconnect2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 639.9993,
+                            "Y": 380.0004
+                        },
+                        "Scale": {
+                            "ScaleX": 1.5,
+                            "ScaleY": 1.5
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5278
+                        },
+                        "PreSize": {
+                            "X": 0.2734,
+                            "Y": 0.0778
+                        },
+                        "LeftMargin": 464.9993,
+                        "RightMargin": 465.0007,
+                        "TopMargin": 311.9996,
+                        "BottomMargin": 352.0004,
+                        "Tag": 187,
+                        "ActionTag": -2037781530,
+                        "Size": {
+                            "X": 350,
+                            "Y": 56
+                        },
+                        "Name": "sprError2",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowimg_notenough.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 639.9987,
+                            "Y": 380.0003
+                        },
+                        "Scale": {
+                            "ScaleX": 1.5,
+                            "ScaleY": 1.5
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5278
+                        },
+                        "PreSize": {
+                            "X": 0.1719,
+                            "Y": 0.0361
+                        },
+                        "LeftMargin": 529.9987,
+                        "RightMargin": 530.0013,
+                        "TopMargin": 326.9997,
+                        "BottomMargin": 367.0003,
+                        "Tag": 188,
+                        "ActionTag": -717111289,
+                        "Size": {
+                            "X": 220,
+                            "Y": 26
+                        },
+                        "Name": "sprNotEnough",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 178,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640.0001,
+                            "Y": 370.0011
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5139
+                        },
+                        "PreSize": {
+                            "X": 0.4297,
+                            "Y": 0.2917
+                        },
+                        "LeftMargin": 365.0001,
+                        "RightMargin": 364.9999,
+                        "TopMargin": 244.9989,
+                        "BottomMargin": 265.0011,
+                        "Tag": 189,
+                        "ActionTag": 1691490541,
+                        "Size": {
+                            "X": 550,
+                            "Y": 210
+                        },
+                        "Name": "layErrorBack",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "出错了\n",
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 640,
+                            "Y": 370
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {
+                            "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.5,
+                            "Y": 0.5139
+                        },
+                        "PreSize": {
+                            "X": 0.4063,
+                            "Y": 0.2639
+                        },
+                        "LeftMargin": 380,
+                        "RightMargin": 380,
+                        "TopMargin": 255,
+                        "BottomMargin": 275,
+                        "Tag": 192,
+                        "ActionTag": 1412995415,
+                        "Size": {
+                            "X": 520,
+                            "Y": 190
+                        },
+                        "Name": "textError",
+                        "ctype": "TextObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "tgowpng.plist",
+                "tgowpng.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

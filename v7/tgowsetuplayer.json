@@ -1,0 +1,265 @@
+{
+    "ID": "89d8b4e7-c689-4e28-a8bb-54caa6a44b98",
+    "Version": "2.3.4",
+    "Name": "tgowsetuplayer",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 25,
+                "Children": [
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 127,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                            "R": 0,
+                            "G": 0,
+                            "B": 0
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 1,
+                            "Y": 1
+                        },
+                        "Tag": 31,
+                        "ActionTag": 1542346364,
+                        "Size": {
+                            "X": 1280,
+                            "Y": 720
+                        },
+                        "Name": "imgClick",
+                        "ctype": "PanelObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowgameback11.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 1126.9968,
+                            "Y": 204.9985
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.8805,
+                            "Y": 0.2847
+                        },
+                        "PreSize": {
+                            "X": 0.0133,
+                            "Y": 0.0361
+                        },
+                        "LeftMargin": 1126.9968,
+                        "RightMargin": 136.0032,
+                        "TopMargin": 489.0015,
+                        "BottomMargin": 204.9985,
+                        "Tag": 32,
+                        "ActionTag": 1838374136,
+                        "Size": {
+                            "X": 17,
+                            "Y": 26
+                        },
+                        "Name": "tgowgameback11_3",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn18_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn18_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn18_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 96,
+                        "Scale9Height": 60,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 999.0014,
+                            "Y": 224.9999
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7805,
+                            "Y": 0.3125
+                        },
+                        "PreSize": {
+                            "X": 0.0984,
+                            "Y": 0.1139
+                        },
+                        "LeftMargin": 999.0014,
+                        "RightMargin": 154.9985,
+                        "TopMargin": 413.0001,
+                        "BottomMargin": 224.9999,
+                        "Tag": 33,
+                        "ActionTag": 1990761751,
+                        "Size": {
+                            "X": 126,
+                            "Y": 82
+                        },
+                        "Name": "btnHelp",
+                        "ctype": "ButtonObjectData"
+                    },
+                    {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                            "R": 65,
+                            "G": 65,
+                            "B": 70
+                        },
+                        "DisabledFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn19_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "PressedFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn19_2.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "NormalFileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "tgowbtn19_1.png",
+                            "Plist": "tgowpng.plist"
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 96,
+                        "Scale9Height": 63,
+                        "OutlineColor": {
+                            "G": 0,
+                            "B": 0
+                        },
+                        "ShadowColor": {
+                            "R": 110,
+                            "G": 110,
+                            "B": 110
+                        },
+                        "ShadowOffsetX": 2,
+                        "ShadowOffsetY": -2,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 999.0013,
+                            "Y": 140.0002
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0.7805,
+                            "Y": 0.1944
+                        },
+                        "PreSize": {
+                            "X": 0.0984,
+                            "Y": 0.1181
+                        },
+                        "LeftMargin": 999.0013,
+                        "RightMargin": 154.9987,
+                        "TopMargin": 494.9998,
+                        "BottomMargin": 140.0002,
+                        "Tag": 34,
+                        "ActionTag": 1963497242,
+                        "Size": {
+                            "X": 126,
+                            "Y": 85
+                        },
+                        "Name": "btnHistory",
+                        "ctype": "ButtonObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 1280,
+                    "Y": 720
+                },
+                "Name": "Layer",
+                "ctype": "LayerObjectData"
+            },
+            "UsedResources": [
+                "tgowpng.plist",
+                "tgowpng.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Layer"
+}

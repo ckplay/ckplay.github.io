@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="http://hub.21pink.tk/assets/js/jquery.mobile-1.4.5.css">
+        <link rel="stylesheet" href="http://hub.21pink.tk/assets/js/listview-grid.css">
+        <script src="http://hub.21pink.tk/assets/js/jquery-1.11.0.min.js"></script>
+        <script src="http://hub.21pink.tk/assets/js/jquery.mobile-1.4.5.min.js"></script>         
+    </head>
+    <body>         
+        <div data-role="page" data-theme="b" id="demo-page" class="my-page">
+            <div data-role="header" data-fullscreen="true" data-position="fixed">
+                <h1>DreamTech</h1>
+            </div>
+            <div role="main" class="ui-content" style="margin-top:30px;">
+            <ul data-role="listview" data-inset="true" id="ul_list">
+            </ul>
+          </div>
+        </div>
+    </body>
+</html>
+<script>
+    var gmenu={
+            list:[
+		{"name":"七龙珠","cat":"slot","key":"dragonball"},
+		{"name":"灌篮高手","cat":"slot","key":"sd"},
+		{"name":"拳皇","cat":"slot","key":"kof"},
+		{"name":"三国-赤壁之战","cat":"slot","key":"san"},
+		{"name":"火影忍者","cat":"slot","key":"naruto"},
+		{"name":"灌篮高手pro","cat":"slot","key":"sd5"},
+		{"name":"海贼王","cat":"slot","key":"onepiece"},
+		{"name":"圣斗士星矢","cat":"slot","key":"seiya"},
+		{"name":"财神到","cat":"slot","key":"tgow"},
+		{"name":"新年到","cat":"slot","key":"newyear"},
+		{"name":"武松传","cat":"slot","key":"watermargin"},
+		{"name":"封神榜","cat":"slot","key":"tlod"},
+		{"name":"西游降妖","cat":"slot","key":"jtw"},
+		{"name":"五行世界","cat":"slot","key":"fiveelements5x9"},
+		{"name":"梦幻森林","cat":"slot","key":"fantasyforest3x1"},
+		{"name":"水浒传","cat":"slot","key":"watermargin5x25"},
+		{"name":"阿拉丁神灯","cat":"slot","key":"aladdin5x243"},
+		{"name":"海贼王3x1","cat":"slot","key":"onepiece3x1"},
+		{"name":"拳皇98","cat":"slot","key":"kof5x9"},
+		{"name":"哆啦A梦","cat":"slot","key":"doraemon3x5"},
+		{"name":"高达","cat":"slot","key":"gundam3x5"},
+		{"name":"街霸","cat":"slot","key":"streetfighter3x1"},
+		{"name":"降妖传奇","cat":"slot","key":"xiyouji5x9"},
+		{"name":"宇宙少女战记","cat":"slot","key":"cosmicgirl3x1"},
+		{"name":"西游记","cat":"slot","key":"xiyouji5x25"},
+		{"name":"白蛇传","cat":"slot","key":"whitesnake"},
+		{"name":"劲爆篮球","cat":"slot","key":"btball5x20"},
+		{"name":"龙凤呈祥","cat":"slot","key":"dnp"},
+            ],
+            render:function(){
+                var langx="{lang}".toLowerCase().replace("-","_")
+                for(var i=0;i< gmenu.list.length;i++){
+                    var per=gmenu.list[i]
+                    var str = '<li><a target="_blank" href="http://hub.21pink.tk/'+per["key"]+'.html">';
+                        str += '<img style="left: 5px;top: 10px;max-width: 5.5em;border-radius: 25px;" src="http://hub.21pink.tk/assets/images/dt/'+ per["key"] + '.jpg" class="ui-li-thumb">';
+                        str += '<h2>' + per['name'] + '</h2></a></li>';
+                    $("#ul_list").append(str)
+                }
+                $("#ul_list").listview( "refresh" );
+            },
+            init:function(){
+                gmenu.render()
+            }
+    }
+    $(function(){
+	gmenu.init();
+    })
+</script>
+

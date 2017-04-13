@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title id = "WebTitle">劲爆篮球</title>
+	<link rel="shortcut icon" href="/game/image/favicon.ico" />
+    <meta name="viewport" content="initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="full-screen" content="yes"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-fullscreen" content="true"/>
+    <meta name="360-fullscreen" content="true"/>
+    <style>
+        body, canvas, div {
+            -moz-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+            -khtml-user-select: none;
+            -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        }
+    </style>
+   <!--  <script type="text/javascript" src="/game/gamejs/addressdemo.js"></script> -->
+</head>
+
+<body style="padding:0; margin: 0; background: #000;">
+<canvas id="gameCanvas"  width="1080" height="1920"></canvas>
+<script>
+	function QueryLog(slotKey, language)
+	{
+		var logUrl = 'http://data.21pink.tk/record/?token=' + slotKey + '&language=zh_CN';
+		window.open(logUrl,"_blank","toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=500, height=600");
+	}
+	function OpenHelp()
+	{
+		window.open("help.html","_blank","toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=500, height=600");
+	}
+	
+
+	function OnButtonExit()
+	{
+		if(document.referrer === '')
+		{
+			var objs = GetUrlInfo();
+			if(objs["closeUrl"]){
+				if(null==objs["closeUrl"]||objs["closeUrl"].length<1||'null'===objs["closeUrl"]){
+					if (confirm("您确定要关闭本页吗？")){
+					window.close();
+					}else{
+						
+					}
+				}else{
+					window.location.href = objs["closeUrl"];
+				}
+			}
+		}
+		else
+			window.history.back();
+	}
+	
+	var urlroot = "http://hub.21pink.tk/dtgames/web/btball5x20/v4/";
+	var dtServerUrl = "ws://21pink.tk:8080/dtsocket";
+</script>
+<script cocos src= "http://hub.21pink.tk/dtgames/web/btball5x20/v4/game.min.js"></script>
+</body>
+</html>
